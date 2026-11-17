@@ -25,6 +25,7 @@ const HELP = {
 
     <h2>उत्तरे सबमिट करा</h2>
     <p>वरच्या पट्टीत किती चौकटी भरल्या ते दिसते (उदा. <b>१८/२४</b>). सर्व चौकटी भरल्या की <b>सबमिट</b> बटण सुरू होते. सबमिट केल्यावर उत्तरे तपासली जातात: सर्व बरोबर असल्यास कोडे पूर्ण होते, नाहीतर चुकीच्या चौकटी लाल दिसतात. त्या दुरुस्त करून पुन्हा सबमिट करा.</p>
+    <p>लहान लेखनचूक चालते: ह्रस्व-दीर्घ (कि/की, दु/दू), अनुस्वार किंवा चंद्रबिंदू, ॅ/ॉ, श/ष/स आणि न/ण. अशी चौकट बरोबर धरली जाते, पण तिच्या तळाशी <b>पिवळी खूण</b> येते. कोडे सुटल्यावर तिथे योग्य लेखन दिसते.</p>
 
     <h2>मदत हवी?</h2>
     <p><b>⋮</b> मेनूमधून अक्षर, शब्द किंवा पूर्ण कोडे तपासा किंवा उत्तर पाहा. चुकीच्या चौकटींवर लाल रेघ येते; दाखवलेल्या चौकटींच्या कोपऱ्यात निळी खूण येते.</p>
@@ -57,6 +58,7 @@ const HELP = {
 
     <h2>Submitting</h2>
     <p>The top bar shows how many squares you've filled (e.g. <b>18/24</b>). Once every square is filled it becomes a <b>Submit</b> button. Submitting checks your answers: if they're all right the puzzle is done; otherwise the wrong squares turn red. Fix them and submit again.</p>
+    <p>Small spelling slips are accepted: short or long vowels (कि/की, दु/दू), anusvara or chandrabindu, ॅ/ॉ, श/ष/स and न/ण. Such a square counts as right but gets a <b>yellow mark</b> along its bottom; once the puzzle is solved it shows the right spelling.</p>
 
     <h2>Stuck?</h2>
     <p>The <b>⋮</b> menu lets you check or reveal a square, a word or the whole puzzle. Wrong squares get a red line; revealed squares get a blue corner mark.</p>

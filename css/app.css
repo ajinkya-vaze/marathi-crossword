@@ -14,6 +14,8 @@
   --sel-text: #1f1a14;
   --wrong: #dc2626;
   --revealed: #2563eb;
+  --near: #eab308;
+  --near-edge: #854d0e;
   --clue-bg: #fff4e6;
   --kbd-bg: #e4dccf;
   --key-bg: #ffffff;
@@ -40,6 +42,8 @@
     --sel-text: #1a1007;
     --wrong: #f87171;
     --revealed: #60a5fa;
+    --near: #facc15;
+    --near-edge: #1a1007;
     --clue-bg: #2a2119;
     --kbd-bg: #1b1713;
     --key-bg: #3a332b;
@@ -65,6 +69,8 @@
   --sel-text: #1a1007;
   --wrong: #f87171;
   --revealed: #60a5fa;
+  --near: #facc15;
+  --near-edge: #1a1007;
   --clue-bg: #2a2119;
   --kbd-bg: #1b1713;
   --key-bg: #3a332b;
@@ -310,6 +316,19 @@ a { color: inherit; }
   opacity: 0.6;
   pointer-events: none;
 }
+.cell.near::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: max(3px, calc(var(--cell) * 0.12));
+  background: var(--near);
+  box-shadow: 0 -1px 0 var(--near-edge);
+  pointer-events: none;
+}
+.cell.sel.near::before { background: var(--near-edge); box-shadow: none; } /* yellow would vanish on the amber selection */
+.solved-box .slips { font-size: 15px; color: var(--muted); border-bottom: 3px solid var(--near); display: inline-block; padding-bottom: 2px; }
 .cell.revealed::after {
   content: "";
   position: absolute;

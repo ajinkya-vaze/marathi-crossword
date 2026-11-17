@@ -1,6 +1,6 @@
 # मराठी शब्दकोडे — Marathi Crossword (Spec, draft v0.1)
 
-Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button (§5, game features). Still open: the starter word list (573 words) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
+Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button and lenient checking for small spelling slips (§5, game features). Still open: the starter word list (573 words) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
 
 Decided so far: one square = one akshara · Claude drafts words and clues, you review · custom keyboard plus an optional system keyboard · daily puzzle with an archive.
 
@@ -68,6 +68,7 @@ A ⌨️ toggle on the play screen switches between the two. The choice is remem
 
 ### Game features
 - **Submit (सबमिट)**: a button in the top bar. While squares are empty it is greyed out and shows how many are filled (for example १८/२४). Once every square is filled it lights up. Filling the grid does not judge it; only Submit does. If everything is right, the completion screen opens. If not, the wrong squares turn red and a message says how many; changing a square clears its red, and the player can submit again. Revealing the whole puzzle finishes it straight away.
+- **Small slips count (किरकोळ चूक)**: a square that differs from the answer only by a common spelling slip counts as right but gets a yellow bar along its bottom. The slips are: short or long इ/उ, anusvara, chandrabindu, visarga or nukta, ॅ/ॉ vs े/ो, श/ष/स and न/ण. Other differences (ल/ळ, ा/े, a missing half-letter) stay wrong. On a successful Submit those squares switch to the correct spelling, keep the yellow bar, and the completion screen says how many there were. Check marks them yellow too. The rule is `isCloseEnough` in `js/akshara.js`.
 - **Check (तपासा)**: check a square, a word, or the whole puzzle. Wrong squares turn red.
 - **Reveal (उत्तर दाखवा)**: reveal a square, a word, or the whole puzzle. Revealed squares are marked.
 - **Timer**: can be paused.

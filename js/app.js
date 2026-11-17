@@ -1,6 +1,6 @@
 import { buildPuzzle } from './puzzle.js';
 import { typeKey, BACKSPACE, NEXT } from './input.js';
-import { splitAksharas } from './akshara.js';
+import { splitAksharas, isCloseEnough } from './akshara.js';
 import * as store from './storage.js';
 import { createKeyboard } from './keyboard.js';
 import { helpHTML } from './help.js';
@@ -197,6 +197,7 @@ async function renderPlay(id) {
     revealed: new Set(prog.revealed),
     verified: new Set(prog.verified),
     wrong: new Set(prog.wrong),
+    near: new Set(prog.near), // close-enough squares: yellow mark
     elapsed: prog.elapsed || 0,
     solved: !!prog.solved,
     solvedAt: prog.solvedAt,
@@ -285,6 +286,7 @@ async function renderPlay(id) {
     if (v) S.fills.set(i, v);
     else S.fills.delete(i);
     S.wrong.delete(i);
+    S.near.delete(i);
   };
 
   function persist() {
@@ -293,6 +295,7 @@ async function renderPlay(id) {
       revealed: [...S.revealed],
       verified: [...S.verified],
       wrong: [...S.wrong],
+      near: [...S.near],
       elapsed: Math.round(S.elapsed),
       solved: S.solved,
       solvedAt: S.solvedAt,
@@ -315,6 +318,7 @@ async function renderPlay(id) {
       el.classList.toggle('sel', i === S.cell);
       el.classList.toggle('word', word.has(i));
       el.classList.toggle('wrong', S.wrong.has(i));
+      el.classList.toggle('near', S.near.has(i));
       el.classList.toggle('revealed', S.revealed.has(i));
     }
     updateSubmit();
@@ -400,8 +404,19 @@ async function renderPlay(id) {
 
   function submit() {
     if (S.solved || S.paused || filledCount() < pz.letterCells.length) return;
-    const wrong = pz.letterCells.filter((i) => S.fills.get(i) !== pz.cells[i].sol);
-    if (!wrong.length) return solve();
+    const wrong = [];
+    for (const i of pz.letterCells) {
+      const v = S.fills.get(i);
+      const sol = pz.cells[i].sol;
+      if (v === sol) continue;
+      if (isCloseEnough(v, sol)) S.near.add(i);
+      else wrong.push(i);
+    }
+    if (!wrong.length) {
+      // Close enough everywhere: show the right spelling, keeping the yellow mark.
+      for (const i of S.near) S.fills.set(i, pz.cells[i].sol);
+      return solve();
+    }
     for (const i of wrong) S.wrong.add(i);
     S.composing = false;
     persist();
@@ -460,6 +475,7 @@ async function renderPlay(id) {
         <h2>${t('congrats')}</h2>
         <p>${t('solvedIn', { time: time(S.elapsed) })}</p>
         ${S.assisted ? `<p class="muted">(${t('assisted')})</p>` : ''}
+        ${S.near.size ? `<p class="slips">${S.near.size === 1 ? t('slipsOne') : t('slips', { n: S.near.size })}</p>` : ''}
         ${streak > 0 ? `<p class="streak">${t('streak', { n: streak })}</p>` : ''}
         ${id === today ? `<p class="muted">${t('comeTomorrow')}</p>` : ''}
         <button type="button" class="btn-primary share-btn">${t('share')}</button>
@@ -480,16 +496,20 @@ async function renderPlay(id) {
 
   function check(scope) {
     let wrong = 0;
+    let near = 0;
     let empty = 0;
     for (const i of scopeCells(scope)) {
       const v = S.fills.get(i);
+      const sol = pz.cells[i].sol;
       if (!v) { empty++; continue; }
-      if (v === pz.cells[i].sol) S.verified.add(i);
+      if (v === sol) S.verified.add(i);
+      else if (isCloseEnough(v, sol)) { S.near.add(i); near++; }
       else { S.wrong.add(i); wrong++; }
     }
     persist();
     update({ scroll: false });
     if (wrong) toast(wrong === 1 ? t('wrongCountOne') : t('wrongCount', { n: wrong }));
+    else if (near) toast(near === 1 ? t('nearCountOne') : t('nearCount', { n: near }));
     else if (empty) toast(t('correctSoFar'));
     else toast(t('allCorrect'));
   }
@@ -502,6 +522,7 @@ async function renderPlay(id) {
       S.fills.set(i, sol);
       S.revealed.add(i);
       S.wrong.delete(i);
+      S.near.delete(i);
       S.assisted = true;
     }
     S.composing = false;
@@ -515,6 +536,7 @@ async function renderPlay(id) {
     S.revealed.clear();
     S.verified.clear();
     S.wrong.clear();
+    S.near.clear();
     S.elapsed = 0;
     S.solved = false;
     S.solvedAt = null;

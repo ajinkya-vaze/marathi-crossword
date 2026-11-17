@@ -1,5 +1,5 @@
 // Unit tests for the app's JS. Open /test/ in a browser (served by tools/serve.py) to run them.
-import { splitAksharas } from '../js/akshara.js';
+import { splitAksharas, isCloseEnough } from '../js/akshara.js';
 import { typeKey, BACKSPACE, NEXT } from '../js/input.js';
 import { buildPuzzle } from '../js/puzzle.js';
 import { validatePuzzle } from '../tools/validate-lib.js';
@@ -20,6 +20,20 @@ for (const [input, expected] of AKSHARA_CASES) {
   test(`splits "${input}" → ${expected.join(' · ') || '(nothing)'}`, () => eq(splitAksharas(input), expected));
 }
 test('normalizes precomposed nukta letters', () => eq(splitAksharas('क़').length, 1));
+
+// ── close-enough answers: [typed, answer]
+const CLOSE = [
+  ['कि', 'की'], ['दू', 'दु'], ['इ', 'ई'], ['ऊ', 'उ'],
+  ['र', 'रं'], ['मा', 'माँ'], ['दु', 'दुः'], ['ज', 'ज़'], ['क़', 'क'],
+  ['बे', 'बॅ'], ['को', 'कॉ'], ['ए', 'ऍ'], ['ओ', 'ऑ'],
+  ['श', 'स'], ['षा', 'शा'], ['स्त', 'ष्त'], ['न', 'ण'], ['णी', 'नि'],
+  ['कीं', 'कि'],
+];
+const NOT_CLOSE = [
+  ['का', 'के'], ['क', 'ख'], ['क', 'क्ष'], ['ल', 'ळ'], ['क', 'का'], ['स्त', 'स'], ['', 'क'], ['की', 'की'],
+];
+for (const [typed, sol] of CLOSE) test(`"${typed}" is close enough to "${sol}"`, () => eq(isCloseEnough(typed, sol), true));
+for (const [typed, sol] of NOT_CLOSE) test(`"${typed}" is not close enough to "${sol}"`, () => eq(isCloseEnough(typed, sol), false));
 
 // ── answer obfuscation (fixture produced by tools/puzzlelib.py encode_cells)
 const OBFUSCATED_FIXTURE = {

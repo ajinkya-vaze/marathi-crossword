@@ -28,6 +28,7 @@ export function loadProgress(id) {
     revealed: [],
     verified: [],
     wrong: [],
+    near: [],
     elapsed: 0,
     solved: false,
     solvedAt: null,

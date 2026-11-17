@@ -60,3 +60,21 @@ export function splitAksharas(text) {
   flush();
   return out;
 }
+
+// ── Close-enough answers
+// Common spelling slips that still count as correct, shown with a yellow mark:
+// short/long इ उ, anusvara/chandrabindu/visarga/nukta, ॅ ॉ vs े ो, श/ष/स and न/ण.
+const LOOSE = new Map(Object.entries({
+  'ी': 'ि', 'ू': 'ु', 'ई': 'इ', 'ऊ': 'उ',
+  'ॅ': 'े', 'ॉ': 'ो', 'ऍ': 'ए', 'ॲ': 'ए', 'ऑ': 'ओ',
+  'श': 'स', 'ष': 'स', 'ण': 'न',
+}));
+const DROP = /[ँंः़‌‍]/g; // ँ ं ः ़ and the zero-width joiners
+
+/** The akshara with those slips smoothed out; two aksharas with the same loose form are close enough. */
+export function looseForm(a) {
+  return [...a.normalize('NFD').replace(DROP, '')].map((ch) => LOOSE.get(ch) ?? ch).join('');
+}
+
+/** True when `typed` isn't exactly `sol` but differs only by a common slip. */
+export const isCloseEnough = (typed, sol) => !!typed && typed !== sol && looseForm(typed) === looseForm(sol);
