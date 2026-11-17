@@ -1,177 +1,177 @@
 {
  "id": "2026-11-25",
- "title": "खाऊ आणि स्वयंपाकघर",
- "difficulty": "सोपे",
- "rows": 12,
- "cols": 11,
+ "title": "इतिहासाच्या पानांतून",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
  "entries": [
   {
    "dir": "across",
    "row": 0,
-   "col": 7,
-   "x": "jceU0pW5Ss2Vl1HSkfg=",
-   "clue": "गणरायाचा आवडता गोड पदार्थ"
+   "col": 0,
+   "x": "jcee0pSMSs2VkM2XvhGDnp7Qlog=",
+   "clue": "चंद्रपूरजवळचे वाघांचे अभयारण्य"
   },
   {
    "dir": "down",
    "row": 0,
-   "col": 7,
-   "x": "jceU0pW5Ss2ViFHSkd2Dn7I=",
-   "clue": "फोडणीत तडतडणारे काळे दाणे"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 9,
-   "x": "jcevTtCWlFHRlaU=",
-   "clue": "तळण्याचे भांडे"
+   "col": 0,
+   "x": "jcee0pSMSs2Vn82XuI3Hik7QlpxR0ZWy",
+   "clue": "तांब्याच्या पत्र्यावरील लेख"
   },
   {
    "dir": "across",
-   "row": 2,
-   "col": 5,
-   "x": "jceW0pSMSs2VrVHSkd2Dn7I=",
-   "clue": "हिवाळ्यातील भाकरीचे धान्य"
+   "row": 0,
+   "col": 4,
+   "x": "jcev0pW/1omB0YmM1cnhRtKUltaIsQ==",
+   "clue": "मोठा बदल; उठाव"
   },
   {
    "dir": "down",
-   "row": 2,
+   "row": 0,
+   "col": 4,
+   "x": "jcev0pW/1omB0YmM1cnhRtKUltaJjk3NlqCNx4RO0JaGUdGVuA==",
+   "clue": "सशस्त्र लढा देणारा देशभक्त"
+  },
+  {
+   "dir": "across",
+   "row": 1,
    "col": 6,
-   "x": "jcemTtCWhVHRlbrSkdMf2paF",
-   "clue": "केळीसाठी प्रसिद्ध जिल्हा"
+   "x": "jceMTtCWklHRlbg=",
+   "clue": "शंभर वर्षे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jceMTtCWns2VjlHSkdiDnoxM0pKdTdGJh9XJ3UbSlJPWiY8=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
   },
   {
    "dir": "across",
-   "row": 4,
+   "row": 2,
+   "col": 0,
+   "x": "jceQTtCWhs2VjlHSkfeDnoxM0pKd0ZWSTtXJ9tqWjg==",
+   "clue": "नर्स"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceP0pSMSs2VqVHSkcUf2pam0pOq",
+   "clue": "अफजलखानाच्या वधासाठीचे शस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 3,
    "col": 8,
-   "x": "jcee0pSMSs2VpA==",
-   "clue": "घुसळलेल्या दह्याचे पातळ पेय"
+   "x": "jceSTtCWg1HRlZ1O1cnF2pe3TtaJhA==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jce/TtCWo1HRlYFO1cnT",
+   "clue": "बिरबलचा बादशहा"
   },
   {
    "dir": "down",
    "row": 4,
-   "col": 9,
-   "x": "jcevTtCWhM2Vjs2WtxGDnqVM0pKM",
-   "clue": "उन्हाळ्यातील लाल गराचे मोठे फळ"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 5,
-   "x": "jceg0pSNSs2VhFHSkcyDnow=",
-   "clue": "पोह्यांचा कुरकुरीत खाऊ"
+   "col": 3,
+   "x": "jce/TtCWgc2UvM2WqhGDnpjQl7vNlYFR0pHKg56MTNKShQ==",
+   "clue": "शिवरायांचे आठ मंत्र्यांचे मंडळ"
   },
   {
    "dir": "down",
-   "row": 5,
-   "col": 5,
-   "x": "jceg0pSNSs2VpM2Xtw==",
-   "clue": "तपकिरी गोड फळ"
+   "row": 4,
+   "col": 11,
+   "x": "jcecTtCWhlHRlYHSkdMf2paA",
+   "clue": "राजाची सभा"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 9,
-   "x": "jceI0pSN1omzTc2WmY3GuA==",
-   "clue": "आंबट पिवळे फळ"
+   "col": 6,
+   "x": "jceP0pSMSs2VmVHSkd0=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
   },
   {
    "dir": "across",
-   "row": 6,
-   "col": 4,
-   "x": "jcev0pSMSs2VpM2Xtw==",
-   "clue": "काकांची पत्नी"
+   "row": 5,
+   "col": 10,
+   "x": "jceW0pW5Ss2VgQ==",
+   "clue": "लहान आंबटगोड फळ; संक्रांतीला लुटतात"
   },
   {
    "dir": "down",
    "row": 6,
-   "col": 4,
-   "x": "jcev0pSMSs2ViVHSkdg=",
-   "clue": "पाठीवर कवच असलेला संथ प्राणी"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 2,
-   "x": "jceQ0pW5Ss2Vg82XtRGDnoo=",
-   "clue": "कायद्याचे रक्षक"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 2,
-   "x": "jceQ0pW5Ss2Vrg==",
-   "clue": "उदर"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 7,
-   "x": "jceQ0pSMSs2Vm1HSkcw=",
-   "clue": "तळून किंवा भाजून खातात तो कुरकुरीत"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 7,
-   "x": "jceQ0pSMSs2VhFHSkcCDnoxM0pKx0ZSt",
-   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
-  },
-  {
-   "dir": "across",
-   "row": 8,
    "col": 1,
-   "x": "jcee0pSMSs2Vrg==",
-   "clue": "जेवणाचे मोठे भांडे"
+   "x": "jce90pSwSs2Vps2XuI3Hik7Qlqo=",
+   "clue": "ब्रिटिश राज्यकर्ते"
   },
   {
    "dir": "down",
-   "row": 8,
-   "col": 1,
-   "x": "jcee0pSMSs2Vgc2Wiw==",
-   "clue": "रात्री आकाशात लुकलुकणारा"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 4,
-   "x": "jcePTtCWl82Vj1HSkceDnoxM0pKY",
-   "clue": "मुंबईचे लोकप्रिय खाद्य"
-  },
-  {
-   "dir": "down",
-   "row": 8,
+   "row": 7,
    "col": 5,
-   "x": "jceb0pSMSs2Vgg==",
-   "clue": "वरणासाठी लागणारी"
+   "x": "jceCTtCWhlHRlYvSkdMf2paA",
+   "clue": "सैन्यातील अधिकारी"
   },
   {
    "dir": "across",
-   "row": 9,
+   "row": 7,
+   "col": 7,
+   "x": "jceC0pSMSs2VhFHSkd0f2palTtaJgQ==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceC0pSMSs2VhM2WihGDnpbQl7vNlYHNl7URg56e0JaIUdGVpQ==",
+   "clue": "पहिल्या स्त्री शिक्षिका"
+  },
+  {
+   "dir": "across",
+   "row": 8,
    "col": 0,
-   "x": "jceM0pSNSs2Vgc2Wiw==",
-   "clue": "रव्याचा गोड पदार्थ"
+   "x": "jceP0pSNSs2VrVHSkcIf2paYTtaJpk3NloU=",
+   "clue": "हंपीचे साम्राज्य"
   },
   {
    "dir": "down",
    "row": 9,
-   "col": 0,
-   "x": "jceM0pSNSs2VpM2XuI3HjU7QlqM=",
-   "clue": "गुरुजी"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 7,
-   "x": "jceX0pSMSs2VlQ==",
-   "clue": "शिजवलेले तांदूळ"
+   "col": 10,
+   "x": "jcev0pW1Ss2VhFHSkcyDnow=",
+   "clue": "तीव्र सुगंधी पानांचे काटेरी झुडूप"
   },
   {
    "dir": "across",
    "row": 10,
-   "col": 6,
-   "x": "jceX0pSMSs2Vrc2XtQ==",
-   "clue": "पोळीसोबत खाल्ला जाणारा शिजवलेला पदार्थ"
+   "col": 1,
+   "x": "jce80pSwSs2Vnc2XshGDnpNM0pK4TdGJgg==",
+   "clue": "राज्यघटनेचे शिल्पकार"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcevTtCWg1HRlbc=",
+   "clue": "युद्धातील अंगरक्षक पोशाख"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceW0pSMSs2Vrc2XtRGDnoLQlohR0ZWY",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jces0pW1Ss2Vq1HSkd0=",
+   "clue": "घोडी आणि गाढव यांचे संकर पिल्लू"
   }
  ]
 }

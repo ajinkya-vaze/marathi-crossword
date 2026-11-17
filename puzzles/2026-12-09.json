@@ -1,177 +1,177 @@
 {
  "id": "2026-12-09",
- "title": "माणूस आणि भावना",
- "difficulty": "सोपे",
+ "title": "इतिहासाच्या पानांतून",
+ "difficulty": "मध्यम",
  "rows": 14,
  "cols": 12,
  "entries": [
   {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jceCTtCWks2Uv82Ulo3HhE7QlqHNlL/NlIkRg56L",
+   "clue": "अहिंसक लढा"
+  },
+  {
    "dir": "down",
    "row": 0,
+   "col": 5,
+   "x": "jceCTtCWmFHRlqU=",
+   "clue": "देवापुढची पितळी उंच दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceC0pW1Ss2Vh82UhxGDnqXQl7vNlYLNlIcRg56c",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jceC0pW1Ss2Vms2UhxGDnphM0pKJ0Zet",
+   "clue": "सैन्याचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jcem0pSNSs2Vms2Uhw==",
+   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jceS0pSMSs2Vp1HQncmDn7lM0pKM0ZaT",
+   "clue": "टुणटुण उड्या मारणारा हिरवा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceVTtCWmM2Us1HQncWDnow=",
+   "clue": "ताजमहाल जिच्या काठावर आहे ती नदी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jceyTtCWkA==",
+   "clue": "रमजाननंतरचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jceQTtCWns2Uv82UgI3HhE7QloXNlYw=",
+   "clue": "कोल्हापूरजवळचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 3,
    "col": 8,
-   "x": "jceQ0pSMSs2VnQ==",
-   "clue": "चालण्याचे अवयव"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 5,
-   "x": "jceX0pWzSs2Vh1HQneU=",
-   "clue": "डोळ्यांच्या वर असलेली केसांची रेघ"
-  },
-  {
-   "dir": "across",
-   "row": 1,
-   "col": 7,
-   "x": "jcet0pSMSs2VnVHQnfg=",
-   "clue": "गाणारा कलाकार"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 7,
-   "x": "jcet0pSMSs2VgA==",
-   "clue": "चेहऱ्याची बाजू"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 9,
-   "x": "jcevTtCWg82Usg==",
-   "clue": "काव्य रचणारा"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 3,
-   "x": "jceK0pSMSs2Vrs2Uhw==",
-   "clue": "नृप"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 5,
-   "x": "jcePTtCWo82UslHQnd8=",
-   "clue": "न्यायालयात बाजू मांडणारा"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 9,
-   "x": "jceP0pWySs2Vrg==",
-   "clue": "पावसात आकाशात चमकते ती"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 10,
-   "x": "jcemTtCWj82VjFHQnfE=",
-   "clue": "समुद्रातून प्रवास करणारे मोठे वाहन"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 2,
-   "x": "jcem0pSNSs2Vrs2UhxGDnp7QlohR0Zal",
-   "clue": "शिवरायांच्या मातोश्री"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 2,
-   "x": "jcem0pSNSs2Vgs2Vvg==",
-   "clue": "फोडणीत घालायचे लहान बी"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 4,
-   "x": "jceW0pSMSs2Vn82VuxGDnoE=",
-   "clue": "काटेरी झाड"
+   "x": "jceP0pSNSs2VrlHQncIf2paYTtaJpk7NlIk=",
+   "clue": "हंपीचे साम्राज्य"
   },
   {
    "dir": "across",
    "row": 3,
    "col": 10,
-   "x": "jceD0pSMSs2Vlg==",
-   "clue": "कर"
+   "x": "jcee0pW5Ss2VmQ==",
+   "clue": "किल्ल्यावरील गोळा उडवणारे अस्त्र"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 9,
-   "x": "jced0pW/1omETs2UpQ==",
-   "clue": "झेंडा"
+   "col": 0,
+   "x": "jceC0pSwSs2Vis2VtI3Hr9KVsUrNlZbNlbk=",
+   "clue": "परंपरा आणि जीवनपद्धती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jceC0pSwSs2Vnc2VuBGDnqfQl7vNlZZR0J3DH9qWidKSk03SiYDZyd1G0pSF1oi80omv2cju2paA",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
   },
   {
    "dir": "across",
-   "row": 5,
-   "col": 3,
-   "x": "jce8TtCWhVHRlpU=",
-   "clue": "सुस्ती"
+   "row": 4,
+   "col": 7,
+   "x": "jceK0pSMSs2VrlHQndiDnoxM0pKM0ZaT",
+   "clue": "राजाचा महाल"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jce8TtCWsVHRloXQnOCDnorQl7vNla3NlIcRg561TNKShQ==",
+   "clue": "सापेक्षतावादाचा जनक"
   },
   {
    "dir": "down",
-   "row": 5,
-   "col": 3,
-   "x": "jce8TtCWns2VsFHQncs=",
-   "clue": "हर्ष"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 5,
-   "x": "jceCTtCWks2Uv82Ulg==",
-   "clue": "खरे"
+   "row": 6,
+   "col": 4,
+   "x": "jce8TtCWoVHRlp1M2cn2RtKUgg==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
   },
   {
    "dir": "across",
    "row": 7,
-   "col": 2,
-   "x": "jceP0pSNSs2VlFHQnd2Dn7/Qlps=",
-   "clue": "नागपूर ज्या प्रदेशात आहे तो"
+   "col": 0,
+   "x": "jceUTtCWns2Us1HQnfiDnow=",
+   "clue": "सुकवलेली द्राक्षे"
   },
   {
    "dir": "down",
    "row": 7,
-   "col": 2,
-   "x": "jceP0pSNSs2Vks2VtI3Hmk7QloQ=",
-   "clue": "पंढरपूरचा विठोबा"
+   "col": 10,
+   "x": "jce8TtCWhlHRloPQndMf2paA",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceC0pSMSs2Vh1HQnd0f2palTtaJgQ==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jcePTtCWklHRloU=",
+   "clue": "वंशपरंपरेने मिळालेली जमीन"
   },
   {
    "dir": "across",
    "row": 9,
    "col": 0,
-   "x": "jcem0pSwSs2VpVHQnd8=",
-   "clue": "वन, अरण्य"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 1,
-   "x": "jcetTtCWlc2VjVHQnck=",
-   "clue": "आकड्यांचा विषय"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 4,
-   "x": "jceI0pW5Ss2Vi82UhxGDnoI=",
-   "clue": "लोखंडाचे काम करणारा"
+   "x": "jceK0pSMSs2Vrs2VtI3HldKUjErNlZ/NlIYRg56F0JexUdGWuA==",
+   "clue": "राजाला गादीवर बसवण्याचा सोहळा"
   },
   {
    "dir": "across",
-   "row": 11,
-   "col": 1,
-   "x": "jceeTtCWhFHRlpjQndMf2paA",
-   "clue": "धारदार पाते असलेले शस्त्र"
+   "row": 10,
+   "col": 6,
+   "x": "jceK0pSMSs2VmlHQncyDn7NM0pK40Zeg0J34H9qWgA==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
   },
   {
    "dir": "down",
-   "row": 11,
-   "col": 3,
-   "x": "jceP0pSMSs2Vrc2UhxGDnpHQlog=",
-   "clue": "हिरवे गोल दाणे"
+   "row": 10,
+   "col": 6,
+   "x": "jceK0pSMSs2VrlHQnfqDn7NM0pKd0Zev",
+   "clue": "भगतसिंगांसोबत फाशी गेलेले"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jceS0pW1Ss2Vi1HQnd2Dn7A=",
+   "clue": "पहिले पंतप्रधान"
   }
  ]
 }

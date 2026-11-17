@@ -1,170 +1,177 @@
 {
  "id": "2026-12-07",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 12,
- "cols": 11,
+ "title": "निसर्ग",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 6,
-   "x": "jceP0pW/1ome0omOS43HkNKUjErNlYLNlbc=",
-   "clue": "वस्तू विकत घेऊन विकणारा"
+   "col": 5,
+   "x": "jceS0pSNSs2VgFHQk/qDno1M0pKd0Zet",
+   "clue": "सुगंधी तेल देणारे उंच झाड"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jcevTtCWhc2Usg==",
+   "clue": "न उमललेले फूल"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jcevTtCWhlHRlpjQk+8f2paW",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
   },
   {
    "dir": "down",
    "row": 1,
-   "col": 4,
-   "x": "jcec0pSMSs2VlM2UiQ==",
-   "clue": "मोठा भाऊ"
+   "col": 2,
+   "x": "jceR0pW/1omD0oi3S43HlNKUjdaJs07NlKCNxrE=",
+   "clue": "शिवडीला थव्याने येणारा गुलाबी पक्षी"
   },
   {
    "dir": "across",
    "row": 1,
-   "col": 6,
-   "x": "jceQ0pSMSs2Vkg==",
-   "clue": "शरीराचा मागचा भाग"
+   "col": 4,
+   "x": "jcet0pWzSs2VgFHQk8ODn7lM0pKUTdKJgA==",
+   "clue": "उन्हाळ्यात लाल फुलांनी बहरणारे झाड"
   },
   {
    "dir": "across",
-   "row": 2,
-   "col": 3,
+   "row": 1,
+   "col": 10,
+   "x": "jceMTtCWmM2Usg==",
+   "clue": "दसऱ्याला पूजले जाणारे काटेरी झाड"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jceMTtCWhlHRlos=",
+   "clue": "पावसाळ्यानंतर येणारा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
    "x": "jcet0pW5Ss2VlM2UiRGDnodM0pKd0Zet",
    "clue": "दक्षिण गंगा"
   },
   {
    "dir": "down",
-   "row": 2,
-   "col": 3,
-   "x": "jcet0pW5Ss2Vhc2Vuo3HpQ==",
-   "clue": "कहाणी"
+   "row": 3,
+   "col": 4,
+   "x": "jcePTtCWjs2VsFHQk8k=",
+   "clue": "ऋतूंचा राजा"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 2,
-   "x": "jcevTtCWgc2Uv82UqA==",
-   "clue": "मेहनत"
+   "col": 8,
+   "x": "jcecTtCWhFHRlotM18nR",
+   "clue": "ओली पाय रुतणारी जमीन"
   },
   {
    "dir": "down",
    "row": 3,
+   "col": 11,
+   "x": "jceITtCWjs2Uv82Uj43Gug==",
+   "clue": "गोड घुसळलेले दही"
+  },
+  {
+   "dir": "across",
+   "row": 5,
    "col": 2,
-   "x": "jcevTtCWnM2VjFHQk94=",
-   "clue": "टिळा लावतात ती जागा"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 4,
-   "x": "jceg0pSNSs2Vls2Vuo3HntKUjA==",
-   "clue": "सर्वात वेगवान प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 4,
-   "x": "jceg0pSNSs2Vls2Vuo3Hik7QlqPNlYxR0JPd",
-   "clue": "कुंचला हातात घेणारा कलाकार"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 0,
-   "x": "jceU0pSwSs2VpVHQk94f2paI0pOvTdKJlNfI7tqWgA==",
-   "clue": "विवाहितेच्या गळ्यातील काळ्या मण्यांचा दागिना"
+   "x": "jce/TtCWns2VsFHQk8kf2paqTtaJldKIsUuNx4rSlb/WiZdOzZSBjca6",
+   "clue": "गणपती विसर्जनाचा दिवस"
   },
   {
    "dir": "down",
    "row": 5,
-   "col": 1,
-   "x": "jcetTtCWj82UsA==",
-   "clue": "चपातीचे धान्य"
+   "col": 2,
+   "x": "jce/TtCWj1HRloNM18nFRtKUmkrNlaVR0JPd",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcee0pWzSs2Vhc2UiRGDnoI=",
+   "clue": "पाण्याचे बारीक उडणारे कण"
   },
   {
    "dir": "across",
    "row": 6,
-   "col": 4,
-   "x": "jcev0pSMSs2Vmg==",
-   "clue": "ऐकण्याचे इंद्रिय"
+   "col": 1,
+   "x": "jcet0pW/1omBTs2Ujg==",
+   "clue": "सूर्याभोवती फिरणारा गोल; पृथ्वी त्यातलाच"
   },
   {
    "dir": "across",
    "row": 7,
-   "col": 2,
-   "x": "jcev0pWz1omzTs2Umo3HhE7QloY=",
-   "clue": "मातीची भांडी बनवणारा"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 3,
-   "x": "jceX0pSMSs2Vgs2VtRGDnpM=",
-   "clue": "संत एकनाथांनी लोकप्रिय केलेला रचनाप्रकार"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 10,
-   "x": "jceD0pWxSs2VlFHQk8I=",
-   "clue": "रक्त पंप करणारा अवयव"
+   "col": 5,
+   "x": "jcev0pWzSs2VglHQk84=",
+   "clue": "गुरे चरण्याची गवताळ जागा"
   },
   {
    "dir": "across",
    "row": 8,
-   "col": 8,
-   "x": "jceQ0pW/1omBTs2Uj43HhE7QlpA=",
-   "clue": "देवाला दाखवलेला नैवेद्य"
+   "col": 1,
+   "x": "jceg0pSM1omzTs2UkRGDnpHQl7Y=",
+   "clue": "आकाशातील लहान तारका"
   },
   {
    "dir": "down",
-   "row": 8,
-   "col": 8,
-   "x": "jceQ0pW/1omBTs2UkI3HhE7Qlp4=",
-   "clue": "मंत्री"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 0,
-   "x": "jceQ0pW/1omB0oi3S43HlA==",
-   "clue": "माया"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 2,
-   "x": "jcet0pWzSs2Vk1HQk/WDnow=",
-   "clue": "पायाचा मधला सांधा"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 2,
-   "x": "jcet0pWzSs2VgM2UiRGDnp7Ql7Y=",
-   "clue": "फिकट लाल रंग"
-  },
-  {
-   "dir": "down",
-   "row": 9,
+   "row": 10,
    "col": 4,
-   "x": "jcei0pSMSs2Vgg==",
-   "clue": "आकाशात घिरट्या घालणारा शिकारी पक्षी"
+   "x": "jcesTtCWl1HRlrg=",
+   "clue": "मोठा दगड"
   },
   {
    "dir": "across",
    "row": 10,
-   "col": 0,
-   "x": "jceUTtCWjs2VjFHQk9+Dnow=",
-   "clue": "पदार्थांना चव आणणारे मिश्रण"
+   "col": 7,
+   "x": "jcet0pWzSs2Vi82UiQ==",
+   "clue": "डोंगरातील पोकळी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcet0pWzSs2VgM2UiRGDnp4=",
+   "clue": "काटेरी देठाचे सुंदर फूल"
   },
   {
    "dir": "across",
-   "row": 10,
+   "row": 11,
+   "col": 1,
+   "x": "jcev0pW5Ss2VglHQk8Yf2paR",
+   "clue": "जाड रसाळ पानांची औषधी वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jcev0pW5Ss2VgVHQk9WDnow=",
+   "clue": "जळणारा काळा खनिज पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
    "col": 4,
-   "x": "jceKTtCWo82Uv82UgI3HhE7QlprNlbBR0JPKH9qWmA==",
-   "clue": "बहीण भावाला राखी बांधते तो सण"
+   "x": "jcevTtCWl82Us1HQk9+Dno3QlrRR0ZaB",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcepTtCWjs2VjFHQk8w=",
+   "clue": "निर्जन आणि उजाड"
   }
  ]
 }

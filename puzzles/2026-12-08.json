@@ -1,177 +1,177 @@
 {
  "id": "2026-12-08",
- "title": "दैनिक कोडे",
+ "title": "शाळा आणि खेळ",
  "difficulty": "सोपे",
- "rows": 11,
+ "rows": 14,
  "cols": 12,
  "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "x": "jceP0pW/1ome0omORI3Hr07QloZR0ZaO",
+   "clue": "भाषेचे नियम"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceP0pW/1ome0omORI3HldKUjErNlZw=",
+   "clue": "शरीराची कसरत"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceP0pSNSs2Vrs2VtY3HpNKUjErNlZo=",
+   "clue": "प्रयोगांचा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceP0pSNSs2VrlHQnMI=",
+   "clue": "जीत"
+  },
   {
    "dir": "down",
    "row": 0,
    "col": 10,
-   "x": "jced0pSMSs2Vh1HQnM6Dn7U=",
-   "clue": "शर्यतीत करतात ते"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 4,
-   "x": "jce9TtCWks2VjVHQnNSDnoxM0pKV",
-   "clue": "भूतकाळाचा अभ्यास"
+   "x": "jceSTtCWo82VjFHQnNuDnow=",
+   "clue": "प्रदेश दाखवणारे चित्र"
   },
   {
    "dir": "across",
    "row": 1,
+   "col": 2,
+   "x": "jcecTtCWmc2VjA==",
+   "clue": "करुणा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceUTtCWj82VjFHQnNiDno1M0pKL0Zeg0JzCg56MTNKSn03SiZ8=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceD0pSMSs2Vu1HQnNUf2pab0pOsTdKJgg==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceITtCWnM2VsFHQnMyDnoxM0pKY",
+   "clue": "लपून बसण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
    "col": 10,
-   "x": "jcePTtCWhs2Uv82Urw==",
-   "clue": "शाळेतील खोली"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 4,
-   "x": "jcee0pSNSs2Vgs2UuhGDnqXQlog=",
-   "clue": "भारताचा राष्ट्रध्वज"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 8,
-   "x": "jcezTtCWqVHRlo7Qneo=",
-   "clue": "दिवाळीच्या पहाटे अंगाला लावायचे सुगंधी लेप"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 8,
-   "x": "jcezTtCWks2Uv82UnBGDnoI=",
-   "clue": "प्रश्नाला दिलेले"
+   "x": "jceM0pSMSs2Vgc2Uhg==",
+   "clue": "विद्यालय"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 11,
-   "x": "jceM0pW1Ss2Vgc2VuA==",
-   "clue": "बकरी"
+   "col": 9,
+   "x": "jceWTtCWo82Us1HQnN4=",
+   "clue": "लहान सुगंधी फुलांचे झाड"
   },
   {
    "dir": "across",
    "row": 4,
    "col": 2,
-   "x": "jce/TtCWm82Uv82Ul43HhE7Qlo4=",
-   "clue": "शिकण्यासाठी केलेली मेहनत"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 2,
-   "x": "jce/TtCWo82Uv82UjxGDnoI=",
-   "clue": "लिपीचा घटक"
+   "x": "jcel0pW1Ss2Vms2UhxGDnoo=",
+   "clue": "रॅकेट आणि चेंडूचा खेळ"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 7,
-   "x": "jceQ0pWzSs2VglHQnM4f2paa0pOmTdKJg9jI4w==",
-   "clue": "होळीच्या सणाचा खास गोड पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 7,
-   "x": "jceQ0pWzSs2Vis2VtY3Hnk7QlqM=",
-   "clue": "ग्रंथ"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 10,
-   "x": "jceQ0pW5Ss2Vi1HQnM6Dn7U=",
-   "clue": "पाण्यातील व्यायाम"
+   "col": 6,
+   "x": "jcedTtCWl82VjA==",
+   "clue": "पुस्तकातील एक प्रकरण"
   },
   {
    "dir": "across",
-   "row": 6,
-   "col": 1,
-   "x": "jce8TtCWhlHRlpXQnNM=",
-   "clue": "चेहरा पाहण्याची काच"
+   "row": 4,
+   "col": 9,
+   "x": "jcev0pWzSs2Vis2VtY3HntKVsg==",
+   "clue": "आखाड्यातील खेळ"
   },
   {
-   "dir": "down",
-   "row": 6,
-   "col": 1,
-   "x": "jce8TtCWllHRlphM2MnC2paO",
-   "clue": "सात दिवसांचा कालावधी"
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcePTtCWhs2Uv82UnI3Gu07QloU=",
+   "clue": "गोल आकृती"
   },
   {
-   "dir": "down",
+   "dir": "across",
    "row": 6,
    "col": 3,
-   "x": "jceC0pSMSs2VmFHQnNuDno1M0pKM0Zet",
-   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 5,
-   "x": "jceS0pSMSs2VrVHQnPg=",
-   "clue": "रंगमंचावर सादर होणारी कलाकृती"
+   "x": "jceQ0pW6Ss2VgFHQnNiDnoxM0pKF",
+   "clue": "कुस्ती खेळणारा"
   },
   {
    "dir": "down",
    "row": 6,
    "col": 5,
-   "x": "jceS0pSMSs2VpVHQnMeDnrBM0pK3TdKJntjI4w==",
-   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 9,
-   "x": "jceS0pSMSs2Vkc2Vvw==",
-   "clue": "धातूचा पैसा"
+   "x": "jceP0pSMSs2Vp82VtY3HkNKVv9aJgU7NlKKNx4RO0JaG",
+   "clue": "विशिष्ट अर्थाचा शब्दसमूह"
   },
   {
    "dir": "down",
-   "row": 6,
-   "col": 9,
-   "x": "jceS0pSMSs2VpVHQnMeDn7BM0pKd",
-   "clue": "संत्र्यांसाठी प्रसिद्ध शहर"
-  },
-  {
-   "dir": "across",
-   "row": 7,
+   "row": 8,
    "col": 3,
-   "x": "jceQTtCWks2VsFHQnPo=",
-   "clue": "संक्रांतीला उडवतात तो"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 8,
-   "x": "jcemTtCWoQ==",
-   "clue": "विश्व"
+   "x": "jceR0pWzSs2VrVHQnMGDn7tM0pKf",
+   "clue": "पायाने चेंडू मारण्याचा खेळ"
   },
   {
    "dir": "across",
    "row": 8,
-   "col": 0,
-   "x": "jcec0pW1Ss2Vhw==",
-   "clue": "ईश्वर"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 7,
-   "x": "jceX0pWySs2Vls2VuA==",
-   "clue": "भय"
+   "col": 5,
+   "x": "jceg0pSMSs2VgA==",
+   "clue": "गाण्याची धून"
   },
   {
    "dir": "across",
    "row": 9,
-   "col": 5,
-   "x": "jcegTtCWnM2VjFHQnMmDn7I=",
-   "clue": "गव्हाची पोळी"
+   "col": 2,
+   "x": "jceNTtCWqVHRlrjQnNMf2paA",
+   "clue": "सीमापार सहा धावा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceCTtCWj1HRlp8=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jceDTtCWqs2UtVHQnN2Dn7I=",
+   "clue": "वर्गातील उपस्थितीची नोंद"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 0,
+   "x": "jceg0pWwSs2VgA==",
+   "clue": "लाकडे जाळून स्वयंपाक करण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceITtCWoc2UuVHQnN2Dn7I=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
   }
  ]
 }

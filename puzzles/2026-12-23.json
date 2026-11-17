@@ -1,170 +1,177 @@
 {
  "id": "2026-12-23",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 8,
+ "title": "इतिहासाच्या पानांतून",
+ "difficulty": "मध्यम",
+ "rows": 14,
  "cols": 12,
  "entries": [
   {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceW0pWzSs2VlM2Xvo3HnQ==",
+   "clue": "बौद्ध धर्माचे संस्थापक"
+  },
+  {
    "dir": "down",
    "row": 0,
    "col": 8,
-   "x": "jceS0pSMSs2Vlg==",
-   "clue": "मुलाची किंवा मुलीची मुलगी"
-  },
-  {
-   "dir": "across",
-   "row": 0,
-   "col": 10,
-   "x": "jcecTtCWj82VjA==",
-   "clue": "दोन्ही हातांची बोटे"
+   "x": "jceW0pWzSs2Vgs2XsRGDnq4=",
+   "clue": "किल्ल्याच्या तटबंदीचा गोल भाग"
   },
   {
    "dir": "down",
    "row": 0,
-   "col": 10,
-   "x": "jcecTtCWhs2Usg==",
-   "clue": "दोन डोंगरांमधील खोल भाग"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 4,
-   "x": "jceQ0pW/1omB0oi1T43HlA==",
-   "clue": "माया"
+   "col": 11,
+   "x": "jcezTtCWks2Uv82WpRGDnppM0pKF",
+   "clue": "जमिनीत खोदून इतिहास शोधणे"
   },
   {
    "dir": "across",
-   "row": 1,
-   "col": 7,
-   "x": "jceM0pW1Ss2VllHSl/gf2paA0pOt",
-   "clue": "बळीराजा"
+   "row": 2,
+   "col": 6,
+   "x": "jce/TtCWnVHRlrFO08nRRtKUpNaJj07Nlps=",
+   "clue": "प्रतापगडावर मारला गेलेला सरदार"
   },
   {
    "dir": "down",
-   "row": 1,
-   "col": 7,
-   "x": "jceM0pW1Ss2Vrs2WjRGDnoLQl7Y=",
-   "clue": "घराजवळ राहणारा"
+   "row": 2,
+   "col": 6,
+   "x": "jce/TtCWo82Uv82WhBGDnpbQlog=",
+   "clue": "लग्नात टाकतात ते तांदूळ"
   },
   {
    "dir": "down",
-   "row": 1,
+   "row": 2,
    "col": 9,
-   "x": "jcevTtCWms2UsFHSl8kf2paA",
-   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 3,
-   "x": "jcegTtCWmFHRlrfSl9M=",
-   "clue": "आमटी पिण्यासाठी वापरतात तो"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 3,
-   "x": "jcegTtCWqVHRlqU=",
-   "clue": "जमिनीवर अंथरण्याची"
+   "x": "jceITtCWlM2VjFHSl+U=",
+   "clue": "युद्ध"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 1,
-   "x": "jceQ0pWwSs2Vrs2WjQ==",
-   "clue": "देवाची उपासना"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 6,
-   "x": "jcec0pW5Ss2Vgs2Xsw==",
-   "clue": "रस्सी"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 6,
-   "x": "jcec0pW5Ss2Vmg==",
-   "clue": "एकानंतरची संख्या"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 1,
-   "x": "jcem0pSMSs2Vh1HSl+U=",
-   "clue": "मुलीचा पती"
-  },
-  {
-   "dir": "down",
-   "row": 4,
    "col": 2,
-   "x": "jcePTtCWo82UslHSl98=",
-   "clue": "न्यायालयात बाजू मांडणारा"
+   "x": "jceg0pSwSs2VlM2Xvo3Hik7QlqHNlLNR0pfHg5+/0JaS",
+   "clue": "मौर्य साम्राज्याचा संस्थापक"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 5,
-   "x": "jceU0pSMSs2Vmg==",
-   "clue": "डोके आणि धड जोडणारा भाग"
+   "col": 6,
+   "x": "jcee0pSMSs2Vgs2WjRGDnp7QlohR0Zal",
+   "clue": "संभाजीराजांनंतर स्वराज्य लढवणारी राणी"
   },
   {
    "dir": "down",
    "row": 4,
-   "col": 5,
-   "x": "jceU0pSMSs2Vgc2Xsw==",
-   "clue": "बागेची निगा राखणारा"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 8,
-   "x": "jcec0pSMSs2Vgg==",
-   "clue": "दरवाजा"
+   "col": 7,
+   "x": "jceK0pSMSs2VrlHSl9iDnoxM0pKM0ZaT",
+   "clue": "राजाचा महाल"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 4,
-   "x": "jceD0pW5Ss2Vgc2Xsw==",
-   "clue": "रंगांचा सण"
+   "col": 2,
+   "x": "jcet0pWzSs2VgM2WjRGDnoA=",
+   "clue": "उधळायचा लाल रंग"
   },
   {
    "dir": "down",
    "row": 5,
    "col": 4,
-   "x": "jceD0pW5Ss2Vk82Xsw==",
-   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+   "x": "jceITtCWo82Uv82WhI3Gt9KUnNaIsU7Nlp+Nx4RO0Ja+",
+   "clue": "झाशीची राणी"
   },
   {
    "dir": "across",
    "row": 6,
-   "col": 1,
-   "x": "jceW0pW6Ss2VgFHSl/qDnoxM0pKM0Zet",
-   "clue": "गावातील पारंपरिक वाहन"
+   "col": 6,
+   "x": "jceC0pW1Ss2Vh82WjRGDnqXQl7vNlYLNlo0Rg56c",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
   },
   {
    "dir": "down",
    "row": 6,
-   "col": 1,
-   "x": "jceW0pW6Ss2VgA==",
-   "clue": "शेतात नांगर ओढणारा"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 3,
-   "x": "jcet0pSMSs2VgA==",
-   "clue": "चेहऱ्याची बाजू"
+   "col": 9,
+   "x": "jceUTtCWj82VjFHSl9iDn7JM0pKd",
+   "clue": "जैन धर्माचे तीर्थंकर"
   },
   {
    "dir": "across",
    "row": 7,
+   "col": 4,
+   "x": "jceW0pSMSs2VlA==",
+   "clue": "आऊट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
    "col": 0,
-   "x": "jceR0pWwSs2VgA==",
-   "clue": "पुष्प"
+   "x": "jce/TtCWj82VjVHSl9+Dn7/QlpnNlYxR0pfBg56MTNKSpQ==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jce/TtCWqs2Vjc2WsRGDnpLQlog=",
+   "clue": "प्राचीन बौद्ध लेणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceW0pSMSs2VilHSl92Dn7JM0pKY0ZaTTtPJxUbSlKc=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jceS0pSMSs2Vhw==",
+   "clue": "ओळख सांगणारा शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jceC0pSMSs2Vh1HSl90f2palTtaJgQ==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceC0pSMSs2Vh82WjBGDnpbQl7vNlYLNl7MRg56e0JaIUdGWpQ==",
+   "clue": "पहिल्या स्त्री शिक्षिका"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcevTtCWg1HRlrLSlu0=",
+   "clue": "डोक्याचे हाड"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceQ0pW1Ss2VhFHSl9iDnow=",
+   "clue": "छत्रपतींचे प्रधान"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jcecTtCWhlHRloHSl9Mf2paA",
+   "clue": "राजाची सभा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jcel0pSNSs2VgVHSl/g=",
+   "clue": "स्वराज्य माझा जन्मसिद्ध हक्क म्हणणारे"
   }
  ]
 }

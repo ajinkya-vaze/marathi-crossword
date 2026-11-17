@@ -1,177 +1,177 @@
 {
  "id": "2026-12-14",
- "title": "सण, कला आणि परंपरा",
+ "title": "खाऊ आणि स्वयंपाकघर",
  "difficulty": "सोपे",
  "rows": 14,
- "cols": 11,
+ "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 5,
-   "x": "jcen0pW5Ss2VmM2VihGDnoHQlog=",
-   "clue": "झुलण्यासाठी टांगलेली बैठक"
-  },
-  {
-   "dir": "across",
-   "row": 1,
-   "col": 5,
-   "x": "jceQ0pSMSs2Vls2UsxGDnoDQl7E=",
-   "clue": "भात शिजवण्याचे भांडे"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 7,
-   "x": "jceI0pW1Ss2VpFHRkPg=",
-   "clue": "पुस्तक लिहिणारा"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 1,
-   "x": "jcet0pWzSs2VkM2UtA==",
-   "clue": "पाडव्याला उभारतात ती"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 4,
-   "x": "jceQ0pW5Ss2Vgc2Vig==",
-   "clue": "बैलांचा सण"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 4,
-   "x": "jceQ0pW5Ss2Vh82VihGDnpPQlog=",
-   "clue": "वीररसपूर्ण शाहिरी गीत"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 0,
-   "x": "jcet0pWzSs2VkM2UtBGDnpjQlohR0ZaMTdTJ1tqWjg==",
-   "clue": "मराठी नववर्षाचा पहिला दिवस"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 2,
-   "x": "jceQ0pSMSs2VmFHRkMw=",
-   "clue": "तळून किंवा भाजून खातात तो कुरकुरीत"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 6,
-   "x": "jcegTtCWo1HRlp/Rke0=",
-   "clue": "दिवाळीच्या फराळातील काटेरी गोल खाऊ"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 6,
-   "x": "jcegTtCWmFHRlrfRkNM=",
-   "clue": "आमटी पिण्यासाठी वापरतात तो"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 0,
-   "x": "jceX0pSMSs2Vgs2UthGDnpM=",
-   "clue": "संत एकनाथांनी लोकप्रिय केलेला रचनाप्रकार"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 0,
-   "x": "jceX0pSMSs2VuA==",
-   "clue": "बंधू"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 6,
-   "x": "jceg0pSMSs2Vgg==",
-   "clue": "चौकोनाच्या बाजू"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 7,
-   "x": "jceKTtCWo82Uv82Vg43HhE7QlprNlbBR0ZDKH9qWmA==",
-   "clue": "बहीण भावाला राखी बांधते तो सण"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 9,
-   "x": "jcec0pWwSs2VlQ==",
-   "clue": "गायीपासून मिळणारे पांढरे पेय"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 7,
-   "x": "jcedTtCWmlHRlopN1MnP2paO",
-   "clue": "उंचावरून कोसळणारे पाणी"
-  },
-  {
-   "dir": "down",
-   "row": 8,
    "col": 10,
-   "x": "jceW0pSMSs2VpQ==",
-   "clue": "उद्यान"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 5,
-   "x": "jce/TtCWhs2Uv82VqI3Gu07Qlp4=",
-   "clue": "पांडवांपैकी धनुर्धर"
+   "x": "jceQ0pSwSs2VpVHRkMk=",
+   "clue": "एका रांगेत बसून जेवण"
   },
   {
    "dir": "down",
-   "row": 9,
-   "col": 5,
-   "x": "jce/TtCWm82VsFHRkPo=",
-   "clue": "संत तुकारामांची काव्यरचना"
+   "row": 1,
+   "col": 8,
+   "x": "jce8TtCWhM2UtQ==",
+   "clue": "चहात घालायचे तिखट कंद"
   },
   {
    "dir": "across",
-   "row": 10,
-   "col": 8,
-   "x": "jceg0pSNSs2Vls2UuY3Hig==",
-   "clue": "रेखाटन"
+   "row": 2,
+   "col": 6,
+   "x": "jceUTtCWjs2VjFHRkN+Dn7VM0pKA0ZaTTdTJxw==",
+   "clue": "लग्नातला खास भात"
   },
   {
    "dir": "down",
-   "row": 10,
-   "col": 8,
-   "x": "jceg0pSNSs2Vls2UuY3Hik7QlpxR0Zay",
-   "clue": "सिनेमा"
+   "row": 2,
+   "col": 7,
+   "x": "jceC0pSMSs2Vns2UtRGDnpTQlohR0ZaO0ZDTH9qWhU7WiZDSiY8=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jcezTtCWnFHRlpjRkNMf2paI",
+   "clue": "अन्न न खाता राहणे"
   },
   {
    "dir": "across",
-   "row": 11,
+   "row": 4,
    "col": 4,
-   "x": "jceU0pSwSs2VpVHRkN4f2paI0pOvTdKJldTI7tqWgA==",
-   "clue": "विवाहितेच्या गळ्यातील काळ्या मण्यांचा दागिना"
+   "x": "jcee0pWwSs2VmA==",
+   "clue": "लोणी कढवून मिळणारे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jceQ0pWzSs2VgM2VihGDnoc=",
+   "clue": "भाज्या घालून केलेला भात"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceP0pSMSs2Vrc2VihGDnpHQlog=",
+   "clue": "हिरवे गोल दाणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 10,
+   "x": "jceI0pSMSs2Vk82Utg==",
+   "clue": "गोल गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcesTtCWjlHRlrtN1Mnb",
+   "clue": "बारीक पांढरे दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceCTtCWnVHRlp1N1Mn52payTtaJlw==",
+   "clue": "लाल रंगाचे काश्मिरी फळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcePTtCWl82VjFHRkMeDnoxM0pKY",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceQ0pSMSs2Vh1HRkMCDnoxM0pKx0Zet",
+   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceR0pW/1omD0oi4SI3Hj07QloY=",
+   "clue": "फुलकोबी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jce/0pSwSs2Vrs2UtBGDnoI=",
+   "clue": "सुकवून खाल्ले जाणारे गोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jce/0pSwSs2Vk82VihGDnqdM0pKd0Zet",
+   "clue": "अंड्याचा रस्सा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceKTtCWks2VjFHRkN6Dn7U=",
+   "clue": "गोडसर कंद"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jceU0pW5Ss2VlFHRkPg=",
+   "clue": "गणरायाचा आवडता गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceU0pW5Ss2Vis2VthGDnp7Ql7Y=",
+   "clue": "रसाचे हिरवट लिंबूवर्गीय फळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcevTtCWlM2UslHRkMcf2paU0pOg0ZaJ0ZDT",
+   "clue": "फोडणीतील सुगंधी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jceU0pWz1omzTs2VmBGDnro=",
+   "clue": "महाराष्ट्राची राजधानी"
   },
   {
    "dir": "across",
    "row": 12,
-   "col": 8,
-   "x": "jceQTtCWlVHRlonRke0=",
-   "clue": "मातीचा लहान दिवा"
+   "col": 0,
+   "x": "jcem0pSNSs2VgM2UsxGDnp7Ql7Y=",
+   "clue": "पाकातील गोलगोल गोड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 0,
+   "x": "jcem0pSNSs2Vgs2Usw==",
+   "clue": "फोडणीत घालायचे लहान बी"
   },
   {
    "dir": "across",
-   "row": 13,
-   "col": 7,
-   "x": "jceSTtCWqQ==",
-   "clue": "अभिनेता"
+   "row": 12,
+   "col": 4,
+   "x": "jceQTtCWnFHRlqU=",
+   "clue": "केशरी गराचे फळ"
   }
  ]
 }

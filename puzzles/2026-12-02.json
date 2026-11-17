@@ -1,177 +1,177 @@
 {
  "id": "2026-12-02",
  "title": "प्राणी आणि पक्षी",
- "difficulty": "सोपे",
- "rows": 13,
- "cols": 11,
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 10,
  "entries": [
   {
    "dir": "across",
    "row": 0,
-   "col": 3,
-   "x": "jceD0pSwSs2Vig==",
-   "clue": "पांढरा शुभ्र जलपक्षी"
+   "col": 6,
+   "x": "jcefTtCWg82VjA==",
+   "clue": "पक्ष्यांचा समूह"
   },
   {
    "dir": "down",
    "row": 0,
+   "col": 7,
+   "x": "jceP0pSMSs2VilHQlt2Dn7A=",
+   "clue": "गायीचे पिल्लू"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcet0pW11omzTs2Uk43HhA==",
+   "clue": "नाकावर शिंग असलेला जाडजूड प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
    "col": 4,
-   "x": "jceCTtCWkFHRlp3QltM=",
-   "clue": "अंगरखा"
+   "x": "jceW0pWzSs2VgFHQlsGDn7NM0pKf",
+   "clue": "डोक्यावर तुरा असलेला गाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceCTtCWhlHRlozQltM=",
+   "clue": "रंग बदलणारा प्राणी"
   },
   {
    "dir": "across",
    "row": 2,
    "col": 3,
-   "x": "jcem0pSNSs2Vgs2UjBGDnpk=",
-   "clue": "सर्वात उंच प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 5,
-   "x": "jceRTtCWlVHRlpU=",
-   "clue": "काटेरी सालीचे मोठे फळ"
+   "x": "jceR0pWzSs2VgFHQlseDnoxM0pK7TdKJgNLI4Q==",
+   "clue": "रंगीबेरंगी पंख असलेला कीटक"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 2,
-   "x": "jceI0pSM1omzTs2UkxGDnqXQlog=",
-   "clue": "कळपात शिकार करणारा जंगली प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 9,
-   "x": "jceU0pW1Ss2VkVHQlsEf2paU0pOg0ZaJ0Jft",
-   "clue": "वाढदिवसाच्या केकवर लावतात ती"
+   "col": 8,
+   "x": "jceX0pWzSs2Vnc2UjBGDnoLQl7ZR0ZaD0JbTH9qWgNKToNGWug==",
+   "clue": "जमिनीखालचा रस्ता"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 0,
+   "col": 3,
+   "x": "jceQ0pSMSs2VgA==",
+   "clue": "भिंतीवर चालणारा लहान सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jceQ0pSMSs2VkVHQlvWDn7lM0pKM0ZaT",
+   "clue": "नदीत राहणारा अवजड प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
    "x": "jcei0pWzSs2VnlHQlsw=",
    "clue": "रात्री जागणारा मोठ्या डोळ्यांचा पक्षी"
   },
   {
    "dir": "across",
-   "row": 4,
-   "col": 4,
-   "x": "jcev0pSMSs2VilHQltg=",
-   "clue": "पाठीवर कवच असलेला संथ प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 4,
-   "x": "jcev0pSMSs2Vh1HQlt6Dnow=",
-   "clue": "काव काव करणारा काळा पक्षी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 6,
-   "x": "jcePTtCWl82VjFHQlseDnoxM0pKY",
-   "clue": "मुंबईचे लोकप्रिय खाद्य"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 8,
-   "x": "jcen0pWzSs2VkVHQlviDnow=",
-   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
-  },
-  {
-   "dir": "across",
    "row": 5,
-   "col": 2,
-   "x": "jcet0pSMSs2VkFHQltg=",
-   "clue": "ओझे वाहणारा प्राणी"
+   "col": 1,
+   "x": "jceDTtCWks2Uv82Ulo3Guk7QlpU=",
+   "clue": "हत्तीची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceDTtCWhs2VjVHQlskf2paW0pOg0ZadTNLJ1tqXvdKSgg==",
+   "clue": "पानांना हिरवा रंग देणारे"
   },
   {
    "dir": "across",
    "row": 5,
    "col": 6,
-   "x": "jceb0pSMSs2Vig==",
-   "clue": "मलेरिया पसरवणारा कीटक"
+   "x": "jceWTtCWj82VjVHQlt2Dn7I=",
+   "clue": "शिकारी ससाण्याची एक जात"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcei0pW5Ss2VglHQlscf2paR",
+   "clue": "किल्ल्याच्या भिंतीवर चढणारा सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceQTtCWks2Uv82UghGDnqfQlohR0Zad",
+   "clue": "बातम्या लिहिणारा"
   },
   {
    "dir": "across",
    "row": 6,
    "col": 8,
-   "x": "jceDTtCWks2Uv82Ulo3Gug==",
-   "clue": "गज"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 8,
-   "x": "jceDTtCWhs2UslHQls4=",
-   "clue": "मृग"
+   "x": "jceU0pSMSs2Vis2UjA==",
+   "clue": "मत्स्य"
   },
   {
    "dir": "across",
    "row": 7,
-   "col": 5,
-   "x": "jceM0pSNSs2Vh1HQlsWDn7VM0pKd0Zet",
-   "clue": "शिवरायांचे जन्मस्थान असलेला किल्ला"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 5,
-   "x": "jceM0pSNSs2Vp82Vv43HjU7QlqM=",
-   "clue": "गुरुजी"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 2,
-   "x": "jceU0pW5Ss2Vgg==",
-   "clue": "भारताचा राष्ट्रीय पक्षी"
+   "col": 0,
+   "x": "jceK0pSMSs2VllHQlviDno1M0pKM0ZaT",
+   "clue": "रात्री किर्रकिर्र करणारा कीटक"
   },
   {
    "dir": "across",
    "row": 9,
    "col": 4,
-   "x": "jces0pW1Ss2Vp1HQlsyDnow=",
-   "clue": "तिरका चालणारा जलचर"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 4,
-   "x": "jces0pW1Ss2VgVHQls6Dn7I=",
-   "clue": "मुलांची खेळायची वस्तू"
+   "x": "jcebTtCWhlHRlrjQltMf2paD0pOt",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
   },
   {
    "dir": "down",
    "row": 9,
    "col": 6,
-   "x": "jceb0pSMSs2VgQ==",
-   "clue": "वरणासाठी लागणारी"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 1,
-   "x": "jceD0pSNSs2VglHQltgf2paD",
-   "clue": "हिरवेगार गवत"
+   "x": "jcev0pSMSs2Vh1HQlviDnoxM0pKY",
+   "clue": "कावळ्याचा आवाज"
   },
   {
    "dir": "down",
    "row": 10,
+   "col": 3,
+   "x": "jceC0pWzSs2VglHQlsMf2pa4",
+   "clue": "किंमती चविष्ट समुद्री मासा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
    "col": 1,
-   "x": "jceD0pSNSs2VglHQltiDnow=",
-   "clue": "पानांचा रंग"
+   "x": "jceUTtCWoVHRlp0=",
+   "clue": "नदीतील धोकादायक सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jceUTtCWlc2Uv82UnY3HhE7QloY=",
+   "clue": "रात्री फिरणारा अतिविषारी साप"
   },
   {
    "dir": "across",
    "row": 12,
-   "col": 1,
-   "x": "jceP0pSMSs2Vqg==",
-   "clue": "भारताचा राष्ट्रीय प्राणी"
+   "col": 3,
+   "x": "jceUTtCWj82VjFHQltuDno1M0pKYTdKJgNLJ3UbSlJbWiLzSiYDSyOM=",
+   "clue": "शंकराचा उपवासाचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcei0pSMSs2Vgg==",
+   "clue": "आकाशात घिरट्या घालणारा शिकारी पक्षी"
   }
  ]
 }

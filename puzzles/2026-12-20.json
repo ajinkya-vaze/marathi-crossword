@@ -1,520 +1,541 @@
 {
  "id": "2026-12-20",
  "title": "रविवारचे मोठे कोडे",
- "difficulty": "सोपे",
+ "difficulty": "मध्यम",
  "rows": 21,
  "cols": 21,
  "entries": [
   {
-   "dir": "across",
-   "row": 0,
-   "col": 10,
-   "x": "jceU0pW1Ss2Vl82XsA==",
-   "clue": "कडवट पालेभाजी"
-  },
-  {
    "dir": "down",
    "row": 0,
-   "col": 10,
-   "x": "jceU0pW1Ss2VkVHSlMEf2paU0pOg0ZaJ0pXt",
-   "clue": "वाढदिवसाच्या केकवर लावतात ती"
-  },
-  {
-   "dir": "across",
-   "row": 1,
-   "col": 8,
-   "x": "jcev0pW5Ss2Vp1HSlM4=",
-   "clue": "समुद्रकिनाऱ्यालगतचा महाराष्ट्राचा प्रदेश"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 8,
-   "x": "jcev0pW5Ss2VgM2XvY3Hg9KUjErNlZjNl7IRg56C",
-   "clue": "तांबडा-पांढरा रस्सा आणि चपलांसाठी प्रसिद्ध शहर"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 7,
-   "x": "jcev0pW5Ss2VgM2XvY3Hg9KUjA==",
-   "clue": "धूर्त म्हणून ओळखला जाणारा प्राणी"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 10,
-   "x": "jceWTtCWhs2Uv82Wmw==",
-   "clue": "हिम"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 3,
-   "x": "jceg0pSNSs2VnFHSlM6Dn7I=",
-   "clue": "घराजवळ चिवचिवणारा लहान पक्षी"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 6,
-   "x": "jcev0pW1Ss2Vgc2Xtw==",
-   "clue": "पिवळ्या सालीचे फळ"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 3,
-   "x": "jceUTtCWj82VjFHSlMEf2paD0pOqTdKJhNDI7tqWhU7WiYE=",
-   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 5,
-   "x": "jceWTtCWj82UslHSlM4=",
-   "clue": "भगिनी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 13,
-   "x": "jce/0pSwSs2VpVHSlM4=",
-   "clue": "घरासमोरची मोकळी जागा"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 2,
-   "x": "jceK0pSMSs2Vkc2XsA==",
-   "clue": "राजाची पत्नी"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 2,
-   "x": "jceK0pSMSs2Vls2XvY3Hig==",
-   "clue": "निशा"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 1,
-   "x": "jceU0pSNSs2Vls2XvY3Hig==",
-   "clue": "सखा"
-  },
-  {
-   "dir": "across",
-   "row": 6,
    "col": 4,
-   "x": "jcen0pWzSs2VkVHSlPiDnow=",
-   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 6,
-   "x": "jcev0pSMSs2VnA==",
-   "clue": "कार्य"
+   "x": "jcepTtCWlg==",
+   "clue": "तोंडाचा कडेचा भाग"
   },
   {
    "dir": "across",
-   "row": 6,
-   "col": 8,
-   "x": "jcem0pSNSs2Vgs2Xtw==",
-   "clue": "फोडणीत घालायचे लहान बी"
+   "row": 1,
+   "col": 3,
+   "x": "jceW0pW6Ss2VklHSlPiDnow=",
+   "clue": "उठाबशांचा व्यायाम"
   },
   {
    "dir": "down",
-   "row": 6,
-   "col": 8,
-   "x": "jcem0pSNSs2Vms2Wjg==",
-   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 12,
-   "x": "jceI0pW5Ss2VkVHSlPeDn7U=",
-   "clue": "कैरीचे वर्षभर टिकणारे"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 12,
-   "x": "jceI0pW5Ss2VpM2WshGDnpM=",
-   "clue": "गंज चढणारा धातू"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 6,
-   "x": "jceUTtCWj82VjVHSlMWDnow=",
-   "clue": "मास"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 7,
-   "x": "jceD0pSNSs2VglHSlNiDnow=",
-   "clue": "पानांचा रंग"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 10,
-   "x": "jce/0pSwSs2VpVHSlM2Dn7I=",
-   "clue": "बोटातील दागिना"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 10,
-   "x": "jcetTtCWhs2Us1HSlMw=",
-   "clue": "विष्णूचे वाहन असलेला पक्षी"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 6,
-   "x": "jceeTtCWg82VjA==",
-   "clue": "पोळ्या भाजण्याचे भांडे"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 6,
-   "x": "jceeTtCWhFHRlpjSlNMf2paA",
-   "clue": "धारदार पाते असलेले शस्त्र"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 9,
-   "x": "jcev0pSMSs2Vks2XsA==",
-   "clue": "लाकडी दांडा"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 9,
-   "x": "jcev0pSMSs2VqA==",
-   "clue": "पारदर्शक नाजूक पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 13,
-   "x": "jcee0pW5Ss2VglHSlM4=",
-   "clue": "दाराला लावायची फुलांची माळ"
-  },
-  {
-   "dir": "down",
-   "row": 10,
-   "col": 1,
-   "x": "jcee0pWzSs2Vp82WjhGDnoLQlohR0ZaD",
-   "clue": "अभंग लिहिणारे देहूचे संत"
-  },
-  {
-   "dir": "across",
-   "row": 10,
+   "row": 1,
    "col": 5,
-   "x": "jceY0pW5Ss2VgA==",
-   "clue": "मिरवणुकीत वाजवले जाणारे मोठे वाद्य"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 8,
-   "x": "jceQ0pSMSs2VqA==",
-   "clue": "एका हाताची बोटे"
+   "x": "jcev0pSMSs2Vk82XtxGDnpjQl7FR0Zay0pXt",
+   "clue": "आगपेटी"
   },
   {
    "dir": "down",
-   "row": 10,
-   "col": 8,
-   "x": "jceQ0pSMSs2Vgs2XvY3Hj07QlpLNlLI=",
-   "clue": "शंकराची पत्नी"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 11,
-   "x": "jceCTtCWks2VjFHSlN0=",
-   "clue": "तारांचे वाद्य"
-  },
-  {
-   "dir": "down",
-   "row": 10,
-   "col": 11,
-   "x": "jceCTtCWjs2VjA==",
-   "clue": "लांब कानांचा चपळ प्राणी"
-  },
-  {
-   "dir": "across",
-   "row": 11,
-   "col": 0,
-   "x": "jceQ0pW/1omBTs2WpY3HhE7QloA=",
-   "clue": "उजेड"
-  },
-  {
-   "dir": "across",
-   "row": 11,
+   "row": 1,
    "col": 10,
+   "x": "jcec0pW1Ss2Vh1HSlPqDno1M0pKd0Zet",
+   "clue": "दौलताबादचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 15,
+   "x": "jcetTtCWlVHRlpjSleof2paG",
+   "clue": "शाळेचा ठरलेला पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 17,
+   "x": "jceX0pWySs2VnFHSlNWDn7VM0pKF",
+   "clue": "किराणा घराण्याचे जोशी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceU0pWz1omzTs2WkY3HhE7QloNR0Zae0pXgg56d0JaI",
+   "clue": "नवरा-नवरीच्या कपाळावर बांधतात त्या माळा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 13,
+   "x": "jcen0pSMSs2Vp1HSlM4=",
+   "clue": "भांड्यावर ठेवायचे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 17,
+   "x": "jceUTtCWo82VjA==",
+   "clue": "कणसाचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
    "x": "jceQ0pW6Ss2Vis2Wjg==",
    "clue": "धन"
   },
   {
    "dir": "down",
-   "row": 11,
-   "col": 10,
-   "x": "jceQ0pW6Ss2VklHSlM6Dn7I=",
-   "clue": "रेशमी साडीचा प्रसिद्ध प्रकार"
-  },
-  {
-   "dir": "across",
-   "row": 12,
-   "col": 5,
-   "x": "jceCTtCWhlHRlpXSleCDnodM0pKJ0Zet",
-   "clue": "विद्येची देवता"
-  },
-  {
-   "dir": "down",
-   "row": 12,
-   "col": 5,
-   "x": "jceCTtCWklHRlp3SlO8f2pas0pOt",
-   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
-  },
-  {
-   "dir": "down",
-   "row": 12,
+   "row": 3,
    "col": 7,
-   "x": "jceC0pW/1omETs2Wn43HuE7QlpzNlYxR0pT4",
-   "clue": "अन्न शिजवण्याचे काम"
+   "x": "jceDTtCWhlHRloBO0MnT2paO",
+   "clue": "चण्याचे झाड आणि दाणे"
   },
   {
    "dir": "across",
-   "row": 12,
-   "col": 16,
-   "x": "jceg0pSMSs2Vmc2Wjg==",
-   "clue": "सुगंधी पिवळे फूल"
-  },
-  {
-   "dir": "down",
-   "row": 12,
-   "col": 16,
-   "x": "jceg0pSMSs2Vpw==",
-   "clue": "गोल फिरणारे"
-  },
-  {
-   "dir": "down",
-   "row": 12,
-   "col": 19,
-   "x": "jceQ0pW/1omBTs2WlI3HhE7QlpxR0Za6TtDJwg==",
-   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
-  },
-  {
-   "dir": "across",
-   "row": 13,
-   "col": 1,
-   "x": "jceUTtCWj82VjFHSlMCDnoxM0pKdTdKJlg==",
-   "clue": "व्यासांचे महाकाव्य"
-  },
-  {
-   "dir": "across",
-   "row": 13,
-   "col": 9,
-   "x": "jceI0pW5Ss2Vkc2XsA==",
-   "clue": "ताक घुसळून काढलेले"
-  },
-  {
-   "dir": "down",
-   "row": 13,
-   "col": 9,
-   "x": "jceI0pW5Ss2Vkc2WjhGDnodM0pKe0ZaT",
-   "clue": "चिक्कीसाठी प्रसिद्ध घाटातील ठिकाण"
-  },
-  {
-   "dir": "down",
-   "row": 13,
-   "col": 13,
-   "x": "jceQ0pSN1omzTs2WmhGDnoE=",
-   "clue": "पानांना टोक असलेला पवित्र वृक्ष"
-  },
-  {
-   "dir": "across",
-   "row": 13,
-   "col": 15,
-   "x": "jceS0pSMSs2Vpw==",
-   "clue": "वास घेण्याचे इंद्रिय"
-  },
-  {
-   "dir": "down",
-   "row": 13,
-   "col": 15,
-   "x": "jceS0pSMSs2VpVHSlMeDnrBM0pK3TdKJnNDI4w==",
-   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
-  },
-  {
-   "dir": "across",
-   "row": 13,
-   "col": 19,
-   "x": "jcee0pSMSs2VhM2Wjg==",
-   "clue": "ढोलासोबत वाजणारे वाद्य"
-  },
-  {
-   "dir": "across",
-   "row": 14,
-   "col": 7,
-   "x": "jceQ0pSMSs2Vi82XsRGDnpHQlog=",
-   "clue": "घरी आलेला अतिथी"
-  },
-  {
-   "dir": "down",
-   "row": 14,
-   "col": 11,
-   "x": "jce8TtCWg82VjFHSlPE=",
-   "clue": "ध्वनी"
-  },
-  {
-   "dir": "across",
-   "row": 14,
-   "col": 13,
-   "x": "jceQTtCWks2VsFHSlPo=",
-   "clue": "संक्रांतीला उडवतात तो"
-  },
-  {
-   "dir": "across",
-   "row": 14,
-   "col": 17,
-   "x": "jceX0pWwSs2Vp82WshGDnpg=",
-   "clue": "जमीन हादरण्याची घटना"
-  },
-  {
-   "dir": "down",
-   "row": 14,
-   "col": 17,
-   "x": "jceX0pWwSs2Vpc2XuxGDnoA=",
-   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
-  },
-  {
-   "dir": "across",
-   "row": 15,
+   "row": 4,
    "col": 2,
-   "x": "jceQ0pSMSs2Vh1HSlMCDnoxM0pKx0Zet",
-   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+   "x": "jceC0pW5Ss2Vis2WjhGDnp1M0pKy0Zet",
+   "clue": "सदनिकांचा समूह"
   },
   {
    "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceVTtCWgc2Uv82Wr43HhU7QloZR0Za40pXgg56FTNKSuA==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceKTtCWj1HRlovSlNMf2paA0pOt",
+   "clue": "रस्त्यावरची वर्दळ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 13,
+   "x": "jce/TtCWoc2Uv82WmI3HhU7QloBR0ZaDTtDJyw==",
+   "clue": "आग विझवणारे दल"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jce/TtCWhc2UsA==",
+   "clue": "वडीसाठी मोठी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 16,
+   "x": "jceUTtCWj82VjFHSlMEf2paD0pOqTdKJhNDI7tqWhU7WiYE=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 12,
+   "x": "jceP0pSMSs2Vgc2Xsg==",
+   "clue": "रेती"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceM0pSNSs2VpFHSlN0=",
+   "clue": "डोंगराचे सर्वात उंच टोक"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceM0pSNSs2VgM2XvY3HkA==",
+   "clue": "कोरलेली मूर्ती"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceP0pSNSs2Vgs2WjhGDnpxM0pK30ZaSTtDJy9qXvdKSlA==",
+   "clue": "पूर्णविराम स्वल्पविराम वगैरे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceP0pSNSs2VlM2XvY3HldKVs0rNlZY=",
+   "clue": "वीज"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceUTtCWj82VjFHSlMUf2panTtaJgQ==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 14,
+   "x": "jcev0pWzSs2Vrc2XsY3HuE7Qlpo=",
+   "clue": "परिवार"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 14,
+   "x": "jcev0pWzSs2VnM2WjhGDnoJM0pK60ZavTtDJxEbSlILWiLzSiYc=",
+   "clue": "निर्गुणी भजनांचे गायक"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 19,
+   "x": "jceQ0pSNSs2VqFHSlPiDnoxM0pKd0Zet",
+   "clue": "रंगपंचमीला रंग उडवायची"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 12,
+   "x": "jcePTtCWqs2VjFHSlMGDnoxM0pK40Zet",
+   "clue": "एका संख्येतून दुसरी काढणे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 18,
+   "x": "jceS0pSMSs2VqFHSlM6Dn7I=",
+   "clue": "लाल पौष्टिक धान्य; रागी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceI0pW5Ss2Vp1HSlPqDn7JM0pKJ",
+   "clue": "परंपरेने चालत आलेले गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceI0pW5Ss2Vp1HSlN8=",
+   "clue": "मुंबईची उपनगरी रेल्वे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcet0pWySs2VllHSlN2DnoxM0pKD0ZaTTtDJzEbSlJE=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 10,
+   "x": "jcee0pWzSs2VgVHSlPGDnoxM0pKH0ZevTtDJ0w==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jcee0pWzSs2Vp1HSlMyDn7lM0pKx0Zet",
+   "clue": "ग्रामगीता लिहिणारे राष्ट्रसंत"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceC0pSwSs2VpVHSlM4f2pal",
+   "clue": "कॉम्प्युटर"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 16,
+   "x": "jceKTtCWks2Uv82WmI3HhE7QlqHNlY1R0pTdg5+y",
+   "clue": "हापूस आंब्यासाठी प्रसिद्ध कोकणातील जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 18,
+   "x": "jcet0pSNSs2Vlc2WjhGDnpM=",
+   "clue": "मेलेली जनावरे खाणारा मोठा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceQ0pW1Ss2Vrc2XvY3HitKVuUrNlYA=",
+   "clue": "गाड्यांचे इंधन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jceQ0pW1Ss2Vrc2XsA==",
+   "clue": "सामान ठेवायची डबी; ट्रंक"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jces0pWz1omzTs2Wr43Gug==",
+   "clue": "कपडे अडकवण्यासाठी भिंतीतला खिळा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceU0pSMSs2Vkc2WjxGDnqc=",
+   "clue": "लाल रंगाचे रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jce8TtCWqs2Usg==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 13,
+   "x": "jceQTtCWhs2Uv82WhRGDnpY=",
+   "clue": "उंच डोंगर; गिरी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 13,
+   "x": "jceQTtCWj82VjFHSlMw=",
+   "clue": "मोठा उंच डोंगर"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 15,
+   "x": "jceeTtCWjw==",
+   "clue": "युद्धानंतरचा करार"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 17,
+   "x": "jcem0pW5Ss2Vk1HSlNiDn7I=",
+   "clue": "पायाच्या बोटातील चांदीचे दागिने"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 19,
+   "x": "jceP0pWySs2Vkc2XtxGDnqdM0pKd0Zet",
+   "clue": "दिंडीत वीणा घेऊन चालणारा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 11,
+   "x": "jceU0pW11omzTs2Wko3Gug==",
+   "clue": "लोकर देणारी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jceQ0pW/1omB0omMTI3HmU7QloPNlYxR0pTCg5+w",
+   "clue": "श्वासात घ्यायचा वायू"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 4,
+   "x": "jceQ0pW/1omB0omMTI3HmdKUjUrNlYrNlrIRg56l0Je7zZWCUdKU1IOejEzSkp9N0omd",
+   "clue": "प्राणी पाहण्याची बाग"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 6,
+   "x": "jceP0pSMSs2VmlHSlN0=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 10,
+   "x": "jcet0pWzSs2VkM2XsBGDnpjQlohR0ZaMTtDJ1tqWjg==",
+   "clue": "मराठी नववर्षाचा पहिला दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 12,
+   "x": "jceQ0pSMSs2Vp82XsBGDnq0=",
+   "clue": "पैसे ठेवायची लहान पिशवी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 17,
+   "x": "jceg0pSMSs2VgFHSlPg=",
+   "clue": "गाडी चालवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 17,
+   "x": "jceg0pSMSs2VgFHSlPgf2paaTtaJgU7NloWNx4RO0JaezZWM",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "across",
    "row": 15,
    "col": 4,
-   "x": "jceX0pSMSs2VglHSlMk=",
-   "clue": "आपला देश"
+   "x": "jceC0pSwSs2Vls2XshGDnoI=",
+   "clue": "काठ्यांनी वाजवायचे तंतुवाद्य"
   },
   {
    "dir": "across",
    "row": 15,
    "col": 9,
-   "x": "jcePTtCWqVHRlpjSlNMf2pao0pOvTdKJgQ==",
-   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+   "x": "jceg0pSNSs2Vls2XvY3Hik7QlpxR0ZayTtDJ29qXs07WiYbSiL/Qyfzal7A=",
+   "clue": "सिनेमाचे जग"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 9,
+   "x": "jceg0pSNSs2VnFHSlPKDnow=",
+   "clue": "लहान वस्तू पकडण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 11,
+   "x": "jceQTtCWhlHRlrhO0MnT",
+   "clue": "मुलींचा घागरा"
   },
   {
    "dir": "across",
    "row": 15,
-   "col": 19,
-   "x": "jcetTtCWj82UsA==",
-   "clue": "चपातीचे धान्य"
+   "col": 16,
+   "x": "jcel0pSNSs2Vp1HSlN+Dn7I=",
+   "clue": "कपाळावर लावायचा ठिपका"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 7,
+   "x": "jceC0pSwSs2VnVHSlMM=",
+   "clue": "स्वतःवरचा ताबा"
   },
   {
    "dir": "down",
    "row": 16,
-   "col": 1,
-   "x": "jcewTtCWjg==",
-   "clue": "गोड रसाचे पीक"
+   "col": 7,
+   "x": "jceC0pSwSs2Vlc2XsA==",
+   "clue": "दोन शब्द जोडण्याचा व्याकरणी नियम"
   },
   {
-   "dir": "across",
-   "row": 16,
-   "col": 8,
-   "x": "jceS0pSNSs2Vgc2Wjg==",
-   "clue": "आकाशाचा रंग"
-  },
-  {
-   "dir": "across",
+   "dir": "down",
    "row": 16,
    "col": 15,
-   "x": "jcegTtCWnM2Uv82WmhGDnoA=",
-   "clue": "पायतण"
+   "x": "jcePTtCWjs2Us1HSlMGDnoxM0pKdTdKJig==",
+   "clue": "दिवाळीची सुरुवात; गायवासराची पूजा"
   },
   {
    "dir": "across",
    "row": 17,
-   "col": 1,
-   "x": "jceCTtCWhlHRloFO0MnH",
-   "clue": "थंड गोड पेय"
-  },
-  {
-   "dir": "down",
-   "row": 17,
-   "col": 2,
-   "x": "jceKTtCWg82VjVHSlNiDnoxM0pKd",
-   "clue": "सुट्टीचा वार"
-  },
-  {
-   "dir": "down",
-   "row": 17,
-   "col": 12,
-   "x": "jceK0pSMSs2VnA==",
-   "clue": "अयोध्येचा राजा"
+   "col": 3,
+   "x": "jcet0pWzSs2Vi82Wjg==",
+   "clue": "डोंगरातील पोकळी"
   },
   {
    "dir": "across",
    "row": 17,
-   "col": 14,
-   "x": "jceU0pSMSs2VnM2XsA==",
-   "clue": "मामांची पत्नी"
+   "col": 6,
+   "x": "jcec0pWzSs2Vlc2XsA==",
+   "clue": "लांब हिरवा भोपळा"
   },
   {
    "dir": "down",
    "row": 17,
-   "col": 14,
-   "x": "jceU0pSMSs2Vh1HSlNuDn7I=",
-   "clue": "आईची बहीण"
+   "col": 6,
+   "x": "jcec0pWzSs2Vgs2XvY3HltKVskrNlZE=",
+   "clue": "दूरचे जवळ दाखवणारे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 13,
+   "x": "jceQ0pSMSs2Vrc2XsA==",
+   "clue": "दगडी लिहिण्याचा फलक"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 15,
+   "x": "jceC0pWzSs2Vlc2WjhGDnoJM0pKV",
+   "clue": "साखरेचा लिंबू घातलेला पाक"
   },
   {
    "dir": "across",
    "row": 18,
-   "col": 11,
-   "x": "jceS0pSMSs2VnFHSlMuDn7VM0pKY",
-   "clue": "पंजाबपर्यंत भक्ती पोहोचवणारे संत"
-  },
-  {
-   "dir": "down",
-   "row": 18,
-   "col": 11,
-   "x": "jceS0pSMSs2VhM2WjxGDnqc=",
-   "clue": "द्राक्षे आणि कुंभमेळ्यासाठी प्रसिद्ध शहर"
-  },
-  {
-   "dir": "across",
-   "row": 19,
-   "col": 0,
-   "x": "jceC0pW5Ss2VnFHSlNiDnoxM0pKd",
-   "clue": "आठवड्याचा पहिला कामाचा दिवस"
-  },
-  {
-   "dir": "down",
-   "row": 19,
-   "col": 0,
-   "x": "jceC0pW5Ss2Vms2Xtw==",
-   "clue": "पिवळा मौल्यवान धातू"
-  },
-  {
-   "dir": "across",
-   "row": 20,
    "col": 10,
-   "x": "jce1TtCWo1HRloXSlNMf2paV",
-   "clue": "भारुडे रचणारे पैठणचे संत"
+   "x": "jces0pSMSs2VglHSlMaDn7NM0pKy0Zet",
+   "clue": "समुद्रकिनारी खाऱ्या पाण्यात वाढणारी झाडे"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 10,
+   "x": "jces0pSMSs2Vk82XsA==",
+   "clue": "समुद्राचा जमिनीत शिरलेला भाग"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 19,
+   "x": "jce8TtCWmM2Uv82Wgg==",
+   "clue": "लिंबासारखा आंबट रासायनिक पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 19,
+   "x": "jce8TtCWmFHRlrLSle0=",
+   "clue": "डाळीचे तिखट पातळ कालवण"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 1,
+   "x": "jce/TtCWm82VjVHSlMUf2paf",
+   "clue": "भूमिका साकारणे"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 1,
+   "x": "jce/TtCWoc2Uv82WmI3Gug==",
+   "clue": "आग"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 3,
+   "x": "jceSTtCWjg==",
+   "clue": "रक्त वाहून नेणारी नलिका"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 9,
+   "x": "jcet0pSMSs2Vk82XsA==",
+   "clue": "वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 14,
+   "x": "jceXTtCWhlHRlolO0MnL2paOTtaJrtKIv9DJzEbSlJw=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
   }
  ]
 }

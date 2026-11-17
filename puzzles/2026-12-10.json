@@ -1,177 +1,177 @@
 {
  "id": "2026-12-10",
- "title": "निसर्ग",
- "difficulty": "सोपे",
- "rows": 13,
+ "title": "संगीत आणि चित्रपट",
+ "difficulty": "मध्यम",
+ "rows": 14,
  "cols": 12,
  "entries": [
   {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceQ0pSNSs2VqFHRlPiDnoxM0pKd0Zet",
+   "clue": "रंगपंचमीला रंग उडवायची"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jcaITtCWns2VjVHRlMODn7VM0pKbTdKJmQ==",
+   "clue": "कार्टून चित्रपट"
+  },
+  {
    "dir": "across",
-   "row": 0,
+   "row": 1,
    "col": 4,
-   "x": "jcevTtCWl82Us1HRlN+Dno3QlrRR0ZaB",
-   "clue": "कडू पानांचे झाड"
+   "x": "jceC0pW5Ss2VmM2VjhGDnppM0pKL0ZeqTdDJ1g==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
   },
   {
    "dir": "down",
-   "row": 0,
-   "col": 4,
-   "x": "jcevTtCWhM2Vjc2VshGDnqVM0pKM",
-   "clue": "उन्हाळ्यातील लाल गराचे मोठे फळ"
-  },
-  {
-   "dir": "down",
-   "row": 0,
+   "row": 1,
    "col": 7,
-   "x": "jceWTtCWhs2Uv82Vmw==",
-   "clue": "हिम"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 10,
-   "x": "jcezTtCWns2Uv82ViY3HhE7QloXNlYw=",
-   "clue": "सर्वात उष्ण ऋतू"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 8,
-   "x": "jceD0pSNSs2Vh82VjhGDnoHQlog=",
-   "clue": "थंडीचा ऋतू"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 8,
-   "x": "jceD0pSNSs2VglHRlNgf2paD",
-   "clue": "हिरवेगार गवत"
+   "x": "jcec0pW1Ss2VhFHRlMAf2pal0pOg0ZaJ0ZTSH9qWp9KTrU3SiZU=",
+   "clue": "देशप्रेमाचे गाणे"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 3,
-   "x": "jcePTtCWlw==",
-   "clue": "पारंब्या असलेला मोठा वृक्ष"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 3,
-   "x": "jcePTtCWqVHRlpjRlNMf2pao0pOvTdKJgg==",
-   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 6,
-   "x": "jceQTtCWls2VjFHRlN0=",
-   "clue": "उंचावरील सपाट प्रदेश"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 6,
-   "x": "jceQTtCWj82VjFHRlPI=",
-   "clue": "सूर्योदयापूर्वीची वेळ"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 11,
-   "x": "jcecTtCWgw==",
-   "clue": "पहाटे पानांवर साचणारे पाण्याचे थेंब"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 2,
-   "x": "jceI0pSMSs2VrQ==",
-   "clue": "समुद्रातील पाण्याची उसळी"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 8,
-   "x": "jcePTtCWl82VjFHRlMeDnoxM0pKY",
-   "clue": "मुंबईचे लोकप्रिय खाद्य"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 10,
-   "x": "jceQ0pSMSs2VuFHRlNU=",
-   "clue": "पर्जन्य"
-  },
-  {
-   "dir": "down",
-   "row": 5,
    "col": 1,
-   "x": "jcesTtCWl1HRlrg=",
-   "clue": "मोठा दगड"
+   "x": "jceU0pW1Ss2VqlHRlPof2paA0pOg0ZaxTdDJy9qWjg==",
+   "clue": "आकाशात होणारा ढगांचा नाद"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jcetTtCWg82VjA==",
+   "clue": "सह्याद्रीतील रानबैल"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceS0pSMSs2Vrc2UvY3HlU7QlqHNlLFR0ZTU",
+   "clue": "नाटक पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcea0pWzSs2VnFHRlN2Dn7I=",
+   "clue": "उपशास्त्रीय गायनाचा प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceUTtCWhM2Uv82ViY3HhE7QloY=",
+   "clue": "पावसाचा राग"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 3,
-   "x": "jceP0pSMSs2VgVHRlNiDnrBM0pKy",
-   "clue": "रेतीचा प्रदेश, मरुभूमी"
-  },
-  {
-   "dir": "across",
-   "row": 6,
    "col": 0,
-   "x": "jcen0pSMSs2Vkw==",
-   "clue": "वृक्ष"
+   "x": "jcee0pSMSs2Vmg==",
+   "clue": "वेगवान स्वरांची फेक"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcet0pWySs2VllHRlPiDnoxM0pKd",
+   "clue": "गाण्याचे शब्द लिहिणारा"
   },
   {
    "dir": "across",
    "row": 6,
+   "col": 3,
+   "x": "jceCTtCWmM2UsFHRlNQf2pan0pOtTdKJlQ==",
+   "clue": "अनेकांनी मिळून म्हणायचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceCTtCWhlHRlrpN0MnN",
+   "clue": "स्वरांची मालिका"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jcet0pWySs2VllHRlN2DnoxM0pKD0ZaTTdDJzEbSlJE=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 7,
    "col": 10,
-   "x": "jceCTtCWjs2VjA==",
-   "clue": "लांब कानांचा चपळ प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 11,
-   "x": "jceC0pSMSs2Vh1HRlN+Dn7I=",
-   "clue": "छाया"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 1,
-   "x": "jcevTtCWmFHRlp4=",
-   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 2,
-   "x": "jceUTtCWj82VjFHRlMEf2paD0pOqTdKJh9DI7tqWhU7WiYE=",
-   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+   "x": "jceQ0pW/1omBTs2VpY3HhE7QloBR0ZaV0ZTvH9qWhtKToNGWn9GV6h/alodO1omS",
+   "clue": "पाने अन्न बनवतात ती क्रिया"
   },
   {
    "dir": "across",
    "row": 8,
-   "col": 9,
-   "x": "jceW0pSMSs2VlFHRlN+Dn7I=",
-   "clue": "पाणी भरण्याचे भांडे"
+   "col": 0,
+   "x": "jceC0pSMSs2Vl1HRlNWDnrBM0pK6TdKJlQ==",
+   "clue": "गायकासोबत वाद्याची साथ"
   },
   {
    "dir": "across",
-   "row": 9,
+   "row": 8,
+   "col": 8,
+   "x": "jcet0pSMSs2Vnc2VjxGDnqfQlog=",
+   "clue": "गाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcet0pSMSs2VnVHRlMU=",
+   "clue": "गाणे म्हणणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceVTtCWmFHRloU=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
    "col": 1,
-   "x": "jcev0pW51omzTs2VnBGDnpPQlog=",
-   "clue": "पहाटे आरवणारा"
+   "x": "jcet0pWzSs2Vgs2UsRGDnpbQl7vNlYfNlY4Rg56nTNKSndGXoNGU2h/alpM=",
+   "clue": "सफरचंद खाली पडण्याचे कारण"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jcevTtCWhM2Uv82Vn43HhE7QlpU=",
+   "clue": "मुंबईजवळचे मोठे रेल्वे जंक्शन"
   },
   {
    "dir": "across",
    "row": 12,
+   "col": 10,
+   "x": "jceNTtCWl82Uv82VrA==",
+   "clue": "सप्तकातील पहिला स्वर"
+  },
+  {
+   "dir": "across",
+   "row": 13,
    "col": 1,
-   "x": "jceS0pSMSs2VglHRlN4=",
-   "clue": "श्रीफळ"
+   "x": "jce8TtCWllHRlphN0MnA",
+   "clue": "स्मृती"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceg0pSNSs2Vls2UvY3HitKVskrNladR0ZTdH9qWkw==",
+   "clue": "शूटिंग"
   }
  ]
 }

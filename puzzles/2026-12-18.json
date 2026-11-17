@@ -1,177 +1,177 @@
 {
  "id": "2026-12-18",
- "title": "दैनिक कोडे",
+ "title": "घर आणि कुटुंब",
  "difficulty": "सोपे",
- "rows": 10,
+ "rows": 14,
  "cols": 12,
  "entries": [
   {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceP0pSMSs2Vrc2UuA==",
+   "clue": "आमटी वाढण्याचे लहान भांडे"
+  },
+  {
    "dir": "down",
    "row": 0,
+   "col": 8,
+   "x": "jceP0pSMSs2VglHRnNU=",
+   "clue": "संपत्तीचा पुढचा हक्कदार"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceQTtCWlVHRlrHRne0=",
+   "clue": "आजीची किंवा आजोबांची आई"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcec0pSMSs2Vgg==",
+   "clue": "दरवाजा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceCTtCWklHRlp3RnO8f2pas0pOt",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceeTtCWhVHRlrVN2MnT",
+   "clue": "जमिनीखालची खोली"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jceiTtCWl82Uv82Vl43HhE7QloU=",
+   "clue": "वेळ दाखवणारे यंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 5,
    "col": 4,
-   "x": "jcegTtCWj82VjA==",
-   "clue": "सकाळचे गरम पेय"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 10,
-   "x": "jcee0pWzSs2Vls2VhhGDnoLQl7Y=",
-   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+   "x": "jcexTtCWks2UsA==",
+   "clue": "वर्षातील सहापैकी एक काळ"
   },
   {
    "dir": "across",
-   "row": 1,
-   "col": 2,
-   "x": "jce9TtCWks2VjVHRnNSDnoxM0pKV",
-   "clue": "भूतकाळाचा अभ्यास"
+   "row": 5,
+   "col": 7,
+   "x": "jcei0pSMSs2VpVHRnN0=",
+   "clue": "पाणी भरण्याचे मोठे भांडे"
   },
   {
    "dir": "down",
-   "row": 1,
+   "row": 5,
+   "col": 8,
+   "x": "jcetTtCWg1HRlok=",
+   "clue": "तृण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
    "col": 3,
-   "x": "jcee0pSNSs2VgVHRnPqDn7BM0pKe",
-   "clue": "संक्रांतीला वाटायचा गोड पदार्थ"
+   "x": "jceS0pSMSs2Vls2Uug==",
+   "clue": "मुलाचा किंवा मुलीचा मुलगा"
   },
   {
    "dir": "down",
-   "row": 1,
-   "col": 5,
-   "x": "jceCTtCWj82Uv82Vl43HhE7QlpDNlL/NlYiNxro=",
-   "clue": "महाराष्ट्रातील पश्चिम घाटाची पर्वतरांग"
+   "row": 6,
+   "col": 3,
+   "x": "jceS0pSMSs2Vls2UvxGDnofQlohR0ZalTdjJ9g==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jcen0pW5Ss2VmFHRnMyDn7I=",
+   "clue": "गवताने शाकारलेले लहान घर"
   },
   {
    "dir": "across",
-   "row": 1,
-   "col": 10,
+   "row": 7,
+   "col": 6,
+   "x": "jceQTtCWhs2VjFHRnMk=",
+   "clue": "पीठ मळण्याचे मोठे ताट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jceeTtCWg82VjA==",
+   "clue": "पोळ्या भाजण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceU0pSMSs2Vk82UuA==",
+   "clue": "घराचा वरचा मजला"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceU0pSMSs2Vi82UvxGDnoI=",
+   "clue": "लग्न झालेल्या मुलीचे आईवडिलांचे घर"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceC0pW/1omETs2Vl43HuE7QlpzNlYxR0Zz4H9qWqE7WiYE=",
+   "clue": "जेवण बनवण्याची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jceC0pW/1omETs2Vl43HuE7QlpzNlYxR0Zz4",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceiTtCWqVHRloXRnNM=",
+   "clue": "संविधान; किंवा प्रसंग"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 8,
+   "x": "jceQ0pWzSs2VllHRnM6Dn7/QlpnNlYw=",
+   "clue": "भावाचा मुलगा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 2,
    "x": "jcee0pSMSs2VrQ==",
    "clue": "जेवणाचे मोठे भांडे"
   },
   {
    "dir": "across",
-   "row": 2,
-   "col": 8,
-   "x": "jceQ0pWzSs2Vrs2VhhGDnoLQl7Y=",
-   "clue": "देवळात पूजा करणारा"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 8,
-   "x": "jceQ0pWzSs2Vis2UtY3Hnk7QlqM=",
-   "clue": "ग्रंथ"
+   "row": 12,
+   "col": 4,
+   "x": "jceS0pSMSs2Vrc2UtY3HlU7Qlo7NlbBR0Zz6g5+yTNKSiQ==",
+   "clue": "संगीत नाटकातील गाणी"
   },
   {
    "dir": "across",
-   "row": 4,
+   "row": 13,
    "col": 0,
-   "x": "jceW0pWzSs2VlM2UtY3HndKUjUrNlZ5R0Zze",
-   "clue": "राजा-वजिराचा पटावरचा खेळ"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 2,
-   "x": "jceWTtCWkFHRlrg=",
-   "clue": "पाण्यात पोहणारा पक्षी"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 7,
-   "x": "jces0pW1Ss2Vp1HRnMyDnow=",
-   "clue": "तिरका चालणारा जलचर"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 7,
-   "x": "jces0pW1Ss2VgVHRnM6Dn7I=",
-   "clue": "मुलांची खेळायची वस्तू"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 9,
-   "x": "jceb0pSMSs2Vgc2Vh43HuE7Qlpo=",
-   "clue": "लाल दाण्यांचे फळ"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 5,
-   "x": "jcevTtCWnM2VjFHRnN4=",
-   "clue": "टिळा लावतात ती जागा"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 5,
-   "x": "jcevTtCWmlHRlozRneCDnpPQl7Y=",
-   "clue": "श्वास रोखून खेळायचा खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 2,
-   "x": "jcevTtCWl82Us1HRnN+Dno3QlrRR0ZaB",
-   "clue": "कडू पानांचे झाड"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 3,
-   "x": "jceb0pWzSs2Vp82UtY3Hr07QloY=",
-   "clue": "चिखलात लोळणारा प्राणी"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 9,
-   "x": "jceWTtCWjg==",
-   "clue": "लाल परी म्हणून ओळखली जाणारी"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 10,
-   "x": "jceCTtCWo82VjFHRnN4=",
-   "clue": "प्रातःकाळ"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 10,
-   "x": "jcev0pSMSs2Vp82Uug==",
-   "clue": "काकांची पत्नी"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 1,
-   "x": "jce/TtCWo82Uv82VjxGDnoI=",
-   "clue": "लिपीचा घटक"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 1,
-   "x": "jce/TtCWoc2Uv82VkI3Gug==",
-   "clue": "आग"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 8,
-   "x": "jcee0pSM1omzTs2Vno3GuE7QloU=",
-   "clue": "भाताचे धान्य"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 8,
-   "x": "jcee0pSM1omzTs2VlI3GvQ==",
-   "clue": "लालसर धातू"
+   "x": "jcevTtCWnM2VjFHRnPI=",
+   "clue": "कपडे ठेवण्याचे"
   }
  ]
 }

@@ -1,177 +1,177 @@
 {
  "id": "2026-12-19",
- "title": "दैनिक कोडे",
+ "title": "माणूस आणि भावना",
  "difficulty": "सोपे",
- "rows": 13,
- "cols": 11,
+ "rows": 14,
+ "cols": 12,
  "entries": [
-  {
-   "dir": "across",
-   "row": 0,
-   "col": 7,
-   "x": "jceP0pSNSs2Vrs2UtI3HpNKUjErNlZo=",
-   "clue": "प्रयोगांचा विषय"
-  },
   {
    "dir": "down",
    "row": 0,
    "col": 7,
-   "x": "jceP0pSNSs2Vrc2UuRGDnpTQlojNlbBR0Z3Mg5+w",
-   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
+   "x": "jceQ0pSMSs2Vkg==",
+   "clue": "शरीराचा मागचा भाग"
   },
   {
    "dir": "down",
    "row": 0,
    "col": 9,
-   "x": "jceSTtCWo82VjFHRnduDnow=",
-   "clue": "प्रदेश दाखवणारे चित्र"
+   "x": "jcepTtCWlVHRloM=",
+   "clue": "केरळचा सण"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jcev0pW5Ss2VmFHRnd0=",
+   "clue": "हाताचा मधला सांधा"
   },
   {
    "dir": "across",
    "row": 1,
-   "col": 5,
-   "x": "jce8TtCWmFHRlrLRnO0=",
-   "clue": "डाळीचे तिखट पातळ कालवण"
+   "col": 6,
+   "x": "jce8TtCWllHRlphN2cnA",
+   "clue": "स्मृती"
   },
   {
    "dir": "down",
    "row": 1,
-   "col": 5,
-   "x": "jce8TtCWks2Uv82Vlo3HhA==",
-   "clue": "वडिलांची बहीण"
+   "col": 6,
+   "x": "jce8TtCWqc2Uv82Vlo3HhE7QlpzNlYxR0Z3yg5+/0JaZzZWM",
+   "clue": "जुना मराठी मैदानी खेळ"
   },
   {
    "dir": "across",
    "row": 2,
    "col": 9,
-   "x": "jceM0pSMSs2Vgc2Vhw==",
-   "clue": "विद्यालय"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 3,
-   "x": "jceM0pSwSs2Vp1HRnd0=",
-   "clue": "महादेव"
+   "x": "jceUTtCWks2Uv82VgRGDnoI=",
+   "clue": "हेवा"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 6,
-   "x": "jcesTtCWl82UsA==",
-   "clue": "फळ्यावर लिहिण्याचा"
+   "col": 5,
+   "x": "jceC0pSwSs2VmM2VhxGDnpRM0pK4",
+   "clue": "वृत्तपत्राचा प्रमुख"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 6,
-   "x": "jcesTtCWl1HRlrg=",
-   "clue": "मोठा दगड"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 3,
-   "x": "jcevTtCWhM2Vjc2VuxGDnqVM0pKM",
-   "clue": "उन्हाळ्यातील लाल गराचे मोठे फळ"
-  },
-  {
-   "dir": "down",
-   "row": 4,
    "col": 8,
-   "x": "jceW0pW5Ss2VrQ==",
-   "clue": "हाताला पाच असतात ती"
+   "x": "jcevTtCWnM2VjFHRnd4=",
+   "clue": "टिळा लावतात ती जागा"
   },
   {
    "dir": "across",
-   "row": 5,
-   "col": 0,
-   "x": "jcec0pW1Ss2Vh1HRnfUf2paA",
-   "clue": "घरातील पूजेची जागा"
+   "row": 4,
+   "col": 10,
+   "x": "jcec0pSMSs2VkM2UuQ==",
+   "clue": "हनुवटीवरचे केस"
   },
   {
    "dir": "down",
-   "row": 5,
-   "col": 1,
-   "x": "jcePTtCWhs2Uv82Vrg==",
-   "clue": "शाळेतील खोली"
+   "row": 4,
+   "col": 10,
+   "x": "jcec0pSMSs2Vlg==",
+   "clue": "चावण्यासाठी असतात ते"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 6,
-   "x": "jcevTtCWnM2VjFHRnfI=",
-   "clue": "कपडे ठेवण्याचे"
+   "col": 7,
+   "x": "jceeTtCWhVHRlpTRndMf2paU",
+   "clue": "हाताचा आतला सपाट भाग"
   },
   {
    "dir": "down",
    "row": 5,
    "col": 7,
-   "x": "jceQ0pSMSs2VuFHRnd8=",
-   "clue": "चालताना टाकतो ते"
+   "x": "jceeTtCWhFHRlpjRndMf2paA",
+   "clue": "धारदार पाते असलेले शस्त्र"
   },
   {
-   "dir": "across",
-   "row": 7,
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jceD0pSMSs2Vkw==",
+   "clue": "अस्थी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
    "col": 5,
-   "x": "jceQ0pW1Ss2Vms2UtI3HgtKUjUrNlYA=",
-   "clue": "खोडता येईल असे लिहिण्याचे साधन"
+   "x": "jceg0pSM1omzTs2VlI3HhE7QloY=",
+   "clue": "चपला शिवणारा"
   },
   {
    "dir": "down",
    "row": 7,
-   "col": 5,
-   "x": "jceQ0pW1Ss2Vmg==",
-   "clue": "शाईने लिहिण्याचे साधन"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 0,
-   "x": "jcecTtCWj82Usg==",
-   "clue": "विरजण लावून बनवतात ते"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 0,
-   "x": "jcecTtCWjlHRlp3RndM=",
-   "clue": "विजयादशमी"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 3,
-   "x": "jceU0pW6Ss2VlM2VhxGDnpo=",
-   "clue": "खेळाची जागा"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 3,
-   "x": "jceU0pW6Ss2Vls2UtI3HitKVskrNlZE=",
-   "clue": "सखी"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 0,
-   "x": "jceK0pSMSs2VnM2VhxGDnp1M0pKO",
-   "clue": "वाल्मिकींचे महाकाव्य"
-  },
-  {
-   "dir": "down",
-   "row": 10,
    "col": 1,
-   "x": "jceU0pSMSs2Vh1HRnd6Dnow=",
-   "clue": "शिवरायांचा सैनिक"
+   "x": "jceS0pW/1ome0omPRY3HldKUjErNlZXNlLkRg56E",
+   "clue": "न्याय देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceU0pSNSs2Vls2UtI3Hig==",
+   "clue": "सखा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jceX0pSMSs2Vrs2UuRGDnofQlohR0Zaf0Z3T",
+   "clue": "भाजी विकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceh0pSMSs2Vnc2VhxGDnqjQlolR0ZaJ0Zzgg56CTNKSuNGWk03ZydM=",
+   "clue": "फोटो काढणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jcev0pSMSs2Vgs2UtI3HldKUjErNlYBR0Z3C",
+   "clue": "ऑफिस"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceVTtCWgA==",
+   "clue": "सफलता"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceVTtCWo82UsVHRnck=",
+   "clue": "पचनाला मदत करणारे मोठे इंद्रिय"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jceeTtCWmlHRlp/RndM=",
+   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 8,
+   "x": "jce/0pSwSs2VpVHRnc2Dnow=",
+   "clue": "हाताचे जाड बोट"
   },
   {
    "dir": "across",
    "row": 12,
-   "col": 0,
-   "x": "jceRTtCWhc2VjA==",
-   "clue": "वर्गातील काळा बोर्ड"
+   "col": 6,
+   "x": "jceWTtCWhlHRlrpN2cnC2pew",
+   "clue": "छातीचे वाकडे हाड"
   }
  ]
 }

@@ -1,177 +1,177 @@
 {
  "id": "2026-11-30",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 11,
- "cols": 11,
+ "title": "खाऊ आणि स्वयंपाकघर",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 7,
-   "x": "jceiTtCWhlHRlbLTleo=",
-   "clue": "पक्ष्याचे घर"
+   "col": 6,
+   "x": "jcev0pSMSs2Vg1HTlNgf2paT",
+   "clue": "रस्सा असलेली भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceK0pSMSs2Vn1HTlMYf2paD",
+   "clue": "सीताफळासारखे लाल फळ"
   },
   {
    "dir": "across",
    "row": 1,
    "col": 5,
-   "x": "jcez0pSwSs2Vl82WsBGDnoI=",
-   "clue": "गणपतीचे वाहन"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 5,
-   "x": "jcez0pSwSs2Vrg==",
-   "clue": "वाळवंटातील जहाज"
+   "x": "jceDTtCWhFHRlZjTlNM=",
+   "clue": "गाजराचा किंवा रव्याचा गोड पदार्थ"
   },
   {
    "dir": "across",
    "row": 2,
-   "col": 4,
-   "x": "jceW0pW1Ss2Vrg==",
-   "clue": "चारही बाजूंनी पाण्याने वेढलेला भूभाग"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 4,
-   "x": "jceW0pW1Ss2VkM2WshGDnqc=",
-   "clue": "पावसाळ्यात डराँव डराँव करणारा"
+   "col": 0,
+   "x": "jceCTtCWhlHRlbpP0MnN",
+   "clue": "स्वरांची मालिका"
   },
   {
    "dir": "across",
    "row": 3,
    "col": 3,
-   "x": "jceI0pSMSs2VkM2Wsg==",
-   "clue": "गोल गोड पदार्थ"
+   "x": "jceRTtCWhlHRlZXTlNMf2paT",
+   "clue": "तळलेले खारे पदार्थ"
   },
   {
    "dir": "down",
-   "row": 4,
-   "col": 1,
-   "x": "jceC0pSMSs2Vmw==",
-   "clue": "सर्प"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 4,
-   "x": "jcevTtCWl82UsFHTlN+Dno3QlrRR0ZWB",
-   "clue": "कडू पानांचे झाड"
-  },
-  {
-   "dir": "down",
-   "row": 4,
+   "row": 3,
    "col": 5,
-   "x": "jceb0pWzSs2VpM2WvY3Hr07QloY=",
-   "clue": "चिखलात लोळणारा प्राणी"
+   "x": "jceC0pSMSs2Vnc2WsRGDnpTQlohR0ZWO05TTH9qWhU7WiZDRiY0=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceC0pWySs2Vlc2XjhGDnplM0pKe",
+   "clue": "डोळ्यांसारख्या सालीचे गोड फळ"
   },
   {
    "dir": "down",
    "row": 4,
-   "col": 7,
-   "x": "jceWTtCWkFHRlbg=",
-   "clue": "पाण्यात पोहणारा पक्षी"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 0,
-   "x": "jcezTtCWnFHRlYPTlNM=",
-   "clue": "रव्याचा खारट पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 2,
-   "x": "jceU0pSMSs2VpFHTlMw=",
-   "clue": "वानर"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 9,
-   "x": "jcet0pW11omzTc2XkY3HhA==",
-   "clue": "नाकावर शिंग असलेला जाडजूड प्राणी"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 2,
-   "x": "jcevTtCWms2Us1HTlMkf2paA",
-   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 4,
-   "x": "jceeTtCWhM2Vj1HTlNg=",
-   "clue": "तळे"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 7,
-   "x": "jcevTtCWhlHRlYzTlNM=",
-   "clue": "राखाडी"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 8,
-   "x": "jceKTtCWo82UvM2Xh43HhE7QlprNlbNR05TKH9qWmA==",
-   "clue": "बहीण भावाला राखी बांधते तो सण"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 0,
-   "x": "jceS0pSM1omzTc2Xlo3GvU7Qlpc=",
-   "clue": "हजूर साहिब गुरुद्वारासाठी प्रसिद्ध शहर"
-  },
-  {
-   "dir": "down",
-   "row": 7,
    "col": 1,
-   "x": "jcec0pW1Ss2Vhw==",
-   "clue": "राष्ट्र"
+   "x": "jcee0pSMSs2Vrg==",
+   "clue": "जेवणाचे मोठे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceWTtCWkM2Vj1HTlMM=",
+   "clue": "बुद्धी वाढवतो असे म्हणतात तो सुका मेवा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceR0pW5Ss2VkFHTlM6Dn7I=",
+   "clue": "तेलात मोहरी-जिरे तडतडवणे"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jce8TtCWmM2UvM2XgBGDnqTQlrRR0ZWM",
+   "clue": "आंब्याचे श्रीखंड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jce8TtCWrM2Vj1HTlN2Dn7I=",
+   "clue": "स्वयंपाक करणारा"
   },
   {
    "dir": "across",
    "row": 8,
-   "col": 3,
-   "x": "jceQ0pSNSs2VhFHTlN6Dnow=",
-   "clue": "हळदीचा रंग"
+   "col": 4,
+   "x": "jce/0pSwSs2VkM2XjhGDnqdM0pKd0ZSt",
+   "clue": "अंड्याचा रस्सा"
   },
   {
    "dir": "down",
    "row": 8,
-   "col": 3,
-   "x": "jceQ0pSNSs2Vh1HTlNiDn7I=",
-   "clue": "सामान ठेवण्याची"
+   "col": 4,
+   "x": "jce/0pSwSs2Vrc2WsBGDnoI=",
+   "clue": "सुकवून खाल्ले जाणारे गोड फळ"
   },
   {
    "dir": "down",
    "row": 8,
-   "col": 10,
-   "x": "jcezTtCWgM2UsQ==",
-   "clue": "झोपताना डोक्याखाली घेतो ती"
+   "col": 6,
+   "x": "jcevTtCWhVHRlYc=",
+   "clue": "हरणांचा किंवा गुरांचा समूह"
   },
   {
    "dir": "across",
    "row": 9,
-   "col": 7,
-   "x": "jceUTtCWkVHRlYPTlNMf2paG0pOt",
-   "clue": "मध गोळा करणारा कीटक"
+   "col": 8,
+   "x": "jcePTtCWl82Vj1HTlMeDnoxM0pKY",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcePTtCWl82Vjw==",
+   "clue": "तळलेला गोल पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceQ0pSMSs2Vks2WsBGDnpjQl7dR0ZWd05Xt",
+   "clue": "गोलगप्पे"
   },
   {
    "dir": "across",
    "row": 10,
-   "col": 2,
-   "x": "jcepTtCWg82UsQ==",
-   "clue": "ज्ञानेश्वरीतील छंद"
+   "col": 1,
+   "x": "jcev0pW5Ss2Vh82Xj43HuE7QlprNlLFR05Td",
+   "clue": "दह्यात कालवलेली कच्ची भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jcev0pW5Ss2Vgs2XshGDnp7Ql7Y=",
+   "clue": "लहान वाकडी जलचर; प्रॉन"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceQTtCWo82UulHTlMyDnow=",
+   "clue": "बेसनात घोळून तळलेली भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcev0pW5Ss2VlM2Xj43HuE7QlprNlLFR05Td",
+   "clue": "हिरवी सुगंधी पाने"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 7,
+   "x": "jceW0pWySs2Vrg==",
+   "clue": "लाल रंगाचा कंद"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jceC0pSM1omzTc2XnI3HhE7QloY=",
+   "clue": "दक्षिणी डाळीची आमटी"
   }
  ]
 }

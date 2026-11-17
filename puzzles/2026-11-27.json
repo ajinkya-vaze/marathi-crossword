@@ -1,177 +1,177 @@
 {
  "id": "2026-11-27",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 14,
- "cols": 12,
+ "title": "गाव आणि शहर",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 11,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 8,
-   "x": "jcev0pSMSs2VpM2WiQ==",
-   "clue": "वडिलांचा भाऊ"
+   "col": 4,
+   "x": "jce/0pSwSs2VlVHSk92DnoxM0pKeTdGJh9fI40bSlII=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceg0pSMSs2Vgg==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceg0pSMSs2Vg1HSk/gf2paaTtaJgU3NloKNx4RO0JaezZWP",
+   "clue": "गाडी चालवण्याचा लायसन्स"
   },
   {
    "dir": "across",
    "row": 1,
-   "col": 7,
-   "x": "jcec0pWzSs2VpM2WiRGDnpo=",
-   "clue": "वस्तू विकण्याची जागा"
+   "col": 3,
+   "x": "jcev0pW5Ss2VlVHSk9iDnoxM0pKf",
+   "clue": "गावातील दवंडी देणारा"
   },
   {
    "dir": "down",
    "row": 1,
-   "col": 9,
-   "x": "jceSTtCWvFHRlZjSk9Mf2paA0pOt",
-   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+   "col": 10,
+   "x": "jcev0pSMSs2VlVHSk8yDn7I=",
+   "clue": "त्वचा; चामडे"
   },
   {
    "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jceg0pSMSs2VhFHSk8yDn7I=",
+   "clue": "गावातील सभेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jcevTtCWrFHRlZ3Sk9M=",
+   "clue": "टाकाऊ घाण"
+  },
+  {
+   "dir": "across",
    "row": 3,
-   "col": 7,
-   "x": "jceU0pWzSs2Vg1HSk/qDn7I=",
-   "clue": "कन्या"
+   "col": 2,
+   "x": "jcePTtCWhs2UvM2WkRGDnoE=",
+   "clue": "लोकांची ये-जा"
   },
   {
    "dir": "across",
    "row": 3,
    "col": 9,
-   "x": "jceP0pSMSs2Vrs2WiRGDnpHQlog=",
-   "clue": "हिरवे गोल दाणे"
+   "x": "jceP0pSMSs2VkM2Xtw==",
+   "clue": "लहान वस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceP0pSMSs2ViFHSk8mDn7BM0pK4TdGJp9fI6NqWsk7WiZDRiLI=",
+   "clue": "ट्रॅफिक जॅम"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 7,
-   "x": "jceITtCWoc2UulHSk92Dn7I=",
-   "clue": "दगडांची रास पाडण्याचा खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 6,
-   "x": "jceU0pWz1omzTc2WoI3Gug==",
-   "clue": "लहान कष्टाळू कीटक"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 6,
-   "x": "jceU0pWz1omzTc2WmxGDnro=",
-   "clue": "महाराष्ट्राची राजधानी"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 2,
-   "x": "jceW0pWzSs2Vl82Xuo3HndKUjUrNlZ1R0pPe",
-   "clue": "राजा-वजिराचा पटावरचा खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 5,
-   "x": "jceM0pSMSs2VuQ==",
-   "clue": "पेनातील रंगीत द्रव"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 5,
-   "x": "jceM0pSMSs2Vgs2WiQ==",
-   "clue": "विद्यालय"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 4,
-   "x": "jceRTtCWhc2Vjw==",
-   "clue": "वर्गातील काळा बोर्ड"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 4,
-   "x": "jceRTtCWqc2Vj1HSk/iDn7U=",
-   "clue": "दिवाळीत फोडतात ते"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 8,
-   "x": "jcem0pW/1omv0YmMS43HktKVtUrNlYfNl7qNx49O0JaG",
-   "clue": "भावार्थदीपिका लिहिणारे आळंदीचे संत"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 0,
-   "x": "jceU0pW/1omI0Yi6S43Hgg==",
-   "clue": "दूध देणारी काळी"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 2,
-   "x": "jceWTtCWqc2Vj1HSk/KDnow=",
-   "clue": "वड्यात भरतात तो कंद"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 7,
-   "x": "jceC0pW5Ss2Vmc2XsA==",
-   "clue": "पिवळा मौल्यवान धातू"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 0,
-   "x": "jceCTtCWo82Vj1HSk94=",
-   "clue": "प्रातःकाळ"
-  },
-  {
-   "dir": "down",
-   "row": 10,
    "col": 1,
-   "x": "jcev0pSMSs2Vqw==",
-   "clue": "पारदर्शक नाजूक पदार्थ"
+   "x": "jceD0pW5Ss2VkM2Xtw==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jceKTtCWjs2UvM2Wk43HhA==",
+   "clue": "सडक"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceQ0pSMSs2VgQ==",
+   "clue": "वडाभोवतीचा बसण्याचा चौथरा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceQ0pSMSs2Vgc2WiBGDnq7QlohR0ZWJTtfJ9g==",
+   "clue": "रात्री फुलांचा सडा घालणारे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceeTtCWhM2Vj1HSk82Dn7I=",
+   "clue": "गावाची जमीन नोंदी ठेवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceS0pSMSs2VplHSk92Dno1M0pK4",
+   "clue": "शहराचा रहिवासी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcet0pWzSs2Vg82WiRGDnp5M0pKx0ZWTTtfJzQ==",
+   "clue": "पाकात मुरलेले गोड गोळे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceQ0pSMSs2VklHSk8GDn7NM0pKM0ZSt",
+   "clue": "पाण्याखाली जाणारी नौका"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jceQ0pSMSs2Vrs2XtxGDnoA=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceg0pW+Ss2VpA==",
+   "clue": "रस्ते मिळतात ती जागा"
   },
   {
    "dir": "across",
    "row": 10,
-   "col": 4,
-   "x": "jcev0pW1Ss2ViQ==",
-   "clue": "डोक्यावर वाढतात ते"
+   "col": 5,
+   "x": "jcetTtCWhFHRlYFO18nH",
+   "clue": "शिडाचे मोठे जहाज"
   },
   {
    "dir": "down",
    "row": 10,
    "col": 5,
-   "x": "jceCTtCWklHRlZ3Sk+8f2pas0pOt",
-   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
-  },
-  {
-   "dir": "across",
-   "row": 11,
-   "col": 5,
-   "x": "jceeTtCWhFHRlZjSk9Mf2paA",
-   "clue": "धारदार पाते असलेले शस्त्र"
+   "x": "jcetTtCWqc2Vj1HSk90=",
+   "clue": "सांडपाण्याचे नाले"
   },
   {
    "dir": "down",
-   "row": 11,
+   "row": 10,
    "col": 7,
-   "x": "jceP0pSMSs2Vgs2XtQ==",
-   "clue": "रेती"
+   "x": "jceWTtCWjg==",
+   "clue": "लाल परी म्हणून ओळखली जाणारी"
   },
   {
    "dir": "across",
-   "row": 13,
-   "col": 5,
-   "x": "jcem0pWySs2VnA==",
-   "clue": "चव घेणारे इंद्रिय"
+   "row": 12,
+   "col": 2,
+   "x": "jceUTtCWj82Vj1HSk8eDn75M0pKd",
+   "clue": "महापालिकेचा प्रमुख"
   }
  ]
 }

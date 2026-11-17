@@ -1,177 +1,177 @@
 {
  "id": "2026-12-21",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 12,
- "cols": 9,
+ "title": "निसर्ग",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
  "entries": [
   {
    "dir": "across",
    "row": 0,
-   "col": 5,
-   "x": "jce/TtCWjs2Uv82WhBGDnoA=",
-   "clue": "मधाचा शौकीन केसाळ प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 5,
-   "x": "jce/TtCWmFHRlp3SldMf2paFTtaJldKIsg==",
-   "clue": "अंबादेवीचे विदर्भातील शहर"
+   "col": 6,
+   "x": "jceR0pW1Ss2Vig==",
+   "clue": "लाटांवर किंवा साबणाचा पांढरा बुडबुडा"
   },
   {
    "dir": "down",
    "row": 0,
    "col": 7,
-   "x": "jceITtCWoc2Uv82WmQ==",
-   "clue": "विवाह"
+   "x": "jceCTtCWhs2UuVHSldgf2paA",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceC0pSwSs2Vlc2XvI3HldKUjErNlafNlo8Rg56B",
+   "clue": "दिवस मावळतानाची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jceD0pSNSs2Vh82WjxGDnoHQlog=",
+   "clue": "थंडीचा ऋतू"
   },
   {
    "dir": "across",
    "row": 2,
-   "col": 4,
-   "x": "jceRTtCWhs2VjFHSld4=",
-   "clue": "दिवाळीचे खास पदार्थ"
+   "col": 9,
+   "x": "jcev0pSMSs2VgFHSldiDnow=",
+   "clue": "शेतीसाठी पाणी नेणारा बांधीव प्रवाह"
   },
   {
    "dir": "across",
-   "row": 4,
-   "col": 4,
-   "x": "jceQTtCWks2Usg==",
-   "clue": "नवरा"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 4,
-   "x": "jceQTtCWlVHRlonSlO0=",
-   "clue": "मातीचा लहान दिवा"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 7,
-   "x": "jceP0pSMSs2Vrc2XsQ==",
-   "clue": "आमटी वाढण्याचे लहान भांडे"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 7,
-   "x": "jceP0pSMSs2VglHSlfgf2paA0pOt",
-   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 0,
-   "x": "jcevTtCWg82VjVHSlcmDnow=",
-   "clue": "काव्य"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 2,
-   "x": "jceC0pSMSs2VnlHSlc4=",
-   "clue": "अंग धुण्यासाठी फेस येणारा"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 2,
-   "x": "jceC0pSMSs2VnVHSlfgf2paC",
-   "clue": "पायाने चालवायचे दुचाकी वाहन"
-  },
-  {
-   "dir": "across",
-   "row": 5,
+   "row": 3,
    "col": 6,
-   "x": "jceU0pW5Ss2Vgg==",
-   "clue": "भारताचा राष्ट्रीय पक्षी"
+   "x": "jceD0pSNSs2VglHSldgf2paD",
+   "clue": "हिरवेगार गवत"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jceD0pSNSs2Vgs2Wjw==",
+   "clue": "सर्वात कठीण रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jcePTtCWjs2VsFHSlck=",
+   "clue": "ऋतूंचा राजा"
   },
   {
    "dir": "across",
-   "row": 6,
-   "col": 0,
-   "x": "jceP0pSNSs2VrlHSlcI=",
-   "clue": "जीत"
-  },
-  {
-   "dir": "across",
-   "row": 6,
+   "row": 5,
    "col": 7,
-   "x": "jcevTtCWgc2Uv82Wrg==",
-   "clue": "मेहनत"
+   "x": "jceM0pW1Ss2Vlg==",
+   "clue": "पिके घेण्याची जमीन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceM0pW1Ss2Vh82WjxGDnoE=",
+   "clue": "पाण्यातील हिरवी बुळबुळीत वनस्पती"
   },
   {
    "dir": "across",
    "row": 7,
-   "col": 5,
-   "x": "jceX0pSMSs2Vp1HSld2Dn7I=",
-   "clue": "ज्वारी किंवा बाजरीच्या पिठाची"
+   "col": 6,
+   "x": "jceU0pSMSs2VgVHSld2DnoxM0pKF",
+   "clue": "गवताळ मोकळी उघडी जमीन"
   },
   {
    "dir": "down",
    "row": 7,
    "col": 6,
-   "x": "jcevTtCWhs2VsFHSlfGDn7I=",
-   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 1,
-   "x": "jceU0pWzSs2VgFHSlfqDnow=",
-   "clue": "पुत्र"
+   "x": "jceU0pSMSs2Vkw==",
+   "clue": "नारळाचे उंच झाड"
   },
   {
    "dir": "down",
-   "row": 8,
-   "col": 1,
-   "x": "jceU0pWzSs2VgFHSlfqDn7I=",
-   "clue": "कन्या"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 3,
-   "x": "jcet0pSMSs2VnVHSlfg=",
-   "clue": "गाणारा कलाकार"
+   "row": 7,
+   "col": 9,
+   "x": "jceSTtCWkM2Usg==",
+   "clue": "सरिता"
   },
   {
    "dir": "across",
-   "row": 9,
-   "col": 0,
-   "x": "jceg0pWwSs2VgA==",
-   "clue": "लाकडे जाळून स्वयंपाक करण्याची जागा"
-  },
-  {
-   "dir": "across",
-   "row": 9,
+   "row": 8,
    "col": 5,
-   "x": "jce8TtCWqs2Usg==",
-   "clue": "वडिलांची किंवा आईची आई"
+   "x": "jcee0pSMSs2Vkw==",
+   "clue": "उंच सरळ खोडाचे झाड; त्यापासून निरा मिळते"
   },
   {
    "dir": "down",
-   "row": 9,
+   "row": 8,
    "col": 5,
-   "x": "jce8TtCWvg==",
-   "clue": "माता"
+   "x": "jcee0pSMSs2Vgs2Wjw==",
+   "clue": "रात्री आकाशात लुकलुकणारा"
   },
   {
    "dir": "across",
-   "row": 10,
-   "col": 3,
-   "x": "jcevTtCWlFHRlqU=",
-   "clue": "तळण्याचे भांडे"
-  },
-  {
-   "dir": "down",
-   "row": 10,
+   "row": 9,
    "col": 4,
-   "x": "jceYTtCWoQ==",
-   "clue": "मेघ"
+   "x": "jceQ0pSMSs2Vgs2Wjw==",
+   "clue": "थर्मामीटरमधील द्रवरूप धातू"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceQ0pSMSs2VmlHSlfof2paD",
+   "clue": "झाडांची पाने गळण्याचा काळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceM0pSN1omzTs2WmxGDnoDQlog=",
+   "clue": "ज्यात मोती तयार होतो ते कवच"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcePTtCWlw==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jcePTtCWlVHRlpjSldM=",
+   "clue": "जंगलात लागलेली आग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jceQTtCWhs2VjFHSlfof2palTtaJkg==",
+   "clue": "फुलातील बारीक पिवळी भुकटी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jces0pW5Ss2Vp1HSld+Dnow=",
+   "clue": "घशातील खवखव"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 1,
+   "x": "jcevTtCWl82VjA==",
+   "clue": "डोंगराची सरळ उभी बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jceP0pSMSs2Vgs2Wjw==",
+   "clue": "पवन"
   }
  ]
 }

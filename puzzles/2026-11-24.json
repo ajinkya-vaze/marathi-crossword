@@ -1,170 +1,177 @@
 {
  "id": "2026-11-24",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
+ "title": "शाळा आणि खेळ",
+ "difficulty": "मध्यम",
  "rows": 14,
  "cols": 12,
  "entries": [
   {
-   "dir": "across",
-   "row": 0,
-   "col": 9,
-   "x": "jceQ0pWzSs2Vrc2WihGDnoLQl7Y=",
-   "clue": "देवळात पूजा करणारा"
-  },
-  {
    "dir": "down",
    "row": 0,
-   "col": 9,
-   "x": "jceQ0pWzSs2VgVHSkM4f2paa0pOmTdGJgdTI4w==",
-   "clue": "होळीच्या सणाचा खास गोड पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 5,
-   "x": "jce9TtCWks2VjlHSkNSDnoxM0pKV",
-   "clue": "भूतकाळाचा अभ्यास"
+   "col": 3,
+   "x": "jceNTtCWqVHRlbjSkNMf2paA",
+   "clue": "सीमापार सहा धावा"
   },
   {
    "dir": "across",
    "row": 1,
-   "col": 7,
-   "x": "jce/TtCWo82UvM2WgxGDnoI=",
-   "clue": "लिपीचा घटक"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 7,
-   "x": "jce/TtCWm82UvM2Wm43HhE7Qlo4=",
-   "clue": "शिकण्यासाठी केलेली मेहनत"
+   "col": 2,
+   "x": "jceiTtCWqVHRlZXSkeCDnpfQlohR0ZWHTtTJy9qWjg==",
+   "clue": "नवरात्राचा पहिला दिवस"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 5,
-   "x": "jceD0pSMSs2Vm82XthGDnoo=",
-   "clue": "कोकणातील प्रसिद्ध आंब्याची जात"
+   "col": 1,
+   "x": "jceC0pSMSs2VplHSkN0f2pan0pOmTdGJrdTI5A==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceC0pSMSs2Vgc2XtBGDnpjQlohR0ZWy",
+   "clue": "फाशांचा जुना खेळ"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 9,
-   "x": "jceQ0pW5Ss2ViM2Xsw==",
-   "clue": "कांदे घालून केला जाणारा न्याहारीचा पदार्थ"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 3,
-   "x": "jceQ0pW/1omBTc2WgY3HhE7Qlo4=",
-   "clue": "यात्रा"
+   "col": 7,
+   "x": "jces0pW5Ss2Vp82Xvw==",
+   "clue": "पाठलागाचा भारतीय खेळ"
   },
   {
    "dir": "down",
-   "row": 4,
-   "col": 3,
-   "x": "jceQ0pW/1omBTc2WkI3HhE7QlpxR0ZW6TtTJwg==",
-   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+   "row": 3,
+   "col": 8,
+   "x": "jces0pW5Ss2VkFHSkN0f2pacTtaJgQ==",
+   "clue": "पेन्सिलचे लिहिलेले पुसणारा"
   },
   {
    "dir": "across",
-   "row": 4,
-   "col": 8,
-   "x": "jcev0pW5Ss2Vgs2XtA==",
-   "clue": "जाळे विणणारा"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 8,
-   "x": "jcev0pW5Ss2Vg82XuY3Hg9KUjA==",
-   "clue": "धूर्त म्हणून ओळखला जाणारा प्राणी"
+   "row": 5,
+   "col": 6,
+   "x": "jceg0pW+Ss2VpM2WihGDnoI=",
+   "clue": "चार धावा"
   },
   {
    "dir": "across",
    "row": 6,
-   "col": 1,
-   "x": "jceX0pWwSs2VpM2WthGDnpg=",
-   "clue": "जमीन हादरण्याची घटना"
+   "col": 0,
+   "x": "jceR0pWzSs2VrlHSkMGDn7tM0pKf",
+   "clue": "पायाने चेंडू मारण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceITtCWjs2Us1HSkM4=",
+   "clue": "फोडणीतील पांढऱ्या पाकळ्या"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcev0pW5Ss2VmVHSkMODnoxM0pKHTdGJpw==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceWTtCWo82UvM2Wg43Guk7Qlo4=",
+   "clue": "स्पर्धेत मिळणारे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jceCTtCWmM2Vj1HSkMWDnoxM0pKd0ZSg0pDIg5+y",
+   "clue": "एकाच अर्थाचे शब्द"
   },
   {
    "dir": "across",
    "row": 7,
    "col": 3,
-   "x": "jcetTtCWlc2VjlHSkMk=",
-   "clue": "आकड्यांचा विषय"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 5,
-   "x": "jceeTtCWmlHRlZ/SkNM=",
-   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+   "x": "jceC0pWwSs2Vgc2XuY3HlU7Qlp5R0ZWDTtTJ29qXvdKSuNGVk07UydM=",
+   "clue": "बारा आसनांचा व्यायाम"
   },
   {
    "dir": "across",
    "row": 8,
+   "col": 0,
+   "x": "jceg0pSNSs2Vm1HSkN6Dn7BM0pKO",
+   "clue": "वाशिष्ठी नदीकाठचे कोकणातील शहर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
    "col": 1,
-   "x": "jcei0pWzSs2VnVHSkMw=",
-   "clue": "रात्री जागणारा मोठ्या डोळ्यांचा पक्षी"
+   "x": "jceQTtCWhlHRlZVO1MnF2paOTtaJgQ==",
+   "clue": "घराच्या मागचे अंगण"
   },
   {
    "dir": "across",
    "row": 8,
+   "col": 10,
+   "x": "jceS0pSMSs2VnM2XtA==",
+   "clue": "पोटाचा मधला खळगा; बेंबी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
    "col": 5,
-   "x": "jceWTtCWjg==",
-   "clue": "लाल परी म्हणून ओळखली जाणारी"
+   "x": "jceQTtCWks2UvM2WkI3GvQ==",
+   "clue": "बावन्न पानांचा खेळ"
   },
   {
    "dir": "across",
    "row": 9,
-   "col": 4,
-   "x": "jceQ0pW1Ss2Vg82Wig==",
-   "clue": "पाणी पिण्याचे भांडे"
+   "col": 8,
+   "x": "jceP0pSNSs2Vl82XuY3HldKUjErNlYHNl7mNx5/SlbI=",
+   "clue": "शिकणारा"
   },
   {
    "dir": "down",
    "row": 9,
-   "col": 4,
-   "x": "jceQ0pW1Ss2VmQ==",
-   "clue": "शाईने लिहिण्याचे साधन"
+   "col": 8,
+   "x": "jceP0pSNSs2Vl82XuY3HldKUjErNlZvNl7QRg56S",
+   "clue": "पदव्या देणारी मोठी संस्था"
   },
   {
    "dir": "across",
    "row": 10,
-   "col": 2,
-   "x": "jceP0pSNSs2Vrc2XuY3HpNKUjErNlZk=",
-   "clue": "प्रयोगांचा विषय"
+   "col": 3,
+   "x": "jceQTtCWkFHRlbg=",
+   "clue": "विजेत्याला मिळणारे"
   },
   {
    "dir": "down",
    "row": 10,
-   "col": 2,
-   "x": "jceP0pSNSs2Vrs2XtBGDnpTQlojNlbNR0pDMg5+w",
-   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 11,
-   "col": 0,
-   "x": "jce8TtCWmFHRlbLSke0=",
-   "clue": "डाळीचे तिखट पातळ कालवण"
+   "col": 3,
+   "x": "jceQTtCWqc2UvM2Wq43Gug==",
+   "clue": "रेघ मारायचे लांब मोजण्याचे साधन"
   },
   {
    "dir": "down",
    "row": 11,
-   "col": 0,
-   "x": "jce8TtCWgM2Vjw==",
-   "clue": "उमेद"
+   "col": 6,
+   "x": "jceCTtCWj1HRlZ8=",
+   "clue": "शाळेची बाहेरची फेरी"
   },
   {
    "dir": "across",
-   "row": 13,
-   "col": 1,
-   "x": "jceg0pW11omzTc2WlY3GuA==",
-   "clue": "गोल खेळणे"
+   "row": 12,
+   "col": 0,
+   "x": "jcem0pW5Ss2VgQ==",
+   "clue": "हात टेकून वरखाली होण्याचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jcet0pWxSs2ViFHSkMeDnoxM0pKN",
+   "clue": "घरी करायचा अभ्यास"
   }
  ]
 }

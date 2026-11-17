@@ -1,170 +1,177 @@
 {
  "id": "2026-11-28",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 11,
+ "title": "विज्ञान आणि अवकाश",
+ "difficulty": "मध्यम",
+ "rows": 12,
  "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 3,
-   "x": "jceR0pWzSs2Vg1HSnMeDnoxM0pK7TdGJgtjI4Q==",
-   "clue": "रंगीबेरंगी पंख असलेला कीटक"
+   "col": 0,
+   "x": "jceQ0pSNSs2VmVHSnPiDn7lM0pKM",
+   "clue": "पत्त्यातील सहा अंकी क्रमांक"
   },
   {
    "dir": "across",
-   "row": 1,
-   "col": 1,
-   "x": "jceX0pWwSs2Vps2XsxGDnoA=",
-   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+   "row": 0,
+   "col": 3,
+   "x": "jceP0pSNSs2Vhs2WhhGDnpHQl7Q=",
+   "clue": "व्हायरस"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceP0pSNSs2Vl82XtY3HldKVs0rNlZVR0pzHg5+/0JaGUdGVmNKc0x/alok=",
+   "clue": "तारेतून वाहणारी वीज"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceC0pSwSs2Vh82XsxGDnpVM0pKF",
+   "clue": "नवीन शोध घेणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcev0pW5Ss2Vgs2XuBGDnqXQl7ZR0ZWJ",
+   "clue": "मच्छीमारांचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jcev0pWzSs2Vn82WhhGDnoJM0pK60ZWvTtjJxEbSlILWiLzRiYc=",
+   "clue": "निर्गुणी भजनांचे गायक"
   },
   {
    "dir": "down",
    "row": 2,
-   "col": 10,
-   "x": "jcezTtCWkM2UvM2Wl43HhA==",
-   "clue": "आजच्या नंतरचा दिवस"
+   "col": 8,
+   "x": "jceKTtCWo82UvM2WnBGDnqVM0pKy",
+   "clue": "ए बी ओ प्रकार"
   },
   {
    "dir": "across",
    "row": 3,
    "col": 3,
-   "x": "jcesTtCWl82Usw==",
-   "clue": "फळ्यावर लिहिण्याचा"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 9,
-   "x": "jceP0pSNSs2Vl82XtY3HldKUjErNlYHNl7WNx5/SlbI=",
-   "clue": "शिकणारा"
+   "x": "jceQ0pW/1omBTc2Wl43GsU7QlqE=",
+   "clue": "विज्ञानातील परीक्षण करून पाहणे"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 9,
-   "x": "jceP0pSNSs2VrVHSnMI=",
-   "clue": "जीत"
+   "col": 5,
+   "x": "jcetTtCWq1HRlZ8=",
+   "clue": "उर्दूतून आलेला काव्यप्रकार"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 2,
-   "x": "jceQ0pW1Ss2Vgc2Xug==",
-   "clue": "अनेक बिया असलेले हिरवे फळ"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 2,
-   "x": "jceQ0pW1Ss2Vmc2XtY3HgtKUjUrNlYM=",
-   "clue": "खोडता येईल असे लिहिण्याचे साधन"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 6,
-   "x": "jcev0pWzSs2Vlc2XtY3HitKUjA==",
-   "clue": "श्वान, इमानदार पाळीव प्राणी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 6,
-   "x": "jcev0pWzSs2Vg82XuhGDnpg=",
-   "clue": "दाराला लावायचे टाळे"
+   "col": 8,
+   "x": "jcetTtCWks2UsQ==",
+   "clue": "वेग"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 8,
-   "x": "jcet0pSMSs2Vng==",
-   "clue": "दूध देणारी, जिला गोमाता म्हणतात"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 8,
-   "x": "jcet0pSMSs2VkM2XuA==",
-   "clue": "वाहन"
-  },
-  {
-   "dir": "across",
-   "row": 6,
    "col": 0,
-   "x": "jcet0pW/1omB0YmwRI3Hn9KUjErNlYNR0pzC",
-   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+   "x": "jcezTtCWnFHRlbrSneCDnoJM0pKU",
+   "clue": "ग्रहाभोवती फिरणारा; चंद्र त्यातलाच"
   },
   {
    "dir": "down",
-   "row": 6,
-   "col": 1,
-   "x": "jcef0pSMSs2Vg82XuBGDnpjQl7ZR0ZWN",
-   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 3,
-   "x": "jceVTtCWgA==",
-   "clue": "सफलता"
+   "row": 5,
+   "col": 0,
+   "x": "jcezTtCWhM2UvM2WrY3HhA==",
+   "clue": "आकाशातून जळत पडणारा दगड"
   },
   {
    "dir": "across",
-   "row": 6,
+   "row": 5,
    "col": 5,
-   "x": "jceC0pSMSs2Vm1HSnNuDno1M0pKM0ZSt",
-   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+   "x": "jceITtCWrs2UsFHSnMcf2pav",
+   "clue": "छोटा चित्रपट"
   },
   {
    "dir": "down",
-   "row": 6,
-   "col": 5,
-   "x": "jceC0pSMSs2VlQ==",
-   "clue": "इंद्रधनुष्याचे रंग"
-  },
-  {
-   "dir": "down",
-   "row": 6,
+   "row": 5,
    "col": 7,
-   "x": "jceM0pSNSs2VhM2WhhGDnq7Ql7Y=",
-   "clue": "स्वराज्याचे संस्थापक छत्रपती"
+   "x": "jceQTtCWhs2Vj1HSnNgf2paA0pOg0ZWJTtjJyw==",
+   "clue": "प्रकाश परत फिरणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceC0pSwSs2Vns2XuRGDnqU=",
+   "clue": "दोन मूलद्रव्यांचे रासायनिक मिश्रण"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcee0pSwSs2Vlc2XtY3Hik7QlqrNlLzNlqaNx4RO0Jae",
+   "clue": "विज्ञानाचा उपयोग"
   },
   {
    "dir": "across",
    "row": 7,
    "col": 3,
-   "x": "jceMTtCWhs2UvM2WlxGDnpY=",
-   "clue": "स्पर्धा"
+   "x": "jceV0pSwSs2Vlc2XtY3Hik7QlpjNlY9R0pzFH9qWhQ==",
+   "clue": "रोबोट"
   },
   {
    "dir": "across",
-   "row": 8,
-   "col": 6,
-   "x": "jce8TtCWqs2UsQ==",
-   "clue": "वडिलांची किंवा आईची आई"
+   "row": 7,
+   "col": 9,
+   "x": "jceU0pSwSs2VplHSnN4=",
+   "clue": "लाल ग्रह"
   },
   {
    "dir": "down",
-   "row": 8,
-   "col": 6,
-   "x": "jce8TtCWqs2UulHSnMGDnow=",
-   "clue": "आजीचे पती"
+   "row": 7,
+   "col": 9,
+   "x": "jceU0pSwSs2VplHSnN4f2paf0pKTTdGJmg==",
+   "clue": "मंगळाकडे गेलेली भारतीय मोहीम"
   },
   {
    "dir": "across",
    "row": 9,
-   "col": 0,
-   "x": "jcepTtCWlg==",
-   "clue": "तोंडाचा कडेचा भाग"
+   "col": 1,
+   "x": "jceg0pSM1omzTc2Wno3Gt9KUgkrNlZ7NloYRg56a",
+   "clue": "चंद्रावर गेलेली भारतीय मोहीम"
   },
   {
    "dir": "down",
    "row": 9,
-   "col": 0,
-   "x": "jcepTtCWlM2Vjw==",
-   "clue": "लहान नदी किंवा नाला"
+   "col": 2,
+   "x": "jcec0pW/1omBTc2WjQ==",
+   "clue": "पाण्यासारखे वाहणारे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jceiTtCWnlHRlYZO2MnQ",
+   "clue": "किती जागा व्यापली"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceiTtCWng==",
+   "clue": "दगडासारखे कठीण रूप"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jceK0pSMSs2Vn1HSnMU=",
+   "clue": "प्रकाशाच्या विकिरणाचा शोध लावणारे भारतीय नोबेलविजेते"
   }
  ]
 }

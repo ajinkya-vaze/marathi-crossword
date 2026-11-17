@@ -1,177 +1,177 @@
 {
  "id": "2026-12-11",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 12,
- "cols": 9,
+ "title": "गाव आणि शहर",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
  "entries": [
   {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceS0pSMSs2Vnc2VjhGDnqfQlog=",
+   "clue": "नाटकाची मुख्य स्त्री पात्र"
+  },
+  {
    "dir": "across",
    "row": 0,
-   "col": 7,
-   "x": "jceC0pWzSs2Vrc2UvI3HpdKVsg==",
-   "clue": "शाळा बंद असण्याचे दिवस"
+   "col": 4,
+   "x": "jcezTtCWnFHRloVN0cn0RtKUgg==",
+   "clue": "शहराच्या कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jcezTtCWkM2Uv82Vno3HhE7Qlp4=",
+   "clue": "बाग; पार्क"
   },
   {
    "dir": "down",
    "row": 0,
    "col": 7,
-   "x": "jceC0pWzSs2Vls2VjxGDnoI=",
-   "clue": "लाकडाचे काम करणारा"
+   "x": "jcetTtCWqc2VjFHRld0=",
+   "clue": "सांडपाण्याचे नाले"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jces0pSMSs2Vkc2VjxGDnodM0pKe",
+   "clue": "जेवणाचे घर"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jcev0pSMSs2Vgs2UvI3Hlk7Qlp4=",
+   "clue": "कोळशातील मूलद्रव्य"
   },
   {
    "dir": "across",
    "row": 2,
    "col": 6,
-   "x": "jceX0pSMSs2VglHRlck=",
-   "clue": "आपला देश"
+   "x": "jceQ0pSMSs2Vgg==",
+   "clue": "वडाभोवतीचा बसण्याचा चौथरा"
   },
   {
    "dir": "down",
    "row": 2,
    "col": 6,
-   "x": "jceX0pSMSs2Vhc2Vjw==",
-   "clue": "बोलण्याचे माध्यम"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 8,
-   "x": "jceeTtCWmlHRlp/RldM=",
-   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+   "x": "jceQ0pSMSs2VkVHRlcGDn7NM0pKM0Zet",
+   "clue": "पाण्याखाली जाणारी नौका"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 7,
-   "x": "jceQ0pW1Ss2VgM2Vjw==",
-   "clue": "पाणी पिण्याचे भांडे"
+   "col": 1,
+   "x": "jce/TtCWnlHRloVN0cnb",
+   "clue": "काटेरी सालीचे आंबटगोड फळ"
   },
   {
    "dir": "down",
    "row": 4,
-   "col": 7,
-   "x": "jceQ0pW1Ss2Vmg==",
-   "clue": "शाईने लिहिण्याचे साधन"
+   "col": 4,
+   "x": "jceCTtCWkFHRloXRldIf2pal0pKT",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jceW0pWzSs2VlM2UvI3HndKUjUrNlZ5R0ZXe",
+   "clue": "राजा-वजिराचा पटावरचा खेळ"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 1,
-   "x": "jceU0pW6Ss2Vls2UvI3HitKVsg==",
-   "clue": "दोस्ती"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 1,
-   "x": "jceU0pW6Ss2VlM2VjxGDnpo=",
-   "clue": "खेळाची जागा"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 5,
-   "x": "jceP0pSNSs2Vrs2UvI3HpNKUjErNlZo=",
-   "clue": "प्रयोगांचा विषय"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 5,
-   "x": "jceP0pSNSs2Vrc2UsRGDnpTQlojNlbBR0ZXMg5+w",
-   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 0,
-   "x": "jcev0pSM1omzTs2Vl43HhA==",
-   "clue": "कापताना डोळ्यांत पाणी आणणारा"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 3,
-   "x": "jce8TtCWmFHRlrLRlO0=",
-   "clue": "डाळीचे तिखट पातळ कालवण"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 3,
-   "x": "jce8TtCWgM2VjA==",
-   "clue": "उमेद"
+   "col": 4,
+   "x": "jcecTtCWg82VsFHRlcyDn7I=",
+   "clue": "ढोल वाजवून दिलेली सूचना"
   },
   {
    "dir": "across",
    "row": 7,
-   "col": 1,
-   "x": "jceSTtCWo82VjFHRlduDnow=",
-   "clue": "प्रदेश दाखवणारे चित्र"
+   "col": 2,
+   "x": "jce1TtCWl1HRlrjRldM=",
+   "clue": "लढाऊ नर मेंढा"
   },
   {
    "dir": "down",
    "row": 7,
    "col": 2,
-   "x": "jcev0pSMSs2Vh1HRld6Dnow=",
-   "clue": "काव काव करणारा काळा पक्षी"
+   "x": "jce1TtCWo1HRlrLRlOof2paaTtaJktKJjw==",
+   "clue": "सोबत नसणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceUTtCWj82VjFHRlceDn75M0pKd",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jceP0pSMSs2Vi1HRlcmDn7BM0pK4TdKJpNHI6NqWsk7WiZDSiLE=",
+   "clue": "ट्रॅफिक जॅम"
   },
   {
    "dir": "across",
    "row": 8,
-   "col": 4,
-   "x": "jceW0pW1Ss2Vk82UsxGDnqc=",
-   "clue": "पावसाळ्यात डराँव डराँव करणारा"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 6,
-   "x": "jcevTtCWnM2VjFHRlfI=",
-   "clue": "कपडे ठेवण्याचे"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 1,
-   "x": "jceM0pSMSs2Vgc2Vjw==",
-   "clue": "विद्यालय"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 1,
-   "x": "jceM0pSMSs2Vug==",
-   "clue": "पेनातील रंगीत द्रव"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 6,
-   "x": "jceQ0pSMSs2Vmg==",
-   "clue": "झाडाचे पर्ण"
-  },
-  {
-   "dir": "across",
-   "row": 10,
    "col": 0,
-   "x": "jceC0pWzSs2Vug==",
-   "clue": "शिवण्याचे साधन"
+   "x": "jceC0pW/1omU0omPTY3Hkk7QlqM=",
+   "clue": "गाडी थांबते ते ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcezTtCWnFHRlpTRldMf2paATtaJptKIsk2Nx4M=",
+   "clue": "हॉटेल; खाणावळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcezTtCWl82Uv82VkI3HhE7QlpVR0ZaH0ZTvH9qWgg==",
+   "clue": "रस्त्यावरून जाणारा उंच रस्ता"
   },
   {
    "dir": "across",
    "row": 10,
-   "col": 4,
-   "x": "jcev0pW/1omB0omOTY3Hr9KVtUrNla0=",
-   "clue": "बॅट आणि चेंडूचा खेळ"
+   "col": 2,
+   "x": "jceQTtCWhs2Uv82Vno3HhE7QloNR0ZadTdHJwA==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jceKTtCWjs2Uv82VlY3HhA==",
+   "clue": "सडक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jceC0pSwSs2Vpc2UvI3Hik7Qlo/NlYxR0ZXfH9qWnw==",
+   "clue": "प्राचीन वस्तूंचे प्रदर्शन; म्युझियम"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jceg0pSMSs2Vh1HRlcyDn7I=",
+   "clue": "गावातील सभेची जागा"
   },
   {
    "dir": "down",
-   "row": 10,
-   "col": 5,
-   "x": "jcev0pW1Ss2Vgc2Utg==",
-   "clue": "पिवळ्या सालीचे फळ"
+   "row": 12,
+   "col": 10,
+   "x": "jcePTtCWhM2Uv82ViI3GvQ==",
+   "clue": "होडी चालवायचे दांडे"
   }
  ]
 }

@@ -1,177 +1,177 @@
 {
  "id": "2026-12-01",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 14,
+ "title": "सण, कला आणि परंपरा",
+ "difficulty": "मध्यम",
+ "rows": 13,
  "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 11,
-   "x": "jce/0pSwSs2VpVHQlc4=",
-   "clue": "घरासमोरची मोकळी जागा"
+   "col": 6,
+   "x": "jcePTtCWqVHRlofQlOEf2paA0pOg0ZaO0JXSH9qWntKSkw==",
+   "clue": "सुवासिनी वडाची पूजा करतात"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jcemTtCWnA==",
+   "clue": "नाम पुन्हा पुन्हा घेणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jceQ0pW/1omB0oi3TY3Hr9KVv9aJhk7NlKQ=",
+   "clue": "नाटक पाहणारे"
   },
   {
    "dir": "across",
-   "row": 2,
+   "row": 1,
+   "col": 5,
+   "x": "jceiTtCWqVHRlpXQlOCDnpfQlohR0ZaHTNHJy9qWjg==",
+   "clue": "नवरात्राचा पहिला दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 1,
    "col": 9,
-   "x": "jceC0pSMSs2VnlHQlc4=",
-   "clue": "अंग धुण्यासाठी फेस येणारा"
+   "x": "jceS0pSMSs2Vls2UjxGDnoE=",
+   "clue": "येशूचा जन्मदिवस"
   },
   {
    "dir": "down",
    "row": 2,
-   "col": 9,
-   "x": "jceC0pSMSs2Vls2UjxGDnoLQlog=",
-   "clue": "कंदी पेढ्यांसाठी प्रसिद्ध शहर"
+   "col": 11,
+   "x": "jcee0pWySs2VgQ==",
+   "clue": "संक्रांतीला लाडू करतात त्या बिया"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jcevTtCWhVHRlpU=",
+   "clue": "मंदिराचे शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceCTtCWks2VjFHQld0=",
+   "clue": "तारांचे वाद्य"
   },
   {
    "dir": "across",
    "row": 3,
    "col": 8,
-   "x": "jceC0pWySs2Vls2Ujw==",
-   "clue": "रामाची पत्नी"
+   "x": "jcee0pSNSs2VgVHQlfqDn7BM0pKe",
+   "clue": "संक्रांतीला वाटायचा गोड पदार्थ"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 9,
-   "x": "jceK0pSMSs2Vrs2Ujw==",
-   "clue": "नृप"
+   "col": 4,
+   "x": "jcee0pSMSs2VmFHQlcODnoxM0pKF",
+   "clue": "किती गरम किंवा थंड"
   },
   {
    "dir": "down",
    "row": 4,
-   "col": 10,
-   "x": "jcem0pSMSs2Vh1HQleU=",
-   "clue": "मुलीचा पती"
+   "col": 7,
+   "x": "jceSTtCWg1HRlp3QldMf2paU0pOg0Zad",
+   "clue": "देवीचा नऊ दिवसांचा उत्सव"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 10,
-   "x": "jcePTtCWhs2Uv82Upg==",
-   "clue": "शाळेतील खोली"
+   "col": 0,
+   "x": "jceC0pSwSs2Vpc2VsRGDnpZM0pK40ZaTTNHJ0w==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceC0pSwSs2Vls2VsxGDnoI=",
+   "clue": "काठ्यांनी वाजवायचे तंतुवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jcev0pSMSs2VlM2UsxGDnp5M0pKd0Zet",
+   "clue": "दीर्घ कथात्मक साहित्यप्रकार"
   },
   {
    "dir": "across",
-   "row": 6,
-   "col": 9,
-   "x": "jce8TtCWvg==",
-   "clue": "माता"
+   "row": 5,
+   "col": 7,
+   "x": "jcePTtCWjs2Us1HQlcGDnoxM0pKdTdKJiA==",
+   "clue": "दिवाळीची सुरुवात; गायवासराची पूजा"
   },
   {
    "dir": "down",
-   "row": 6,
-   "col": 9,
-   "x": "jce8TtCWmFHRlrLQlO0=",
-   "clue": "डाळीचे तिखट पातळ कालवण"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 3,
-   "x": "jceQ0pW/1omBTs2Uh43Gt9KUmg==",
-   "clue": "सवाल"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 3,
-   "x": "jceQ0pW/1omBTs2UlY3HhE7QlpxR0Za6TNHJwg==",
-   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
-  },
-  {
-   "dir": "down",
-   "row": 7,
+   "row": 5,
    "col": 11,
-   "x": "jceg0pW11omzTs2UkI3GuA==",
-   "clue": "गोल खेळणे"
+   "x": "jceCTtCWnM2Uv82UlRGDnoTQl7XNlbBR0JX6g5+y",
+   "clue": "वणीची देवी"
   },
   {
-   "dir": "down",
-   "row": 8,
-   "col": 1,
+   "dir": "across",
+   "row": 7,
+   "col": 6,
    "x": "jceg0pSNSs2Vls2VvI3Hik7QlpxR0Zay",
    "clue": "सिनेमा"
   },
   {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceQTtCWoFHRlpjQldMf2pas",
+   "clue": "दोन्ही बाजूंनी वाजणारे वारकरी वाद्य"
+  },
+  {
    "dir": "across",
    "row": 8,
-   "col": 8,
-   "x": "jceP0pSNSs2Vrc2VsRGDnpTQlojNlbBR0JXMg5+w",
-   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 8,
-   "x": "jceP0pSNSs2Vrs2VvI3HpNKUjErNlZo=",
-   "clue": "प्रयोगांचा विषय"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 0,
-   "x": "jceg0pSNSs2Vls2VvI3Hig==",
-   "clue": "रेखाटन"
-  },
-  {
-   "dir": "across",
-   "row": 9,
-   "col": 3,
-   "x": "jceQTtCWks2VsFHQlfo=",
-   "clue": "संक्रांतीला उडवतात तो"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 5,
-   "x": "jcetTtCWlc2VjVHQlck=",
-   "clue": "आकड्यांचा विषय"
-  },
-  {
-   "dir": "across",
-   "row": 10,
    "col": 1,
-   "x": "jceQTtCWhM2VsFHQlfo=",
-   "clue": "झोपण्याची खाट"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 7,
-   "x": "jceQ0pW1Ss2Vmg==",
-   "clue": "शाईने लिहिण्याचे साधन"
+   "x": "jcem0pW1Ss2Vrs2VsBGDnoLQl7Y=",
+   "clue": "खंडोबाचे देवस्थान"
   },
   {
    "dir": "down",
-   "row": 10,
-   "col": 7,
-   "x": "jceQ0pW1Ss2VgM2Ujw==",
-   "clue": "पाणी पिण्याचे भांडे"
-  },
-  {
-   "dir": "across",
-   "row": 11,
-   "col": 0,
-   "x": "jceSTtCWqQ==",
-   "clue": "अभिनेता"
-  },
-  {
-   "dir": "down",
-   "row": 11,
-   "col": 0,
-   "x": "jceSTtCWo82VjFHQlduDnow=",
-   "clue": "प्रदेश दाखवणारे चित्र"
-  },
-  {
-   "dir": "across",
-   "row": 11,
+   "row": 8,
    "col": 5,
-   "x": "jceeTtCWmlHRlp/QldM=",
-   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+   "x": "jceeTtCWmlHRlp9M0cn/2pew",
+   "clue": "तबला वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jceITtCWo82Uv82Uho3Gt9KUnNaIsU7NlJuNxrhO0JaqUdGWhQ==",
+   "clue": "दिवाळीत धनदेवतेची पूजा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceQ0pWwSs2Vrs2Ujw==",
+   "clue": "देवाची उपासना"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jceSTtCWhs2Uv82UlRGDnqfQl7Y=",
+   "clue": "नाचणारी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jcevTtCWhs2VsFHQlfGDn7I=",
+   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
   }
  ]
 }

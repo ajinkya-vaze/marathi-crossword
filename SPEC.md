@@ -1,6 +1,6 @@
 # मराठी शब्दकोडे — Marathi Crossword (Spec, draft v0.1)
 
-Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button and lenient checking for small spelling slips (§5, game features). Still open: the starter word list (573 words) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
+Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button and lenient checking for small spelling slips (§5, game features). Still open: the word list (1,888 words in 12 themes, grown from 573 on 2026-11-17) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
 
 Decided so far: one square = one akshara · Claude drafts words and clues, you review · custom keyboard plus an optional system keyboard · daily puzzle with an archive.
 

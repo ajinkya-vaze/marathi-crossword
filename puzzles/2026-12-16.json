@@ -1,177 +1,177 @@
 {
  "id": "2026-12-16",
  "title": "प्राणी आणि पक्षी",
- "difficulty": "सोपे",
+ "difficulty": "मध्यम",
  "rows": 14,
- "cols": 12,
+ "cols": 11,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 11,
-   "x": "jcezTtCWgM2Usg==",
-   "clue": "झोपताना डोक्याखाली घेतो ती"
+   "col": 10,
+   "x": "jcebTtCWhlHRlrjRktMf2paD0pOt",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
   },
   {
    "dir": "down",
    "row": 1,
-   "col": 4,
-   "x": "jceC0pSMSs2VmA==",
-   "clue": "सर्प"
+   "col": 6,
+   "x": "jces0pSN1omzTs2Vo43HhE7QloVR0ZaO0ZPq",
+   "clue": "घोड्याचे ओरडणे"
   },
   {
    "dir": "across",
    "row": 1,
    "col": 8,
-   "x": "jceUTtCWkVHRloPRktMf2paG0pOt",
-   "clue": "मध गोळा करणारा कीटक"
+   "x": "jceC0pWzSs2Vlc2UthGDnoI=",
+   "clue": "मराठी गीतरामायणाचे गायक फडके"
   },
   {
    "dir": "down",
    "row": 1,
    "col": 8,
+   "x": "jceC0pWzSs2Vgc2ViA==",
+   "clue": "हत्तीचा बाहेर आलेला दात"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jcev0pSMSs2Vh1HRkt6Dnow=",
+   "clue": "काव काव करणारा काळा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jceY0pW1Ss2Vp82UtBGDnpE=",
+   "clue": "गादीत लपून चावणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceCTtCWhlHRlozRktM=",
+   "clue": "रंग बदलणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceKTtCWl1HRlo7Rk+o=",
+   "clue": "डोळ्यांत पाणी येणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceX0pSMSs2VglHRksuDn7/QloPNlYxR0ZLx",
+   "clue": "तपकिरी पंखांचा शुभ मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceQ0pSMSs2VkVHRkvWDn7lM0pKM0ZaT",
+   "clue": "नदीत राहणारा अवजड प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceQ0pSMSs2VmFHRkt+Dn7VM0pKy",
+   "clue": "चपटा पांढरा चविष्ट मासा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jcei0pW5Ss2Vk82Utg==",
+   "clue": "घोड्याची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
    "x": "jceUTtCWoVHRlp0=",
    "clue": "नदीतील धोकादायक सरपटणारा प्राणी"
   },
   {
    "dir": "down",
-   "row": 1,
-   "col": 10,
-   "x": "jceU0pSMSs2Vis2ViA==",
-   "clue": "मत्स्य"
+   "row": 5,
+   "col": 7,
+   "x": "jceUTtCWlc2Uv82VmY3HhE7QloY=",
+   "clue": "रात्री फिरणारा अतिविषारी साप"
   },
   {
    "dir": "across",
-   "row": 2,
-   "col": 3,
-   "x": "jcezTtCWnFHRloPRktM=",
-   "clue": "रव्याचा खारट पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 5,
-   "x": "jceU0pSMSs2Vp1HRksw=",
-   "clue": "वानर"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 5,
+   "row": 7,
+   "col": 4,
    "x": "jcevTtCWms2UsFHRkskf2paA",
    "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
   },
   {
    "dir": "down",
-   "row": 3,
-   "col": 7,
-   "x": "jceeTtCWnFHRlrjRktIf2paA0pOt",
-   "clue": "चॉकलेटी रंग"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 3,
-   "x": "jcei0pWzSs2VnlHRksw=",
-   "clue": "रात्री जागणारा मोठ्या डोळ्यांचा पक्षी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
+   "row": 7,
    "col": 4,
-   "x": "jceWTtCWoVHRlp7RktM=",
-   "clue": "पाण्याकाठी एका पायावर उभा राहणारा पांढरा पक्षी"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 2,
-   "x": "jcev0pW5Ss2Vp82ViRGDnoHQlog=",
-   "clue": "वसंतात कुहू कुहू गाणारी"
+   "x": "jcevTtCWhVHRloc=",
+   "clue": "हरणांचा किंवा गुरांचा समूह"
   },
   {
    "dir": "down",
-   "row": 6,
-   "col": 2,
-   "x": "jcev0pW5Ss2Vgc2Utg==",
-   "clue": "जाळे विणणारा"
-  },
-  {
-   "dir": "across",
-   "row": 6,
+   "row": 7,
    "col": 6,
-   "x": "jceDTtCWhs2UslHRks4=",
-   "clue": "मृग"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 6,
-   "x": "jceDTtCWg82VjA==",
-   "clue": "वायू"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 1,
-   "x": "jceM0pW1Ss2Vgc2Utg==",
-   "clue": "बकरी"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 1,
-   "x": "jceM0pW1Ss2Vrs2ViBGDnoLQl7Y=",
-   "clue": "घराजवळ राहणारा"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 5,
-   "x": "jcec0pSNSs2Vh82ViA==",
-   "clue": "उजेड देणारा"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 5,
-   "x": "jcec0pSNSs2Vh82ViBGDnoHQl7Y=",
-   "clue": "दिव्यांचा सण"
+   "x": "jceeTtCWhlHRlpU=",
+   "clue": "रात्री हसल्यासारखा ओरडणारा प्राणी"
   },
   {
    "dir": "across",
    "row": 8,
    "col": 0,
-   "x": "jceQ0pWwSs2Vrs2ViA==",
-   "clue": "देवाची उपासना"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 3,
-   "x": "jcev0pSwSs2VpVHRktiDnow=",
-   "clue": "केस विंचरण्याचे साधन"
+   "x": "jcePTtCWqVHRlpjRktMf2pao0pOvTdKJgg==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
   },
   {
    "dir": "down",
    "row": 8,
-   "col": 3,
-   "x": "jcev0pSwSs2VlM2UthGDnoA=",
-   "clue": "दिवाळीत टांगायचा आकाशदिवा"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 2,
-   "x": "jceW0pW6Ss2VgA==",
-   "clue": "शेतात नांगर ओढणारा"
+   "col": 0,
+   "x": "jcePTtCWhc2UsA==",
+   "clue": "सांड; गावात मोकाट फिरणारा बैल"
   },
   {
    "dir": "down",
-   "row": 10,
+   "row": 8,
    "col": 2,
-   "x": "jceW0pW6Ss2VgFHRkvqDnoxM0pKM0Zet",
-   "clue": "गावातील पारंपरिक वाहन"
+   "x": "jceP0pSMSs2VkFHRksuDno1M0pKYTdKJiQ==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcevTtCWhlHRlozRk+8=",
+   "clue": "शेळीचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceQTtCWhlHRlpVN1snF2paOTtaJgQ==",
+   "clue": "घराच्या मागचे अंगण"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcec0pW1Ss2Vh1HRksODnoxM0pKV0ZaT",
+   "clue": "समुद्रातील सर्वात मोठा सस्तन प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jceC0pSMSs2Vgc2Ut43HuE7QlqPNlLI=",
+   "clue": "पिवळ्या चोचीची तपकिरी मैना"
   }
  ]
 }

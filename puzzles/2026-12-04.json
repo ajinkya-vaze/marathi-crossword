@@ -1,170 +1,177 @@
 {
  "id": "2026-12-04",
  "title": "घर आणि कुटुंब",
- "difficulty": "सोपे",
- "rows": 12,
- "cols": 12,
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
  "entries": [
   {
-   "dir": "across",
-   "row": 0,
-   "col": 10,
-   "x": "jceS0pSMSs2Vls2Vtg==",
-   "clue": "मुलाचा किंवा मुलीचा मुलगा"
-  },
-  {
    "dir": "down",
    "row": 0,
-   "col": 10,
-   "x": "jceS0pSMSs2Vlg==",
-   "clue": "मुलाची किंवा मुलीची मुलगी"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 7,
-   "x": "jceQ0pSMSs2Vh1HQkMCDnoxM0pKx0Zet",
-   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
-  },
-  {
-   "dir": "across",
-   "row": 1,
-   "col": 9,
-   "x": "jcec0pSMSs2Vlg==",
-   "clue": "चावण्यासाठी असतात ते"
-  },
-  {
-   "dir": "down",
-   "row": 1,
-   "col": 9,
-   "x": "jcec0pSMSs2Vgg==",
-   "clue": "दरवाजा"
+   "col": 4,
+   "x": "jceC0pSMSs2VnlHQkM4=",
+   "clue": "अंग धुण्यासाठी फेस येणारा"
   },
   {
    "dir": "across",
    "row": 2,
-   "col": 6,
-   "x": "jcec0pW1Ss2Vh1HQkPUf2paA",
-   "clue": "घरातील पूजेची जागा"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 5,
-   "x": "jceX0pSN1omzTs2UkA==",
-   "clue": "खोलीच्या चारही बाजूंनी असते ती"
-  },
-  {
-   "dir": "across",
-   "row": 4,
-   "col": 4,
-   "x": "jceCTtCWklHRlp3QkO8f2pas0pOt",
-   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 4,
-   "x": "jceCTtCWhs2UuVHQkNgf2paA",
-   "clue": "मोठे तळे"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 6,
-   "x": "jceK0pSwSs2VpQ==",
-   "clue": "वर्ण"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 4,
-   "x": "jcePTtCWj82Usg==",
-   "clue": "लिहिण्यासाठी कोऱ्या पानांचा संच"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 2,
-   "x": "jcehTtCWnM2Uv82UnhGDnoI=",
-   "clue": "घराचे छत"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 2,
-   "x": "jcehTtCWks2Uv82UhI3Gug==",
-   "clue": "पावसापासून बचाव करणारी"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 6,
-   "x": "jceS0pSMSs2Vhw==",
-   "clue": "ओळख सांगणारा शब्द"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 1,
-   "x": "jceU0pW6Ss2Vls2VuY3HitKVsg==",
-   "clue": "दोस्ती"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 1,
-   "x": "jceU0pW6Ss2Vls2VuY3HitKVskrNlZE=",
-   "clue": "सखी"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 5,
-   "x": "jceU0pSMSs2Vh1HQkNuDn7I=",
-   "clue": "आईची बहीण"
-  },
-  {
-   "dir": "down",
-   "row": 8,
-   "col": 5,
-   "x": "jceU0pSMSs2Vls2VtA==",
-   "clue": "मृदा"
-  },
-  {
-   "dir": "across",
-   "row": 9,
    "col": 3,
    "x": "jceQTtCWlVHRlonQke0=",
    "clue": "मातीचा लहान दिवा"
   },
   {
    "dir": "down",
-   "row": 9,
+   "row": 2,
    "col": 3,
-   "x": "jceQTtCWks2Usg==",
-   "clue": "नवरा"
+   "x": "jceQTtCWlVHRlrHQke0=",
+   "clue": "आजीची किंवा आजोबांची आई"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jceQ0pW/1omBTs2UqI3HhE7Qlo5R0ZaJ0JHgg56W0JaIUdGWuEzUycXalo9O1omZ",
+   "clue": "सव्वीस जानेवारी"
   },
   {
    "dir": "across",
-   "row": 10,
-   "col": 0,
-   "x": "jcetTtCWlVHRlodM1MnH2pew",
-   "clue": "ज्या देवाचा उत्सव दहा दिवस चालतो तो"
-  },
-  {
-   "dir": "down",
-   "row": 10,
-   "col": 0,
-   "x": "jcetTtCWrM2Uv82Uro3Gug==",
-   "clue": "घराच्या छतावरील मोकळी जागा"
-  },
-  {
-   "dir": "down",
-   "row": 10,
+   "row": 4,
    "col": 2,
-   "x": "jceQTtCWks2Uv82UnI3Gug==",
-   "clue": "बायको"
+   "x": "jce8TtCWqs2Usg==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jce8TtCWqs2UtVHQkNWDnoxM0pKV0Zev",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceQ0pW/1omB0omOSI3HmdKUjUrNlYrNlLYRg56l0Je7zZWCUdCQ1IOejEzSkp9N0omf",
+   "clue": "प्राणी पाहण्याची बाग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceC0pSMSs2VilHQkN0=",
+   "clue": "नवऱ्याचे घर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jce8TtCWhlHRlpXQkNM=",
+   "clue": "चेहरा पाहण्याची काच"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jce8TtCWqs2UuVHQkMGDnow=",
+   "clue": "आजीचे पती"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceC0pWwSs2Vls2VuY3Hik7Qlo7NlbBR0JD3g56MTNKSn03SiaU=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceW0pSMSs2Vns2Uig==",
+   "clue": "वडील"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceW0pSMSs2VglHQkNWDn7U=",
+   "clue": "बाळाचे नाव ठेवण्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcen0pSMSs2Vk82Vtg==",
+   "clue": "केर काढण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jcen0pSMSs2Vgs2Uig==",
+   "clue": "तळलेले बाहेर काढायचा छिद्रांचा चमचा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceb0pW5Ss2Vi82UihGDnoHQl7E=",
+   "clue": "गरोदरपणातील इच्छा आणि त्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceSTtCWg1HRlp3QkNM=",
+   "clue": "पती"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcePTtCWl82UslHQkN8=",
+   "clue": "बाबा; पिता"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceW0pSMSs2VnVHQkPiDn7k=",
+   "clue": "पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceW0pSMSs2VlFHQkN+Dn7I=",
+   "clue": "पाणी भरण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jcev0pW5Ss2Vms2UihGDnpPQlog=",
+   "clue": "भिंतीतला दिवा ठेवण्याचा खाचा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcesTtCWhFHRloFM1MnH2pe90pKJ0ZaT",
+   "clue": "कुटण्याचे दगडी भांडे आणि दांडा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceSTtCWlc2VsFHQkMs=",
+   "clue": "नवऱ्याची बहीण"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceS0pSMSs2Vlg==",
+   "clue": "मुलाची किंवा मुलीची मुलगी"
   }
  ]
 }

@@ -1,177 +1,177 @@
 {
  "id": "2026-11-26",
- "title": "सण, कला आणि परंपरा",
- "difficulty": "सोपे",
- "rows": 14,
+ "title": "संगीत आणि चित्रपट",
+ "difficulty": "मध्यम",
+ "rows": 13,
  "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
    "col": 7,
-   "x": "jcec0pW1Ss2VhFHSkvUf2paA",
-   "clue": "घरातील पूजेची जागा"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 9,
-   "x": "jcetTtCWlVHRlYdO1snH2pew",
-   "clue": "ज्या देवाचा उत्सव दहा दिवस चालतो तो"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 11,
-   "x": "jce8TtCWhlHRlYnSk+0=",
-   "clue": "देवासमोर ओवाळतात ती"
+   "x": "jcea0pW1Ss2VpM2WiA==",
+   "clue": "तालाचा आघात"
   },
   {
    "dir": "across",
    "row": 1,
-   "col": 7,
-   "x": "jcePTtCWhlHRlY4=",
-   "clue": "तुरीच्या डाळीचे साधे"
+   "col": 3,
+   "x": "jceh0pSMSs2Vns2WiBGDnqjQlolR0ZWJ0pPgg56CTNKSuNGVk07WydM=",
+   "clue": "फोटो काढणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceg0pSNSs2Vlc2Xu43Hik7QlpxR0ZWyTtbJ9NqXsE7WiZU=",
+   "clue": "सिनेमातील गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceKTtCWg82VjlHSktuDnrBM0pK4TdGJgg==",
+   "clue": "सतारीचे पंडित"
   },
   {
    "dir": "down",
    "row": 2,
-   "col": 2,
-   "x": "jceR0pWzSs2Vms2Xu43HkdKVs0rNlYk=",
-   "clue": "श्वास घेणारा अवयव"
-  },
-  {
-   "dir": "across",
-   "row": 2,
-   "col": 9,
-   "x": "jceQTtCWlVHRlYnSk+0=",
-   "clue": "मातीचा लहान दिवा"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 6,
-   "x": "jceCTtCWhlHRlZXSk+CDnodM0pKJ0ZSt",
-   "clue": "विद्येची देवता"
+   "col": 11,
+   "x": "jceR0pSMSs2VglHSkviDn7U=",
+   "clue": "भारतीय चित्रपटाचे जनक दादासाहेब"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 6,
-   "x": "jceCTtCWks2Vj1HSkt0=",
-   "clue": "तारांचे वाद्य"
+   "col": 1,
+   "x": "jceXTtCWhlHRlYlO1snL2paOTtaJrtGIv9bJzEbSlJw=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jcec0pWySs2Vm1HSkvg=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
   },
   {
    "dir": "across",
    "row": 4,
-   "col": 1,
-   "x": "jcecTtCWjlHRlZ3SktM=",
-   "clue": "विजयादशमी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 1,
-   "x": "jcecTtCWnM2UvM2WkhGDnoI=",
-   "clue": "पुस्तके नेण्याची पिशवी"
-  },
-  {
-   "dir": "down",
-   "row": 4,
-   "col": 3,
-   "x": "jceK0pSMSs2Vnw==",
-   "clue": "अयोध्येचा राजा"
+   "col": 0,
+   "x": "jcesTtCWhlHRlYHSk+8f2pas",
+   "clue": "पिवळसर गराचे सुगंधी फळ"
   },
   {
    "dir": "across",
-   "row": 5,
-   "col": 3,
-   "x": "jceUTtCWj82Vj1HSksCDnoxM0pKdTdGJlg==",
-   "clue": "व्यासांचे महाकाव्य"
+   "row": 4,
+   "col": 8,
+   "x": "jcevTtCWhs2Vj1HSkv4f2pal0pOq",
+   "clue": "गाण्याच्या संगीतावर स्वतः गाणे"
   },
   {
    "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jcepTtCWjlHRlZ3Sk+0=",
+   "clue": "घरापुढील उघडी लांब जागा"
+  },
+  {
+   "dir": "across",
    "row": 5,
    "col": 5,
-   "x": "jceX0pSMSs2Vgc2XtBGDnpM=",
-   "clue": "संत एकनाथांनी लोकप्रिय केलेला रचनाप्रकार"
+   "x": "jcet0pWySs2VlVHSkviDnoxM0pKd",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jcev0pSMSs2VglHSktiDn7JM0pKy",
+   "clue": "वळणदार शिंगांचे काळे हरीण"
   },
   {
    "dir": "across",
    "row": 6,
+   "col": 1,
+   "x": "jceS0pSMSs2Vrs2Xu43HlU7Qlo7NlbNR0pL6g5+yTNKSiQ==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcet0pWySs2VlVHSkt2DnoxM0pKD0ZWTTtbJzEbSlJE=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jceXTtCWhs2UsVHSksk=",
+   "clue": "भाजलेल्या वांग्याचे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceC0pW6Ss2Vgc2WiBGDnq0=",
+   "clue": "आर्ची-परशाचा चित्रपट"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jceP0pSMSs2Vl1HSkvg=",
+   "clue": "वाद्य वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jcee0pSMSs2VmVHSkseDn7NM0pKd0ZWT",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceQ0pW/1omB0YiySo3HlNKUjUrNlZ5R0pLd",
+   "clue": "चित्रपटाचा पहिला खास खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jceVTtCWmFHRlYU=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jceX0pWwSs2Vn82WiRGDnqfQlog=",
+   "clue": "नटाने साकारलेले पात्र"
+  },
+  {
+   "dir": "across",
+   "row": 11,
    "col": 0,
-   "x": "jcei0pSMSs2VgQ==",
-   "clue": "आकाशात घिरट्या घालणारा शिकारी पक्षी"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 2,
-   "x": "jcet0pWzSs2Vk82XthGDnpjQlohR0ZWMTtbJ1tqWjg==",
-   "clue": "मराठी नववर्षाचा पहिला दिवस"
+   "x": "jceg0pSNSs2Vlc2Xu43HitKVskrNlaRR0pLdH9qWkw==",
+   "clue": "शूटिंग"
   },
   {
    "dir": "down",
-   "row": 7,
-   "col": 2,
-   "x": "jcet0pWzSs2Vk82Xtg==",
-   "clue": "पाडव्याला उभारतात ती"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 4,
-   "x": "jceQ0pSMSs2Vgc2Xu43Hj07QlpLNlLE=",
-   "clue": "शंकराची पत्नी"
-  },
-  {
-   "dir": "across",
-   "row": 9,
+   "row": 11,
    "col": 3,
-   "x": "jceQTtCWks2UsQ==",
-   "clue": "नवरा"
-  },
-  {
-   "dir": "down",
-   "row": 9,
-   "col": 3,
-   "x": "jceQTtCWj82Vj1HSkvI=",
-   "clue": "सूर्योदयापूर्वीची वेळ"
-  },
-  {
-   "dir": "across",
-   "row": 11,
-   "col": 2,
-   "x": "jceS0pSMSs2VrlHSkvg=",
-   "clue": "रंगमंचावर सादर होणारी कलाकृती"
-  },
-  {
-   "dir": "down",
-   "row": 11,
-   "col": 2,
-   "x": "jceS0pSMSs2Vpg==",
-   "clue": "फणा काढणारा साप"
-  },
-  {
-   "dir": "down",
-   "row": 11,
-   "col": 4,
-   "x": "jcevTtCWg82VjlHSksmDnow=",
-   "clue": "काव्य"
+   "x": "jceKTtCWnc2UsQ==",
+   "clue": "सुरेल पार्श्वगायक मोहम्मद"
   },
   {
    "dir": "across",
    "row": 12,
-   "col": 0,
-   "x": "jceU0pWxSs2Vl82WtBGDnqU=",
-   "clue": "कीर्तनात दोन्ही बाजूंनी वाजवायचे वाद्य"
-  },
-  {
-   "dir": "across",
-   "row": 13,
-   "col": 3,
-   "x": "jcee0pWzSs2Vlc2WiBGDnoLQl7Y=",
-   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+   "col": 6,
+   "x": "jceK0pSMSs2VmVHSksyDn7NM0pK40ZSg0pL4H9qWgA==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
   }
  ]
 }

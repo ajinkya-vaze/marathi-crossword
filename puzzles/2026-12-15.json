@@ -1,177 +1,177 @@
 {
  "id": "2026-12-15",
- "title": "दैनिक कोडे",
- "difficulty": "सोपे",
- "rows": 14,
- "cols": 12,
+ "title": "सण, कला आणि परंपरा",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 11,
  "entries": [
   {
-   "dir": "across",
+   "dir": "down",
    "row": 0,
-   "col": 10,
-   "x": "jce/TtCWgM2Uv82VhY3GuA==",
-   "clue": "डोळ्यांतील पाणी"
+   "col": 6,
+   "x": "jceV0pSMSs2Vls2UuI3HitKUjA==",
+   "clue": "देवस्थानी भरणारी जत्रा"
   },
   {
    "dir": "down",
    "row": 0,
+   "col": 8,
+   "x": "jceS0pSMSs2VpVHRkceDnrBM0pK3TdKJn9XI4w==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcemTtCWks2Uv82VhY3HhA==",
+   "clue": "गावात भरणारा मेळा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcemTtCWhFHRlp3Rke8f2pan",
+   "clue": "पाण्यात मिसळायचे रंग"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jcetTtCWq1HRlp8=",
+   "clue": "उर्दूतून आलेला काव्यप्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 1,
    "col": 10,
-   "x": "jce/TtCWm82Uv82Vmo3HhE7Qlo4=",
-   "clue": "शिकण्यासाठी केलेली मेहनत"
+   "x": "jceITtCWo82Uv82Vgo3Gt9KUnErNlZE=",
+   "clue": "रामाचा धाकटा भाऊ"
   },
   {
    "dir": "across",
    "row": 2,
-   "col": 8,
-   "x": "jceQ0pW5Ss2VgM2UtRGDnoo=",
-   "clue": "कायद्याचे रक्षक"
-  },
-  {
-   "dir": "down",
-   "row": 2,
-   "col": 8,
-   "x": "jceQ0pW5Ss2Vi1HRkc6Dn7U=",
-   "clue": "पाण्यातील व्यायाम"
+   "col": 3,
+   "x": "jceQ0pW51omzTs2VohGDnoA=",
+   "clue": "तमिळनाडूचा कापणीचा सण"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 6,
-   "x": "jcezTtCWks2Uv82VjY3HhE7Qlo8=",
-   "clue": "जोश"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 6,
-   "x": "jcezTtCWks2Uv82VkRGDnoI=",
-   "clue": "प्रश्नाला दिलेले"
+   "col": 5,
+   "x": "jceK0pSwSs2VpVHRkcODnrBM0pK3",
+   "clue": "नाटक होते ते व्यासपीठ"
   },
   {
    "dir": "across",
-   "row": 5,
-   "col": 5,
-   "x": "jce8TtCWhlHRlpXRkdM=",
-   "clue": "चेहरा पाहण्याची काच"
+   "row": 4,
+   "col": 2,
+   "x": "jceQ0pSM1omzTs2VlI3Gu07QlobNlbBR0ZH6",
+   "clue": "विटेवर उभा देव"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceQ0pSM1omzTs2VrRGDnoLQl7RR0ZaO",
+   "clue": "झोपताना अंगावर घ्यायचे"
   },
   {
    "dir": "down",
    "row": 5,
-   "col": 5,
-   "x": "jce8TtCWqs2UuVHRkcGDnow=",
-   "clue": "आजीचे पती"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 7,
-   "x": "jceC0pSMSs2VmFHRkduDno1M0pKM0Zet",
-   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+   "col": 6,
+   "x": "jce/TtCWm82VjVHRkdqDn7VM0pK4",
+   "clue": "देवावर जल किंवा दूध ओतणे"
   },
   {
    "dir": "down",
    "row": 5,
    "col": 9,
-   "x": "jceK0pSNSs2Vp82UuI3HjdKUjA==",
-   "clue": "तीन चाकी वाहन"
+   "x": "jceg0pSNSs2Vls2UuI3Hig==",
+   "clue": "रेखाटन"
   },
   {
    "dir": "across",
    "row": 6,
-   "col": 7,
-   "x": "jceQTtCWhs2UslHRkfiDn7/QloHNlYw=",
-   "clue": "ज्ञानाची कसोटी"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 2,
-   "x": "jcet0pW/1omB0omzSY3Hn9KUjErNlYBR0ZHC",
-   "clue": "पुस्तकांचा संग्रह असलेली जागा"
-  },
-  {
-   "dir": "across",
-   "row": 7,
-   "col": 4,
-   "x": "jceW0pSMSs2Vns2Viw==",
-   "clue": "वडील"
-  },
-  {
-   "dir": "down",
-   "row": 7,
-   "col": 4,
-   "x": "jceW0pSMSs2VilHRkd2Dn7I=",
-   "clue": "कृष्णाचे वाद्य"
-  },
-  {
-   "dir": "across",
-   "row": 8,
-   "col": 1,
-   "x": "jcevTtCWk82VjA==",
-   "clue": "गोष्ट"
-  },
-  {
-   "dir": "across",
-   "row": 8,
    "col": 6,
-   "x": "jceX0pW11omzTs2VlI3Gug==",
-   "clue": "चिकट हिरवी भाजी"
+   "x": "jceX0pSNSs2Vls2UuI3HntKUjUrNlajNlYoRg56W0Je7zZWC",
+   "clue": "भिंतीवर काढलेले चित्र"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceQTtCWlVHRlonRkO0=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jceQTtCWks2VsFHRkfo=",
+   "clue": "संक्रांतीला उडवतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceS0pSMSs2VnVHRkfg=",
+   "clue": "नाटकाचा किंवा चित्रपटाचा मुख्य पुरुष"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceS0pSMSs2VglHRkcs=",
+   "clue": "नारायण नारायण म्हणणारा मुनी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jce/TtCWo82Uv82VghGDnpbQlog=",
+   "clue": "लग्नात टाकतात ते तांदूळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jce/TtCWns2VjFHRkd0f2paI0pOq",
+   "clue": "दिवाळीतील तांदळाचे जाळीदार पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jcee0pSMSs2VgM2UtRGDnpw=",
+   "clue": "कुस्तीचा आखाडा"
   },
   {
    "dir": "across",
    "row": 9,
+   "col": 0,
+   "x": "jceU0pSwSs2VpVHRkd6DnoxM0pK60ZehTdXJ0w==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jcecTtCWgM2VjFHRkdgf2paU0pKTTdKJgQ==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jcePTtCWqlHRloU=",
+   "clue": "किती जड"
+  },
+  {
+   "dir": "across",
+   "row": 12,
    "col": 2,
-   "x": "jceITtCWoc2UuVHRkd2Dn7I=",
-   "clue": "दगडांची रास पाडण्याचा खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 10,
-   "col": 0,
-   "x": "jceD0pWxSs2VlFHRkcI=",
-   "clue": "रक्त पंप करणारा अवयव"
-  },
-  {
-   "dir": "down",
-   "row": 10,
-   "col": 1,
-   "x": "jcecTtCWnM2Uv82VkRGDnoI=",
-   "clue": "पुस्तके नेण्याची पिशवी"
-  },
-  {
-   "dir": "down",
-   "row": 10,
-   "col": 5,
-   "x": "jcet0pSMSs2Vk82UtQ==",
-   "clue": "वाहन"
-  },
-  {
-   "dir": "across",
-   "row": 11,
-   "col": 4,
-   "x": "jceD0pW5Ss2Vk82UtQ==",
-   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
-  },
-  {
-   "dir": "down",
-   "row": 11,
-   "col": 4,
-   "x": "jceD0pW5Ss2Vgc2UtQ==",
-   "clue": "रंगांचा सण"
-  },
-  {
-   "dir": "across",
-   "row": 12,
-   "col": 0,
-   "x": "jceQ0pWzSs2VglHRkc4f2paa0pOmTdKJgtXI4w==",
-   "clue": "होळीच्या सणाचा खास गोड पदार्थ"
-  },
-  {
-   "dir": "down",
-   "row": 12,
-   "col": 3,
-   "x": "jceQ0pW5Ss2VrQ==",
-   "clue": "उदर"
+   "x": "jceKTtCWo82Uv82Vgo3HhE7QlprNlbBR0ZHKH9qWmA==",
+   "clue": "बहीण भावाला राखी बांधते तो सण"
   }
  ]
 }

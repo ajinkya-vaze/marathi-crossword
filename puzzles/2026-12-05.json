@@ -1,163 +1,177 @@
 {
  "id": "2026-12-05",
- "title": "दैनिक कोडे",
+ "title": "माणूस आणि भावना",
  "difficulty": "सोपे",
- "rows": 9,
+ "rows": 13,
  "cols": 12,
  "entries": [
   {
    "dir": "down",
    "row": 0,
-   "col": 8,
-   "x": "jcet0pW/1omB0omySY3Hn9KUjErNlYBR0JHC",
-   "clue": "पुस्तकांचा संग्रह असलेली जागा"
-  },
-  {
-   "dir": "down",
-   "row": 0,
-   "col": 10,
-   "x": "jcel0pW5Ss2VmM2VtQ==",
-   "clue": "डोक्यावर घालायची"
+   "col": 9,
+   "x": "jceQ0pW/1omB0oi3SY3HlA==",
+   "clue": "माया"
   },
   {
    "dir": "across",
    "row": 1,
-   "col": 8,
-   "x": "jcef0pSMSs2VgM2VtRGDnpjQl7ZR0ZaN",
-   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
+   "col": 7,
+   "x": "jceC0pSwSs2VnVHQkcM=",
+   "clue": "स्वतःवरचा ताबा"
   },
   {
-   "dir": "across",
-   "row": 2,
-   "col": 6,
-   "x": "jceQ0pW1Ss2Vms2VuI3HgtKUjUrNlYA=",
-   "clue": "खोडता येईल असे लिहिण्याचे साधन"
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceC0pSwSs2Vls2UixGDnpg=",
+   "clue": "तीव्र राग"
   },
   {
    "dir": "down",
    "row": 2,
-   "col": 6,
-   "x": "jceQ0pW1Ss2Vgs2Vtw==",
-   "clue": "अनेक बिया असलेले हिरवे फळ"
-  },
-  {
-   "dir": "across",
-   "row": 3,
-   "col": 2,
-   "x": "jceR0pWzSs2VgFHQkceDnoxM0pK7TdKJgNXI4Q==",
-   "clue": "रंगीबेरंगी पंख असलेला कीटक"
-  },
-  {
-   "dir": "down",
-   "row": 3,
    "col": 3,
-   "x": "jceITtCWoc2UuVHQkd2Dn7I=",
-   "clue": "दगडांची रास पाडण्याचा खेळ"
-  },
-  {
-   "dir": "down",
-   "row": 3,
-   "col": 5,
-   "x": "jcesTtCWl82UsA==",
-   "clue": "फळ्यावर लिहिण्याचा"
+   "x": "jcev0pW5Ss2VnVHQkcWDnow=",
+   "clue": "महाबळेश्वरात उगम पावणारी नदी व धरण"
   },
   {
    "dir": "across",
    "row": 3,
-   "col": 8,
-   "x": "jceVTtCWgA==",
-   "clue": "सफलता"
+   "col": 0,
+   "x": "jcemTtCWhM2VjFHQkdsf2paf",
+   "clue": "पाण्याचा मोठा साठा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceQ0pSMSs2VmFHQkc6Dn7I=",
+   "clue": "डोळ्याच्या कडेचे केस"
   },
   {
    "dir": "down",
    "row": 3,
-   "col": 9,
-   "x": "jceMTtCWhs2Uv82UmhGDnpY=",
-   "clue": "स्पर्धा"
+   "col": 6,
+   "x": "jceQ0pSMSs2Vrc2VtRGDnoA=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceiTtCWjs2VjA==",
+   "clue": "गळ्याचा आतला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceC0pSMSs2Vi1HQkdU=",
+   "clue": "धाडस"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceS0pSMSs2Vpw==",
+   "clue": "वास घेण्याचे इंद्रिय"
   },
   {
    "dir": "down",
    "row": 4,
-   "col": 11,
-   "x": "jcec0pW5Ss2Vgs2VtQ==",
-   "clue": "रस्सी"
+   "col": 4,
+   "x": "jcevTtCWhs2Us1HQkc6Dnow=",
+   "clue": "दुसऱ्याचे दुःख पाहून येणारी कणव"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jce/0pSwSs2VllHQkd2DnoxM0pKeTdKJhdXI40bSlII=",
+   "clue": "अवकाशात जाणारा"
   },
   {
    "dir": "across",
    "row": 5,
-   "col": 2,
-   "x": "jceQTtCWhs2UslHQkfiDn7/QloHNlYw=",
-   "clue": "ज्ञानाची कसोटी"
+   "col": 4,
+   "x": "jceK0pWzSs2Vpc2VuI3HmdKUjErNlYBR0JHC",
+   "clue": "हॉस्पिटल"
   },
   {
    "dir": "down",
    "row": 5,
-   "col": 2,
-   "x": "jceQTtCWks2Uv82UhQ==",
-   "clue": "टपालाने पाठवायचा मजकूर"
+   "col": 7,
+   "x": "jceVTtCWo82UsVHQkck=",
+   "clue": "पचनाला मदत करणारे मोठे इंद्रिय"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jceQ0pW5Ss2VgM2VtRGDnoo=",
+   "clue": "कायद्याचे रक्षक"
   },
   {
    "dir": "down",
    "row": 5,
+   "col": 9,
+   "x": "jceQ0pW5Ss2VrVHQkd2Dn7I=",
+   "clue": "गुडघ्याखालचा मागचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceeTtCWhs2VjFHQkc6Dnow=",
+   "clue": "अर्थहीन बोलांचे द्रुत गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
    "col": 6,
-   "x": "jcet0pSMSs2Vhw==",
-   "clue": "खेडे"
-  },
-  {
-   "dir": "across",
-   "row": 5,
-   "col": 8,
    "x": "jceM0pW1Ss2VllHQkfgf2paA0pOt",
    "clue": "बळीराजा"
   },
   {
    "dir": "down",
-   "row": 5,
-   "col": 8,
-   "x": "jceM0pW1Ss2Vlg==",
-   "clue": "पिके घेण्याची जमीन"
-  },
-  {
-   "dir": "down",
-   "row": 5,
-   "col": 10,
-   "x": "jcevTtCWmlHRlozQkOCDnpPQl7Y=",
-   "clue": "श्वास रोखून खेळायचा खेळ"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 1,
-   "x": "jceU0pSNSs2Vls2VuI3Hig==",
-   "clue": "सखा"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 1,
-   "x": "jceU0pSNSs2VglHQkfeDn7I=",
-   "clue": "तिखट हिरवी किंवा लाल"
-  },
-  {
-   "dir": "across",
-   "row": 6,
-   "col": 6,
-   "x": "jcePTtCWjs2VsFHQkck=",
-   "clue": "ऋतूंचा राजा"
-  },
-  {
-   "dir": "down",
-   "row": 6,
-   "col": 7,
-   "x": "jceC0pSwSs2Vqg==",
-   "clue": "खेळाडूंचा गट"
-  },
-  {
-   "dir": "across",
    "row": 7,
+   "col": 8,
+   "x": "jcevTtCWhs2VsFHQkfof2paD0pOt",
+   "clue": "सर्वात लहान बोट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
    "col": 0,
-   "x": "jces0pWySs2Vgg==",
-   "clue": "दुधात शिजवलेला गोड पदार्थ"
+   "x": "jceW0pWzSs2Vns2VtBGDnoE=",
+   "clue": "डोळ्यातील काळा गोल"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceK0pSMSs2VpQ==",
+   "clue": "क्रोध"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jce8TtCWkFHRlp0=",
+   "clue": "सन्मान"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jce8TtCWhVHRlpU=",
+   "clue": "सुस्ती"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceCTtCWhs2Uv82Uk43Gug==",
+   "clue": "नाक वाहणे"
   }
  ]
 }
