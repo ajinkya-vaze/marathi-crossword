@@ -1,0 +1,541 @@
+{
+ "id": "2026-11-15",
+ "title": "रविवारचे मोठे कोडे",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jceW0pW6Ss2Vgw==",
+   "clue": "शेतात नांगर ओढणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 20,
+   "x": "jcem0pW/1omE0YmPSY3HitKVsg==",
+   "clue": "भाकरीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jceU0pWzSs2Vg1HRkfqDnow=",
+   "clue": "पुत्र"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jcet0pSMSs2Vk1HRkdg=",
+   "clue": "ओझे वाहणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 17,
+   "x": "jcev0pSMSs2Vl82VtxGDnp5M0pKd0ZSt",
+   "clue": "दीर्घ कथात्मक साहित्यप्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 17,
+   "x": "jcev0pSMSs2Vm82UtxGDnoo=",
+   "clue": "पांढरे पीक ज्यापासून कापड बनते"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 19,
+   "x": "jceWTtCWkFHRlbg=",
+   "clue": "पाण्यात पोहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcetTtCWg1HRlYk=",
+   "clue": "तृण"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jcetTtCWhs2UsFHRkcw=",
+   "clue": "विष्णूचे वाहन असलेला पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceeTtCWhM2Vj1HRkdg=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceC0pSwSs2VpM2UuI3HitKUjNaJs03NlZE=",
+   "clue": "तिळगूळ वाटण्याचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 11,
+   "x": "jceQ0pW1Ss2Vgc2Utw==",
+   "clue": "अनेक बिया असलेले हिरवे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceQ0pW1Ss2Vmc2UuI3HgtKUjUrNlYM=",
+   "clue": "खोडता येईल असे लिहिण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 15,
+   "x": "jce8TtCWhVHRlZU=",
+   "clue": "सुस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 15,
+   "x": "jce8TtCWg82Vj1HRkfE=",
+   "clue": "ध्वनी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 19,
+   "x": "jcevTtCWg82UsQ==",
+   "clue": "काव्य रचणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcePTtCWlw==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jcePTtCWj82UsQ==",
+   "clue": "लिहिण्यासाठी कोऱ्या पानांचा संच"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcePTtCWjs2Vs1HRkck=",
+   "clue": "ऋतूंचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceC0pSwSs2Vls2UuI3HldKUjErNlaTNlYsRg56B",
+   "clue": "दिवस मावळतानाची वेळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jceX0pWwSs2Vps2UvhGDnoA=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jcet0pW5Ss2Vl82VixGDnodM0pKd0ZSt",
+   "clue": "दक्षिण गंगा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 14,
+   "x": "jceP0pWySs2VrQ==",
+   "clue": "पावसात आकाशात चमकते ती"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 14,
+   "x": "jceP0pWySs2Vks2Viw==",
+   "clue": "सरस्वतीच्या हातातील वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 18,
+   "x": "jce/TtCWoc2UvM2VnY3Gug==",
+   "clue": "आग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 18,
+   "x": "jce/TtCWhM2VjlHRkcGDnoxM0pK6",
+   "clue": "रायगड जिल्ह्याचे समुद्रकिनारी मुख्यालय"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jcem0pSNSs2Vrc2VixGDnp7QlohR0ZWl",
+   "clue": "शिवरायांच्या मातोश्री"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 12,
+   "x": "jceQ0pSMSs2ViM2UtBGDnpHQlog=",
+   "clue": "घरी आलेला अतिथी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 12,
+   "x": "jceQ0pSMSs2Vg1HRkfg=",
+   "clue": "लोहयुक्त हिरवी पालेभाजी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 20,
+   "x": "jceQ0pSwSs2Vk1HRkd0f2paa0pOvTdGJgQ==",
+   "clue": "विठ्ठलाचे मंदिर असलेले गाव"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jcee0pWzSs2VpM2VixGDnoLQlohR0ZWD",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceUTtCWj82VjlHRkcWDnow=",
+   "clue": "मास"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 10,
+   "x": "jcePTtCWo82UsVHRkd8=",
+   "clue": "न्यायालयात बाजू मांडणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jceW0pSMSs2VrVHRkd2Dn7I=",
+   "clue": "हिवाळ्यातील भाकरीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 12,
+   "x": "jcevTtCWhs2Vs1HRkfGDn7I=",
+   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 17,
+   "x": "jceS0pSMSs2VplHRkceDn7BM0pKd",
+   "clue": "संत्र्यांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 17,
+   "x": "jceS0pSMSs2VrlHRkfg=",
+   "clue": "रंगमंचावर सादर होणारी कलाकृती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jcemTtCWns2Vj1HRkcGDnoxM0pKl",
+   "clue": "नामदेवांच्या घरी काम करणारी संत कवयित्री"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcemTtCWhVHRlbrRkdMf2paF",
+   "clue": "केळीसाठी प्रसिद्ध जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceW0pSMSs2Vpg==",
+   "clue": "उद्यान"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 15,
+   "x": "jceQ0pW5Ss2Vm1HRkfI=",
+   "clue": "हिरवा बोलणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 15,
+   "x": "jceQ0pW5Ss2VhM2VixGDnpPQlog=",
+   "clue": "वीररसपूर्ण शाहिरी गीत"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jcevTtCWmFHRlZ4=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jcevTtCWg82VjlHRkcmDnow=",
+   "clue": "काव्य"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 13,
+   "x": "jce8TtCWllHRlZhN1cnC2paO",
+   "clue": "सात दिवसांचा कालावधी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 17,
+   "x": "jcevTtCWms2Us1HRkckf2paA",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 19,
+   "x": "jceeTtCWhFHRlZjRkdMf2paA",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 9,
+   "x": "jcee0pWzSs2VglHRkdU=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 11,
+   "x": "jceUTtCWhs2Vj1HRkc0f2paF0pKTTdGJkNXJ3Q==",
+   "clue": "लातूर आणि नांदेड ज्या प्रदेशात आहेत तो"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 11,
+   "x": "jceUTtCWj82Vj1HRkd2DnoxM0pKa0ZSg0ZHyg5+/0JaG",
+   "clue": "आपले राज्य"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jceC0pWySs2Vlc2Viw==",
+   "clue": "रामाची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jcePTtCWqVHRlZjRkdMf2pao0pOvTdGJgg==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jceP0pSMSs2VglHRkdiDnrBM0pKy",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 17,
+   "x": "jceSTtCWvFHRlZjRkdMf2paA0pOt",
+   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceCTtCWkFHRlZ3RkdM=",
+   "clue": "अंगरखा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 13,
+   "x": "jceb0pSMSs2Vgs2Vio3HuE7Qlpo=",
+   "clue": "लाल दाण्यांचे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 15,
+   "x": "jceWTtCWoVHRlZ7RkdM=",
+   "clue": "पाण्याकाठी एका पायावर उभा राहणारा पांढरा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 5,
+   "x": "jceg0pSNSs2Vlc2UuI3Hik7QlqPNlY9R0ZHd",
+   "clue": "कुंचला हातात घेणारा कलाकार"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 15,
+   "x": "jcetTtCWlc2VjlHRkck=",
+   "clue": "आकड्यांचा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 17,
+   "x": "jceeTtCWnFHRlbjRkdIf2paA0pOt",
+   "clue": "चॉकलेटी रंग"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 1,
+   "x": "jce9TtCWks2VjlHRkdSDnoxM0pKV",
+   "clue": "भूतकाळाचा अभ्यास"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 4,
+   "x": "jceg0pSNSs2Vlc2UuI3Hik7QlpxR0ZWy",
+   "clue": "सिनेमा"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 13,
+   "x": "jcezTtCWns2UvM2VjI3HhE7QloXNlY8=",
+   "clue": "सर्वात उष्ण ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 13,
+   "x": "jcezTtCWqVHRlY7RkOo=",
+   "clue": "दिवाळीच्या पहाटे अंगाला लावायचे सुगंधी लेप"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 3,
+   "x": "jcev0pW1Ss2Vgs2Usg==",
+   "clue": "पिवळ्या सालीचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 11,
+   "x": "jcevTtCWnM2Vj1HRkfI=",
+   "clue": "कपडे ठेवण्याचे"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 11,
+   "x": "jcevTtCWl82UsFHRkd+Dno3QlrRR0ZWB",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 17,
+   "x": "jcev0pSNSs2Vmc2VixGDnoLQlog=",
+   "clue": "समुद्राचा काठ"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 19,
+   "x": "jceK0pSMSs2VnlHRkfof2paR",
+   "clue": "शिवरायांची राजधानी असलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jceUTtCWj82Vj1HRkcEf2paD0pOqTdGJh9XI7tqWhU7WiYE=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 15,
+   "x": "jcee0pWzSs2Vlc2VixGDnoLQl7Y=",
+   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 16,
+   "x": "jcee0pSMSs2Vmc2VixGDnq7Ql7Y=",
+   "clue": "कोंढाणा जिंकताना धारातीर्थी पडलेले सरदार"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 18,
+   "x": "jceU0pW5Ss2VplHRkd2Dnow=",
+   "clue": "सुगंधी पांढरे फूल"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 9,
+   "x": "jceW0pWzSs2Vl82UuI3HndKUjUrNlZ1R0ZHe",
+   "clue": "राजा-वजिराचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 14,
+   "x": "jceM0pSNSs2VhM2VixGDnq7Ql7Y=",
+   "clue": "स्वराज्याचे संस्थापक छत्रपती"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 15,
+   "x": "jceP0pSMSs2Vgc2UtQ==",
+   "clue": "पंढरपूरला पायी जाणारी यात्रा"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "2026-11-20",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 13,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceQ0pW5Ss2ViFHSlM6Dn7U=",
+   "clue": "पाण्यातील व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceQ0pWzSs2Vks2Xtw==",
+   "clue": "विद्येचे माहेरघर"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceQ0pWzSs2Vic2XvY3Hnk7QlqM=",
+   "clue": "ग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceQ0pW/1omBTc2WiI3HhE7QlpA=",
+   "clue": "देवाला दाखवलेला नैवेद्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceC0pSMSs2VnlHSlPgf2paC",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceITtCWoc2UulHSlN2Dn7I=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jce8TtCWns2Vs1HSlMs=",
+   "clue": "हर्ष"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jce8TtCWo82Vj1HSlNs=",
+   "clue": "गगन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcet0pW5Ss2Vrs2XvY3HldKUjA==",
+   "clue": "काचेच्या गोळ्यांचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jcev0pW1Ss2Vh1HSlN2Dn7I=",
+   "clue": "भगव्या ध्वजाचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceMTtCWhs2UvM2WnxGDnpY=",
+   "clue": "स्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceQ0pW/1omBTc2WpY3HhE7QloA=",
+   "clue": "उजेड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 0,
+   "x": "jceQ0pW/1omBTc2Who3Gt9KUmg==",
+   "clue": "सवाल"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceC0pSMSs2Vm1HSlNuDno1M0pKM0ZSt",
+   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceS0pSMSs2VlQ==",
+   "clue": "मुलाची किंवा मुलीची मुलगी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceS0pSMSs2VplHSlMeDnrBM0pK3TdGJnNDI4w==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceQTtCWks2Vs1HSlPo=",
+   "clue": "संक्रांतीला उडवतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jcet0pW/1omB0YmwTI3Hn9KUjErNlYNR0pTC",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceU0pWySs2VkQ==",
+   "clue": "लवण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcef0pSMSs2Vg82XsBGDnpjQl7ZR0ZWN",
+   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceW0pSM1omzTc2WpxGDnpPQl7Y=",
+   "clue": "हातातील काचेचा दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jcetTtCWj82Usw==",
+   "clue": "चपातीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jcegTtCWnM2UvM2WmhGDnoA=",
+   "clue": "पायतण"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceU0pSMSs2Vn82XsA==",
+   "clue": "मामांची पत्नी"
+  }
+ ]
+}

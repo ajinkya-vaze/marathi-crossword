@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="mr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crossword Tests</title>
+  <style>
+    :root { --bg: #fff; --text: #111; --ok: #15803d; --bad: #dc2626; --muted: #666; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #111; --text: #eee; --ok: #4ade80; --bad: #f87171; --muted: #999; } }
+    :root[data-theme="dark"] { --bg: #111; --text: #eee; --ok: #4ade80; --bad: #f87171; --muted: #999; }
+    body { background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, "Noto Sans Devanagari", sans-serif; margin: 0; padding: 16px; }
+    .ok { color: var(--ok); } .bad { color: var(--bad); } pre { white-space: pre-wrap; color: var(--muted); margin: 0 0 8px 20px; }
+    h2 { font-size: 17px; margin-top: 24px; }
+  </style>
+</head>
+<body>
+  <h1 id="summary">Running…</h1>
+  <div id="out"></div>
+  <script type="module">
+    import { tests } from './tests.js';
+    import { validateAll } from '../tools/validate-lib.js';
+    const out = document.getElementById('out');
+    const line = (cls, text, detail) => {
+      const d = document.createElement('div');
+      d.className = cls;
+      d.textContent = text;
+      out.appendChild(d);
+      if (detail) { const p = document.createElement('pre'); p.textContent = detail; out.appendChild(p); }
+    };
+    let pass = 0, fail = 0;
+    out.insertAdjacentHTML('beforeend', '<h2>Unit tests</h2>');
+    for (const t of tests) {
+      try { await t.fn(); pass++; line('ok', '✓ ' + t.name); }
+      catch (e) { fail++; line('bad', '✗ ' + t.name, e.message); }
+    }
+    out.insertAdjacentHTML('beforeend', '<h2>Puzzle files</h2>');
+    const get = async (u) => { const r = await fetch(u, { cache: 'no-cache' }); if (!r.ok) throw new Error(r.status); return r.json(); };
+    const report = await validateAll(await get('../puzzles/index.json'), (id) => get(`../puzzles/${id}.json`));
+    for (const { id, errors } of report) {
+      if (errors.length) { fail++; line('bad', '✗ ' + id, errors.join('\n')); } else { pass++; line('ok', '✓ ' + id); }
+    }
+    const s = document.getElementById('summary');
+    s.textContent = `${pass} passed, ${fail} failed`;
+    s.className = fail ? 'bad' : 'ok';
+    window.__testResult = { pass, fail };
+  </script>
+</body>
+</html>

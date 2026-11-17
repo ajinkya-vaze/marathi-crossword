@@ -1,0 +1,20 @@
+# Runs the Python tests (akshara splitting, encoding, generator, validator and every
+# published puzzle) on each push and pull request. GitHub Pages serves the repo as-is.
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate puzzles
+        run: python3 tools/validate.py
+      - name: Unit tests
+        run: python3 -m unittest discover -s tools -v

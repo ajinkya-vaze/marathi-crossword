@@ -1,0 +1,177 @@
+{
+ "id": "2026-11-14",
+ "title": "खाऊ आणि स्वयंपाकघर",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "x": "jceU0pW5Ss2ViFHRkN2Dn7I=",
+   "clue": "फोडणीत तडतडणारे काळे दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceU0pW5Ss2Vl1HRkPg=",
+   "clue": "गणरायाचा आवडता गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceDTtCWhVHRlYs=",
+   "clue": "पिवळ्या रंगाचा मसाला"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jceDTtCWhs2UsVHRkM4=",
+   "clue": "मृग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jceI0pSM1omzTc2VlRGDnqXQlog=",
+   "clue": "कळपात शिकार करणारा जंगली प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcev0pW6Ss2Vgc2UtA==",
+   "clue": "कच्चा आंबा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jcevTtCWhM2Vjs2VthGDnqVM0pKM",
+   "clue": "उन्हाळ्यातील लाल गराचे मोठे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceI0pSN1omzTc2VmI3GuA==",
+   "clue": "आंबट पिवळे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceCTtCWhlHRlYFN1MnH",
+   "clue": "थंड गोड पेय"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcet0pSMSs2VrVHRkN0=",
+   "clue": "लाल-केशरी कंदमूळ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceP0pSMSs2Vrs2UtA==",
+   "clue": "आमटी वाढण्याचे लहान भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceP0pSMSs2Vrs2VihGDnpHQlog=",
+   "clue": "हिरवे गोल दाणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jceWTtCWqc2Vj1HRkPKDnow=",
+   "clue": "वड्यात भरतात तो कंद"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceX0pSMSs2VlQ==",
+   "clue": "शिजवलेले तांदूळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceX0pSMSs2Vrc2UtA==",
+   "clue": "पोळीसोबत खाल्ला जाणारा शिजवलेला पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceQ0pSMSs2VhFHRkMCDnoxM0pKx0ZSt",
+   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcePTtCWl82Vj1HRkMeDnoxM0pKY",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceg0pSNSs2VhFHRkMyDnow=",
+   "clue": "पोह्यांचा कुरकुरीत खाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceg0pSNSs2Vn1HRkM6Dn7I=",
+   "clue": "घराजवळ चिवचिवणारा लहान पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceb0pSMSs2Vgg==",
+   "clue": "वरणासाठी लागणारी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jceC0pSMSs2VhFHRkN+Dn7I=",
+   "clue": "छाया"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceI0pW5Ss2Vks2UtA==",
+   "clue": "ताक घुसळून काढलेले"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceI0pW5Ss2VklHRkPeDn7U=",
+   "clue": "कैरीचे वर्षभर टिकणारे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jcePTtCWhlHRlY4=",
+   "clue": "तुरीच्या डाळीचे साधे"
+  }
+ ]
+}

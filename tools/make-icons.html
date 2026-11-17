@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="mr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>App Icons</title>
+  <style>
+    :root { --bg: #f4f1ec; --text: #222; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #1b1916; --text: #eee; } }
+    :root[data-theme="dark"] { --bg: #1b1916; --text: #eee; }
+    body { background: var(--bg); color: var(--text); font: 15px system-ui, sans-serif; padding: 16px; }
+    figure { display: inline-block; margin: 0 16px 16px 0; text-align: center; }
+    canvas { width: 160px; height: 160px; border-radius: 12px; background: repeating-conic-gradient(#ccc 0 25%, #fff 0 50%) 0 0 / 16px 16px; }
+  </style>
+</head>
+<body>
+  <p>Generates the app icons. Open via the dev server (python3 tools/serve.py), then right-click → Save image into <code>icons/</code>.</p>
+  <div id="out"></div>
+  <script>
+    // A mini crossword: मराठी across, मन down from म.
+    function draw(size, { maskable }) {
+      const c = document.createElement('canvas');
+      c.width = c.height = size;
+      const g = c.getContext('2d');
+      const s = size / 512;
+      g.fillStyle = '#c2410c';
+      if (maskable) {
+        g.fillRect(0, 0, size, size);
+      } else {
+        g.beginPath();
+        g.roundRect(0, 0, size, size, 108 * s);
+        g.fill();
+      }
+      const tile = (maskable ? 100 : 118) * s;
+      const gap = 8 * s;
+      const across = ['म', 'रा', 'ठी'];
+      const totalW = 3 * tile + 2 * gap;
+      const totalH = 2 * tile + gap;
+      const x0 = (size - totalW) / 2;
+      const y0 = (size - totalH) / 2;
+      const cells = across.map((ch, i) => [x0 + i * (tile + gap), y0, ch]);
+      cells.push([x0, y0 + tile + gap, 'न']);
+      g.textAlign = 'center';
+      g.textBaseline = 'middle';
+      g.font = `600 ${tile * 0.56}px "Kohinoor Devanagari", "Noto Sans Devanagari", "Mukta", sans-serif`;
+      for (const [x, y, ch] of cells) {
+        g.fillStyle = '#fff7ed';
+        g.beginPath();
+        g.roundRect(x, y, tile, tile, 10 * s);
+        g.fill();
+        g.fillStyle = '#1f1a14';
+        g.fillText(ch, x + tile / 2, y + tile / 2 + tile * 0.06);
+      }
+      // highlight the first square like the selected cell in the game
+      g.strokeStyle = '#f59e0b';
+      g.lineWidth = 8 * s;
+      g.beginPath();
+      g.roundRect(x0 + 4 * s, y0 + 4 * s, tile - 8 * s, tile - 8 * s, 8 * s);
+      g.stroke();
+      return c;
+    }
+    const specs = [
+      ['icon-192.png', 192, { maskable: false }],
+      ['icon-512.png', 512, { maskable: false }],
+      ['maskable-512.png', 512, { maskable: true }],
+    ];
+    window.icons = {};
+    document.fonts.ready.then(() => {
+      for (const [name, size, opts] of specs) {
+        const c = draw(size, opts);
+        window.icons[name] = c.toDataURL('image/png');
+        const f = document.createElement('figure');
+        f.append(c);
+        f.insertAdjacentHTML('beforeend', `<figcaption>${name}</figcaption>`);
+        document.getElementById('out').append(f);
+      }
+    });
+  </script>
+</body>
+</html>
