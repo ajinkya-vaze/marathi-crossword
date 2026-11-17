@@ -61,6 +61,14 @@ export function splitAksharas(text) {
   return out;
 }
 
+/**
+ * The stored form of a typed akshara: NFC (so र + ़ becomes ऱ) and the single-letter forms of
+ * ॲ / ऑ, which phone keyboards often send as two characters (अ + ॅ, आ + ॅ, अ + ॉ).
+ */
+export function canonical(s) {
+  return s.normalize('NFC').replace(/अॅ/g, 'ॲ').replace(/आॅ|अॉ/g, 'ऑ');
+}
+
 // ── Close-enough answers
 // Common spelling slips that still count as correct, shown with a yellow mark:
 // short/long इ उ, anusvara/chandrabindu/visarga/nukta, ॅ ॉ vs े ो, श/ष/स and न/ण.

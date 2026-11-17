@@ -1,5 +1,5 @@
 // Unit tests for the app's JS. Open /test/ in a browser (served by tools/serve.py) to run them.
-import { splitAksharas, isCloseEnough } from '../js/akshara.js';
+import { splitAksharas, isCloseEnough, canonical } from '../js/akshara.js';
 import { typeKey, BACKSPACE, NEXT } from '../js/input.js';
 import { buildPuzzle } from '../js/puzzle.js';
 import { validatePuzzle } from '../tools/validate-lib.js';
@@ -34,6 +34,13 @@ const NOT_CLOSE = [
 ];
 for (const [typed, sol] of CLOSE) test(`"${typed}" is close enough to "${sol}"`, () => eq(isCloseEnough(typed, sol), true));
 for (const [typed, sol] of NOT_CLOSE) test(`"${typed}" is not close enough to "${sol}"`, () => eq(isCloseEnough(typed, sol), false));
+// ── canonical stored form of typed text
+test('र + nukta is stored as ऱ', () => eq(canonical('ऱ'), 'ऱ'));
+test('ऱ्हा typed with nukta matches the answer exactly', () => eq(canonical('ऱ्हा'), 'ऱ्हा'));
+test('अ + ॅ is stored as ॲ', () => eq(canonical('अॅ'), 'ॲ'));
+test('आ + ॅ and अ + ॉ are stored as ऑ', () => eq([canonical('आॅ'), canonical('अॉ')], ['ऑ', 'ऑ']));
+test('canonical leaves ordinary aksharas alone', () => eq(['क्ष', 'कि', 'माँ', 'दुः'].map(canonical), ['क्ष', 'कि', 'माँ', 'दुः']));
+test('ऱ key types ऱ्हा into one square', () => eq(typeAll(word(1), ['ऱ', '्', 'ह', 'ा']).values, ['ऱ्हा']));
 
 // ── answer obfuscation (fixture produced by tools/puzzlelib.py encode_cells)
 const OBFUSCATED_FIXTURE = {

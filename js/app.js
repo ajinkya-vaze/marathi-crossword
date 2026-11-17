@@ -1,6 +1,6 @@
 import { buildPuzzle } from './puzzle.js';
 import { typeKey, BACKSPACE, NEXT } from './input.js';
-import { splitAksharas, isCloseEnough } from './akshara.js';
+import { splitAksharas, isCloseEnough, canonical } from './akshara.js';
 import * as store from './storage.js';
 import { createKeyboard } from './keyboard.js';
 import { helpHTML } from './help.js';
@@ -28,7 +28,13 @@ async function fetchJSON(url) {
   return res.json();
 }
 
+// Each navigation gets a number; a render that finishes after a newer navigation started is dropped
+// (e.g. Back pressed while a puzzle is still loading on a slow connection).
+let routeSeq = 0;
+const isStale = (seq) => seq !== routeSeq;
+
 async function route() {
+  const seq = ++routeSeq;
   if (teardown) teardown();
   teardown = null;
   document.querySelectorAll('.backdrop').forEach((b) => b.remove());
@@ -37,11 +43,15 @@ async function route() {
   const hash = location.hash;
   const m = hash.match(/^#\/p\/([\w-]+)$/);
   try {
-    if (m) teardown = await renderPlay(m[1]);
-    else if (hash === '#/help') renderHelp();
-    else if (hash === '#/more') await renderMore();
-    else await renderHome();
+    if (m) {
+      const td = await renderPlay(m[1], seq);
+      if (isStale(seq)) td?.();
+      else teardown = td;
+    } else if (hash === '#/help') renderHelp();
+    else if (hash === '#/more') await renderMore(seq);
+    else await renderHome(seq);
   } catch (err) {
+    if (isStale(seq)) return;
     console.error(err);
     const msg = err.offline || navigator.onLine === false ? t('offlineError') : t('loadError');
     app.innerHTML = `<div class="error-page"><p>${esc(msg)}</p><a class="btn-primary" href="#/">${t('home')}</a></div>`;
@@ -84,9 +94,10 @@ function wireTopbar() {
 
 // ───────────────────────── Home ─────────────────────────
 
-async function renderHome() {
+async function renderHome(seq) {
   const index = await fetchJSON('puzzles/index.json');
   const extras = await loadExtras();
+  if (isStale(seq)) return;
   const today = todayISO();
   const list = index.puzzles.filter((p) => p.date <= today).sort((a, b) => b.date.localeCompare(a.date));
   const [top, ...rest] = list;
@@ -165,8 +176,9 @@ async function loadExtras() {
   }
 }
 
-async function renderMore() {
+async function renderMore(seq) {
   const extras = await fetchJSON('puzzles/extra/index.json');
+  if (isStale(seq)) return;
   const settings = store.loadSettings();
   const themes = extras.themes || [];
   let theme = themes.some((th) => th.key === settings.moreTheme) ? settings.moreTheme : 'all';
@@ -292,8 +304,9 @@ function openSheet(inner, { center = false } = {}) {
 // ───────────────────────── Play ─────────────────────────
 
 
-async function renderPlay(id) {
+async function renderPlay(id, seq) {
   const data = await fetchJSON(`puzzles/${puzzlePath(id)}`);
+  if (isStale(seq)) return null;
   const extra = isExtra(id);
   const homeHref = extra ? '#/more' : '#/';
   const pz = buildPuzzle(data);
@@ -394,7 +407,7 @@ async function renderPlay(id) {
     return pz.ordered[(k + step + pz.ordered.length) % pz.ordered.length];
   };
   const setFill = (i, v) => {
-    if (v) S.fills.set(i, v);
+    if (v) S.fills.set(i, canonical(v));
     else S.fills.delete(i);
     S.wrong.delete(i);
     S.near.delete(i);
@@ -465,7 +478,7 @@ async function renderPlay(id) {
   function applyResult(e, res) {
     res.values.forEach((v, k) => {
       const i = e.positions[k];
-      if ((S.fills.get(i) || '') !== v) setFill(i, v);
+      if ((S.fills.get(i) || '') !== (v && canonical(v))) setFill(i, v);
     });
     S.cell = e.positions[res.pos];
     S.dir = e.dir;
@@ -569,8 +582,15 @@ async function renderPlay(id) {
     toast(wrong.length === 1 ? t('submitWrongOne') : t('submitWrong', { n: wrong.length }));
   }
 
+  function clearPause() {
+    S.paused = false;
+    root.classList.remove('paused');
+    timerEl.setAttribute('aria-label', t('pause'));
+  }
+
   function solve() {
     tick();
+    clearPause(); // e.g. "reveal whole puzzle" chosen while paused
     S.solved = true;
     S.solvedAt = new Date().toISOString();
     S.composing = false;
@@ -624,7 +644,7 @@ async function renderPlay(id) {
   function showSolved() {
     const today = todayISO();
     const streak = id === today ? store.streakAsOf(today) : 0;
-    const { el } = openSheet(
+    const { el, close } = openSheet(
       `<div class="solved-box">
         <div class="big">🎉</div>
         <h2>${t('congrats')}</h2>
@@ -641,6 +661,12 @@ async function renderPlay(id) {
       { center: true },
     );
     el.querySelector('.share-btn').addEventListener('click', share);
+    // Leave without a stray history entry: replace the sheet's entry instead of pushing a new one.
+    el.querySelector('a.btn-secondary').addEventListener('click', (ev) => {
+      ev.preventDefault();
+      close(true);
+      location.replace(homeHref);
+    });
   }
 
   // ── check & reveal
@@ -700,6 +726,7 @@ async function renderPlay(id) {
     S.solved = false;
     S.solvedAt = null;
     S.assisted = false;
+    clearPause();
     root.classList.remove('solved');
     persist();
     selectEntry(pz.ordered[0]);
@@ -788,13 +815,23 @@ async function renderPlay(id) {
   const running = () => !S.solved && !S.paused && document.visibilityState === 'visible';
   function tick() {
     const now = performance.now();
-    if (running()) S.elapsed += now - last;
+    // A gap far longer than the 1s interval means timers were frozen (screen off, app in the
+    // background) without us seeing it; never count that time.
+    if (running() && now - last < 5000) S.elapsed += now - last;
     last = now;
     timerEl.textContent = time(S.elapsed);
     if (++ticks % 5 === 0 && running()) persist();
   }
   const timerId = setInterval(tick, 1000);
-  const onVisibility = () => { tick(); persist(); };
+  const onVisibility = () => {
+    if (document.visibilityState === 'hidden') {
+      // Count up to the moment the app was hidden, then stop.
+      if (!S.solved && !S.paused) S.elapsed += Math.min(performance.now() - last, 5000);
+      persist();
+    }
+    last = performance.now(); // time spent hidden is never counted
+    timerEl.textContent = time(S.elapsed);
+  };
   document.addEventListener('visibilitychange', onVisibility);
 
   function setPaused(p) {
@@ -851,12 +888,17 @@ async function renderPlay(id) {
       j++;
     }
     // Restore squares this session touched that are no longer covered (user deleted text).
-    for (const [k, val] of sys.orig) {
-      if (!targets.includes(k)) { setFill(e.positions[k], val); sys.orig.delete(k); }
+    for (const [k, o] of sys.orig) {
+      if (targets.includes(k)) continue;
+      const i = e.positions[k];
+      setFill(i, o.val);
+      if (o.wrong) S.wrong.add(i); // put back the red/yellow mark it had before typing
+      if (o.near) S.near.add(i);
+      sys.orig.delete(k);
     }
     targets.forEach((k, j) => {
       const i = e.positions[k];
-      if (!sys.orig.has(k)) sys.orig.set(k, S.fills.get(i) || '');
+      if (!sys.orig.has(k)) sys.orig.set(k, { val: S.fills.get(i) || '', wrong: S.wrong.has(i), near: S.near.has(i) });
       setFill(i, aks[j]);
     });
     S.cell = e.positions[targets.length ? targets.at(-1) : sys.start];

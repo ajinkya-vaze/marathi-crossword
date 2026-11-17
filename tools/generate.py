@@ -309,7 +309,10 @@ def make_extras(words: list[Word], small_n: int, large_n: int, force: bool, rng:
         for size_name, count in (("small", small_n), ("large", large_n)):
             size = SIZES[size_name]
             prefix = f"x-{slug}-{'m' if size_name == 'large' else ''}"
-            have = sum(1 for pid in by_id if pid.startswith(prefix) and pid[len(prefix):].isdigit())
+            # Continue after the highest number in use, so a gap (failed or deleted puzzle) never
+            # makes a new puzzle overwrite an existing one.
+            have = max((int(pid[len(prefix):]) for pid in by_id
+                        if pid.startswith(prefix) and pid[len(prefix):].isdigit()), default=0)
             for k in range(have + 1, have + count + 1):
                 t0 = time.time()
                 pid = f"{prefix}{k:02d}"

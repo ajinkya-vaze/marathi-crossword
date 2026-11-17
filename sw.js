@@ -5,7 +5,7 @@
 // always get the latest app and today's puzzle; every file fetched is kept for offline use.
 // The app shell is cached up front on install. Bump VERSION when files are added or removed.
 
-const VERSION = 'v5';
+const VERSION = 'v6';
 const CACHE = `marathi-crossword-${VERSION}`;
 const SHELL = [
   './',
@@ -38,12 +38,23 @@ self.addEventListener('install', (event) => {
 });
 
 self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => k.startsWith('marathi-crossword-') && k !== CACHE).map((k) => caches.delete(k))))
-      .then(() => self.clients.claim()),
-  );
+  event.waitUntil(replaceOldCaches().then(() => self.clients.claim()));
 });
+
+// Drop old app versions, but keep puzzles players opened so they still work offline after an update.
+async function replaceOldCaches() {
+  const fresh = await caches.open(CACHE);
+  for (const key of await caches.keys()) {
+    if (!key.startsWith('marathi-crossword-') || key === CACHE) continue;
+    const old = await caches.open(key);
+    for (const req of await old.keys()) {
+      if (!new URL(req.url).pathname.includes('/puzzles/') || (await fresh.match(req))) continue;
+      const res = await old.match(req);
+      if (res) await fresh.put(req, res);
+    }
+    await caches.delete(key);
+  }
+}
 
 self.addEventListener('fetch', (event) => {
   const req = event.request;
