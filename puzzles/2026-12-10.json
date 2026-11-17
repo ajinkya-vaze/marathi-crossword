@@ -1,0 +1,177 @@
+{
+ "id": "2026-12-10",
+ "title": "निसर्ग",
+ "difficulty": "सोपे",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jcevTtCWl82Us1HRlN+Dno3QlrRR0ZaB",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jcevTtCWhM2Vjc2VshGDnqVM0pKM",
+   "clue": "उन्हाळ्यातील लाल गराचे मोठे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceWTtCWhs2Uv82Vmw==",
+   "clue": "हिम"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcezTtCWns2Uv82ViY3HhE7QloXNlYw=",
+   "clue": "सर्वात उष्ण ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceD0pSNSs2Vh82VjhGDnoHQlog=",
+   "clue": "थंडीचा ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceD0pSNSs2VglHRlNgf2paD",
+   "clue": "हिरवेगार गवत"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcePTtCWlw==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jcePTtCWqVHRlpjRlNMf2pao0pOvTdKJgg==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceQTtCWls2VjFHRlN0=",
+   "clue": "उंचावरील सपाट प्रदेश"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jceQTtCWj82VjFHRlPI=",
+   "clue": "सूर्योदयापूर्वीची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jcecTtCWgw==",
+   "clue": "पहाटे पानांवर साचणारे पाण्याचे थेंब"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceI0pSMSs2VrQ==",
+   "clue": "समुद्रातील पाण्याची उसळी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jcePTtCWl82VjFHRlMeDnoxM0pKY",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jceQ0pSMSs2VuFHRlNU=",
+   "clue": "पर्जन्य"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jcesTtCWl1HRlrg=",
+   "clue": "मोठा दगड"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceP0pSMSs2VgVHRlNiDnrBM0pKy",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcen0pSMSs2Vkw==",
+   "clue": "वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 10,
+   "x": "jceCTtCWjs2VjA==",
+   "clue": "लांब कानांचा चपळ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jceC0pSMSs2Vh1HRlN+Dn7I=",
+   "clue": "छाया"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jcevTtCWmFHRlp4=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jceUTtCWj82VjFHRlMEf2paD0pOqTdKJh9DI7tqWhU7WiYE=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jceW0pSMSs2VlFHRlN+Dn7I=",
+   "clue": "पाणी भरण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcev0pW51omzTs2VnBGDnpPQlog=",
+   "clue": "पहाटे आरवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceS0pSMSs2VglHRlN4=",
+   "clue": "श्रीफळ"
+  }
+ ]
+}

@@ -211,8 +211,12 @@ def layout_score(L: Layout, size: dict, theme: set[str]) -> float:
 
 
 def best_layout(pool, size, theme, fresh, rng) -> Layout:
+    # Keep searching (up to 4× the tries) while the best layout is under the size's minimum:
+    # with a 7-day gap a Sunday pool is thin, and 250 tries alone often stall in the 40s–50s.
     best, best_s = None, None
-    for _ in range(size["tries"]):
+    for i in range(size["tries"] * 4):
+        if i >= size["tries"] and len(best.placed) >= size["min"]:
+            break
         L = build_layout(pool, size, theme, fresh, rng)
         s = layout_score(L, size, theme)
         if best is None or s > best_s:

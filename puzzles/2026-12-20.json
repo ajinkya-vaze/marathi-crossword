@@ -1,0 +1,520 @@
+{
+ "id": "2026-12-20",
+ "title": "रविवारचे मोठे कोडे",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jceU0pW1Ss2Vl82XsA==",
+   "clue": "कडवट पालेभाजी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceU0pW1Ss2VkVHSlMEf2paU0pOg0ZaJ0pXt",
+   "clue": "वाढदिवसाच्या केकवर लावतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jcev0pW5Ss2Vp1HSlM4=",
+   "clue": "समुद्रकिनाऱ्यालगतचा महाराष्ट्राचा प्रदेश"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcev0pW5Ss2VgM2XvY3Hg9KUjErNlZjNl7IRg56C",
+   "clue": "तांबडा-पांढरा रस्सा आणि चपलांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcev0pW5Ss2VgM2XvY3Hg9KUjA==",
+   "clue": "धूर्त म्हणून ओळखला जाणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 10,
+   "x": "jceWTtCWhs2Uv82Wmw==",
+   "clue": "हिम"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceg0pSNSs2VnFHSlM6Dn7I=",
+   "clue": "घराजवळ चिवचिवणारा लहान पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcev0pW1Ss2Vgc2Xtw==",
+   "clue": "पिवळ्या सालीचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceUTtCWj82VjFHSlMEf2paD0pOqTdKJhNDI7tqWhU7WiYE=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceWTtCWj82UslHSlM4=",
+   "clue": "भगिनी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jce/0pSwSs2VpVHSlM4=",
+   "clue": "घरासमोरची मोकळी जागा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceK0pSMSs2Vkc2XsA==",
+   "clue": "राजाची पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceK0pSMSs2Vls2XvY3Hig==",
+   "clue": "निशा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceU0pSNSs2Vls2XvY3Hig==",
+   "clue": "सखा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jcen0pWzSs2VkVHSlPiDnow=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jcev0pSMSs2VnA==",
+   "clue": "कार्य"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jcem0pSNSs2Vgs2Xtw==",
+   "clue": "फोडणीत घालायचे लहान बी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jcem0pSNSs2Vms2Wjg==",
+   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 12,
+   "x": "jceI0pW5Ss2VkVHSlPeDn7U=",
+   "clue": "कैरीचे वर्षभर टिकणारे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 12,
+   "x": "jceI0pW5Ss2VpM2WshGDnpM=",
+   "clue": "गंज चढणारा धातू"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jceUTtCWj82VjVHSlMWDnow=",
+   "clue": "मास"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceD0pSNSs2VglHSlNiDnow=",
+   "clue": "पानांचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jce/0pSwSs2VpVHSlM2Dn7I=",
+   "clue": "बोटातील दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 10,
+   "x": "jcetTtCWhs2Us1HSlMw=",
+   "clue": "विष्णूचे वाहन असलेला पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jceeTtCWg82VjA==",
+   "clue": "पोळ्या भाजण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceeTtCWhFHRlpjSlNMf2paA",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jcev0pSMSs2Vks2XsA==",
+   "clue": "लाकडी दांडा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcev0pSMSs2VqA==",
+   "clue": "पारदर्शक नाजूक पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 13,
+   "x": "jcee0pW5Ss2VglHSlM4=",
+   "clue": "दाराला लावायची फुलांची माळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jcee0pWzSs2Vp82WjhGDnoLQlohR0ZaD",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jceY0pW5Ss2VgA==",
+   "clue": "मिरवणुकीत वाजवले जाणारे मोठे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jceQ0pSMSs2VqA==",
+   "clue": "एका हाताची बोटे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jceQ0pSMSs2Vgs2XvY3Hj07QlpLNlLI=",
+   "clue": "शंकराची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 11,
+   "x": "jceCTtCWks2VjFHSlN0=",
+   "clue": "तारांचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 11,
+   "x": "jceCTtCWjs2VjA==",
+   "clue": "लांब कानांचा चपळ प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceQ0pW/1omBTs2WpY3HhE7QloA=",
+   "clue": "उजेड"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jceQ0pW6Ss2Vis2Wjg==",
+   "clue": "धन"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jceQ0pW6Ss2VklHSlM6Dn7I=",
+   "clue": "रेशमी साडीचा प्रसिद्ध प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceCTtCWhlHRlpXSleCDnodM0pKJ0Zet",
+   "clue": "विद्येची देवता"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jceCTtCWklHRlp3SlO8f2pas0pOt",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jceC0pW/1omETs2Wn43HuE7QlpzNlYxR0pT4",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 16,
+   "x": "jceg0pSMSs2Vmc2Wjg==",
+   "clue": "सुगंधी पिवळे फूल"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 16,
+   "x": "jceg0pSMSs2Vpw==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 19,
+   "x": "jceQ0pW/1omBTs2WlI3HhE7QlpxR0Za6TtDJwg==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceUTtCWj82VjFHSlMCDnoxM0pKdTdKJlg==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceI0pW5Ss2Vkc2XsA==",
+   "clue": "ताक घुसळून काढलेले"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 9,
+   "x": "jceI0pW5Ss2Vkc2WjhGDnodM0pKe0ZaT",
+   "clue": "चिक्कीसाठी प्रसिद्ध घाटातील ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 13,
+   "x": "jceQ0pSN1omzTs2WmhGDnoE=",
+   "clue": "पानांना टोक असलेला पवित्र वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 15,
+   "x": "jceS0pSMSs2Vpw==",
+   "clue": "वास घेण्याचे इंद्रिय"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 15,
+   "x": "jceS0pSMSs2VpVHSlMeDnrBM0pK3TdKJnNDI4w==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 19,
+   "x": "jcee0pSMSs2VhM2Wjg==",
+   "clue": "ढोलासोबत वाजणारे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 7,
+   "x": "jceQ0pSMSs2Vi82XsRGDnpHQlog=",
+   "clue": "घरी आलेला अतिथी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 11,
+   "x": "jce8TtCWg82VjFHSlPE=",
+   "clue": "ध्वनी"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 13,
+   "x": "jceQTtCWks2VsFHSlPo=",
+   "clue": "संक्रांतीला उडवतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 17,
+   "x": "jceX0pWwSs2Vp82WshGDnpg=",
+   "clue": "जमीन हादरण्याची घटना"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 17,
+   "x": "jceX0pWwSs2Vpc2XuxGDnoA=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 2,
+   "x": "jceQ0pSMSs2Vh1HSlMCDnoxM0pKx0Zet",
+   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 4,
+   "x": "jceX0pSMSs2VglHSlMk=",
+   "clue": "आपला देश"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 9,
+   "x": "jcePTtCWqVHRlpjSlNMf2pao0pOvTdKJgQ==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 19,
+   "x": "jcetTtCWj82UsA==",
+   "clue": "चपातीचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 1,
+   "x": "jcewTtCWjg==",
+   "clue": "गोड रसाचे पीक"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 8,
+   "x": "jceS0pSNSs2Vgc2Wjg==",
+   "clue": "आकाशाचा रंग"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 15,
+   "x": "jcegTtCWnM2Uv82WmhGDnoA=",
+   "clue": "पायतण"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 1,
+   "x": "jceCTtCWhlHRloFO0MnH",
+   "clue": "थंड गोड पेय"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 2,
+   "x": "jceKTtCWg82VjVHSlNiDnoxM0pKd",
+   "clue": "सुट्टीचा वार"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 12,
+   "x": "jceK0pSMSs2VnA==",
+   "clue": "अयोध्येचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 14,
+   "x": "jceU0pSMSs2VnM2XsA==",
+   "clue": "मामांची पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 14,
+   "x": "jceU0pSMSs2Vh1HSlNuDn7I=",
+   "clue": "आईची बहीण"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 11,
+   "x": "jceS0pSMSs2VnFHSlMuDn7VM0pKY",
+   "clue": "पंजाबपर्यंत भक्ती पोहोचवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 11,
+   "x": "jceS0pSMSs2VhM2WjxGDnqc=",
+   "clue": "द्राक्षे आणि कुंभमेळ्यासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 0,
+   "x": "jceC0pW5Ss2VnFHSlNiDnoxM0pKd",
+   "clue": "आठवड्याचा पहिला कामाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 0,
+   "x": "jceC0pW5Ss2Vms2Xtw==",
+   "clue": "पिवळा मौल्यवान धातू"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 10,
+   "x": "jce1TtCWo1HRloXSlNMf2paV",
+   "clue": "भारुडे रचणारे पैठणचे संत"
+  }
+ ]
+}

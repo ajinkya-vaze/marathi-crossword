@@ -53,6 +53,8 @@ Open http://localhost:8000. For the phone layout, use your browser's device mode
    ```
    The last one redoes a single day. Use `--seed N` for repeatable output. A word isn't reused within `--gap` days (default 7).
 
+   If a line ends in ⚠ (for example a Sunday under 60 words), run the same batch again with `--force --seed N` and a different N. Redoing the whole batch keeps the 7-day gap; redoing one day in the middle may shrink it, because the days after it already use some words. A bigger word list makes this rarer.
+
 3. **Check them:**
    ```bash
    python3 tools/validate.py

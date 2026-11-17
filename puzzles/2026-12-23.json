@@ -1,0 +1,170 @@
+{
+ "id": "2026-12-23",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 8,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceS0pSMSs2Vlg==",
+   "clue": "मुलाची किंवा मुलीची मुलगी"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jcecTtCWj82VjA==",
+   "clue": "दोन्ही हातांची बोटे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcecTtCWhs2Usg==",
+   "clue": "दोन डोंगरांमधील खोल भाग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jceQ0pW/1omB0oi1T43HlA==",
+   "clue": "माया"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceM0pW1Ss2VllHSl/gf2paA0pOt",
+   "clue": "बळीराजा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceM0pW1Ss2Vrs2WjRGDnoLQl7Y=",
+   "clue": "घराजवळ राहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jcevTtCWms2UsFHSl8kf2paA",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jcegTtCWmFHRlrfSl9M=",
+   "clue": "आमटी पिण्यासाठी वापरतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jcegTtCWqVHRlqU=",
+   "clue": "जमिनीवर अंथरण्याची"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceQ0pWwSs2Vrs2WjQ==",
+   "clue": "देवाची उपासना"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcec0pW5Ss2Vgs2Xsw==",
+   "clue": "रस्सी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcec0pW5Ss2Vmg==",
+   "clue": "एकानंतरची संख्या"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jcem0pSMSs2Vh1HSl+U=",
+   "clue": "मुलीचा पती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcePTtCWo82UslHSl98=",
+   "clue": "न्यायालयात बाजू मांडणारा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jceU0pSMSs2Vmg==",
+   "clue": "डोके आणि धड जोडणारा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceU0pSMSs2Vgc2Xsw==",
+   "clue": "बागेची निगा राखणारा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jcec0pSMSs2Vgg==",
+   "clue": "दरवाजा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceD0pW5Ss2Vgc2Xsw==",
+   "clue": "रंगांचा सण"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceD0pW5Ss2Vk82Xsw==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceW0pW6Ss2VgFHSl/qDnoxM0pKM0Zet",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceW0pW6Ss2VgA==",
+   "clue": "शेतात नांगर ओढणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcet0pSMSs2VgA==",
+   "clue": "चेहऱ्याची बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceR0pWwSs2VgA==",
+   "clue": "पुष्प"
+  }
+ ]
+}

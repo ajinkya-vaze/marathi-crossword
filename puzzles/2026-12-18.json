@@ -1,0 +1,177 @@
+{
+ "id": "2026-12-18",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 10,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jcegTtCWj82VjA==",
+   "clue": "सकाळचे गरम पेय"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcee0pWzSs2Vls2VhhGDnoLQl7Y=",
+   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jce9TtCWks2VjVHRnNSDnoxM0pKV",
+   "clue": "भूतकाळाचा अभ्यास"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jcee0pSNSs2VgVHRnPqDn7BM0pKe",
+   "clue": "संक्रांतीला वाटायचा गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceCTtCWj82Uv82Vl43HhE7QlpDNlL/NlYiNxro=",
+   "clue": "महाराष्ट्रातील पश्चिम घाटाची पर्वतरांग"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 10,
+   "x": "jcee0pSMSs2VrQ==",
+   "clue": "जेवणाचे मोठे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceQ0pWzSs2Vrs2VhhGDnoLQl7Y=",
+   "clue": "देवळात पूजा करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceQ0pWzSs2Vis2UtY3Hnk7QlqM=",
+   "clue": "ग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceW0pWzSs2VlM2UtY3HndKUjUrNlZ5R0Zze",
+   "clue": "राजा-वजिराचा पटावरचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceWTtCWkFHRlrg=",
+   "clue": "पाण्यात पोहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jces0pW1Ss2Vp1HRnMyDnow=",
+   "clue": "तिरका चालणारा जलचर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jces0pW1Ss2VgVHRnM6Dn7I=",
+   "clue": "मुलांची खेळायची वस्तू"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceb0pSMSs2Vgc2Vh43HuE7Qlpo=",
+   "clue": "लाल दाण्यांचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jcevTtCWnM2VjFHRnN4=",
+   "clue": "टिळा लावतात ती जागा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jcevTtCWmlHRlozRneCDnpPQl7Y=",
+   "clue": "श्वास रोखून खेळायचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcevTtCWl82Us1HRnN+Dno3QlrRR0ZaB",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceb0pWzSs2Vp82UtY3Hr07QloY=",
+   "clue": "चिखलात लोळणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jceWTtCWjg==",
+   "clue": "लाल परी म्हणून ओळखली जाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jceCTtCWo82VjFHRnN4=",
+   "clue": "प्रातःकाळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 10,
+   "x": "jcev0pSMSs2Vp82Uug==",
+   "clue": "काकांची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jce/TtCWo82Uv82VjxGDnoI=",
+   "clue": "लिपीचा घटक"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jce/TtCWoc2Uv82VkI3Gug==",
+   "clue": "आग"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jcee0pSM1omzTs2Vno3GuE7QloU=",
+   "clue": "भाताचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcee0pSM1omzTs2VlI3GvQ==",
+   "clue": "लालसर धातू"
+  }
+ ]
+}

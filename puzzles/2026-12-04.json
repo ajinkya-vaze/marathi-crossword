@@ -1,0 +1,170 @@
+{
+ "id": "2026-12-04",
+ "title": "घर आणि कुटुंब",
+ "difficulty": "सोपे",
+ "rows": 12,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jceS0pSMSs2Vls2Vtg==",
+   "clue": "मुलाचा किंवा मुलीचा मुलगा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceS0pSMSs2Vlg==",
+   "clue": "मुलाची किंवा मुलीची मुलगी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceQ0pSMSs2Vh1HQkMCDnoxM0pKx0Zet",
+   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jcec0pSMSs2Vlg==",
+   "clue": "चावण्यासाठी असतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jcec0pSMSs2Vgg==",
+   "clue": "दरवाजा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jcec0pW1Ss2Vh1HQkPUf2paA",
+   "clue": "घरातील पूजेची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceX0pSN1omzTs2UkA==",
+   "clue": "खोलीच्या चारही बाजूंनी असते ती"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceCTtCWklHRlp3QkO8f2pas0pOt",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceCTtCWhs2UuVHQkNgf2paA",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceK0pSwSs2VpQ==",
+   "clue": "वर्ण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jcePTtCWj82Usg==",
+   "clue": "लिहिण्यासाठी कोऱ्या पानांचा संच"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcehTtCWnM2Uv82UnhGDnoI=",
+   "clue": "घराचे छत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jcehTtCWks2Uv82UhI3Gug==",
+   "clue": "पावसापासून बचाव करणारी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceS0pSMSs2Vhw==",
+   "clue": "ओळख सांगणारा शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceU0pW6Ss2Vls2VuY3HitKVsg==",
+   "clue": "दोस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceU0pW6Ss2Vls2VuY3HitKVskrNlZE=",
+   "clue": "सखी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceU0pSMSs2Vh1HQkNuDn7I=",
+   "clue": "आईची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceU0pSMSs2Vls2VtA==",
+   "clue": "मृदा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceQTtCWlVHRlonQke0=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceQTtCWks2Usg==",
+   "clue": "नवरा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcetTtCWlVHRlodM1MnH2pew",
+   "clue": "ज्या देवाचा उत्सव दहा दिवस चालतो तो"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jcetTtCWrM2Uv82Uro3Gug==",
+   "clue": "घराच्या छतावरील मोकळी जागा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceQTtCWks2Uv82UnI3Gug==",
+   "clue": "बायको"
+  }
+ ]
+}

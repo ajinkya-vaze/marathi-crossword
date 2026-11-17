@@ -1,0 +1,177 @@
+{
+ "id": "2026-12-21",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 12,
+ "cols": 9,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jce/TtCWjs2Uv82WhBGDnoA=",
+   "clue": "मधाचा शौकीन केसाळ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jce/TtCWmFHRlp3SldMf2paFTtaJldKIsg==",
+   "clue": "अंबादेवीचे विदर्भातील शहर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceITtCWoc2Uv82WmQ==",
+   "clue": "विवाह"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceRTtCWhs2VjFHSld4=",
+   "clue": "दिवाळीचे खास पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceQTtCWks2Usg==",
+   "clue": "नवरा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceQTtCWlVHRlonSlO0=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceP0pSMSs2Vrc2XsQ==",
+   "clue": "आमटी वाढण्याचे लहान भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceP0pSMSs2VglHSlfgf2paA0pOt",
+   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jcevTtCWg82VjVHSlcmDnow=",
+   "clue": "काव्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceC0pSMSs2VnlHSlc4=",
+   "clue": "अंग धुण्यासाठी फेस येणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceC0pSMSs2VnVHSlfgf2paC",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceU0pW5Ss2Vgg==",
+   "clue": "भारताचा राष्ट्रीय पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceP0pSNSs2VrlHSlcI=",
+   "clue": "जीत"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcevTtCWgc2Uv82Wrg==",
+   "clue": "मेहनत"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jceX0pSMSs2Vp1HSld2Dn7I=",
+   "clue": "ज्वारी किंवा बाजरीच्या पिठाची"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jcevTtCWhs2VsFHSlfGDn7I=",
+   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceU0pWzSs2VgFHSlfqDnow=",
+   "clue": "पुत्र"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceU0pWzSs2VgFHSlfqDn7I=",
+   "clue": "कन्या"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jcet0pSMSs2VnVHSlfg=",
+   "clue": "गाणारा कलाकार"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceg0pWwSs2VgA==",
+   "clue": "लाकडे जाळून स्वयंपाक करण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jce8TtCWqs2Usg==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jce8TtCWvg==",
+   "clue": "माता"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jcevTtCWlFHRlqU=",
+   "clue": "तळण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceYTtCWoQ==",
+   "clue": "मेघ"
+  }
+ ]
+}

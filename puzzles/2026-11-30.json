@@ -1,0 +1,177 @@
+{
+ "id": "2026-11-30",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 11,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceiTtCWhlHRlbLTleo=",
+   "clue": "पक्ष्याचे घर"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcez0pSwSs2Vl82WsBGDnoI=",
+   "clue": "गणपतीचे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcez0pSwSs2Vrg==",
+   "clue": "वाळवंटातील जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceW0pW1Ss2Vrg==",
+   "clue": "चारही बाजूंनी पाण्याने वेढलेला भूभाग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceW0pW1Ss2VkM2WshGDnqc=",
+   "clue": "पावसाळ्यात डराँव डराँव करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceI0pSMSs2VkM2Wsg==",
+   "clue": "गोल गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jceC0pSMSs2Vmw==",
+   "clue": "सर्प"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcevTtCWl82UsFHTlN+Dno3QlrRR0ZWB",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceb0pWzSs2VpM2WvY3Hr07QloY=",
+   "clue": "चिखलात लोळणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceWTtCWkFHRlbg=",
+   "clue": "पाण्यात पोहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcezTtCWnFHRlYPTlNM=",
+   "clue": "रव्याचा खारट पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceU0pSMSs2VpFHTlMw=",
+   "clue": "वानर"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jcet0pW11omzTc2XkY3HhA==",
+   "clue": "नाकावर शिंग असलेला जाडजूड प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcevTtCWms2Us1HTlMkf2paA",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jceeTtCWhM2Vj1HTlNg=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcevTtCWhlHRlYzTlNM=",
+   "clue": "राखाडी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceKTtCWo82UvM2Xh43HhE7QlprNlbNR05TKH9qWmA==",
+   "clue": "बहीण भावाला राखी बांधते तो सण"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceS0pSM1omzTc2Xlo3GvU7Qlpc=",
+   "clue": "हजूर साहिब गुरुद्वारासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jcec0pW1Ss2Vhw==",
+   "clue": "राष्ट्र"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceQ0pSNSs2VhFHTlN6Dnow=",
+   "clue": "हळदीचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceQ0pSNSs2Vh1HTlNiDn7I=",
+   "clue": "सामान ठेवण्याची"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jcezTtCWgM2UsQ==",
+   "clue": "झोपताना डोक्याखाली घेतो ती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceUTtCWkVHRlYPTlNMf2paG0pOt",
+   "clue": "मध गोळा करणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcepTtCWg82UsQ==",
+   "clue": "ज्ञानेश्वरीतील छंद"
+  }
+ ]
+}

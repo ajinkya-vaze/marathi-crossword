@@ -1,0 +1,457 @@
+{
+ "id": "2026-11-29",
+ "title": "रविवारचे मोठे कोडे",
+ "difficulty": "सोपे",
+ "rows": 20,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 15,
+   "x": "jceC0pW6Ss2Vmc2WhhGDnqc=",
+   "clue": "देशाचा रक्षक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 15,
+   "x": "jceS0pSNSs2Vgs2Whw==",
+   "clue": "आकाशाचा रंग"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 14,
+   "x": "jceS0pSMSs2VpA==",
+   "clue": "वास घेण्याचे इंद्रिय"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 14,
+   "x": "jceS0pSMSs2Vh82WhhGDnqc=",
+   "clue": "द्राक्षे आणि कुंभमेळ्यासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 19,
+   "x": "jceX0pWySs2Vn82Whw==",
+   "clue": "पंढरपुरातून वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 13,
+   "x": "jceg0pSMSs2VpA==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jceg0pSMSs2VgQ==",
+   "clue": "चौकोनाच्या बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 19,
+   "x": "jceU0pSMSs2Vn82Whw==",
+   "clue": "आईचा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 20,
+   "x": "jceU0pSMSs2VhFHSnd6Dnow=",
+   "clue": "शिवरायांचा सैनिक"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 11,
+   "x": "jceC0pSMSs2Vp1HSnd0=",
+   "clue": "गोड पांढरे कण"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceC0pSMSs2VkM2XuQ==",
+   "clue": "स्त्रियांचे पारंपरिक वस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 18,
+   "x": "jceW0pSNSs2VnVHSnfKDn7/QlpnNlY8=",
+   "clue": "ठिपकेदार अंगाचा जंगली प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jceU0pSwSs2VplHSnd4f2paI0pOvTdGJltnI7tqWgA==",
+   "clue": "विवाहितेच्या गळ्यातील काळ्या मण्यांचा दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 10,
+   "x": "jceD0pW5Ss2VkM2XuQ==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jceD0pW5Ss2Vgs2XuQ==",
+   "clue": "रंगांचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 18,
+   "x": "jceWTtCWoVHRlZ7SndM=",
+   "clue": "पाण्याकाठी एका पायावर उभा राहणारा पांढरा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jcePTtCWhs2UvM2Wjg==",
+   "clue": "साल"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jcePTtCWqVHRlZjSndMf2pao0pOvTdGJgQ==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jceM0pW1Ss2Vgs2XuQ==",
+   "clue": "बकरी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceM0pW1Ss2Vrc2WhxGDnoLQl7Y=",
+   "clue": "घराजवळ राहणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 17,
+   "x": "jcet0pW5Ss2Vrs2XtI3HldKUjA==",
+   "clue": "काचेच्या गोळ्यांचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 17,
+   "x": "jcet0pW5Ss2Vl82WhxGDnodM0pKd0ZSt",
+   "clue": "दक्षिण गंगा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jceQ0pSM1omzTc2WmxGDnoLQlog=",
+   "clue": "दुधाचा रंग"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceP0pSMSs2VglHSndiDnrBM0pKy",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 16,
+   "x": "jcec0pSMSs2Vl82Whw==",
+   "clue": "मोठा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 20,
+   "x": "jceM0pW11omzTc2WrhGDnpTQlohR0ZWO0pzq",
+   "clue": "भुईमुगाच्या बिया"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jceP0pSMSs2VgVHSnfgf2paA0pOt",
+   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcevTtCWk82Vjw==",
+   "clue": "गोष्ट"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 17,
+   "x": "jcePTtCWlw==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceK0pSMSs2Vpg==",
+   "clue": "क्रोध"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jcetTtCWhs2UsFHSncw=",
+   "clue": "विष्णूचे वाहन असलेला पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceK0pSMSs2Vlc2XtI3Hig==",
+   "clue": "निशा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceK0pSMSs2Vks2XuQ==",
+   "clue": "राजाची पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 14,
+   "x": "jceQ0pW/1omB0Yi1RY3HlA==",
+   "clue": "माया"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 16,
+   "x": "jcem0pW/1omE0YmMRY3HitKVsg==",
+   "clue": "भाकरीचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 16,
+   "x": "jcem0pW/1omE0YmMRY3HiNKUjErNlZ/Nl7gRg56k0Je2",
+   "clue": "लाव्हा ओकणारा पर्वत"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceK0pWzSs2VpM2XtI3HlNKUjUrNlZLNl7k=",
+   "clue": "विठ्ठलाची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jcee0pWzSs2VglHSndU=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jcee0pWzSs2VpM2WhxGDnoLQlohR0ZWD",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jceCTtCWks2UvM2Wlg==",
+   "clue": "खरे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 11,
+   "x": "jcee0pW5Ss2VgVHSnc4=",
+   "clue": "दाराला लावायची फुलांची माळ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 14,
+   "x": "jceUTtCWjs2Vj1HSnd+Dnow=",
+   "clue": "पदार्थांना चव आणणारे मिश्रण"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 18,
+   "x": "jced0pSMSs2VhFHSnc6Dn7U=",
+   "clue": "शर्यतीत करतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 18,
+   "x": "jced0pSMSs2Vps2Whw==",
+   "clue": "दोरा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jcee0pW51omzTc2WmA==",
+   "clue": "मुख"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 9,
+   "x": "jcev0pW51omzTc2WlRGDnpPQlog=",
+   "clue": "पहाटे आरवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 11,
+   "x": "jceKTtCWjs2UvM2WnY3HhA==",
+   "clue": "सडक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 16,
+   "x": "jceU0pWzSs2Vg1HSnfqDnow=",
+   "clue": "पुत्र"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jcenTtCWhs2Vjw==",
+   "clue": "डोंगरातून वाहणारा लहान प्रवाह"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceWTtCWj82UsVHSnc4=",
+   "clue": "भगिनी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 14,
+   "x": "jceQ0pSMSs2Vg1HSnfuDn7I=",
+   "clue": "वारीत संतांच्या पादुका नेणारी"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 14,
+   "x": "jceQ0pSMSs2Vks2XuQ==",
+   "clue": "जल"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 5,
+   "x": "jceUTtCWhs2Vj1HSnc0f2paF0pKTTdGJk9nJ3Q==",
+   "clue": "लातूर आणि नांदेड ज्या प्रदेशात आहेत तो"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 6,
+   "x": "jceK0pSMSs2Vp82XuQ==",
+   "clue": "भावाच्या मनगटावर बांधायचा धागा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 8,
+   "x": "jceP0pSMSs2Vl1HSnd4=",
+   "clue": "जोरदार वारा आणि पाऊस"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 12,
+   "x": "jceQ0pW6Ss2VkVHSnc6Dn7I=",
+   "clue": "रेशमी साडीचा प्रसिद्ध प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 12,
+   "x": "jceQ0pW6Ss2Vic2Whw==",
+   "clue": "धन"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 10,
+   "x": "jce8TtCWhlHRlZXSndM=",
+   "clue": "चेहरा पाहण्याची काच"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 10,
+   "x": "jce8TtCWhVHRlZU=",
+   "clue": "सुस्ती"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 7,
+   "x": "jcee0pSNSs2VglHSnfqDn7BM0pKe",
+   "clue": "संक्रांतीला वाटायचा गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 7,
+   "x": "jcee0pSNSs2Vgc2WuxGDnqXQlog=",
+   "clue": "भारताचा राष्ट्रध्वज"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 10,
+   "x": "jceCTtCWj82UvM2Wlo3HhE7QlpDNlLzNlomNxro=",
+   "clue": "महाराष्ट्रातील पश्चिम घाटाची पर्वतरांग"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 5,
+   "x": "jceW0pW6Ss2Vg1HSnfqDnoxM0pKM0ZSt",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 6,
+   "x": "jceITtCWoc2UvM2WkQ==",
+   "clue": "विवाह"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "2026-12-14",
+ "title": "सण, कला आणि परंपरा",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcen0pW5Ss2VmM2VihGDnoHQlog=",
+   "clue": "झुलण्यासाठी टांगलेली बैठक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jceQ0pSMSs2Vls2UsxGDnoDQl7E=",
+   "clue": "भात शिजवण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceI0pW1Ss2VpFHRkPg=",
+   "clue": "पुस्तक लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcet0pWzSs2VkM2UtA==",
+   "clue": "पाडव्याला उभारतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceQ0pW5Ss2Vgc2Vig==",
+   "clue": "बैलांचा सण"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceQ0pW5Ss2Vh82VihGDnpPQlog=",
+   "clue": "वीररसपूर्ण शाहिरी गीत"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jcet0pWzSs2VkM2UtBGDnpjQlohR0ZaMTdTJ1tqWjg==",
+   "clue": "मराठी नववर्षाचा पहिला दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jceQ0pSMSs2VmFHRkMw=",
+   "clue": "तळून किंवा भाजून खातात तो कुरकुरीत"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcegTtCWo1HRlp/Rke0=",
+   "clue": "दिवाळीच्या फराळातील काटेरी गोल खाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcegTtCWmFHRlrfRkNM=",
+   "clue": "आमटी पिण्यासाठी वापरतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceX0pSMSs2Vgs2UthGDnpM=",
+   "clue": "संत एकनाथांनी लोकप्रिय केलेला रचनाप्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceX0pSMSs2VuA==",
+   "clue": "बंधू"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceg0pSMSs2Vgg==",
+   "clue": "चौकोनाच्या बाजू"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceKTtCWo82Uv82Vg43HhE7QlprNlbBR0ZDKH9qWmA==",
+   "clue": "बहीण भावाला राखी बांधते तो सण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jcec0pWwSs2VlQ==",
+   "clue": "गायीपासून मिळणारे पांढरे पेय"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcedTtCWmlHRlopN1MnP2paO",
+   "clue": "उंचावरून कोसळणारे पाणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jceW0pSMSs2VpQ==",
+   "clue": "उद्यान"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jce/TtCWhs2Uv82VqI3Gu07Qlp4=",
+   "clue": "पांडवांपैकी धनुर्धर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jce/TtCWm82VsFHRkPo=",
+   "clue": "संत तुकारामांची काव्यरचना"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jceg0pSNSs2Vls2UuY3Hig==",
+   "clue": "रेखाटन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jceg0pSNSs2Vls2UuY3Hik7QlpxR0Zay",
+   "clue": "सिनेमा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceU0pSwSs2VpVHRkN4f2paI0pOvTdKJldTI7tqWgA==",
+   "clue": "विवाहितेच्या गळ्यातील काळ्या मण्यांचा दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jceQTtCWlVHRlonRke0=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 7,
+   "x": "jceSTtCWqQ==",
+   "clue": "अभिनेता"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "id": "2026-11-28",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 11,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceR0pWzSs2Vg1HSnMeDnoxM0pK7TdGJgtjI4Q==",
+   "clue": "रंगीबेरंगी पंख असलेला कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceX0pWwSs2Vps2XsxGDnoA=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jcezTtCWkM2UvM2Wl43HhA==",
+   "clue": "आजच्या नंतरचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcesTtCWl82Usw==",
+   "clue": "फळ्यावर लिहिण्याचा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jceP0pSNSs2Vl82XtY3HldKUjErNlYHNl7WNx5/SlbI=",
+   "clue": "शिकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceP0pSNSs2VrVHSnMI=",
+   "clue": "जीत"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceQ0pW1Ss2Vgc2Xug==",
+   "clue": "अनेक बिया असलेले हिरवे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceQ0pW1Ss2Vmc2XtY3HgtKUjUrNlYM=",
+   "clue": "खोडता येईल असे लिहिण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jcev0pWzSs2Vlc2XtY3HitKUjA==",
+   "clue": "श्वान, इमानदार पाळीव प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jcev0pWzSs2Vg82XuhGDnpg=",
+   "clue": "दाराला लावायचे टाळे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcet0pSMSs2Vng==",
+   "clue": "दूध देणारी, जिला गोमाता म्हणतात"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcet0pSMSs2VkM2XuA==",
+   "clue": "वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcet0pW/1omB0YmwRI3Hn9KUjErNlYNR0pzC",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jcef0pSMSs2Vg82XuBGDnpjQl7ZR0ZWN",
+   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceVTtCWgA==",
+   "clue": "सफलता"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceC0pSMSs2Vm1HSnNuDno1M0pKM0ZSt",
+   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceC0pSMSs2VlQ==",
+   "clue": "इंद्रधनुष्याचे रंग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jceM0pSNSs2VhM2WhhGDnq7Ql7Y=",
+   "clue": "स्वराज्याचे संस्थापक छत्रपती"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceMTtCWhs2UvM2WlxGDnpY=",
+   "clue": "स्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jce8TtCWqs2UsQ==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jce8TtCWqs2UulHSnMGDnow=",
+   "clue": "आजीचे पती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcepTtCWlg==",
+   "clue": "तोंडाचा कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jcepTtCWlM2Vjw==",
+   "clue": "लहान नदी किंवा नाला"
+  }
+ ]
+}

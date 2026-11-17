@@ -1,0 +1,485 @@
+{
+ "id": "2026-12-13",
+ "title": "रविवारचे मोठे कोडे",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 20,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "x": "jcen0pWzSs2VkVHRl/iDnow=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcev0pSMSs2VilHRl9g=",
+   "clue": "पाठीवर कवच असलेला संथ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcem0pSM1omzTs2VnhGDnoHQlog=",
+   "clue": "वांग्याचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 15,
+   "x": "jceU0pSM1omzTs2VrxGDnoI=",
+   "clue": "म्याँव म्याँव करणारी"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 18,
+   "x": "jcee0pSMSs2Vpw==",
+   "clue": "घुसळलेल्या दह्याचे पातळ पेय"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 18,
+   "x": "jcee0pSMSs2Vug==",
+   "clue": "मोठी बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jced0pW5Ss2VllHRl90=",
+   "clue": "पुरुषांचे पारंपरिक वस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 15,
+   "x": "jcemTtCWns2VjFHRl8GDnoxM0pKl",
+   "clue": "नामदेवांच्या घरी काम करणारी संत कवयित्री"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 17,
+   "x": "jceW0pSMSs2Vis2Uso3HuE7QlpDNlLI=",
+   "clue": "आटवलेल्या दुधाचा गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceQ0pSMSs2Vh1HRl9WDnoxM0pKe0ZaT",
+   "clue": "पावसाचा ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceQ0pSMSs2Vgs2Uvo3Hj07QlpLNlLI=",
+   "clue": "शंकराची पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceC0pSMSs2VnVHRl/gf2paC",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 13,
+   "x": "jceC0pW5Ss2Vms2VjRGDnoI=",
+   "clue": "दागिने घडवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 13,
+   "x": "jceC0pW5Ss2Vms2UtBGDnoLQl7Y=",
+   "clue": "पिवळसर चमकदार रंग"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jces0pSMSs2Vgg==",
+   "clue": "झाडावर चढणारी पाठीवर पट्टे असलेली"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jce8TtCWhlHRlonRlu0=",
+   "clue": "देवासमोर ओवाळतात ती"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jce8TtCWvg==",
+   "clue": "माता"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jcee0pWySs2Vmg==",
+   "clue": "त्रिकोणाच्या बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 16,
+   "x": "jcez0pSwSs2VlM2UsxGDnoI=",
+   "clue": "गणपतीचे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 16,
+   "x": "jcez0pSwSs2VrQ==",
+   "clue": "वाळवंटातील जहाज"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 18,
+   "x": "jceKTtCWjs2Uv82Vl43HhA==",
+   "clue": "सडक"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jceCTtCWhlHRlpXRluCDnodM0pKJ0Zet",
+   "clue": "विद्येची देवता"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jceCTtCWmM2Us1HRl8uDn7/QloY=",
+   "clue": "सागर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jceC0pW/1omETs2VnI3HuE7QlpzNlYxR0Zf4",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jcevTtCWlFHRlqU=",
+   "clue": "तळण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jceSTtCWvFHRlpjRl9Mf2paA0pOt",
+   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 12,
+   "x": "jceP0pSMSs2Vgs2VjQ==",
+   "clue": "पवन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceP0pSMSs2VrQ==",
+   "clue": "मार्ग"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 15,
+   "x": "jceP0pSMSs2VglHRl/gf2paA0pOt",
+   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceY0pSMSs2VgA==",
+   "clue": "लढाईत वार अडवण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 14,
+   "x": "jces0pWySs2Vgg==",
+   "clue": "दुधात शिजवलेला गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 17,
+   "x": "jcet0pW11omzTs2Vko3HhA==",
+   "clue": "नाकावर शिंग असलेला जाडजूड प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceg0pSwSs2VlM2Uvo3Hig==",
+   "clue": "शशी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jcev0pWzSs2VgM2UsRGDnpg=",
+   "clue": "दाराला लावायचे टाळे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 13,
+   "x": "jceM0pW/1omB0oixT43HrNKUsErNlZM=",
+   "clue": "दह्याच्या चक्क्यापासून बनणारा गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 15,
+   "x": "jcevTtCWhlHRlozRl9M=",
+   "clue": "राखाडी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jce1TtCWo1HRloXRl9Mf2paV",
+   "clue": "भारुडे रचणारे पैठणचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceS0pSMSs2VnFHRl8uDn7VM0pKY",
+   "clue": "पंजाबपर्यंत भक्ती पोहोचवणारे संत"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jceQ0pW/1omBTs2Vl43HhE7QlpxR0Za6TdPJwg==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceQ0pW/1omBTs2VhY3Gt9KUmg==",
+   "clue": "सवाल"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 12,
+   "x": "jcetTtCWg1HRlok=",
+   "clue": "तृण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jce/TtCWmFHRlp3Rl9Mf2paFTtaJldKIsQ==",
+   "clue": "अंबादेवीचे विदर्भातील शहर"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceUTtCWj82VjVHRl8WDnow=",
+   "clue": "मास"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 10,
+   "x": "jcePTtCWjs2VsFHRl8k=",
+   "clue": "ऋतूंचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 11,
+   "x": "jceC0pSwSs2Vn82VjRGDnq7Ql7Y=",
+   "clue": "शिवरायांचे ज्येष्ठ पुत्र"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 6,
+   "x": "jceQ0pSwSs2VpM2VjQ==",
+   "clue": "हवा देणारे यंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jceQ0pSwSs2VkFHRl90f2paa0pOvTdKJgQ==",
+   "clue": "विठ्ठलाचे मंदिर असलेले गाव"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jcev0pSNSs2Vms2VjRGDnoLQlog=",
+   "clue": "समुद्राचा काठ"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 1,
+   "x": "jcev0pSNSs2VgM2Uvo3HiNKUjA==",
+   "clue": "गड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jceK0pSMSs2VnFHRl8uDnoxM0pKV",
+   "clue": "दासबोध लिहिणारे समर्थ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jceM0pSNSs2Vh82VjRGDnq7Ql7Y=",
+   "clue": "स्वराज्याचे संस्थापक छत्रपती"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 9,
+   "x": "jceM0pSNSs2Vp82Uvo3HjU7QlqM=",
+   "clue": "गुरुजी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 3,
+   "x": "jceUTtCWj82VjFHRl8CDnoxM0pKdTdKJlQ==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 2,
+   "x": "jces0pSM1omzTs2VlY3HhA==",
+   "clue": "ओझे घेतात तो भाग"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 9,
+   "x": "jcevTtCWg82VjVHRl8mDnow=",
+   "clue": "काव्य"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 10,
+   "x": "jceP0pSNSs2VnM2VjRGDnpo=",
+   "clue": "आकाशात उडणारे वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 3,
+   "x": "jceCTtCWhs2UuVHRl9gf2paA",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 5,
+   "x": "jcePTtCWhlHRlo4=",
+   "clue": "तुरीच्या डाळीचे साधे"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 7,
+   "x": "jceDTtCWns2Us1HRl8ODnoxM0pKF",
+   "clue": "रामभक्त वानर"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 7,
+   "x": "jceDTtCWks2Uv82Vl43Gug==",
+   "clue": "गज"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 9,
+   "x": "jceU0pSMSs2Vmg==",
+   "clue": "डोके आणि धड जोडणारा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 4,
+   "x": "jceU0pW1Ss2VkVHRl8Ef2paU0pOg0ZaJ0Zbt",
+   "clue": "वाढदिवसाच्या केकवर लावतात ती"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 4,
+   "x": "jceU0pW1Ss2Vl82Usw==",
+   "clue": "कडवट पालेभाजी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 6,
+   "x": "jceWTtCWj82UslHRl84=",
+   "clue": "भगिनी"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 8,
+   "x": "jceM0pSM1omzTs2Vl43Gug==",
+   "clue": "मनाची स्थिरता"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 5,
+   "x": "jcetTtCWlVHRlodN08nH2pew",
+   "clue": "ज्या देवाचा उत्सव दहा दिवस चालतो तो"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 5,
+   "x": "jcetTtCWrM2Uv82VqY3Gug==",
+   "clue": "घराच्या छतावरील मोकळी जागा"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 7,
+   "x": "jceQTtCWks2Uv82Vgw==",
+   "clue": "टपालाने पाठवायचा मजकूर"
+  }
+ ]
+}

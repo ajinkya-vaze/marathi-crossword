@@ -1,0 +1,177 @@
+{
+ "id": "2026-12-01",
+ "title": "दैनिक कोडे",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jce/0pSwSs2VpVHQlc4=",
+   "clue": "घरासमोरची मोकळी जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jceC0pSMSs2VnlHQlc4=",
+   "clue": "अंग धुण्यासाठी फेस येणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceC0pSMSs2Vls2UjxGDnoLQlog=",
+   "clue": "कंदी पेढ्यांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceC0pWySs2Vls2Ujw==",
+   "clue": "रामाची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jceK0pSMSs2Vrs2Ujw==",
+   "clue": "नृप"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jcem0pSMSs2Vh1HQleU=",
+   "clue": "मुलीचा पती"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 10,
+   "x": "jcePTtCWhs2Uv82Upg==",
+   "clue": "शाळेतील खोली"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jce8TtCWvg==",
+   "clue": "माता"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jce8TtCWmFHRlrLQlO0=",
+   "clue": "डाळीचे तिखट पातळ कालवण"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceQ0pW/1omBTs2Uh43Gt9KUmg==",
+   "clue": "सवाल"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceQ0pW/1omBTs2UlY3HhE7QlpxR0Za6TNHJwg==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jceg0pW11omzTs2UkI3GuA==",
+   "clue": "गोल खेळणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceg0pSNSs2Vls2VvI3Hik7QlpxR0Zay",
+   "clue": "सिनेमा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jceP0pSNSs2Vrc2VsRGDnpTQlojNlbBR0JXMg5+w",
+   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jceP0pSNSs2Vrs2VvI3HpNKUjErNlZo=",
+   "clue": "प्रयोगांचा विषय"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceg0pSNSs2Vls2VvI3Hig==",
+   "clue": "रेखाटन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceQTtCWks2VsFHQlfo=",
+   "clue": "संक्रांतीला उडवतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcetTtCWlc2VjVHQlck=",
+   "clue": "आकड्यांचा विषय"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceQTtCWhM2VsFHQlfo=",
+   "clue": "झोपण्याची खाट"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceQ0pW1Ss2Vmg==",
+   "clue": "शाईने लिहिण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceQ0pW1Ss2VgM2Ujw==",
+   "clue": "पाणी पिण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceSTtCWqQ==",
+   "clue": "अभिनेता"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jceSTtCWo82VjFHQlduDnow=",
+   "clue": "प्रदेश दाखवणारे चित्र"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceeTtCWmlHRlp/QldM=",
+   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+  }
+ ]
+}
