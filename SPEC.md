@@ -1,6 +1,6 @@
 # मराठी शब्दकोडे — Marathi Crossword (Spec, draft v0.1)
 
-Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Still open: the starter word list (573 words) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
+Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button (§5, game features). Still open: the starter word list (573 words) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
 
 Decided so far: one square = one akshara · Claude drafts words and clues, you review · custom keyboard plus an optional system keyboard · daily puzzle with an archive.
 
@@ -67,6 +67,7 @@ A ⌨️ toggle on the play screen switches between the two. The choice is remem
 - Optional "frequent conjuncts" key: क्ष, त्र, ज्ञ, श्र, द्ध, स्त, न्त, etc.
 
 ### Game features
+- **Submit (सबमिट)**: a button in the top bar. While squares are empty it is greyed out and shows how many are filled (for example १८/२४). Once every square is filled it lights up. Filling the grid does not judge it; only Submit does. If everything is right, the completion screen opens. If not, the wrong squares turn red and a message says how many; changing a square clears its red, and the player can submit again. Revealing the whole puzzle finishes it straight away.
 - **Check (तपासा)**: check a square, a word, or the whole puzzle. Wrong squares turn red.
 - **Reveal (उत्तर दाखवा)**: reveal a square, a word, or the whole puzzle. Revealed squares are marked.
 - **Timer**: can be paused.

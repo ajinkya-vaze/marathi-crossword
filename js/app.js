@@ -161,12 +161,17 @@ function openSheet(inner, { center = false } = {}) {
   bd.innerHTML = `<div class="${center ? 'dialog' : 'sheet'}" role="dialog" aria-modal="true">${inner}</div>`;
   let closed = false;
   const onPop = () => close(true);
+  // Resolves once the sheet's history entry is gone, so a sheet opened next isn't closed by that back step.
   function close(fromBack = false) {
-    if (closed) return;
+    if (closed) return Promise.resolve();
     closed = true;
     bd.remove();
     window.removeEventListener('popstate', onPop);
-    if (!fromBack && history.state?.sheet) history.back();
+    if (fromBack || !history.state?.sheet) return Promise.resolve();
+    return new Promise((done) => {
+      window.addEventListener('popstate', () => done(), { once: true });
+      history.back();
+    });
   }
   bd.addEventListener('click', (ev) => {
     if (ev.target === bd || ev.target.closest('[data-close]')) close();
@@ -200,7 +205,6 @@ async function renderPlay(id) {
     dir: 'across',
     composing: false,
     paused: false,
-    wasFull: false,
     cellSize: 36,
   };
 
@@ -211,6 +215,7 @@ async function renderPlay(id) {
         <a class="icon-btn" href="#/" aria-label="${t('home')}">←</a>
         <div class="title" lang="mr">${esc(pz.title)}</div>
         <button type="button" class="timer" aria-label="${t('pause')}"></button>
+        <button type="button" class="submit-btn" disabled></button>
         <button type="button" class="icon-btn kbd-toggle" aria-label="${t('switchKeyboard')}" title="${t('switchKeyboard')}">⌨</button>
         <button type="button" class="icon-btn menu-btn" aria-label="${t('options')}">⋮</button>
       </header>
@@ -232,6 +237,7 @@ async function renderPlay(id) {
   const timerEl = root.querySelector('.timer');
   const clueEl = root.querySelector('.clue-text');
   const sysIn = root.querySelector('.sysin');
+  const submitEl = root.querySelector('.submit-btn');
 
   // Grid squares
   gridEl.style.setProperty('--cols', pz.cols);
@@ -311,6 +317,7 @@ async function renderPlay(id) {
       el.classList.toggle('wrong', S.wrong.has(i));
       el.classList.toggle('revealed', S.revealed.has(i));
     }
+    updateSubmit();
     clueEl.innerHTML = `<span class="clue-label">${num(e.num)} ${dirLabel(e.dir)}</span><span lang="mr">${esc(e.clue)}</span> <span class="clue-len">(${num(e.sol.length)})</span>`;
     if (scroll) cellEls[S.cell].scrollIntoView({ block: 'nearest', inline: 'nearest' });
   }
@@ -369,30 +376,50 @@ async function renderPlay(id) {
   function afterEdit() {
     persist();
     update();
-    checkComplete();
   }
 
-  function checkComplete() {
-    const full = pz.letterCells.every((i) => S.fills.get(i));
-    if (!full) {
-      S.wasFull = false;
-      return;
+  // ── submit: enabled only once every square is filled; the answer is judged only on submit
+  const filledCount = () => pz.letterCells.reduce((n, i) => n + (S.fills.get(i) ? 1 : 0), 0);
+
+  function updateSubmit() {
+    submitEl.hidden = S.solved;
+    if (S.solved) return;
+    const n = filledCount();
+    const total = pz.letterCells.length;
+    const full = n === total;
+    if (full && submitEl.disabled) {
+      // restart the pulse each time the grid becomes full
+      submitEl.classList.remove('ready');
+      void submitEl.offsetWidth;
+      submitEl.classList.add('ready');
     }
-    const correct = pz.letterCells.every((i) => S.fills.get(i) === pz.cells[i].sol);
-    if (correct) {
-      tick();
-      S.solved = true;
-      S.solvedAt = new Date().toISOString();
-      S.composing = false;
-      persist();
-      update({ scroll: false });
-      root.classList.add('solved');
-      sysIn.blur();
-      showSolved();
-    } else if (!S.wasFull) {
-      S.wasFull = true;
-      toast(t('fullButWrong'));
-    }
+    submitEl.disabled = !full;
+    submitEl.textContent = full ? t('submit') : `${num(n)}/${num(total)}`;
+    submitEl.setAttribute('aria-label', full ? t('submitLabel') : t('filledOf', { n, total }));
+  }
+
+  function submit() {
+    if (S.solved || S.paused || filledCount() < pz.letterCells.length) return;
+    const wrong = pz.letterCells.filter((i) => S.fills.get(i) !== pz.cells[i].sol);
+    if (!wrong.length) return solve();
+    for (const i of wrong) S.wrong.add(i);
+    S.composing = false;
+    persist();
+    update({ scroll: false });
+    navigator.vibrate?.(60);
+    toast(wrong.length === 1 ? t('submitWrongOne') : t('submitWrong', { n: wrong.length }));
+  }
+
+  function solve() {
+    tick();
+    S.solved = true;
+    S.solvedAt = new Date().toISOString();
+    S.composing = false;
+    persist();
+    update({ scroll: false });
+    root.classList.add('solved');
+    sysIn.blur();
+    showSolved();
   }
 
   // ── finish screen
@@ -462,7 +489,7 @@ async function renderPlay(id) {
     }
     persist();
     update({ scroll: false });
-    if (wrong) toast(t('wrongCount', { n: wrong }));
+    if (wrong) toast(wrong === 1 ? t('wrongCountOne') : t('wrongCount', { n: wrong }));
     else if (empty) toast(t('correctSoFar'));
     else toast(t('allCorrect'));
   }
@@ -479,6 +506,7 @@ async function renderPlay(id) {
     }
     S.composing = false;
     afterEdit();
+    if (scope === 'all') solve();
   }
 
   function reset() {
@@ -491,7 +519,6 @@ async function renderPlay(id) {
     S.solved = false;
     S.solvedAt = null;
     S.assisted = false;
-    S.wasFull = false;
     root.classList.remove('solved');
     persist();
     selectEntry(pz.ordered[0]);
@@ -519,7 +546,7 @@ async function renderPlay(id) {
           <button type="button" class="danger" data-act="reset">${t('restart')}</button>
         </div>
       </div>`);
-    el.addEventListener('click', (ev) => {
+    el.addEventListener('click', async (ev) => {
       const b = ev.target.closest('[data-act]');
       if (!b) return;
       const [act, scope] = b.dataset.act.split(':');
@@ -529,7 +556,7 @@ async function renderPlay(id) {
         location.replace('#/help');
         return;
       }
-      close();
+      await close();
       if (S.solved && act !== 'reset') return toast(t('alreadySolved'));
       if (act === 'check') check(scope);
       else if (act === 'reveal') reveal(scope);
@@ -761,6 +788,7 @@ async function renderPlay(id) {
   root.querySelector('.menu-btn').addEventListener('click', openMenu);
   root.querySelector('.kbd-toggle').addEventListener('click', () => setInputMode(settings.input === 'system' ? 'custom' : 'system'));
   timerEl.addEventListener('click', () => setPaused(!S.paused));
+  submitEl.addEventListener('click', submit);
   root.querySelector('.resume').addEventListener('click', () => setPaused(false));
   createKeyboard(root.querySelector('.kbd'), handleKey, { next: t('nextKey'), dir: t('dirKey'), backspace: t('backspaceKey') });
 

@@ -23,6 +23,9 @@ const HELP = {
     <h2>सूचक</h2>
     <p>कीबोर्डच्या वर चालू शब्दाचा सूचक दिसतो; कंसात अक्षरांची संख्या असते. ‹ › ने मागचा-पुढचा सूचक पाहा. सूचकावर टॅप केल्यास सर्व सूचकांची यादी उघडते.</p>
 
+    <h2>उत्तरे सबमिट करा</h2>
+    <p>वरच्या पट्टीत किती चौकटी भरल्या ते दिसते (उदा. <b>१८/२४</b>). सर्व चौकटी भरल्या की <b>सबमिट</b> बटण सुरू होते. सबमिट केल्यावर उत्तरे तपासली जातात: सर्व बरोबर असल्यास कोडे पूर्ण होते, नाहीतर चुकीच्या चौकटी लाल दिसतात. त्या दुरुस्त करून पुन्हा सबमिट करा.</p>
+
     <h2>मदत हवी?</h2>
     <p><b>⋮</b> मेनूमधून अक्षर, शब्द किंवा पूर्ण कोडे तपासा किंवा उत्तर पाहा. चुकीच्या चौकटींवर लाल रेघ येते; दाखवलेल्या चौकटींच्या कोपऱ्यात निळी खूण येते.</p>
 
@@ -51,6 +54,9 @@ const HELP = {
 
     <h2>Clues</h2>
     <p>The clue for the current word is shown above the keyboard; the number in brackets is how many squares it has. Use ‹ › to move between clues, or tap the clue to see them all.</p>
+
+    <h2>Submitting</h2>
+    <p>The top bar shows how many squares you've filled (e.g. <b>18/24</b>). Once every square is filled it becomes a <b>Submit</b> button. Submitting checks your answers: if they're all right the puzzle is done; otherwise the wrong squares turn red. Fix them and submit again.</p>
 
     <h2>Stuck?</h2>
     <p>The <b>⋮</b> menu lets you check or reveal a square, a word or the whole puzzle. Wrong squares get a red line; revealed squares get a blue corner mark.</p>

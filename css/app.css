@@ -230,6 +230,24 @@ a { color: inherit; }
   font-variant-numeric: tabular-nums;
   min-width: 64px;
 }
+.submit-btn {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 4px 10px;
+  margin-inline-start: 4px;
+  font-size: 15px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  min-width: 64px;
+  white-space: nowrap;
+}
+.submit-btn:not(:disabled) { background: var(--accent); color: var(--accent-contrast); border-color: var(--accent); }
+.submit-btn:not(:disabled):active { filter: brightness(0.9); }
+.submit-btn.ready { animation: submit-pulse 0.6s ease-out 2; }
+@keyframes submit-pulse { 50% { transform: scale(1.12); } }
+@media (prefers-reduced-motion: reduce) { .submit-btn.ready { animation: none; } }
 .play.paused .timer { background: var(--accent); color: var(--accent-contrast); border-color: var(--accent); }
 .play.sys .kbd-toggle { color: var(--accent); }
 
