@@ -9,9 +9,11 @@ import { todayISO, addDays, esc, toast, hideToast } from './util.js';
 
 const app = document.getElementById('app');
 let teardown = null;
+let installPrompt = null; // Android's deferred install prompt, shown as a button on the home screen
 
 const other = (dir) => (dir === 'across' ? 'down' : 'across');
 const dirLabel = (dir) => t(dir);
+const SENTINEL = '​'; // lets us detect backspace in an otherwise-empty system-keyboard input
 
 async function fetchJSON(url) {
   let res;
@@ -51,7 +53,6 @@ route();
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch((e) => console.warn('SW', e)));
 }
-let installPrompt = null;
 window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   installPrompt = e;
@@ -145,8 +146,14 @@ async function renderHome() {
 // ───────────────────────── More puzzles ─────────────────────────
 
 /** Extra (undated) puzzles have ids starting with "x-" and live in puzzles/extra/. */
-const isExtra = (id) => id.startsWith('x-');
-const puzzlePath = (id) => (isExtra(id) ? `extra/${encodeURIComponent(id)}.json` : `${encodeURIComponent(id)}.json`);
+// Function declarations (hoisted): route() runs at load, before later `const`s exist, so a direct
+// link to a puzzle must not depend on them.
+function isExtra(id) {
+  return id.startsWith('x-');
+}
+function puzzlePath(id) {
+  return isExtra(id) ? `extra/${encodeURIComponent(id)}.json` : `${encodeURIComponent(id)}.json`;
+}
 
 /** The extra puzzles' index, or null when it can't be had (offline and never cached). */
 async function loadExtras() {
@@ -283,7 +290,6 @@ function openSheet(inner, { center = false } = {}) {
 
 // ───────────────────────── Play ─────────────────────────
 
-const SENTINEL = '​'; // lets us detect backspace in an otherwise-empty system-keyboard input
 
 async function renderPlay(id) {
   const data = await fetchJSON(`puzzles/${puzzlePath(id)}`);
