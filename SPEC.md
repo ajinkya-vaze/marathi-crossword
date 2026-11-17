@@ -1,6 +1,6 @@
 # मराठी शब्दकोडे — Marathi Crossword (Spec, draft v0.1)
 
-Status: **v0.2 approved. M1 (playable core), M2 (content pipeline) and M3 (polish) are built.** The tools are written in Python rather than Node, because Node isn't installed on this machine. The starter word list (573 words) is a Claude draft that hasn't been reviewed yet.
+Status: **v0.2 approved. M1–M3 are built. M4: live at https://ajinkya-vaze.github.io/marathi-crossword/, but not yet tested on a real Android phone.** The tools are written in Python rather than Node, because Node isn't installed on this machine. The starter word list (573 words) is a Claude draft that hasn't been reviewed yet.
 
 Decided so far: one square = one akshara · Claude drafts words and clues, you review · custom keyboard plus an optional system keyboard · daily puzzle with an archive.
 

@@ -2,6 +2,22 @@
 
 A daily Marathi crossword for Android phones, served as static files from GitHub Pages. See [SPEC.md](SPEC.md).
 
+**Play:** https://ajinkya-vaze.github.io/marathi-crossword/
+
+## Publishing
+
+Pages serves the `main` branch as-is. To publish new puzzles, generate them, check them, and push:
+
+```bash
+python3 tools/generate.py --days 7 && python3 tools/validate.py
+```
+
+```bash
+git add puzzles && git commit -m "Add puzzles" && git push
+```
+
+The site updates about a minute after the push. GitHub Actions runs the tests on every push.
+
 The app is plain HTML, CSS and JavaScript with no build step. The tools are Python 3 (standard library only).
 
 ## Run locally
