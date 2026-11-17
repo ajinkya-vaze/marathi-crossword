@@ -5,7 +5,7 @@
 // always get the latest app and today's puzzle; every file fetched is kept for offline use.
 // The app shell is cached up front on install. Bump VERSION when files are added or removed.
 
-const VERSION = 'v2';
+const VERSION = 'v3';
 const CACHE = `marathi-crossword-${VERSION}`;
 const SHELL = [
   './',
@@ -60,7 +60,9 @@ async function fromCache(req) {
 
 async function networkFirst(req) {
   const cache = await caches.open(CACHE);
-  const network = fetch(req).then((res) => {
+  // no-cache: always ask the server (a cheap 304 when unchanged), so a release reaches players
+  // right away instead of after GitHub Pages' 10-minute browser cache.
+  const network = fetch(req, { cache: 'no-cache' }).then((res) => {
     if (res.ok) cache.put(req, res.clone());
     return res;
   });
