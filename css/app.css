@@ -15,6 +15,7 @@
   --wrong: #dc2626;
   --revealed: #2563eb;
   --near: #eab308;
+  --hint: #7c3aed;
   --near-edge: #854d0e;
   --clue-bg: #fff4e6;
   --kbd-bg: #e4dccf;
@@ -43,6 +44,7 @@
     --wrong: #f87171;
     --revealed: #60a5fa;
     --near: #facc15;
+    --hint: #a78bfa;
     --near-edge: #1a1007;
     --clue-bg: #2a2119;
     --kbd-bg: #1b1713;
@@ -70,6 +72,7 @@
   --wrong: #f87171;
   --revealed: #60a5fa;
   --near: #facc15;
+  --hint: #a78bfa;
   --near-edge: #1a1007;
   --clue-bg: #2a2119;
   --kbd-bg: #1b1713;
@@ -377,6 +380,29 @@ a { color: inherit; }
   border-width: 0 8px 8px 0;
   border-color: transparent var(--revealed) transparent transparent;
 }
+.cell.hinted::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-style: solid;
+  border-width: 0 9px 9px 0;
+  border-color: transparent var(--hint) transparent transparent;
+}
+.hint-btn {
+  flex: none;
+  min-width: 52px;
+  border: 0;
+  border-inline-start: 1px solid var(--line);
+  background: transparent;
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--hint);
+  font-variant-numeric: tabular-nums;
+}
+.hint-btn:active { background: var(--word); }
+.hint-btn.empty { opacity: 0.4; }
+.hint-btn[hidden] { display: none; }
 .play.solved .cell .ch { color: var(--ok); }
 .play.solved .cell.sel .ch { color: var(--sel-text); }
 

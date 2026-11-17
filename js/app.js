@@ -14,6 +14,7 @@ let installPrompt = null; // Android's deferred install prompt, shown as a butto
 const other = (dir) => (dir === 'across' ? 'down' : 'across');
 const dirLabel = (dir) => t(dir);
 const SENTINEL = '​'; // lets us detect backspace in an otherwise-empty system-keyboard input
+const HINTS = 3; // hints per puzzle (SPEC §5)
 
 async function fetchJSON(url) {
   let res;
@@ -305,6 +306,7 @@ async function renderPlay(id) {
     verified: new Set(prog.verified),
     wrong: new Set(prog.wrong),
     near: new Set(prog.near), // close-enough squares: yellow mark
+    hinted: new Set(prog.hinted), // squares filled by a hint (locked, violet corner)
     elapsed: prog.elapsed || 0,
     solved: !!prog.solved,
     solvedAt: prog.solvedAt,
@@ -334,6 +336,7 @@ async function renderPlay(id) {
         <button type="button" class="nav prev" aria-label="${t('prevClue')}">‹</button>
         <button type="button" class="clue-text"></button>
         <button type="button" class="nav next" aria-label="${t('nextClue')}">›</button>
+        <button type="button" class="hint-btn"></button>
       </div>
       <div class="kbd"></div>
       <input class="sysin" type="text" lang="mr" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="${t('answerInput')}">
@@ -346,6 +349,7 @@ async function renderPlay(id) {
   const clueEl = root.querySelector('.clue-text');
   const sysIn = root.querySelector('.sysin');
   const submitEl = root.querySelector('.submit-btn');
+  const hintEl = root.querySelector('.hint-btn');
 
   // Grid squares
   gridEl.style.setProperty('--cols', pz.cols);
@@ -368,7 +372,7 @@ async function renderPlay(id) {
   gridEl.appendChild(frag);
 
   // ── helpers
-  const isLocked = (i) => S.solved || S.revealed.has(i) || S.verified.has(i);
+  const isLocked = (i) => S.solved || S.revealed.has(i) || S.verified.has(i) || S.hinted.has(i);
   const currentEntry = () => {
     const c = pz.cells[S.cell];
     return pz.entries[c[S.dir] ?? c[other(S.dir)]];
@@ -403,6 +407,7 @@ async function renderPlay(id) {
       verified: [...S.verified],
       wrong: [...S.wrong],
       near: [...S.near],
+      hinted: [...S.hinted],
       elapsed: Math.round(S.elapsed),
       solved: S.solved,
       solvedAt: S.solvedAt,
@@ -427,8 +432,10 @@ async function renderPlay(id) {
       el.classList.toggle('wrong', S.wrong.has(i));
       el.classList.toggle('near', S.near.has(i));
       el.classList.toggle('revealed', S.revealed.has(i));
+      el.classList.toggle('hinted', S.hinted.has(i));
     }
     updateSubmit();
+    updateHint();
     clueEl.innerHTML = `<span class="clue-label">${num(e.num)} ${dirLabel(e.dir)}</span><span lang="mr">${esc(e.clue)}</span> <span class="clue-len">(${num(e.sol.length)})</span>`;
     if (scroll) cellEls[S.cell].scrollIntoView({ block: 'nearest', inline: 'nearest' });
   }
@@ -509,6 +516,36 @@ async function renderPlay(id) {
     submitEl.setAttribute('aria-label', full ? t('submitLabel') : t('filledOf', { n, total }));
   }
 
+  // ── hints: HINTS per puzzle, each fills the selected square with the right akshara
+  const hintsLeft = () => Math.max(0, HINTS - S.hinted.size);
+
+  function updateHint() {
+    hintEl.hidden = S.solved;
+    const left = hintsLeft();
+    hintEl.textContent = `💡${num(left)}`;
+    hintEl.classList.toggle('empty', left === 0);
+    hintEl.setAttribute('aria-label', t('hintLabel', { n: left }));
+  }
+
+  function useHint() {
+    if (S.solved || S.paused) return;
+    if (!hintsLeft()) return toast(t('hintsGone'));
+    const i = S.cell;
+    const sol = pz.cells[i].sol;
+    if (isLocked(i) || S.fills.get(i) === sol) return toast(t('hintNotNeeded'));
+    S.fills.set(i, sol);
+    S.hinted.add(i);
+    S.wrong.delete(i);
+    S.near.delete(i);
+    persist();
+    // Carry on from the next open square in the word, as if the player had typed it.
+    const e = currentEntry();
+    const next = e.positions.slice(e.positions.indexOf(i) + 1).find((j) => !isLocked(j) && !S.fills.get(j));
+    if (next != null) select(next, e.dir);
+    else { S.composing = false; update(); }
+    sysFocus();
+  }
+
   function submit() {
     if (S.solved || S.paused || filledCount() < pz.letterCells.length) return;
     const wrong = [];
@@ -552,6 +589,7 @@ async function renderPlay(id) {
         app: t('appName'),
         title: pz.title,
         time: time(S.elapsed),
+        hints: S.hinted.size ? t('shareHints', { n: S.hinted.size }) : '',
         assisted: S.assisted ? t('shareAssisted') : '',
       }) + '\n' + location.href;
     }
@@ -560,6 +598,7 @@ async function renderPlay(id) {
       date: date(id, { day: 'numeric', month: 'long', year: 'numeric' }),
       title: pz.title,
       time: time(S.elapsed),
+      hints: S.hinted.size ? t('shareHints', { n: S.hinted.size }) : '',
       assisted: S.assisted ? t('shareAssisted') : '',
     }) + '\n' + location.href.replace(/#.*$/, '');
   }
@@ -591,6 +630,7 @@ async function renderPlay(id) {
         <h2>${t('congrats')}</h2>
         <p>${t('solvedIn', { time: time(S.elapsed) })}</p>
         ${S.assisted ? `<p class="muted">(${t('assisted')})</p>` : ''}
+        ${S.hinted.size ? `<p class="muted">${t(S.hinted.size === 1 ? 'hintsUsedOne' : 'hintsUsed', { n: S.hinted.size, total: HINTS })}</p>` : ''}
         ${S.near.size ? `<p class="slips">${S.near.size === 1 ? t('slipsOne') : t('slips', { n: S.near.size })}</p>` : ''}
         ${streak > 0 ? `<p class="streak">${t('streak', { n: streak })}</p>` : ''}
         ${id === today ? `<p class="muted">${t('comeTomorrow')}</p>` : ''}
@@ -655,6 +695,7 @@ async function renderPlay(id) {
     S.verified.clear();
     S.wrong.clear();
     S.near.clear();
+    S.hinted.clear();
     S.elapsed = 0;
     S.solved = false;
     S.solvedAt = null;
@@ -929,6 +970,7 @@ async function renderPlay(id) {
   root.querySelector('.kbd-toggle').addEventListener('click', () => setInputMode(settings.input === 'system' ? 'custom' : 'system'));
   timerEl.addEventListener('click', () => setPaused(!S.paused));
   submitEl.addEventListener('click', submit);
+  hintEl.addEventListener('click', useHint);
   root.querySelector('.resume').addEventListener('click', () => setPaused(false));
   createKeyboard(root.querySelector('.kbd'), handleKey, { next: t('nextKey'), dir: t('dirKey'), backspace: t('backspaceKey') });
 
