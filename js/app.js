@@ -508,8 +508,10 @@ async function renderPlay(id) {
     }
     persist();
     update({ scroll: false });
-    if (wrong) toast(wrong === 1 ? t('wrongCountOne') : t('wrongCount', { n: wrong }));
-    else if (near) toast(near === 1 ? t('nearCountOne') : t('nearCount', { n: near }));
+    if (wrong) {
+      const also = !near ? '' : ' ' + (near === 1 ? t('nearAlsoOne') : t('nearAlso', { n: near }));
+      toast((wrong === 1 ? t('wrongCountOne') : t('wrongCount', { n: wrong })) + also);
+    } else if (near) toast(near === 1 ? t('nearCountOne') : t('nearCount', { n: near }));
     else if (empty) toast(t('correctSoFar'));
     else toast(t('allCorrect'));
   }
