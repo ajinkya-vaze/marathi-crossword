@@ -24,6 +24,12 @@ export function toast(msg, ms = 2400) {
     document.body.appendChild(el);
   }
   el.textContent = msg;
+  // On the play screen, cover the clue bar for a moment so the message never hides grid squares.
+  const bar = document.querySelector('.cluebar')?.getBoundingClientRect();
+  const low = !!bar?.height;
+  el.classList.toggle('low', low);
+  el.style.bottom = low ? `${Math.round(document.documentElement.clientHeight - bar.bottom + 4)}px` : '';
+  el.style.minHeight = low ? `${Math.round(bar.height - 8)}px` : '';
   el.classList.add('show');
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => el.classList.remove('show'), ms);
