@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-01",
+ "title": "प्राणी आणि पक्षी १",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcebmInODoHK0Q==",
+   "clue": "मलेरिया पसरवणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceCmInyDoHK/s2VsRGDntxRkNb0js2TTNHJ0w==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcevmInOksXsFc2Upo3HhATN1MKBy+s=",
+   "clue": "पोटाच्या पिशवीत पिल्लू ठेवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jcevmInODoHK0VHQldg=",
+   "clue": "पाठीवर कवच असलेला संथ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jcevmInODoHK3FHQlfiDnsZRkNbU",
+   "clue": "कावळ्याचा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcePBM3Uw4HL5M2UiI3HhATN1NM=",
+   "clue": "लग्नाला जाणारी पाहुणे मंडळी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jcezBM3Ux4HK1w==",
+   "clue": "केसांत होणारे लहान कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jcetmInODoHKy1HQldg=",
+   "clue": "ओझे वाहणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jcePmInODoHK0VHQld2Dn/o=",
+   "clue": "गायीचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jcebBM3Uwh2OzbjQldMf2tyekNfh",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jcevmInODoHK3FHQld6DnsY=",
+   "clue": "काव काव करणारा काळा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jcevmInODoHK2lHQldiDn/hRkNb+",
+   "clue": "वळणदार शिंगांचे काळे हरीण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcenmIjxDoHK2VHQld4=",
+   "clue": "स्वयंपाकघरात लपणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jcenmIjxDoHKyM2VsxGDntI=",
+   "clue": "लहान फांद्यांचे छोटे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceQmInODoHKw1HQld+Dn/9RkNb+",
+   "clue": "चपटा पांढरा चविष्ट मासा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jceQmInODoHKylHQlfiDn/PN1PAdjs2BTNHJwtrdrQ==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceCmInPksXsFc2UiI3GugTN1NE=",
+   "clue": "सिंहाची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jceCmInPksXsFc2UiA==",
+   "clue": "जंगलाचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceVmInODoHK/A==",
+   "clue": "हिमालयातील केसाळ बैल"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jceWBM3U1B2Ozbg=",
+   "clue": "पाण्यात पोहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcevmIj7ksXsFc2UnRGDntnN1fI=",
+   "clue": "अंडी देणारी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jceWBM3U5R2OzZ7QldM=",
+   "clue": "पाण्याकाठी एका पायावर उभा राहणारा पांढरा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jceWmIj9ksXeiYi3TY3Hrw==",
+   "clue": "गाडी थांबवणारी यंत्रणा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcetmIj7DoHK2s2UjxGDntPN1fUdjs24",
+   "clue": "लोखंडी गोळा फेकण्याचा खेळ"
+  }
+ ]
+}

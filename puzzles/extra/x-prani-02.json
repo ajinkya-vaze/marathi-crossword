@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-02",
+ "title": "प्राणी आणि पक्षी २",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 9,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "x": "jcetmIj7DoHK/lHQlt8f2ty6kNbfEomJnw==",
+   "clue": "पाठीवर घर घेऊन फिरणारी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcetBM3Ux4HK1w==",
+   "clue": "सह्याद्रीतील रानबैल"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jcetmInODoHKy1HQltg=",
+   "clue": "ओझे वाहणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jcebmInODoHK0Q==",
+   "clue": "मलेरिया पसरवणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcevmInODoHK0VHQltg=",
+   "clue": "पाठीवर कवच असलेला संथ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcevmInODoHK3FHQlviDnsZRkNbU",
+   "clue": "कावळ्याचा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jcePBM3UwYHL6w==",
+   "clue": "सांड; गावात मोकाट फिरणारा बैल"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jcegmInPDoHK3FHQlveDnsdRkNbU",
+   "clue": "चिमणीचा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jcegmInPDoHKzc2Vv43HigTN1Ngdjs2yTNLJ9NrdrgySxdc=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcecmIj3DoHK3FHQlsODnsZRkNbZjs2T",
+   "clue": "समुद्रातील सर्वात मोठा सस्तन प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceCmInODoHK2VHQltU=",
+   "clue": "उंच लाल डोक्याचा जोडीने राहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceMmIj3DoHKw82VsBGDnuc=",
+   "clue": "प्राण्याच्या पाठीमागचा लोंबणारा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceMmIj3DoHK2s2Vsg==",
+   "clue": "बकरी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceWmIjxDoHK21HQlsGDn/lRkNbT",
+   "clue": "डोक्यावर तुरा असलेला गाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceCmIj9ksXGiYi3To3HgwTN1MqByutR0JbDg5//UZDW0xKJiZg=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceQmInODoHK2w==",
+   "clue": "भिंतीवर चालणारा लहान सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceQmInODoHK2VHQltiDnsY=",
+   "clue": "कबुतराचे दुसरे नाव"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jcegmIj7DoHK8w==",
+   "clue": "पक्ष्याचे तोंड"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jceCmIjxDoHK0VHQlt0=",
+   "clue": "नदीतील लांब तोंडाची मगरीसारखी जात"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceCmIjxDoHK2VHQlsMf2tyl",
+   "clue": "किंमती चविष्ट समुद्री मासा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceCBM3UyoHK11HQls6DnsY=",
+   "clue": "वेगाने झेप घेणारा शिकारी पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jceCBM3Uwh2OzYzQltM=",
+   "clue": "रंग बदलणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcegBM3U54HL4lHQlt0=",
+   "clue": "चांदणे पिऊन जगतो अशी कल्पना असलेला पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jcePmInODoHKwVHQlt0=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-06",
+ "title": "माझा महाराष्ट्र ६",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceKBM3J9IjE/4HXzA==",
+   "clue": "लाल जीवनद्रव्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceCmInvHYjF3YHW6QiSxbjQk+CDntxRjcXGHZLFyojQzB3NlIaNx4QEzcnWiMT/gdf3lNfszZSG",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jceCmInvHYjF34HX1giSxbHQk+0=",
+   "clue": "शिवरायांचे ज्येष्ठ पुत्र"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceUBM3J04jE/4HX2giSxbvQktODnvpRjcXE",
+   "clue": "लाकडी खांबावरील महाराष्ट्राचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceKmInTHYjF3B2TzNKSxZNM1snb",
+   "clue": "दासबोध लिहिणारे समर्थ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jceImIjmHYjFyx2TzOMOgYmR",
+   "clue": "लोणावळ्याजवळचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceQmInTHYjFxx2TzNwOgYmm1snc2tyvEYHMwA==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceMmInSHYjFx4HX1giSxbHQk+0=",
+   "clue": "स्वराज्याचे संस्थापक छत्रपती"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jceMmInSHYjFxx2TzOgOgYmf1snhRpiJyYHN4Q==",
+   "clue": "शिवरायांचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceCBM3J/YjE/4HX9AiSxYVM1sn0RpiJzA==",
+   "clue": "रामदास स्वामींचा गड"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcemBM3J0hSB1vaTzMoOgYmF",
+   "clue": "केळीसाठी प्रसिद्ध जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jcetmInTHYjF14HX1g==",
+   "clue": "तुकारामांच्या अभंगांचा संग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceemInTHYjFwoHX1giSxYHQktMf2tyl",
+   "clue": "संभाजीराजांनंतर स्वराज्य लढवणारी राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceKmInTHYjF3R2TzOMOgYmR",
+   "clue": "शिवरायांची राजधानी असलेला किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jcetBM3JwhSB1ssPiNDWgYiwSo3HkJiI7B2IxcGB1u8=",
+   "clue": "समुद्रकिनारी गणपतीचे देवस्थान"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jceQmInTHYjFwB2TzOwOgYmA",
+   "clue": "ठाण्यातून वेगळा झालेला जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jcemmInSHYjF7oHX1giSxYHQktMf2tyl",
+   "clue": "शिवरायांच्या मातोश्री"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceWmInTHYjF7oHW6AiSxZ3QktMf2tyY",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jceQBM3JyRSB1tSTzfMOgYmC",
+   "clue": "रायगड जिल्ह्यातील रेल्वे जंक्शन"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcevmIjmHYjFwYHW6AiSxbrQk+0f2tyJ",
+   "clue": "मच्छीमारांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jcevmIjmHYjF5x2TzNo=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceeBM3Jz4jFzB2TzMKSxZM=",
+   "clue": "लोकनाट्याचा पारंपरिक प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jceQmIjsHYjFwh2TzMySxKDQkviDnsZRjcXY",
+   "clue": "सन्मान; बक्षीस"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceUmInTHYjFwB2TzMEOgYmT",
+   "clue": "सिंधुदुर्गजवळचे मासळीसाठी प्रसिद्ध गाव"
+  }
+ ]
+}

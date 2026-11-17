@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-01",
+ "title": "निसर्ग १",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcegmInRFZPF5BuBiYI=",
+   "clue": "पाणी आणि माती यांचे मिश्रण"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "x": "jce8mInsFZPF3huBiYDRyd1GmInm",
+   "clue": "आंब्याच्या झाडांची बाग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceWBM3K0A+B1tc=",
+   "clue": "झाडांना फुले येण्याचा काळ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcetmIjvFZPFwBuBiZ7RyOhGmInXFZPFwg==",
+   "clue": "उन्हाळ्यात लाल फुलांनी बहरणारे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jceUmIjlFZPF5RuBiYDRyd0=",
+   "clue": "सुगंधी पांढरे फूल"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jcemmIjjidfUksPfUdCV34OexlGOzd2B1+YdzZSnjca6",
+   "clue": "लाव्हा ओकणारा पर्वत"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcetmIjlFZPFwofFkkzRydHa3JM=",
+   "clue": "सर्वात मोठे कपी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jcetmIjlFZPF5BuBiYLRyOQ=",
+   "clue": "गांधीजींचे राजकीय गुरू"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcevmInRFZPF2ofFk0zRydPa3JM=",
+   "clue": "समुद्राचा काठ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jceSmInQFZPFwhuBiYM=",
+   "clue": "श्रीफळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceQmInQFZPF1ofEqkzRydHa3ao=",
+   "clue": "भात शिजवण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceQmInQFZPF2huBiadNjceJ",
+   "clue": "झाडांची पाने गळण्याचा काळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceUmInQFZPFwRuBiYDRyd1GmInG",
+   "clue": "गवताळ मोकळी उघडी जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jcetBM3K3A+B1sM=",
+   "clue": "तृण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jceeBM3K2w+B1tKBiY5NjceK",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceCmInsFZPF1YfEoNCVwoOexlGOzeaB1tkdzZSC",
+   "clue": "दिवस मावळतानाची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jcevmInQFZPF2IfEr0zRyds=",
+   "clue": "पांढरे पीक ज्यापासून कापड बनते"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jcePmInQFZPF1BuBiYM=",
+   "clue": "जोरदार वारा आणि पाऊस"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jcecBM3K3A+B1suBiY/RyeFGmInIidbj",
+   "clue": "गवतावर पहाटे दिसणारा थेंब"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceQBM3K2g+B1t8=",
+   "clue": "केशरी फुलांचे जंगली झाड"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jceDmInRFZPFwhuBiYVNjceJ",
+   "clue": "हिरवेगार गवत"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceDmInRFZPF3BuBiZhNjcecmIju",
+   "clue": "बर्फाची हळूहळू वाहणारी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jcePBM3KyA==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceCmInQFZPF5RuBiYXRyd1GmInG",
+   "clue": "मजबूत इमारती लाकडाचे झाड"
+  }
+ ]
+}

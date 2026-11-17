@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-14",
+ "title": "घर आणि कुटुंब १४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 8,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceMmIjgFIHWuk3UycLa3a0=",
+   "clue": "स्वयंपाकाची चूल; गॅस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jcetBM3D8oHXoNGQ94Of+A==",
+   "clue": "घराच्या छतावरील मोकळी जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceUmInZFIHWjNGR7Q==",
+   "clue": "घराचा वरचा मजला"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceUmInZFIHWsU3UyftGmInX",
+   "clue": "जुन्या घरातील मधली खोली"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jcepBM3D0B2SiYHUyOM=",
+   "clue": "घरापुढील उघडी लांब जागा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jce8BM3DzIHXoNGQwoOexg==",
+   "clue": "वडिलांची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jce8BM3D9IHXqk3Uydva3JMbiMXKzZS2",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jceemIjmFIHWnk3Uyds=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceemIjmFIHWnk3UydXa3a0biMXczZWKEYOeyw==",
+   "clue": "वारकऱ्याच्या गळ्यातील माळ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceiBM3DyYHXoNGQwoOexlGHzNI=",
+   "clue": "वेळ दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceCmInZFIHWmE3Uyfba3JMbiMXC",
+   "clue": "व्याजाने पैसे देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jcevmInZFIHWjNGR6h/a3IeHzeYOzZWrjca6",
+   "clue": "आगपेटी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceUmInZFIHWjQ==",
+   "clue": "पाणी थंड ठेवणारे मातीचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceQmIjgFIHWstGR7Q==",
+   "clue": "सामान ठेवायची डबी; ट्रंक"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jcePmInZFIHWstGR7Q==",
+   "clue": "आमटी वाढण्याचे लहान भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jcePmInZFIHWj03UycXa3JIbiMXHUdGQ1Q==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcevmIjmFIHWuE3UydM=",
+   "clue": "शिट्टी वाजवणारे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jcecmInYFIHWmNGQ0w==",
+   "clue": "उजेड देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcecmIjnFIHWnQ==",
+   "clue": "नवऱ्याचा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jce8BM3D2B2SiZ/Uyd1GmInX",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jce8BM3D9IHXrQ==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jceUmInZFIHWidGQ0w==",
+   "clue": "आई; जननी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceCBM3DzB2SiYHUyeFGmIn7iMTy",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 2,
+   "x": "jceeBM3D3YHWkw==",
+   "clue": "पोळ्या भाजण्याचे भांडे"
+  }
+ ]
+}

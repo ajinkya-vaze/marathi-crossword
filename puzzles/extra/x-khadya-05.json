@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-05",
+ "title": "खाऊ आणि स्वयंपाकघर ५",
+ "difficulty": "सोपे",
+ "rows": 11,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jcetmIjqFIHA24GIsEmNx5CYidUUgcDYHc2UgI3HhA==",
+   "clue": "मराठी नववर्षाचा पहिला दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jcebmIjgFIHAwYGJjg==",
+   "clue": "तव्यावरचा कुरकुरीत दक्षिणी पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceCmInVFIHAzB3NlKmNxro=",
+   "clue": "नागपूरची तिखट रस्सा पद्धत"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jceQmIjqFIHA34GJj0mNx5KYidU=",
+   "clue": "थंडावा देणारी सुगंधी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "x": "jceQmIjqFIHAy4GJjkmNx48=",
+   "clue": "भाज्या घालून केलेला भात"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jceCmIjgFIHAyx3NlKARg57azc7o",
+   "clue": "कोकमची गुलाबी कढी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceQmInVFIHAzB3NlJiNx4QEzc/0gcH5",
+   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceXmInVFIHA3Q==",
+   "clue": "शिजवलेले तांदूळ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jcePBM3PyYHAxx3NlJ+Nx4QEzc/d",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jcebmInVFIHAyg==",
+   "clue": "वरणासाठी लागणारी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jcePBM3P2B2E3cJR0JHAg57GUYvMxQ==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jce/mInpFIHA2IGJjkmNx68Ezc/YgcH5",
+   "clue": "अंड्याचा रस्सा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jcesBM3P3YHAxw==",
+   "clue": "आटवलेले दूध"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jcesBM3P0B2E3fdR0JHV",
+   "clue": "बारीक पांढरे दाणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jcevBM3Py4HB+R3NlI0=",
+   "clue": "मक्याचे किंवा ज्वारीचे दाण्यांचे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jcesmIjrFIHAyQ==",
+   "clue": "दुधात शिजवलेला गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceXmInVFIHA7B3NlIWNxro=",
+   "clue": "ज्वारी किंवा बाजरीच्या पिठाची"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceCBM3P2B2E3c1R0JHJ",
+   "clue": "थंड गोड पेय"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jceWBM3P94HAxx3NlKqNx4Q=",
+   "clue": "वड्यात भरतात तो कंद"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jceUmInUFIHAwR3NlIY=",
+   "clue": "फरसाण घातलेली तिखट उसळ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceUmInUFIHAyYGIsA==",
+   "clue": "काळा तिखट मसाला"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceCmIjmiMX7mcSg0JHdg5/xUYvMzYTc5lHQkd2Dn/g=",
+   "clue": "महाबळेश्वरचे लाल फळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceWmIjsFIHAwR3NlJ0=",
+   "clue": "हरभऱ्याचे पीठ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcevmInpFIHA5oGJjkmNx4mYidU=",
+   "clue": "उत्साह नसणे"
+  }
+ ]
+}

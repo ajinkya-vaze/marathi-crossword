@@ -1,0 +1,541 @@
+{
+ "id": "x-prani-m03",
+ "title": "प्राणी आणि पक्षी · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 16,
+   "x": "jceDmInyDoHKxVGNlIMRg57bzdX1",
+   "clue": "गायीचे ओरडणे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceXmIjxksXsFc3Jp9PJ3Q==",
+   "clue": "फुलांभोवती गुणगुणणारा काळा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jcetmInODoHKyFGNlKSNxr0EzdTegcrXUY2Un43HhA==",
+   "clue": "हातात खराटा घेऊन स्वच्छता शिकवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 14,
+   "x": "jceDmInyDoHK0Q==",
+   "clue": "पांढरा शुभ्र जलपक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 16,
+   "x": "jceWBM3Uy4HK1lGNlIONxro=",
+   "clue": "शिकारी ससाण्याची एक जात"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 11,
+   "x": "jce9BM3U1oHK1lGNlIqNx4QEzdTKHY7NuI2UjRGDnsg=",
+   "clue": "इतिहास लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 12,
+   "x": "jceemInPDoHKzVGNlIM=",
+   "clue": "शेतात आढळणारा शिकारीचा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 19,
+   "x": "jce9BM3U3IHK11GNlIMRg57c",
+   "clue": "अनेक मजल्यांचे बांधकाम"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jcetmIjxDoHK2c3Jjk+Nx6yYiPA=",
+   "clue": "गुरे राखणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceKmInODoHKwVGNlJKNxrsEzdTngcvkzcmlT43Hig==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 19,
+   "x": "jceUmInODoHK0c3Jjg==",
+   "clue": "मत्स्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 11,
+   "x": "jceUmIj7DoHK2Q==",
+   "clue": "भारताचा राष्ट्रीय पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jceUmIj7DoHK2VGNlJmNxroEzdTK",
+   "clue": "मोराच्या पिसाऱ्यातील एक पीस"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 17,
+   "x": "jceimIj7DoHKylGNlIs=",
+   "clue": "विषारी साप; त्याच्या अंगावर साखळीसारखे ठिपके"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceUmIjxDoHK/M3IvdPJx9rckwySxcKJidNM08nr",
+   "clue": "ज्ञानेश्वरांची धाकटी बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceUmIjxDoHK/83IvdPJzNrckwySxcmJiODQl8KDnsZRkNbLEomJ+A==",
+   "clue": "शाळेचे प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcebmIjxDoHK/M3IvdPJ9kaYicA=",
+   "clue": "चिखलात लोळणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 15,
+   "x": "jcePBM3Uwh2OzY4R0JfAg57GUZDWxQ==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 15,
+   "x": "jcePBM3U04HK11GNlJmNx4QEzdTH",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceXmIj3DoHK/FGNlIM=",
+   "clue": "भुंकणारे लहान हरीण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 11,
+   "x": "jceQmIjwDoHK0Q==",
+   "clue": "पक्ष्याच्या अंगावरचे एक पर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 14,
+   "x": "jceQmInOksXsFc3JkdPJ3Q==",
+   "clue": "काळे-पांढरे बांबू खाणारे अस्वल"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jcerBM3U54HL5M3Jr9PI6EaYidoOgcrR",
+   "clue": "आठ भुजांचा सागरी प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jcevBM3U3oHL61GNlJcRg57I",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceeBM3U3oHL7lGNlIGNx4Q=",
+   "clue": "घोडे बांधण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 18,
+   "x": "jceMmInPDoHK2c3Jjg==",
+   "clue": "रव्याचा गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 19,
+   "x": "jceKmInODoHK9VGNlKSNxrsEzdTCgcvr",
+   "clue": "भगतसिंगांसोबत फाशी गेलेले"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceUBM3U0YHL5M3Jn9PJ3UaYicA=",
+   "clue": "रात्री फिरणारा अतिविषारी साप"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceUBM3U5R2OzZ0=",
+   "clue": "नदीतील धोकादायक सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jcegmInPDoHKx1GNlJCNxro=",
+   "clue": "घराजवळ चिवचिवणारा लहान पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 12,
+   "x": "jceRmIjxDoHK21GNlJmNx4QEzdTkHY7NnY2VsQ==",
+   "clue": "रंगीबेरंगी पंख असलेला कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 14,
+   "x": "jcevmInODoHK3FGNlKaNx4QEzdTH",
+   "clue": "कावळ्याचा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 14,
+   "x": "jcevmInODoHK9VGNlIaNx4Q=",
+   "clue": "रात्री चमकणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 17,
+   "x": "jcePBM3U7R2OzZiNlI0Rg57gzdXwHY7Nng==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 19,
+   "x": "jcemBM3UwYHL6w==",
+   "clue": "रक्त शोषणारा पाण्यातील किडा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcevBM3UwR2OzYc=",
+   "clue": "हरणांचा किंवा गुरांचा समूह"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jceImInODoHK21GNlJ0Rg57BzdTMHY7Nnw==",
+   "clue": "पुण्यातील शिवरायांचा वाडा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jceCBM3U2R2OzZ0R0Jf3g576UZDWxw==",
+   "clue": "लाल रंगाचे काश्मिरी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jcecBM3UxIHK11GNlIYRg57czdTMHY7NnQ==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 12,
+   "x": "jceQmInODoHK2VGNlIaNx4Q=",
+   "clue": "कबुतराचे दुसरे नाव"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 17,
+   "x": "jcePmInODoHK0VGNlIONxrg=",
+   "clue": "गायीचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 11,
+   "x": "jceQmInyDoHK/w==",
+   "clue": "पक्ष्याला उडण्यासाठी असतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 20,
+   "x": "jceCmInPksXsFc3JidPI40aYidM=",
+   "clue": "सिंहाची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jce8BM3U0h2OzZgR0JfMg57G",
+   "clue": "सात दिवसांचा कालावधी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 15,
+   "x": "jcecBM3U3YHK11GNlIA=",
+   "clue": "काळा-पांढरा गाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 15,
+   "x": "jcecBM3Uwh2OzYGNlI0Rg57I",
+   "clue": "राजाची सभा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 8,
+   "x": "jceMmInODoHK2c3IvdPJ9g==",
+   "clue": "धारदार दातांचा मोठा सागरी मासा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 8,
+   "x": "jceMmInODoHK4Q==",
+   "clue": "पेनातील रंगीत द्रव"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 14,
+   "x": "jcesmInODoHK2Q==",
+   "clue": "झाडावर चढणारी पाठीवर पट्टे असलेली"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 18,
+   "x": "jcevmIj7DoHK/FGNlJA=",
+   "clue": "समुद्रकिनाऱ्यालगतचा महाराष्ट्राचा प्रदेश"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 18,
+   "x": "jcevmIj7DoHKwQ==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 5,
+   "x": "jceCmIjxDoHK2VGNlJ0Rg57w",
+   "clue": "किंमती चविष्ट समुद्री मासा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 5,
+   "x": "jceCmIjxDoHK2s3Jjg==",
+   "clue": "हत्तीचा बाहेर आलेला दात"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 7,
+   "x": "jceUBM3Uy4HK11GNlIaNxroEzdTC",
+   "clue": "जैन धर्माचे तीर्थंकर"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 15,
+   "x": "jceWmInODoHK/lGNlIaNx4QEzdTa",
+   "clue": "फळे विकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 17,
+   "x": "jcePmInODoHK8c3IsE+Nx5k=",
+   "clue": "वाघाची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 3,
+   "x": "jceQmInPDoHK3FGNlICNx4Q=",
+   "clue": "हळदीचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 4,
+   "x": "jcePBM3UwYHL6w==",
+   "clue": "सांड; गावात मोकाट फिरणारा बैल"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 13,
+   "x": "jcesmIj3DoHK81GNlIM=",
+   "clue": "घोडी आणि गाढव यांचे संकर पिल्लू"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 13,
+   "x": "jcesmIj3DoHK/FGNlJKNx4Q=",
+   "clue": "तिरका चालणारा जलचर"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 19,
+   "x": "jceimIj7DoHKyM3IsA==",
+   "clue": "घोड्याची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 19,
+   "x": "jceimIj7DoHKyM3Jjg==",
+   "clue": "अश्व"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 10,
+   "x": "jcevmIj7DoHK2s3Jj0+Nx42YiP2SxfEVzcml",
+   "clue": "कोळ्याचे जाळे"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 10,
+   "x": "jcevmIj7DoHK/FGNlIONxrg=",
+   "clue": "मेंढीचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 16,
+   "x": "jceQmInODoHKylGNlKuNxrEEzdTTgcrX",
+   "clue": "नदीत राहणारा अवजड प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 16,
+   "x": "jceQmInODoHKwc3Jj0+Nx5AEzdTW",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 6,
+   "x": "jceiBM3Uwh2OzbKNlbQ=",
+   "clue": "पक्ष्याचे घर"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 6,
+   "x": "jceiBM3U7R2OzYWNlI0=",
+   "clue": "संविधान; किंवा प्रसंग"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 13,
+   "x": "jcebmInODoHK0Q==",
+   "clue": "मलेरिया पसरवणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 4,
+   "x": "jceQmIj7DoHKw1GNlKw=",
+   "clue": "हिरवा बोलणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 4,
+   "x": "jceQmIj7DoHK283IsE+Nx4I=",
+   "clue": "कायद्याचे रक्षक"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 6,
+   "x": "jceSmInODoHK9s3IvdPJzEaYieeSxO0VzcmJ",
+   "clue": "नाटक पाहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 9,
+   "x": "jceDBM3U1oHL5M3JlNPI4w==",
+   "clue": "गज"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 13,
+   "x": "jcePmInPDoHKx83Jjk+Nx5IEzdTWHY7Nng==",
+   "clue": "विमाने उतरतात ते ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 14,
+   "x": "jceUmInODoHKzc3Jjg==",
+   "clue": "आई; जननी"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 3,
+   "x": "jcevmInODoHK0VGNlIY=",
+   "clue": "पाठीवर कवच असलेला संथ प्राणी"
+  }
+ ]
+}

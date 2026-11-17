@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-05",
+ "title": "माझा महाराष्ट्र ५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "x": "jceCmInvHYjF3YHW6QiSxbjQkOCDntxRjcXGHZLFyojQzB3NlIWNx4QEzcnWiMT/gdf3lNfszZSF",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "x": "jceCmInvHYjF1oHW6giSxZ0=",
+   "clue": "काठ्यांनी वाजवायचे तंतुवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceKmInTHYjF7h2TzOMOgYmR",
+   "clue": "शिवरायांची पहिली राजधानी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceemIjsHYjF54HX1giSxZ3QkdMf2tyD",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jcegmInSHYjF2B2TzMeSxK9M1cnA",
+   "clue": "वाशिष्ठी नदीकाठचे कोकणातील शहर"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jcetBM3JyYjFzR2TzNqSxK1M1cn22tyTEYHM1JLFzQ==",
+   "clue": "शिवरायांचे युद्धतंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jceQmIjggczRDoHXzJTW31HQkccf2ty6EYHMwA==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceQmIjggczRDoHXx5TX6lHQkfof2tybjcXWHZLFwIjQzA==",
+   "clue": "प्रयोग करण्याची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceCmIjsHYjFxx2TzMSSxKDQkc4f2tyLjcTpHZLFw4jR/4GJpw==",
+   "clue": "हर्णेजवळचा समुद्री किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jce/BM3JzxSB1tGTzMoOgYmFSY3HnpiI7Q==",
+   "clue": "अंबादेवीचे विदर्भातील शहर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jce/BM3JyhSB1v0PiNDAHc2Uo43HhATNyck=",
+   "clue": "प्रतापगडावर मारला गेलेला सरदार"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcemmInTHYjF5R2TzMQOgYmT",
+   "clue": "देवीसाठी रात्रभर जागणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceemIjmHYjF2Q==",
+   "clue": "किल्ल्यावरील गोळा उडवणारे अस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceUmInTHYjF14HW7wiSxZ3QkdMf2tyF",
+   "clue": "वाहनांना बंदी असलेले थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jceImIjmHYjF5x2TzMY=",
+   "clue": "मुंबईची उपनगरी रेल्वे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jceImIjmHYjFyx2TzOMOgYmR",
+   "clue": "लोणावळ्याजवळचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceXmIjtHYjF3IHX1giSxZvQke8f2ty4EYHM0Q==",
+   "clue": "सह्याद्रीतील ज्योतिर्लिंग"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceCmIjmHYjF2IHX1giSxYVM1cnF2t2qEYHM1A==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jcetBM3J/YjFzB2TzNwOgYmY",
+   "clue": "शेगावचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceSBM3J1IjE8h2TzNqSxKzQke8f2tyBEYHM6Q==",
+   "clue": "खाडीपलीकडचे नियोजित शहर"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceQmInTHYjFxx2TzNwOgYmm1cnc2tyvEYHMwA==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcedmIjvHYjF2g==",
+   "clue": "सूरांची रचना"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 7,
+   "x": "jceemIjggczRksT+iNDdgYmySY3HlgTNyfSIxPUdk8zCksSg0JHYH9rcnQ==",
+   "clue": "गोदावरीच्या उगमाजवळचे ज्योतिर्लिंग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceUmInTHYjFxx2TzMeSxZM=",
+   "clue": "शिवरायांचा सैनिक"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-15",
+ "title": "प्राणी आणि पक्षी १५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceCmIjxDoHK/FHRkfI=",
+   "clue": "सुके छोटे मासे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcetmInOksXsFc2VlI3GuATN1ME=",
+   "clue": "मातीत राहणारा शेतकऱ्याचा मित्र"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jcePBM3U7R2OzZjRkdMf2ty1kNfjEomJgg==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jcePmInODoHK8c2UtRGDnts=",
+   "clue": "वाघाची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceimIjxDoHKxVHRkcw=",
+   "clue": "रात्री जागणारा मोठ्या डोळ्यांचा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceCmIjxDoHK/lHRkd0f2tyO",
+   "clue": "सुंदर लोंबते घरटे विणणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceCmIjxDoHK2VHRkcMf2tyl",
+   "clue": "किंमती चविष्ट समुद्री मासा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jceXmInODoHK2c2UtxGDntk=",
+   "clue": "संत एकनाथांनी लोकप्रिय केलेला रचनाप्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceXmInODoHK2VHRkcuDn/XN1MeBytdR0ZHx",
+   "clue": "तपकिरी पंखांचा शुभ मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jce/BM3Uyx2OzYNN1cnFRpiJ2A6Byv5R0ZHd",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jce/BM3U2R2OzbFN1cnRRpiJ5pLF0BXNlZ0=",
+   "clue": "प्रतापगडावर मारला गेलेला सरदार"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcemmInPDoHK2c2VixGDntM=",
+   "clue": "सर्वात उंच प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jcebmInODoHK0Q==",
+   "clue": "मलेरिया पसरवणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jcemBM3UwYHL6w==",
+   "clue": "रक्त शोषणारा पाण्यातील किडा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcegmInPDoHKzc2UuI3HipiI8A6ByvxR0ZHdH9rcjg==",
+   "clue": "शूटिंग"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jceKmInODoHK9VHRkdSDnvpRkNbZ",
+   "clue": "दूध आणि पाणी वेगळे करतो अशी कथा असलेला पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceDmInyDoHKxVHRkd0f2tyOkNfm",
+   "clue": "गायीचे ओरडणे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceWmIj4DoHK2w==",
+   "clue": "शेतात नांगर ओढणारा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcevmIjxDoHKzc2UuI3HipiI8A==",
+   "clue": "कुत्र्याची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceCmIjxDoHK0VHRkd0=",
+   "clue": "नदीतील लांब तोंडाची मगरीसारखी जात"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceCmIjxDoHK2VHRkc4=",
+   "clue": "खाज सुटणारा मोठा कंद"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceKmInODoHKwVHRkcyDn/lRkNb0jsyg0ZH4H9rcnQ==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jcebmIjxDoHK/M2UuI3HrwTN1MI=",
+   "clue": "चिखलात लोळणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceUBM3U1YHL5M2Vmo3HuATN1NYdjs2d",
+   "clue": "चित्रपटातील विश्रांती"
+  }
+ ]
+}

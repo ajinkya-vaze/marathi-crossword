@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-12",
+ "title": "घर आणि कुटुंब १२",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcesmInZiMXwUdGWwQ==",
+   "clue": "छत तोलणारा उभा स्तंभ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcezBM3Dzh2SiZ1OjceemIjqiMXWzZSy",
+   "clue": "सुवासिक धूर देणारी काडी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcezBM3D/h2SiYI=",
+   "clue": "धान्य कांडण्याचा खोल दगड"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceemIjmFIHWnk3Syds=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jceCBM3Dxh2Sibk=",
+   "clue": "देवापुढची पितळी उंच दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jcevBM3DwoHWk03Syfw=",
+   "clue": "कपडे ठेवण्याचे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceQmInZFIHWmE3SyctGmInxiMXNzZWwEYOe2Q==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jcemmInYFIHWhdGW0w==",
+   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceSmInZFIHWidGX6h/a3JiHzN8OzZW6EYOe7Q==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jcePmInZFIHWj03SycXa3JIbiMXHUdGW1Q==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceWmInZFIHWnU3Sydva3ao=",
+   "clue": "बाळाचे नाव ठेवण्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jcecmInYFIHWmNGW0w==",
+   "clue": "उजेड देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceQBM3DyR2SiZfSyd0=",
+   "clue": "खिडकीवर लावलेले कापड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceQBM3Dyx2Sia3SyOM=",
+   "clue": "आजीची किंवा आजोबांची आई"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jcecmInZFIHWnQ==",
+   "clue": "दरवाजा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceSBM3D3R2SiYFOjcecmIjgFIHWmA==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceSBM3D3R2SiYHSyd0=",
+   "clue": "पती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jceCBM3DzB2SiYHSyeFGmIn7iMTy",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceeBM3D2x2SiZvSyd1GmInI",
+   "clue": "पायाचा खालचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcenmInZFIHWndGW0w==",
+   "clue": "तळलेले बाहेर काढायचा छिद्रांचा चमचा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jcenmInZFIHWuE3SycA=",
+   "clue": "भांड्यावर ठेवायचे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceWmInZFIHWgk3Syfba3aY=",
+   "clue": "पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jceWmInZFIHWgdGW0w==",
+   "clue": "वडील"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jcebBM3DxIHWkw==",
+   "clue": "जेवण नेण्याचे भांडे"
+  }
+ ]
+}

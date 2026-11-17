@@ -1,0 +1,541 @@
+{
+ "id": "x-nisarga-m02",
+ "title": "निसर्ग · मोठे कोडे २",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jce8BM3KzZPE/4fFgxHQlvcf2tydjs3MHZLDxc3IvdLJ0w==",
+   "clue": "स्वतः लिहिलेली जीवनकथा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jce8BM3K3A+B1tSBidM=",
+   "clue": "आंबट तुरट हिरवे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceKmInRFZPF3BuBifDQltIf2tyD",
+   "clue": "हलका बारीक पाऊस"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 12,
+   "x": "jcenmIjvFZPF04fErxHQlsc=",
+   "clue": "लहान फांद्यांचे छोटे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jceDmInRFZPFx4fFkxHQlt6DnsY=",
+   "clue": "थंडीचा ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jcePmInQFZPF1BuBid4=",
+   "clue": "जोरदार वारा आणि पाऊस"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcevBM3Kxw+B1tcdzcmaTo3HpZiI44nX/pLD3w==",
+   "clue": "कमरेचा दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jcevBM3Kxw+B1tQ=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceSmInQFZPFwhuBid4=",
+   "clue": "श्रीफळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceSmInQFZPF3BuBicvQl+of2tyY",
+   "clue": "पंजाबपर्यंत भक्ती पोहोचवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 16,
+   "x": "jce/mInsFZPF1huBid3QltMf2tyeEonX1JLC4VGNlII=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jcePmIjjidfOksPfUY2UnY3HhATNysc=",
+   "clue": "शरीराची कसरत"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcevmIjlFZPFwRuBidXQltM=",
+   "clue": "जळणारा काळा खनिज पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcevmIjlFZPFwhuBicZM0snC",
+   "clue": "जाड रसाळ पानांची औषधी वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceCmInQFZPFwYfErI2UsBGDnu3Ny+k=",
+   "clue": "पिवळ्या चोचीची तपकिरी मैना"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 16,
+   "x": "jceeBM3K25PFzBuBidg=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 18,
+   "x": "jcePBM3Kyg+B1tKBidM=",
+   "clue": "जंगलात लागलेली आग"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jcebmIjlidfjDofFuhHQlt0=",
+   "clue": "पर्वत"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 14,
+   "x": "jceUmIjlFZPF5RuBid3QltM=",
+   "clue": "सुगंधी पांढरे फूल"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 14,
+   "x": "jceUmIjlFZPF1ofErQ==",
+   "clue": "शिंपल्यात तयार होणारे रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcesmInQFZPF0YfFkxHQltgf2tye",
+   "clue": "जेवणाचे घर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jcesmInQFZPFwhuBicbQl+wf2tyyjszz",
+   "clue": "समुद्रकिनारी खाऱ्या पाण्यात वाढणारी झाडे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 13,
+   "x": "jceUmInQFZPF1ofErQ==",
+   "clue": "मृदा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 13,
+   "x": "jceUmInQFZPF0YfFkhHQlvg=",
+   "clue": "लाल रंगाचे रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 18,
+   "x": "jcePmInQFZPF2Q==",
+   "clue": "पाणी उकळल्यावर निघणारी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jce/mInsFZPF54fErBHQlt0=",
+   "clue": "बीमधून फुटणारा कोवळा कोंब"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jce/mInsFZPF7ofErRHQlt0=",
+   "clue": "सुकवून खाल्ले जाणारे गोड फळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jceUmInQFZPF0w==",
+   "clue": "नारळाचे उंच झाड"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceUmInQFZPFwRuBid3QltMf2tyF",
+   "clue": "गवताळ मोकळी उघडी जमीन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceMmInRFZPF5BuBid0=",
+   "clue": "डोंगराचे सर्वात उंच टोक"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jcecmIjvFZPFxYfEoI2Up43HhATNyto=",
+   "clue": "पाऊस न पडल्याने येणारी टंचाई"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcevBM3KyJPE8xuBid/QltKDnvpRjs3f",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 11,
+   "x": "jcesBM3KyA+B1vI=",
+   "clue": "मोठा दगड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 15,
+   "x": "jce/BM3K2Q+B1sSBiODQlsI=",
+   "clue": "घनदाट वन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 19,
+   "x": "jcewBM3K0Q==",
+   "clue": "गोड रसाचे पीक"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 19,
+   "x": "jcewBM3KwQ==",
+   "clue": "सूर्याची उष्णता आणि प्रकाश"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceKmInQFZPF2huBiczQl+wf2ty4jsz+gdbyHc3JgA==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 18,
+   "x": "jceQmInQFZPF2g==",
+   "clue": "झाडाचे पर्ण"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 18,
+   "x": "jceQmInQFZPF0YfErQ==",
+   "clue": "जल"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceCmInQFZPF5RuBidjQltMf2tyF",
+   "clue": "मजबूत इमारती लाकडाचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jceCmInQFZPFxxuBid1M0sn2RpiJ3g==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jcePmInQFZPFwRuBidjQlu8f2tyy",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 13,
+   "x": "jceCmInQFZPF2BuBidvQltIf2tyMjszz",
+   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 15,
+   "x": "jce9mInsFZPF1IfEoI2Ugo3HhATNysYPgdbEgYjt",
+   "clue": "आळंदी-देहूची नदी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 15,
+   "x": "jce9mInsFZPF7RuBid1M0snL2t2qEonX/g==",
+   "clue": "जगभर जोडलेले संगणकाचे जाळे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 17,
+   "x": "jceVBM3Kx5PE8xuBicXQltM=",
+   "clue": "ताजमहाल जिच्या काठावर आहे ती नदी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jcedBM3KxQ+B1sAdzcmc0snd",
+   "clue": "उंचावरून कोसळणारे पाणी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 10,
+   "x": "jcedBM3K2Q+B1sQ=",
+   "clue": "नदीचे पाणी अडवणारी भिंत"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 13,
+   "x": "jceQBM3K0JPFzBuBifI=",
+   "clue": "सूर्योदयापूर्वीची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 20,
+   "x": "jce9mInsFZPF1IfEoI2UghGDnt9Rjs3bgdfmHc3Jh9LI7trcgg==",
+   "clue": "पावसानंतर दिसणारी सात रंगांची कमान"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceMmInRFZPFxIfFkhHQlt0=",
+   "clue": "कडाक्याच्या थंडीचा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 4,
+   "x": "jcevBM3Kw5PFzBuBifI=",
+   "clue": "कपडे ठेवण्याचे"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 9,
+   "x": "jceQmInQFZPF0RuBifjQl+aDnvpRjs3fHZLDwM3IsA==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 9,
+   "x": "jceQmInQFZPFxxuBidXQltMf2tyejs3N",
+   "clue": "पावसाचा ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 12,
+   "x": "jceWBM3K/JPE8xuBid4=",
+   "clue": "लहान सुगंधी फुलांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 18,
+   "x": "jceCmIjvFZPF5YfFrxHQlso=",
+   "clue": "सुवास; दरवळ"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 18,
+   "x": "jceCmIjvFZPFwRuBifjQltM=",
+   "clue": "टोकदार डोंगरशिखर"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 2,
+   "x": "jceWBM3K0A+B1tc=",
+   "clue": "झाडांना फुले येण्याचा काळ"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 2,
+   "x": "jceWBM3K2ZPE/4fFhg==",
+   "clue": "हिम"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 7,
+   "x": "jceSmInRFZPFwofEoI2Uro3GugTNytw=",
+   "clue": "जीव नसलेले"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 7,
+   "x": "jceSmInRFZPFwBuBifrQltIf2tydjszz",
+   "clue": "सुगंधी तेल देणारे उंच झाड"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 14,
+   "x": "jcePBM3K9g+B1tKBidNM0sn72t2vEonX0g==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 16,
+   "x": "jcePmInQFZPFwYfErw==",
+   "clue": "रेती"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 5,
+   "x": "jceSBM3K2ZPE/4fFgxHQlsuDnsY=",
+   "clue": "मध्य भारतातील पश्चिमवाहिनी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 11,
+   "x": "jceQBM3K2g+B1t8=",
+   "clue": "केशरी फुलांचे जंगली झाड"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 11,
+   "x": "jceQBM3K0JPFzBuBicw=",
+   "clue": "मोठा उंच डोंगर"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 13,
+   "x": "jceCBM3K2ZPE8g==",
+   "clue": "पावसाची झड"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 2,
+   "x": "jceImIjpFZPF5BuBifg=",
+   "clue": "पुस्तक लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 4,
+   "x": "jcetmIjlFZPF1IfFkxHQltgf2tydjszz",
+   "clue": "दक्षिण गंगा"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 4,
+   "x": "jcetmIjlFZPF6IfErRHQlsw=",
+   "clue": "जनावरांचे रक्त शोषणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 6,
+   "x": "jcePBM3KyA==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jcenmInQFZPF0w==",
+   "clue": "वृक्ष"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 10,
+   "x": "jcenmInQFZPF54fErRHQlt0=",
+   "clue": "तबल्याचे उस्ताद हुसेन"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 1,
+   "x": "jceMmInsFZPF5A==",
+   "clue": "फुंकून वाजवता येणारे सागरी कवच"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 2,
+   "x": "jcevBM3K2ZPF8BuBicxM0sn2",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 7,
+   "x": "jceuBM3Kz5PE84fFrxHQlsEf2tyd",
+   "clue": "दत्तगुरूंचे आवडते झाड"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-02",
+ "title": "निसर्ग २",
+ "difficulty": "मध्यम",
+ "rows": 11,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceVBM3Kx5PE8xuBiZjSyd0=",
+   "clue": "ताजमहाल जिच्या काठावर आहे ती नदी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jcetmIjvFZPFwBuBiZ7SyOhGmInXFZPFwg==",
+   "clue": "उन्हाळ्यात लाल फुलांनी बहरणारे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jcevmIjjidfWksPeUdCWyYOex1GOze8=",
+   "clue": "जिथे आकाश जमिनीला टेकल्यासारखे दिसते"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jcegmInQFZPFwBuBiaVOjceQBM3K2Q+B1tKBiY5OjceSmInQ",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jcePmInQFZPF1BuBiYM=",
+   "clue": "जोरदार वारा आणि पाऊस"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jcezBM3K9Q+B1s+BiLA=",
+   "clue": "भीमेवरील मोठे धरण"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceSmIjuFZPFwBuBiZ4=",
+   "clue": "निळ्या रंगाचे रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceQmInRidfjDofFh0zSydA=",
+   "clue": "पानांना टोक असलेला पवित्र वृक्ष"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceQBM3K2ZPE/4fFmEzSycc=",
+   "clue": "उंच डोंगर; गिरी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcePmInRFZPFy4fErUzSydM=",
+   "clue": "पाणी काढण्यासाठी खोदलेला खोल खड्डा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jcezBM3Kww+B1vCBiL3SydNGmInX",
+   "clue": "ग्रहाभोवती फिरणारा; चंद्र त्यातलाच"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcevBM3Kxw+B1tQ=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jcevBM3K2Q+B1tKBibJOjcec",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceQmIjjidfRDofFgNCW0x/a3Ik=",
+   "clue": "सकाळ; उषःकाल"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceQmIjjidfRDofFmNCW0x/a3J4=",
+   "clue": "समुद्रात तयार होणारे लाल रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jceQBM3KyZPFzBuBiYA=",
+   "clue": "उंचावरील सपाट प्रदेश"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jceemIjvFZPFwRuBiYbSyONGmInbidfeDofFmNCW0x/a3JQ=",
+   "clue": "दिवाळीनंतर तुळशीचे लग्न"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jceemIjvFZPFwRuBiYg=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcePmInQFZPF2Q==",
+   "clue": "पाणी उकळल्यावर निघणारी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcecBM3K3A==",
+   "clue": "पहाटे पानांवर साचणारे पाण्याचे थेंब"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jcePBM3K0ZPF8BuBiZQ=",
+   "clue": "ऋतूंचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceWmInQFZPF34fEr0zSydA=",
+   "clue": "काटेरी झाड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jceWmInQFZPF5Q==",
+   "clue": "उद्यान"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jceCBM3Kz5PFzBuBiZvSyOJGmIncidbh",
+   "clue": "वर्षभर फुलणारे फूल"
+  }
+ ]
+}

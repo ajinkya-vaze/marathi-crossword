@@ -1,0 +1,541 @@
+{
+ "id": "x-manus-m01",
+ "title": "माणूस आणि भावना · मोठे कोडे १",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 20,
+   "x": "jceImIjmHY7Rys3Jjk2Nx4o=",
+   "clue": "लोखंडाचे काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceQmIjggcrFk4nTTNHJzdrckxGBytaTidJM0cn2RpiJxx2O0dDNyY4=",
+   "clue": "खरेपणा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 18,
+   "x": "jcevmIjmHY7R2VGNlIE=",
+   "clue": "हाताचा मधला सांधा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 18,
+   "x": "jcevmIjmHY7RwM3IsE2Nx5k=",
+   "clue": "मासे विकणारी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceDBM3Jz47RzVGNlIM=",
+   "clue": "ओझे वाहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jcePmInSHY7R0FGNlKQRg57I",
+   "clue": "कापड विणणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 16,
+   "x": "jceQmInTHY7R0w==",
+   "clue": "शरीराचा मागचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 12,
+   "x": "jceWmInTHY7R5FGNlISNx4QEzcnJ",
+   "clue": "फळे विकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jce8BM3JwRKV15gR0JXO",
+   "clue": "स्मृती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 15,
+   "x": "jce8BM3JyY7R8VGNlJc=",
+   "clue": "हर्ष"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 17,
+   "x": "jcePBM3J047Q/s3JidHI5A==",
+   "clue": "होडी चालवायचे दांडे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceCmInvHY7R2c3Jjk2Nx5wEzcn0",
+   "clue": "वृत्तपत्राचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 10,
+   "x": "jcevBM3J0Y7R8VGNlKYRg57Lzcjh",
+   "clue": "सर्वात लहान बोट"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 19,
+   "x": "jceUmInSHY7R183IvdHJ0w==",
+   "clue": "सखा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jceQBM3JxY7Q/s3JgE2Nx6+YidMdjtHD",
+   "clue": "बातम्या लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcevmInTHY7R2w==",
+   "clue": "ऐकण्याचे इंद्रिय"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 14,
+   "x": "jceCBM3JxxKV152NlI8=",
+   "clue": "अंगरखा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 14,
+   "x": "jceCBM3J0RKV14eNlLMRg57i",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 16,
+   "x": "jceKmInTHY7R783Jjg==",
+   "clue": "नृप"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 18,
+   "x": "jceQBM3JxY7Q/s3JgA==",
+   "clue": "टपालाने पाठवायचा मजकूर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 18,
+   "x": "jceQBM3JxxKV17g=",
+   "clue": "विजेत्याला मिळणारे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jce1BM3J9BKV17KNlbYRg57SUY3FzZXXkw==",
+   "clue": "सोबत नसणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jcevBM3J1I7Q8w==",
+   "clue": "काव्य रचणारा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceQBM3J0Y7RzFGNlKuNx4QEzcnRjtHMUY2UpI3HhA==",
+   "clue": "नर्स"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 11,
+   "x": "jcedBM3JyRKV17oR0JXd",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jcedBM3JwI7RzQ==",
+   "clue": "पुस्तकातील एक प्रकरण"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 16,
+   "x": "jcemmInTHY7Ry83IvdHJ1trcrxGBytM=",
+   "clue": "गणपतीला प्रिय लाल फूल"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 20,
+   "x": "jcevmInTHY7Rw1GNlKSNxrgEzcnJ",
+   "clue": "कार्यालयातील लेखनिक"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcesmIjmHY7R5lGNlIONx4Q=",
+   "clue": "घशातील खवखव"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 14,
+   "x": "jceQmInvHY7R5c3Jjg==",
+   "clue": "हवा देणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 18,
+   "x": "jcevBM3Jwo7Q/s3JidHI5EaYid0=",
+   "clue": "पिवळी किंवा गुलाबी फुले येणारे झुडूप"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jcegmInTHY7RwVGNlKQ=",
+   "clue": "गाडी चालवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 12,
+   "x": "jceCmInvHY7R5s3Iu02Nx6A=",
+   "clue": "लाजल्यामुळे मागे हटणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 13,
+   "x": "jcevmIjmHY7RwM3Jj02Nx42YiOCByuoPzcml",
+   "clue": "कोळ्याचे जाळे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceImIjsgcr3D83Jp9HI4w==",
+   "clue": "कमरेला गुंडाळायचे वस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jceImInTHY7R7w==",
+   "clue": "संकोच"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jcemBM3JwRKV150=",
+   "clue": "अन्न पचवणारी पिशवी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 15,
+   "x": "jceiBM3J2Y7RzQ==",
+   "clue": "गळ्याचा आतला भाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 17,
+   "x": "jceQmIjmHY7Ry83IvdHJ/EaYicMdjtHb",
+   "clue": "पत्रे वाटणारा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 17,
+   "x": "jceQmIjmHY7Rwc3IsE2Nx4I=",
+   "clue": "कायद्याचे रक्षक"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 19,
+   "x": "jceUBM3JxY7Q/s3JiE2Nx4o=",
+   "clue": "हेवा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceCmInvHY7R5M3IsE2Nx54Ezcn0jtHNUY2UgQ==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceCmInvHY7R3FGNlJ8=",
+   "clue": "स्वतःवरचा ताबा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jceeBM3J2I7RzVGNlJk=",
+   "clue": "पाणी पिण्याची इच्छा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 11,
+   "x": "jcevmIjsHY7R0s3IsA==",
+   "clue": "कानातला मोत्यांचा दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 15,
+   "x": "jceCmInTHY7RxlGNlIONxro=",
+   "clue": "छाया"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jceWBM3J0RKV17oR0JXMg5/4",
+   "clue": "छातीचे वाकडे हाड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 10,
+   "x": "jcetBM3J1I7R8VGNlJCNxro=",
+   "clue": "भिंती बांधणारा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 13,
+   "x": "jcevBM3J1o7Q/s3Jrw==",
+   "clue": "मेहनत"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 17,
+   "x": "jceCBM3JxY7RzVGNlIE=",
+   "clue": "तारांचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 18,
+   "x": "jceemInTHY7R0s3Iu02Nx5aYidM=",
+   "clue": "चंद्रपूरजवळचे वाघांचे अभयारण्य"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcevmIjoHY7Rwc3IvdHJ1drckhGBytoPzcme",
+   "clue": "हाडांसाठीचे खनिज"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 0,
+   "x": "jcevmIjoHY7R3c3It02Nx4qYidM=",
+   "clue": "चित्र टिपणारे यंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 2,
+   "x": "jceVBM3J9I7Q8FGNlJU=",
+   "clue": "पचनाला मदत करणारे मोठे इंद्रिय"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jceSBM3J9w==",
+   "clue": "बोटांच्या टोकावर वाढते ते"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 6,
+   "x": "jcesBM3J0xKV14WNlI8Rg57XUY3F+w==",
+   "clue": "गोष्टीतील वाईट माणूस"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 4,
+   "x": "jcevmInTHY7R083IsA==",
+   "clue": "लाकडी दांडा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 9,
+   "x": "jceUmInTgcr3D83JkdHI4w==",
+   "clue": "गुडघ्यावरचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 9,
+   "x": "jceUmInTgcr3D83JrE2Nx4o=",
+   "clue": "म्याँव म्याँव करणारी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 12,
+   "x": "jceIBM3Jzg==",
+   "clue": "गाण्याचा वेग"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 14,
+   "x": "jcePmIjlHY7R3c3Jjk2Nx5KYidIdjtHm",
+   "clue": "विमान चालवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 16,
+   "x": "jce/BM3J9o7Q/s3JmNHJ3EaYicGByssPzcmT",
+   "clue": "रॉकेट"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 2,
+   "x": "jceeBM3J047RzVGNlJGNxro=",
+   "clue": "गावाची जमीन नोंदी ठेवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 3,
+   "x": "jceImInTHY7R0s3Isg==",
+   "clue": "गोल गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 6,
+   "x": "jceSmInTHY7R3s3IsA==",
+   "clue": "पोटाचा मधला खळगा; बेंबी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 11,
+   "x": "jceQmInTHY7R3FGNlK0Rg57Wzcnf",
+   "clue": "ढिली विजार"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 5,
+   "x": "jceQmInTHY7R3A==",
+   "clue": "चालण्याचे अवयव"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 14,
+   "x": "jceSmInSHY7RwVGNlKaNx4UEzcnRjtDz",
+   "clue": "सुगंधी तेल देणारे उंच झाड"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 6,
+   "x": "jcevBM3J1BKV17KNlbE=",
+   "clue": "डोक्याचे हाड"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 7,
+   "x": "jcePBM3J0Y7Q/s3Jlk2Nx4k=",
+   "clue": "लोकांची ये-जा"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 10,
+   "x": "jcevBM3Jy47RzVGNlII=",
+   "clue": "टिळा लावतात ती जागा"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 12,
+   "x": "jcetmInTHY7R3FGNlKQ=",
+   "clue": "गाणारा कलाकार"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 12,
+   "x": "jcetmInTHY7RwQ==",
+   "clue": "चेहऱ्याची बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jceQmInTHY7R7M3IsE2Nx4g=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 6,
+   "x": "jceemIjsHY7RwFGNlIeNxroEzcnPjtHNUY2Ugg==",
+   "clue": "वारकऱ्याच्या गळ्यातील माळ"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 9,
+   "x": "jceUmInTHY7R3M3Jjg==",
+   "clue": "प्रेमळ जिव्हाळा"
+  }
+ ]
+}

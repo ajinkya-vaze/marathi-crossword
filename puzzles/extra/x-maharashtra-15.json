@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-15",
+ "title": "माझा महाराष्ट्र १५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcecmInTHYjFyh2TzNiSxKZN1cnE",
+   "clue": "रामदासांचा ग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceCBM3Jy4jE/4HXzAiSxZvRkO6DnvpRjcX/gdfh",
+   "clue": "वणीची देवी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcetmIjtHYjF1h2TzMSSxZNN1cnN2tyTEYHMzg6B18s=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceQmIjmHYjFx4HX1giSxYzRkdM=",
+   "clue": "वीररसपूर्ण शाहिरी गीत"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceemIjsHYjF5x2TzNWSxKZN1cn/2t2t",
+   "clue": "ग्रामगीता लिहिणारे राष्ट्रसंत"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcePmInTHYjFwh2TzOEOgYmB1cjj",
+   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceUBM3J0YjFzB2TzNQOgYmE1cndRpiJzIHM3w==",
+   "clue": "लातूर आणि नांदेड ज्या प्रदेशात आहेत तो"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcetmIjmgczjDoHXzgiSxZhN1cnR2t2q",
+   "clue": "ब्रह्मचैतन्य महाराजांचे गाव"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceCmInvHYjFx4HX1giSxYs=",
+   "clue": "नाटकातील बोलणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceCmInvHYjF3YHW6QiSxbjRkOCDntxRjcXGHZLFyojQzB3NlYWNx4QEzcnWiMT/gdf3lNfszZWF",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceCmInTHYjF1h2TzMGSxZNN1cnaRpiJxQ==",
+   "clue": "पैठणचे प्राचीन राजघराणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceQmIjggczRDoHXzJTW31HRkccf2ty6EYHMwA==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceImIjmHYjF5x2TzMY=",
+   "clue": "मुंबईची उपनगरी रेल्वे"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcePBM3J0RSB1sIPiNDfgYmPSY3Hng==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceQBM3JyRSB1tSTzfMOgYmD",
+   "clue": "रायगड जिल्ह्यातील रेल्वे जंक्शन"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jcePmIjqHYjFwoHW6giSxZ4=",
+   "clue": "कैलास लेणे असलेली लेणी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceDmInTHYjF2IHW6giSxZU=",
+   "clue": "कोकणातील प्रसिद्ध आंब्याची जात"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceQmInTHYjFxx2TzNwOgYmn1cnc2tyvEYHMwA==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcePBM3JwIjFzB2TzN6SxZNN1cnW",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jcePmInTHYjF6h2TzNwOgYmn1cjk",
+   "clue": "अफजलखानाच्या वधासाठीचे शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceQmInTHYjF2oHX1wiSxYdN1cnH",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jceQBM3JyYjE/4HX0ZTW31HRkd6DnsY=",
+   "clue": "कोल्हापूरजवळचा किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceCmIjmHYjF2IHX1giSxYVN1cnF2t2qEYHM1A==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jcePmInSHYjFwYHX1g==",
+   "clue": "गवत कापायचा वाकडा कोयता"
+  }
+ ]
+}

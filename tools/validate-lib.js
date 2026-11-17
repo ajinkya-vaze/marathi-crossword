@@ -84,7 +84,7 @@ export async function validateAll(index, load) {
     const errors = [];
     if (ids.has(p.id)) errors.push('Duplicate id in index.json');
     ids.add(p.id);
-    if (!/^\d{4}-\d{2}-\d{2}$/.test(p.date || '')) errors.push(`Bad date "${p.date}"`);
+    if (!String(p.id).startsWith('x-') && !/^\d{4}-\d{2}-\d{2}$/.test(p.date || '')) errors.push(`Bad date "${p.date}"`);
     let data;
     try {
       data = await load(p.id);

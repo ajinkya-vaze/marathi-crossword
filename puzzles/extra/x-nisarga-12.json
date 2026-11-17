@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-12",
+ "title": "निसर्ग १२",
+ "difficulty": "मध्यम",
+ "rows": 12,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jcetmIjlFZPF1IfFk03SydZGmIneidbh",
+   "clue": "दक्षिण गंगा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jcecmIjpFZPFxxuBiZfSyd1GmIne",
+   "clue": "हिमालयातील उंच सूचिपर्णी झाड"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jcePmInRFZPFy4fErU3SydM=",
+   "clue": "पाणी काढण्यासाठी खोदलेला खोल खड्डा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jceQBM3K0JPFzBuBiZA=",
+   "clue": "मोठा उंच डोंगर"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceeBM3Kww+B1vKBiY5OjceKmIju",
+   "clue": "चॉकलेटी रंग"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jcevmInRFZPF2ofFk03SydPa3JM=",
+   "clue": "समुद्राचा काठ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceXmIjuFZPF3IfFkw==",
+   "clue": "पंढरपुरातून वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jcevmIjlFZPFwhuBiZpOjceb",
+   "clue": "जाड रसाळ पानांची औषधी वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jcevmIjlFZPF3RuBiZnSyd0=",
+   "clue": "महाबळेश्वरात उगम पावणारी नदी व धरण"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jceRBM3K2ZPFzBuBiYI=",
+   "clue": "दिवाळीचे खास पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceUmInQFZPFwRuBiYHSyd1GmInG",
+   "clue": "गवताळ मोकळी उघडी जमीन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceUmInQFZPF1ofErQ==",
+   "clue": "मृदा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceSBM3K2ZPE/4fFg03SycXa3JM=",
+   "clue": "मध्य भारतातील पश्चिमवाहिनी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceDmInRFZPF3IfFk03SydFGmInB",
+   "clue": "भारताच्या उत्तरेची पर्वतरांग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceDmInRFZPFwhuBiYROjceJ",
+   "clue": "हिरवेगार गवत"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceSmInQFZPFwhuBiYI=",
+   "clue": "श्रीफळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceKBM3K3JPFzRuBiYfSyeFGmIn7FZPFwg==",
+   "clue": "सतारीचे पंडित"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceCmInQFZPF3ofErE3SycXa3JMSidfCksPfUdGW2B/a3IyOzc0=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jceCmInQFZPF5RuBiYTSyd1GmInG",
+   "clue": "मजबूत इमारती लाकडाचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceYBM3K/g==",
+   "clue": "मेघ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcePmInQFZPFwRuBiYTSyeFGmInx",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jceQBM3K2ZPFzBuBiaZOjcevBM3Kyg==",
+   "clue": "फुलातील बारीक पिवळी भुकटी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceQBM3K2ZPE/4fFmE3Sycc=",
+   "clue": "उंच डोंगर; गिरी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceKmInQFZPF2g==",
+   "clue": "शेताबाहेरची झाडाझुडपांची जमीन"
+  }
+ ]
+}

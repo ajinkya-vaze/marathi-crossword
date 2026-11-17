@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-03",
+ "title": "संगीत आणि चित्रपट ३",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceQmIj+gcrXGYXQsdCX0x/a3JUPgcrDhcD5zZSXjceEBM3X9BKHwcOUiY9PjceS",
+   "clue": "सव्वीस जानेवारी"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceKmInNHY7Dy4XQk0zTycxGmInQ",
+   "clue": "वाल्मिकींचे महाकाव्य"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceKmInNHY7DwRmUiaXTydxGmInSgcrZ",
+   "clue": "रात्री किर्रकिर्र करणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jceUmIj4HY7D1RmUiZrTyONGmInL",
+   "clue": "मोराच्या पिसाऱ्यातील एक पीस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcemmInNHY7D3IXQkkzTydPa3JMPgcrD",
+   "clue": "वस्तू विकण्यासाठी केलेली प्रसिद्धी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceXmIj7HY7D1RmUiYXTyOM=",
+   "clue": "मैफलीच्या शेवटचा राग"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceWmInNHY7D3RmUiYDTyONGmInGgcrZGYXQi0zTyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jcecmInMHY7D8oXRoNCXyx/a3J2TxOOHwdMIzZSm",
+   "clue": "चित्रपट घडवणारा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcevBM3X047D2xmUiaXTyd1GmInD",
+   "clue": "कला सादर करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceSmInNHY7D+oXRoNCXwh/a3JWTxewbhcHjzZWzEYOe3A==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcePmInNHY7DwxmUiZg=",
+   "clue": "वाद्य वाजवणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcePmInNHY7D3BmUiYXTyd0=",
+   "clue": "शाबासकी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceSmInNHY7D+oXRoNCXwh/a3LqTxO0bhcHN",
+   "clue": "नाटक पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jceCBM3X0RKHwfIIzZSd",
+   "clue": "स्वरांची मालिका"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jceUBM3Xxo7C6IXQgtCX7x/a3IkPgcrX",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceIBM3Xzg==",
+   "clue": "गाण्याचा वेग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcetmIjzHY7DwRmUiYDTyd1GmIndgcrZGYXQgkzTycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceKmInNHY7D+RmUiYXTyd1GmInSgcrZ",
+   "clue": "राजाचा महाल"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceImIj4HY7D8BmUiafTyONGmInX",
+   "clue": "परंपरेने चालत आलेले गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jcevBM3X0Y7D2xmUiaNPjcevmIj0",
+   "clue": "गाण्याच्या संगीतावर स्वतः गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jceKBM3Xyo7C5Q==",
+   "clue": "सुरेल पार्श्वगायक मोहम्मद"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jcePmInNHY7Dw4XRoNCXwh/a3JiTxO2HwecIzZSV",
+   "clue": "वादकांचा समूह; ऑर्केस्ट्रा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jce8BM3X947D2xmUiZHTyd0=",
+   "clue": "कुस्तीचे मैदान"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceRmInNHY7D1hmUiaXTyOQ=",
+   "clue": "भारतीय चित्रपटाचे जनक दादासाहेब"
+  }
+ ]
+}

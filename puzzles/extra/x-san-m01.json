@@ -1,0 +1,541 @@
+{
+ "id": "x-san-m01",
+ "title": "सण, कला आणि परंपरा · मोठे कोडे १",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 9,
+   "x": "jcelmInNHY6J3tCU4IOe183X3w==",
+   "clue": "दाद म्हणून वाजवतात"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcelmInNHY6J3g==",
+   "clue": "वारकरी भजनात वाजवतात ते"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 16,
+   "x": "jce/BM3XzI6J0kzRydTa3aoPgcq4",
+   "clue": "देवावर जल किंवा दूध ओतणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 17,
+   "x": "jceXmInMHY6JydCU4IOe3M3X3hLNyarRydxGmInXgcugjZSB",
+   "clue": "भिंतीवर काढलेले चित्र"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 19,
+   "x": "jcevBM3X0hLNyZo=",
+   "clue": "हरणांचा किंवा गुरांचा समूह"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcecmIj0HY6J50zRydA=",
+   "clue": "मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jcecmIj0HY6J2EzRyftGmInD",
+   "clue": "घरातील पूजेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jcezBM3XxY6I4NCV1R/a3Jg=",
+   "clue": "सण साजरा करणे; सोहळा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jcemBM3Xyw==",
+   "clue": "नाम पुन्हा पुन्हा घेणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 17,
+   "x": "jcegmInMHY6JydCU4IOeyFGTxcRRjZSu",
+   "clue": "सिनेमा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jceYmIj4HY6J3w==",
+   "clue": "मिरवणुकीत वाजवले जाणारे मोठे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jceiBM3X/hLNyYjRyO7a3IiTxdBRjZSbEYOe0M3X3w==",
+   "clue": "नवरात्राचा पहिला दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceSmInNHY6J8tCU4IOe11GTxfnNyLNNjceD",
+   "clue": "नाटक पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 14,
+   "x": "jcelmIj4HY6J+EzRycza3K8PgcqJjZW8jceK",
+   "clue": "पेन्सिलला टोक करणारे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 15,
+   "x": "jcevBM3X1I6J0kzRycfa3JM=",
+   "clue": "काव्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcePmInMHY6JzdCU4IOe2FGTxdw=",
+   "clue": "पंढरपूरचा विठोबा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jcePmInMHY6J9dCU4IOe0FGTxddRjZSBjca3mInXgcqT",
+   "clue": "संकटे दूर करणारा गणपती"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceMmInMHY6J39CU4IOe0lGTxfvNyY5NjceK",
+   "clue": "मूर्ती घडवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceMmInMHY6J2EzRyf9GmIncgcqvEdCVyYOf+A==",
+   "clue": "शिवरायांचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jceKBM3X9I6I4NCV2oOexlGTxcLNybJNjcedBM3XyQ==",
+   "clue": "बहीण भावाला राखी बांधते तो सण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 13,
+   "x": "jce/BM3X9I6I4NCV2h/a3ImTxdA=",
+   "clue": "लग्नात टाकतात ते तांदूळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 13,
+   "x": "jce/BM3X1BLNyZTRyd1GmInD",
+   "clue": "देवाचे पृथ्वीवरील रूप"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceDBM3XyY6I7EzRyc3a3JMPgcqFEdCV8R/a3IKTxexRjZSVjca6",
+   "clue": "मारुतीचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceQmIj+gcqdjZW2EYOe7c3W7I6J2tCV0x/a3LqTxO1RjZSI",
+   "clue": "सभागृह; ऑडिटोरियम"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jcecBM3X2RLNyYDRyd0=",
+   "clue": "विजयादशमी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jcetBM3XwhLNyZpNjceemIjz",
+   "clue": "ज्या देवाचा उत्सव दहा दिवस चालतो तो"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jcetBM3X0xLNyZxNjcee",
+   "clue": "शिडाचे मोठे जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 11,
+   "x": "jceMBM3X2BLNyYA=",
+   "clue": "नगर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceMBM3Xz46I7Q==",
+   "clue": "दसऱ्याला पूजले जाणारे काटेरी झाड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceKmInNHY6Jw0zRyctGmInGHY6Jw9CU7Q==",
+   "clue": "श्रीरामाचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceUBM3X9xLNyYA=",
+   "clue": "गणपतीची सजावट केलेली आरास"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jcePBM3X2Y6I7EzRyc/a3JMPgcqdEdCV1Q==",
+   "clue": "दिवाळीची सुरुवात; गायवासराची पूजा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 18,
+   "x": "jceMBM3X0RLNyZY=",
+   "clue": "पावसाळ्यानंतर येणारा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceeBM3XzRLNyYLRyd0=",
+   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 5,
+   "x": "jceeBM3Xz46J00zRydXa3JM=",
+   "clue": "लोकनाट्याचा पारंपरिक प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 14,
+   "x": "jcetmIj4gcqvEdCVyh/a3J4=",
+   "clue": "देवीचा पारंपरिक लोकनृत्य-गीत प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 16,
+   "x": "jceUmInxHY6JydCU4IOeyA==",
+   "clue": "पवित्र जपाचे शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceXmIjzHY6Jw9CV0x/a3JuTxexRjZSkEYOeyA==",
+   "clue": "सह्याद्रीतील ज्योतिर्लिंग"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jcevBM3X1I6I7Q==",
+   "clue": "काव्य रचणारा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jceWmInNHY6J5Q==",
+   "clue": "शिक्षिकेला मुले म्हणतात"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 14,
+   "x": "jcedBM3XyRLNyZTRyO7a3J0PgcqCjZW6EYOe3lGTxdjNyLA=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 12,
+   "x": "jceSmInNHY6JydCV0x/a3J4=",
+   "clue": "येशूचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 12,
+   "x": "jceSmInNHY6J8kzRyfY=",
+   "clue": "रंगमंचावर सादर होणारी कलाकृती"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 0,
+   "x": "jcetmInNHY6JzEzRyfTa3aoPgcqBjZSPEYOe1M3X3w==",
+   "clue": "हातात खराटा घेऊन स्वच्छता शिकवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 6,
+   "x": "jceQmIjyHY6J8dCV0x/a3J2TxO4=",
+   "clue": "देवळात पूजा करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 8,
+   "x": "jceSBM3X/hLNyYhNjceUmIj+gcqdjZSPEYOe5w==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 8,
+   "x": "jceSBM3X0RLNyaVNjcegBM3XxY6I7EzRydPa3aCTxchRjZSHjca6",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 16,
+   "x": "jcetmIjyHY6Jz9CU7R/a3IeTxdBRjZSQEYOezc3X3w==",
+   "clue": "मराठी नववर्षाचा पहिला दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 20,
+   "x": "jcetmIjyHY6Jz9CU7Q==",
+   "clue": "पाडव्याला उभारतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 0,
+   "x": "jcebBM3Xyg==",
+   "clue": "गोल हाताने वाजवायचे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 4,
+   "x": "jceemIjyHY6J3kzRyf/a3JMPgcqHjZWzEYOeyA==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 4,
+   "x": "jceemIjyHY6JydCV0x/a3J2TxO4=",
+   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 12,
+   "x": "jcevBM3X0hLNyYg=",
+   "clue": "मंदिराचे शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 14,
+   "x": "jceCBM3XzxLNybg=",
+   "clue": "देवापुढची पितळी उंच दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 18,
+   "x": "jce8BM3X1o6J00zRycHa3a0=",
+   "clue": "पंढरपूरची मोठी एकादशी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 18,
+   "x": "jce8BM3X9I6J00zRydVGmInmgcqvEdCVy4Of+FGTxdw=",
+   "clue": "दिवाळीत टांगतात तो दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 2,
+   "x": "jcePmInMHY6J8dCU6h/a3J2TxO4=",
+   "clue": "बॅटरी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 8,
+   "x": "jcevBM3XxBLNyaU=",
+   "clue": "उत्तरेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 10,
+   "x": "jcevBM3X1BLNya/RyOM=",
+   "clue": "डोक्याचे हाड"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 14,
+   "x": "jceUBM3X2I6J00zRycna3JMPgcqfjZSOEYOe7c3X3w==",
+   "clue": "मोठ्या शहराचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 2,
+   "x": "jcemmIj0HY6J8dCU7B/a3J2TxO4=",
+   "clue": "खंडोबाचे देवस्थान"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 7,
+   "x": "jcegmInMgcqvEdCV9w==",
+   "clue": "आंबट फळांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 12,
+   "x": "jceCBM3XyRLNybg=",
+   "clue": "लग्नात वाजणारे फुंकवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 13,
+   "x": "jceSBM3X0Y6I4NCVyR/a3LiTxO4=",
+   "clue": "नाचणारी"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 20,
+   "x": "jceWmIj0HY6J3w==",
+   "clue": "शंकराला वाहिल्या जाणाऱ्या त्रिदलांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jceWmInNHY6J1UzRydPa3a0=",
+   "clue": "कृष्णाचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 6,
+   "x": "jceQmInMHY6J90zRyfba3JMPgcqdjZWx",
+   "clue": "रंगपंचमीला रंग उडवायची"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 18,
+   "x": "jcevmInxHY6Jy9CU7R/a3J8=",
+   "clue": "दिवाळीत टांगायचा आकाशदिवा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 3,
+   "x": "jce/BM3XyY6J70zRycdGmInpHY6JydCU7B/a3J2TxOPNyZZNjceMmIjz",
+   "clue": "गणपती विसर्जनाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 3,
+   "x": "jce/BM3X0Y6I4NCV8YOf+VGTxcY=",
+   "clue": "पांडवांपैकी धनुर्धर"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 12,
+   "x": "jceQmInNHY6J+NCU7R/a3LI=",
+   "clue": "पैसे ठेवायची लहान पिशवी"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 12,
+   "x": "jceQmInNHY6J3dCU4IOezVGTxcrNyLA=",
+   "clue": "शंकराची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 16,
+   "x": "jceeBM3XzRLNyYJNjcemmIjz",
+   "clue": "तबला वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 0,
+   "x": "jceSmInMHY6J3dCV04Oe+lGTxfJRjZSZ",
+   "clue": "आरतीचा लहान तुपाचा दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 5,
+   "x": "jcetmIj/HY6J3dCU7Q==",
+   "clue": "गणपतीसोबत घरी येणाऱ्या देवी"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 10,
+   "x": "jce8BM3X0RLNyZTRyOM=",
+   "clue": "देवासमोर ओवाळतात ती"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-10",
+ "title": "गाव आणि शहर १०",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceDmIjsHYHSjNGV7Q==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceSmInZHYHSjNGV7Q==",
+   "clue": "मनगटावर जाणवणारे ठोके"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jceSmInZHYHSstGV4IOe11GHxdmWibNMjcetmIjnHYHSiQ==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceWmInZgcX0UdGUyg==",
+   "clue": "शेताची हद्द दाखवणारा मातीचा उंचवटा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jceQmIjqgcXGUdGUy4Of+lGHxdYKzZWT",
+   "clue": "हवा-पाणी खराब होणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jce/BM3D9oHToNGUxYOf+A==",
+   "clue": "आग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jce/BM3D9oHToNGUxYOex1GHxdcKzZWeEYOe0A==",
+   "clue": "आग विझवणारे दल"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jce9mInlHYHSik3Qycs=",
+   "clue": "जळणासाठीचे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceSBM3D9h2WiYE=",
+   "clue": "शहर; पुरी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcecmIjgHYHSm03Qyc5GmInygcT7zZWUjceFBM3D9oHTrU3Qycc=",
+   "clue": "देशप्रेमाचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceCmInZHYHSnU3QydZGmInE",
+   "clue": "जमिनीला शेणाने लिंपणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jcePBM3D0YHToNGUyx/a3J4=",
+   "clue": "लोकांची ये-जा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmIjqgcXTzZWOEYOe0FGHxfQ=",
+   "clue": "गाडी थांबते ते ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jcevBM3Dzx2WiYFMjceQBM3D/oHToNGU8oOexg==",
+   "clue": "कमरेचा दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceUBM3D2IHSk03Qycna3aEbgcXG",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jcegmInZHYHSng==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jcegmInZHYHSnU3Qyfna3JMbgcXjzZSw",
+   "clue": "मोटार"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceUBM3D2IHSk03QyctGmInwHYHSnQ==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcezBM3Dyx2WiZlMjcetBM3D0Q==",
+   "clue": "शहराच्या कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcetBM3D0YHToNGUy4Of+A==",
+   "clue": "खूप लोक एकत्र"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceemInYHYHSuNGV7R/a3LI=",
+   "clue": "प्रवासाचा पास"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceemInYHYHSnk3QyfTa3a8bgcXF",
+   "clue": "संक्रांतीला वाटायचा गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcelBM3Dy4HSk03QydE=",
+   "clue": "पोस्टाचे पत्र"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jcesmInZHYHSjtGU0x/a3JgbgcXF",
+   "clue": "जेवणाचे घर"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-01",
+ "title": "संगीत आणि चित्रपट १",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceCmIj7HY7DzYXQkkzRyfY=",
+   "clue": "देशाचा रक्षक"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcecmIj0HY7D0xmUiZ1NjcevmIj+gcrDhcHLUdCV+oOf+FGTxco=",
+   "clue": "देशप्रेमाचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcegmInMHY7DwYXRoNCV3YOf+FGTxfsbhcHEUdCVzg==",
+   "clue": "शूटिंग"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jcaIBM3XyY7D2hmUiZ7RyORGmInFHY7DzQ==",
+   "clue": "कार्टून चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcecmInMHY7D8oXRoNCVyx/a3J2TxOOHwdMIzZSk",
+   "clue": "चित्रपट घडवणारा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceKBM3Xyo7C5Q==",
+   "clue": "सुरेल पार्श्वगायक मोहम्मद"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jcegmInNHY7D1w==",
+   "clue": "गाण्याची धून"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jcetmIjzHY7DwRmUiYDRyd1GmIndgcrZGYXQgkzRycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceVBM3XzxKHwc0=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceWmInNHY7D1xmUiafRyONGmInX",
+   "clue": "लहान मुलांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceWmInNHY7D3RmUiYDRyONGmInGgcrZGYXQi0zRyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jcetmIjzHY7DwRmUiaXRyd1GmInD",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceemInNHY7DzQ==",
+   "clue": "वेगवान स्वरांची फेक"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceemInNHY7DzRmUiZrRyOJGmInDgcrZ",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceamIjyHY7DyxmUiYDRyOM=",
+   "clue": "उपशास्त्रीय गायनाचा प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jcevmInNHY7DwYXRoNCV3YOf+A==",
+   "clue": "कापड कापण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jceRmInNHY7D1hmUiaXRyOQ=",
+   "clue": "भारतीय चित्रपटाचे जनक दादासाहेब"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jcePmInNHY7DzRmUiYA=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jcevBM3X0Y7D2xmUiaNNjcevmIj0",
+   "clue": "गाण्याच्या संगीतावर स्वतः गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jcevBM3X047D2xmUiaXRyd1GmInD",
+   "clue": "कला सादर करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcecmIjzHY7DzxmUiaU=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jceQBM3X/hKHwfAIzZSUjceE",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jcetmInNHY7DyoXQkkzRyfba3JM=",
+   "clue": "गाणारी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 7,
+   "x": "jceKBM3X1I7D2hmUiYbRyeFGmInmHY7D1Q==",
+   "clue": "सतारीचे पंडित"
+  }
+ ]
+}

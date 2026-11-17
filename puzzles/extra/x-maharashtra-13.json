@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-13",
+ "title": "माझा महाराष्ट्र १३",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "x": "jcegmInSgczjDoHXzJTW3w==",
+   "clue": "मनाची हुरहुर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceemInTHYjF2oHX1giSxbHRlu0=",
+   "clue": "कोंढाणा जिंकताना धारातीर्थी पडलेले सरदार"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceemIjsHYjFwR2TzOiSxZNN08nJ2t2vEYHM0Q==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceSmInTHYjF7YHW5ZTWzlHRl9WDnvpRjcX/gdfhD4jQ1g==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jceCmInvHYjF54HW4wiSxbc=",
+   "clue": "लाजल्यामुळे मागे हटणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceeBM3J0xSB1tSTzMoOgYmB",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jceMmInSHYjFx4HX1giSxbHRlu0=",
+   "clue": "स्वराज्याचे संस्थापक छत्रपती"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jcePmInTHYjFyoHW6QiSxYvRluof2tyY",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceQmIjggczRksXNFJTWz82VjRGDntvNyd4Ugdb0D4jQ2B3NlZCNx4Q=",
+   "clue": "खरेपणा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jce8BM3J0RSB1s+TzMoOgYmB",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceCmInTHYjFxx2TzNCSxZNN08nN2tyTEYHM0pLE8w==",
+   "clue": "भाजीमळ्यात विठ्ठल पाहणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jce/BM3J2BSB1s8PiNDUHc2VmxGDnu9RjcXY",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceDmInSHYjFwh2TzOEOgYmS08jj",
+   "clue": "रायगडाचा कडा उतरून गेलेली आई"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jcevmIjmHYjF5x2TzNo=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jcevmIjmHYjF14HX15TW41HRl8GDn/hRjcXYHZLFxhSU1sDNlLM=",
+   "clue": "हिरव्या पानांची तळलेली वडी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceXmInvHYjF04HX1giSxZ1N08nFRpiJ3YHM3w==",
+   "clue": "आर्थर तलाव असलेले ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceCmInTHYjF3oHW6QiSxYvRl9Mf2tyOjcXWHZLFxhSU1sDNlY0=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jceCmInTHYjF1h2TzMGSxZNN08naRpiJxQ==",
+   "clue": "पैठणचे प्राचीन राजघराणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcecmInTHYjFyh2TzNiSxKZN08nE",
+   "clue": "रामदासांचा ग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jceQmIjqHYjFxB2TzMGSxZM=",
+   "clue": "छत्रपतींचे प्रधान"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcecBM3J14jFzB2TzMEOgYmV08ndRpiJ3Q==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jcetmIjmHYjFwoHX1g==",
+   "clue": "कुंभार समाजातील संत"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 6,
+   "x": "jcetmIjmHYjF0oHX1g==",
+   "clue": "गाई-म्हशी बांधण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcePmInTHYjF6h2TzNwOgYmn08jk",
+   "clue": "अफजलखानाच्या वधासाठीचे शस्त्र"
+  }
+ ]
+}

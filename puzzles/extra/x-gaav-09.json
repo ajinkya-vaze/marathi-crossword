@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-09",
+ "title": "गाव आणि शहर ९",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jcezBM3Dx4HToNCdwoOexlGHxck=",
+   "clue": "बाग; पार्क"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jcezBM3Dx4HToNCd2IOexlGHxdgKzZSR",
+   "clue": "लिफ्ट"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jcezBM3Dyx2WiYnZyd1GmInXHYHSutCc7h/a3JQ=",
+   "clue": "हॉटेल; खाणावळ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceDBM3DyYHTrEzZyc3a3JMbgcXe",
+   "clue": "रामभक्त वानर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceMmIjnHYHSjA==",
+   "clue": "होडीचे वाऱ्याने फुगणारे कापड"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcePmInYHYHSg9Cd0x/a3IUbgcXSUdCd3g==",
+   "clue": "विमाने उतरतात ते ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jce8BM3DwA==",
+   "clue": "गावातील जुनी विहीर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jce8BM3DwR2WiYVFjcebmIjgHYHSgdCd0x/a3LGHxd8KzZSJ",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jcepBM3DwQ==",
+   "clue": "तोंडाचा कडेचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceUBM3D2IHSk0zZyctGmInwHYHSnQ==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceUBM3D0h2WiZPZyOM=",
+   "clue": "कणसांतून दाणे वेगळे करणे"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcePBM3D0YHToNCdyx/a3J4=",
+   "clue": "लोकांची ये-जा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceDBM3D2R2WiZPZyOQ=",
+   "clue": "खुशीने खळखळणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceCBM3Dxx2WiZjZydxGmInygcXI",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jce/BM3D9oHToNCdxYOex1GHxc2WiY5FjceZ",
+   "clue": "रॉकेट"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jce9BM3Dz4HSk0zZydNGmInD",
+   "clue": "अनेक मजल्यांचे बांधकाम"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jceUmInZHYHSn9Cd0h/a3LiHxd8=",
+   "clue": "दूरदर्शनवरील रोजची कथा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceeBM3D04HSk0zZycPa3a0=",
+   "clue": "गावाची जमीन नोंदी ठेवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceWmIjvHYHSn0zZyfTa3JMbgcXXzZW5",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jcevmInZHYHSh0zZycDa3a0=",
+   "clue": "पीक कापणे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceImInZHYHSn0zZyc1GmInegcXIUdCd3w==",
+   "clue": "पुण्यातील शिवरायांचा वाडा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jceUBM3D0oHSkw==",
+   "clue": "भाजीचे शेत"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceSmIjrHYHSuNCd0w==",
+   "clue": "होडी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceDmIjsHYHSjNCc7Q==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  }
+ ]
+}

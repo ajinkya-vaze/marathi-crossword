@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-10",
+ "title": "शाळा आणि खेळ १०",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceMmInNFIHI0s2Vjg==",
+   "clue": "विद्यालय"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceUmIj2FIHI0c2UtxGDnt3N1uEdjMWF",
+   "clue": "लांब पल्ल्याची धाव"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceUmIjyFIHI0s2VjhGDnu3N1uWByNZR0ZTdg5//",
+   "clue": "क ख ग घ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcePmIj+iMXDgYmPTI3HrwTN19gdjMWO",
+   "clue": "भाषेचे नियम"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceXmIjxFIHIz82VjxGDnu3N19Y=",
+   "clue": "नटाने साकारलेले पात्र"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jceCmIjxFIHI0c2UvY3HlQTN18AdjMWDTdDJ29rdoJPM9IzFk03QydM=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceCmIjxFIHIxc2UvY3HigTN19CByONR0ZT3g57GUZPM0xCBiaQ=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceUBM3X0YHI31HRlNiDnsdRk8zHjMSg0ZTCg57GUZPM0xCBiZ4=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceDmIj4FIHI9M2VjhGDntfN1+odjMWJ0ZXgg57I",
+   "clue": "दिशा दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceCmInxFIHI+Q==",
+   "clue": "खेळाडूंचा गट"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcegBM3Xxh2MxbfRlNM=",
+   "clue": "आमटी पिण्यासाठी वापरतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jcevmIj4FIHIyVHRlMODnsZRk8zLEIGJpA==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jce9BM3XzIHI3lHRlNSDnsZRk8zZ",
+   "clue": "भूतकाळाचा अभ्यास"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jceQmIj7FIHI01HRlNiDnsZRk8zJ",
+   "clue": "कुस्ती खेळणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceQmIj+iMXcHc2VpxGDntzN19cdjMWH0ZXsH9rclZPN7IzFiU3QyfY=",
+   "clue": "गुण लिहिलेले पुस्तक"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 10,
+   "x": "jceUmInNFIHIz82Vjg==",
+   "clue": "आईचा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jce/BM3XxYHJ7M2Vn43HhATN19A=",
+   "clue": "शिकण्यासाठी केलेली मेहनत"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jce/BM3XwoHJ41HRlN2Dn/XN18uByN/NlbIRg57t",
+   "clue": "अर्धा पाऊण असे भाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceQmIj+iMXcHc2Vho3HhQTN1/2ByezNlYcRg57t",
+   "clue": "खेळ शिकवणारा; कोच"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jceMmInMFIHI9M2UvY3HjZiJzBSByPTNlY4=",
+   "clue": "शिकवणारी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jcemmIj4FIHI0Q==",
+   "clue": "हात टेकून वरखाली होण्याचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jceXmInNFIHI9s2VjhGDnu3N19YdjMWd",
+   "clue": "समान वाटणी करणे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jcetmInNFIHI0w==",
+   "clue": "चेहऱ्याची बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcevBM3X2IHJ7M2VkxGDnt/N19YdjMWd",
+   "clue": "संघाचा प्रमुख"
+  }
+ ]
+}

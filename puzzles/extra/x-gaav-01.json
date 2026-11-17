@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-01",
+ "title": "गाव आणि शहर १",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceMmIjgHYHSjg==",
+   "clue": "गुरांचे मलमूत्र; सारवायला वापरतात"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceCmIjqgcXezZSPEYOe183C4w==",
+   "clue": "शरीराला ताकद देणारे मांस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jceQmIjqgcXGzZSPEYOe21GHxdSWiY5NjceVmIjl",
+   "clue": "श्वासात घ्यायचा वायू"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceQmIjqgcXGzZSPEYOe283D3h2WiYjRyeFGmInwgcT7zZSBEYOewc3D3x2WiYJNjceV",
+   "clue": "प्राणी पाहण्याची बाग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcePmInYHYHSg9CV0x/a3IU=",
+   "clue": "आकाशात उडणारे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcelmIjqgcXGzZW0EYOe7c3C7IHSskzRydM=",
+   "clue": "शेतीचे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcePmInYHYHSsUzRycxGmInPHYHSukzRydM=",
+   "clue": "हंपीचे साम्राज्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jcePmInYHYHSg9CV0x/a3IUbgcXSUdCV3g==",
+   "clue": "विमाने उतरतात ते ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jcetBM3D9h2WiZhNjcegmIjmgcX0UdCVwYOf+A==",
+   "clue": "आकाशाला भिडणारी इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jceCmInZHYHSgkzRyfZGmInV",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcezBM3Dx4HToNCVwoOexlGHxck=",
+   "clue": "बाग; पार्क"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jcezBM3Dyx2WiYnRyd1GmInXHYHSutCU7h/a3JQ=",
+   "clue": "हॉटेल; खाणावळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcetBM3D0x2WiZxNjcee",
+   "clue": "शिडाचे मोठे जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jcegmIjmgcX0UdCVwR/a3Lg=",
+   "clue": "लोखंड ओढून घेणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jcehmInZHYHSgtCV0x/a3LeHxd4KzZSVjca3mInXHYHSuNCV0x/a3J0=",
+   "clue": "फोटो काढणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceQmInZHYHSnQ==",
+   "clue": "वडाभोवतीचा बसण्याचा चौथरा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jce/BM3D9oHToNCVxYOex1GHxdcKzZSfEYOe0A==",
+   "clue": "आग विझवणारे दल"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcenmIjsHYHSh0zRycJGmInNHYHSstCU4IOe583C4Q==",
+   "clue": "गरीब वस्ती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jcetmIjkHYHSlEzRycna3JMbgcXW",
+   "clue": "घरी करायचा अभ्यास"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jceQmInZHYHSjkzRyfba3aaHxeMKzZSdEYOe2c3C4Q==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcegmInYHYHSidCU4IOeyFGHxcsKzZSuEYOe783C4h2WiYk=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceQBM3DxYHToNCVyYOexg==",
+   "clue": "घराचे ठिकाण लिहिलेले"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jceWBM3D2Q==",
+   "clue": "लाल परी म्हणून ओळखली जाणारी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceSBM3D9h2WiYA=",
+   "clue": "शहर; पुरी"
+  }
+ ]
+}

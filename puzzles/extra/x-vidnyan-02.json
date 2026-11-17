@@ -1,0 +1,177 @@
+{
+ "id": "x-vidnyan-02",
+ "title": "विज्ञान आणि अवकाश २",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceCBM3S9YTL+R2OiYU=",
+   "clue": "जिवंत प्राणी व वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceCBM3Sx4TL+B2OiZbSyO7a3J0=",
+   "clue": "सागर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcePBM3S0ITL+Q==",
+   "clue": "लिहिण्यासाठी कोऱ्या पानांचा संच"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcetmIj7icDeBYHKlEzSycA=",
+   "clue": "सूर्य किंवा चंद्र झाकला जाणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jceDBM3S2YTKxh2OiZROjcecmIj7icDeBYHKmNCX4IOe1w==",
+   "clue": "पानांना हिरवा रंग देणारे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceeBM3S2hiO3fkSzZSC",
+   "clue": "जमिनीखालची खोली"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jce/BM3S/oTL9IHKhdCW0h/a3IGWzdoSmcXN",
+   "clue": "रॉकेट"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jce/BM3S3BiO3fSOiY5OjceM",
+   "clue": "पृथ्वीबाहेरील पोकळी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jcecmIj7icDeBYHKmA==",
+   "clue": "पाण्यासारखे वाहणारे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jcedmIj7icDbBYHKhdCX7Q==",
+   "clue": "आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jcevmInIFYTKyYHLoNCWwR/a3IU=",
+   "clue": "कोळशातील मूलद्रव्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcecmIj0FYTKyR2OiZfSyO7a3JgKicDGmcTu",
+   "clue": "टेलिफोन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcecmIj0FYTK3g==",
+   "clue": "गायीपासून मिळणारे पांढरे पेय"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcedmIj7icDbBYHKhdCW0h/a3IaWzOQSmcXK",
+   "clue": "कॅसेट"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceKmIjxFYTK74HKk9CW7x/a3Js=",
+   "clue": "ग्रीनविचपासूनचे अंतर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jceKmIjxFYTK2oHLrw==",
+   "clue": "अणूंचा समूह"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceMmIj9FYTK3g==",
+   "clue": "नवी गोष्ट सापडणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jceUmIn0FYTK7h2OiYM=",
+   "clue": "लाल ग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 10,
+   "x": "jcetBM3SzYTL+Q==",
+   "clue": "वेग"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceCmIn0FYTK7IHLqkzSycdGmInOicHjmcXLUdCW3g==",
+   "clue": "वेबसाइट"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jceCmIn0FYTKz4HLpkzSycRGmIne",
+   "clue": "नवीन शोध घेणे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceemInIFYTK0x2OiZ7Syd1GmIne",
+   "clue": "किती गरम किंवा थंड"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceQBM3S3BiO3ckSzZS4EYOeyM3T5ITK5YHKkw==",
+   "clue": "वाऱ्यापासून मिळणारी ऊर्जा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceSmIjxFYTK0x2OiarSyO7a3IKWzOYSmcXG",
+   "clue": "निळा दूरचा ग्रह"
+  }
+ ]
+}

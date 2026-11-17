@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-03",
+ "title": "निसर्ग ३",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jceemInQFZPF0w==",
+   "clue": "उंच सरळ खोडाचे झाड; त्यापासून निरा मिळते"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceemInQFZPFwofFkw==",
+   "clue": "रात्री आकाशात लुकलुकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jcedmIjvFZPF54fEqg==",
+   "clue": "हिवाळ्यात सकाळी पसरणारा पांढरा पडदा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jcevmIjpFZPFxxuBiZHTyd0=",
+   "clue": "तीव्र सुगंधी पानांचे काटेरी झुडूप"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jceDmInRFZPFwofFkw==",
+   "clue": "सर्वात कठीण रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceDmInRFZPFx4fFk0zTydDa3JM=",
+   "clue": "थंडीचा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcePBM3Kyg+B1tKBiY4=",
+   "clue": "जंगलात लागलेली आग"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcevBM3KyJPFzA==",
+   "clue": "डोंगराची सरळ उभी बाजू"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcevBM3K2g+B1t+BiLJPjceWmInQFZPF+g==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcecmIjpFZPFxBuBiZ1PjcevmIjjidfFksPeUdCX+oOf+FGOzdc=",
+   "clue": "देशप्रेमाचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceMmIjpFZPFx4fFk0zTydA=",
+   "clue": "पाण्यातील हिरवी बुळबुळीत वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceMmIjpFZPFx4fFr0zTycfa3a0=",
+   "clue": "हिवाळ्यात फुलणारे फूल"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jce8BM3K/JPFzBuBiYY=",
+   "clue": "गगन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jce8BM3KxJPFzBuBiYM=",
+   "clue": "आकाश; गगन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceCmIjsFZPFwofEoNCXwoOf81GOzdUdksPO",
+   "clue": "सूर्य उगवण्याची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcecBM3K/g+B1sY=",
+   "clue": "पाषाण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceXBM3K2Q+B1sOBiLA=",
+   "clue": "समुद्राचे पाणी चढण्याची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jcecmIjpFZPFxxuBiZ7Tyd1GmInWidff",
+   "clue": "समुद्रातील सर्वात मोठा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceeBM3K25PFzBuBiYU=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jcesBM3KyA+B1vI=",
+   "clue": "मोठा दगड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jcesBM3K9ZPE8BuBiYA=",
+   "clue": "वाळवंटातील गोड फळ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jceUBM3K0JPFzBuBiYjTyd1GmIn5FZPFwg==",
+   "clue": "अतिविशाल समुद्र"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jcetBM3K3A+B1sM=",
+   "clue": "तृण"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jceMmIjpFZPF1g==",
+   "clue": "पिके घेण्याची जमीन"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-01",
+ "title": "घर आणि कुटुंब १",
+ "difficulty": "मध्यम",
+ "rows": 12,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceSBM3D3R2SiYBNjcecmIjgFIHWmA==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceUmIjmiMXwUdCVzIOexlGHzNQOzZSCjca3mInIiMXM",
+   "clue": "नवरा-नवरीच्या कपाळावर बांधतात त्या माळा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jcemmInYFIHWhdCV0w==",
+   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceSmInZFIHWidCU6h/a3JiHzN8OzZS5EYOe7Q==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 10,
+   "x": "jcecmInZFIHWgQ==",
+   "clue": "एका भागावर पडणारे बल"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jcecmInZFIHWnQ==",
+   "clue": "दरवाजा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jceQmInZFIHWnQ==",
+   "clue": "वडाभोवतीचा बसण्याचा चौथरा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceQmInZFIHWidCU6h/a3J+HzeY=",
+   "clue": "भात शिजवण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jcePmInZFIHWj0zRycXa3JIbiMXHUdCV1Q==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceCBM3Dxh2Sibg=",
+   "clue": "देवापुढची पितळी उंच दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jceSmInZFIHWiQ==",
+   "clue": "मुलाची किंवा मुलीची मुलगी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceCmIjqiMXHUdCVwoOe+lGHzMuSiY5NjcevBM3D8B2SiYA=",
+   "clue": "जेवण बनवण्याची खोली"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceUBM3D0IHWk0zRydHa3aobiMXfzZSPEYOe3A==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceXmInZFIHWmNCV7x/a3IyHzeY=",
+   "clue": "भाऊ-बहिणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmIjqiMXHUdCVwoOe+lGHzMuSiY5Njcev",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceemIjmFIHWnkzRyes=",
+   "clue": "छताला आधार देणारा आडवा लाकडी वासा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceemIjmFIHWuEzRycLa3aYbiMXuzZWx",
+   "clue": "ग्रामगीता लिहिणारे राष्ट्रसंत"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jcenmInZFIHWuEzRycA=",
+   "clue": "भांड्यावर ठेवायचे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jcebmIjsFIHWlNCV0x/a3J6HzeY=",
+   "clue": "गरोदरपणातील इच्छा आणि त्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceQBM3Dyx2SiazRyOM=",
+   "clue": "आजीची किंवा आजोबांची आई"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceXmInZFIHWnUzRycc=",
+   "clue": "आपला देश"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jceXmInZFIHWpw==",
+   "clue": "बंधू"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceeBM3D3YHWkw==",
+   "clue": "पोळ्या भाजण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jcePmInZFIHWjNCV0w==",
+   "clue": "जुने मोठे चौसोपी घर"
+  }
+ ]
+}

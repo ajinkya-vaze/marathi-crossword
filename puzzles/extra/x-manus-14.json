@@ -1,0 +1,177 @@
+{
+ "id": "x-manus-14",
+ "title": "माणूस आणि भावना १४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcePmInSHY7R0FHRkPgf2tyd",
+   "clue": "कापड विणणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcevmIjmHY7RwM2UtBGDnts=",
+   "clue": "मासे विकणारी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jcevBM3J1I7Q8w==",
+   "clue": "काव्य रचणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jce/BM3J2I7R8VHRkPiDnsZRjcXe",
+   "clue": "गर्विष्ठपणा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jce/BM3JzI7RzFHRkMKDnvpRjcXKldeT",
+   "clue": "इंजिनिअर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jcevmInTHY7Rw1HRkPiDn/pRjcXG",
+   "clue": "कार्यालयातील लेखनिक"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcevmIjmHY7R11HRkNiDnsZRjcXc",
+   "clue": "गावातील दवंडी देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceUmIjsHY7R282UtBGDntY=",
+   "clue": "हिशेब ठेवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jceSBM3J9w==",
+   "clue": "बोटांच्या टोकावर वाढते ते"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceeBM3J0hKV14fRkNMf2tyC",
+   "clue": "पायाचा खालचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceeBM3J0Y7Q/s2VqBGDntDNyOE=",
+   "clue": "अंगठ्याजवळचे बोट"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 10,
+   "x": "jceCmIjsHY7R5Q==",
+   "clue": "दुःखाच्या उलट"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceCmIjsHY7R182VihGDnsg=",
+   "clue": "लाकडाचे काम करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceUBM3JzxKV14nRkNM=",
+   "clue": "आईची माया"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceUBM3J/Y7Q8VHRkN0=",
+   "clue": "रोजंदारीवर काम करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceSBM3Jz47Q/s2VhBGDntzNyd8=",
+   "clue": "विनय"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceQmInTHY7R7M2UtBGDnso=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceUBM3JxY7Q/s2VjBGDnsg=",
+   "clue": "हेवा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceUBM3Jxo7Q/s2Vm43HuATNycUSlded",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jcePmInSHY7Rw1HRkNQ=",
+   "clue": "प्रियजनापासून दुरावा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jcePmInSHY7Rxc2UuY3Hj5iJ0x2O0cs=",
+   "clue": "भरवसा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jceDBM3J2RKV147Rkeo=",
+   "clue": "खुशीने खळखळणे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceCBM3Jz47RzVHRkMqDnsZRjcXG",
+   "clue": "तृप्ती"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceQmIjmHY7Rwc2UtBGDnsBRjcXOldeTTdTJwNrdqg==",
+   "clue": "पोलिसांचे कार्यालय"
+  }
+ ]
+}

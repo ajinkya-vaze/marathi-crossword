@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-14",
+ "title": "संगीत आणि चित्रपट १४",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceIBM3Xzg==",
+   "clue": "गाण्याचा वेग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceamIjyHY7DyxmUiYHUyOM=",
+   "clue": "उपशास्त्रीय गायनाचा प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jce/BM3XzI7D2hmUiZlIjceV",
+   "clue": "भूमिका साकारणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jceSBM3X/hKHwd0IzZWajca3mInDgcrZGYXQsg==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcecmInNHY7Dww==",
+   "clue": "कलाकाराला दिलेली वाहवा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceWmInNHY7D3RmUiYHUyONGmInGgcrZGYXQi03UyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceWmInNHY7D1xmUiabUyONGmInX",
+   "clue": "लहान मुलांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jcevBM3X047C6IXQgtGQ0x/a3I4=",
+   "clue": "मुंबईजवळचे मोठे रेल्वे जंक्शन"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceXmInMHY7DwYXRoNGQyYOex1GTxfSHwdoIzZWQjca3mInD",
+   "clue": "भिंतीवर काढलेले चित्र"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceCBM3X2BKHwdc=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jcetmIjzHY7DwRmUiYHUyd1GmIndgcrZGYXQgk3UycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceUmInNHY7D14XQkk3Uyfba3JM=",
+   "clue": "दूरदर्शनवरील रोजची कथा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jcegmInMHY7DwYXRoNGQ3R/a3IcPgcr4GYXQutGR7R/a3Ik=",
+   "clue": "सिनेमातील गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceQBM3X/hKHwfAIzZWRjceE",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jcetmIjzHY7DwRmUiaTUyd1GmInD",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceQmInNHY7DwYXRoNGQ3Q==",
+   "clue": "कथेतील व्यक्ती"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jceQmInNHY7D1YXRoNGQ24Of9c3X1BKHwfKUiY9IjceVBM3X9A==",
+   "clue": "पडद्यामागे गाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jce/BM3X1BKHwfCUiY9IjceM",
+   "clue": "पृथ्वीबाहेरील पोकळी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jce/BM3XzI7D2hmUiZnUyORGmInXgcrZ",
+   "clue": "चित्रपटात काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jce8BM3X0Y7D2xmUiYk=",
+   "clue": "देवाभोवतीची सजावट"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceemInNHY7DzRmUiZvUyOJGmInDgcrZ",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceSBM3X6xKHwdCUiY9IjceKmIjz",
+   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcevBM3X0Y7D2xmUiaJIjcevmIj0",
+   "clue": "गाण्याच्या संगीतावर स्वतः गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jcePmInMHY7Dw4XRoNGQwoOf+VGTxcobhcHezZS5jceKBM3X1I7D2xmUiYg=",
+   "clue": "तारेतून वाहणारी वीज"
+  }
+ ]
+}

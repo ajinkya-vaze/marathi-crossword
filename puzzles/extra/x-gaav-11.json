@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-11",
+ "title": "गाव आणि शहर ११",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "x": "jcehmInZHYHSgtGV0x/a3LeHxd4KzZWVjca3mInXHYHSuNGV0x/a3J0=",
+   "clue": "फोटो काढणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceRBM3D04HSk03Ryfw=",
+   "clue": "रेल्वेचा प्लॅटफॉर्म"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jce/BM3DzIHSkk3Rycva3aobgcXSzZWP",
+   "clue": "चित्रपटात काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jce/BM3D2B2WiZ9NjcecBM3DyR2WiaZNjceK",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jceQmIjgHYHSnU3RycDa3a0=",
+   "clue": "शेतात बी टाकणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcegmInYHYHSidGU4IOeyFGHxcsKzZWuEYOe783C4h2WiYg=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jceQBM3DxYHToNGVyYOexg==",
+   "clue": "घराचे ठिकाण लिहिलेले"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jcecmIjmHYHSuNGV0x/a3IUbgcXQzZWPEYOeyA==",
+   "clue": "दुकान चालवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcevmInZHYHSh03RycDa3a0=",
+   "clue": "पीक कापणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcevmInZHYHSuNGV0w==",
+   "clue": "वडिलांचा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceCBM3Dxx2WiZnRydxGmInygcXI",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jcevmInZHYHSnU3RyfXa3JMbgcXezZWP",
+   "clue": "वस्तू बनवण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceKBM3D2B2WiZfRyd1GmInXgcT2",
+   "clue": "रस्त्यावरची वर्दळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceWmIjvHYHSn03RyfTa3JMbgcXXzZSx",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jcegmInZHYHSn03RyfZGmInNHYHSnU3Rydba3JMbgcXezZWP",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jcePmInZHYHSlE3Rycfa3a8bgcXjUdGV+IOf883D4x2WiZDRyOM=",
+   "clue": "ट्रॅफिक जॅम"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcetmInZHYHSjNGU7Q==",
+   "clue": "वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jcetmInZHYHSgk3RyfY=",
+   "clue": "गाणारा कलाकार"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceSBM3D9h2WiYE=",
+   "clue": "शहर; पुरी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceSmInZHYHSuk3RydPa3JIbgcXj",
+   "clue": "शहराचा रहिवासी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceWmIjqgcXGzZS2EYOe7Q==",
+   "clue": "गाडी थांबवणारी यंत्रणा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jcePmInZHYHSjNGU7Q==",
+   "clue": "लहान वस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jcePmInZHYHSsg==",
+   "clue": "मार्ग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceUmInZHYHSlNGV0h/a3ImHxOEKzZWbEYOe5w==",
+   "clue": "सत्य घटनांवरील चित्रपट"
+  }
+ ]
+}

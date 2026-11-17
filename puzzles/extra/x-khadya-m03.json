@@ -1,0 +1,541 @@
+{
+ "id": "x-khadya-m03",
+ "title": "खाऊ आणि स्वयंपाकघर · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 12,
+   "x": "jcevmInVFIHAyR3NyYLTyOQ=",
+   "clue": "कडू भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 13,
+   "x": "jceKBM3PzIHAxx3NyYPTyOQ=",
+   "clue": "गोडसर कंद"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 19,
+   "x": "jce8mInpFIHA1YGJ0w==",
+   "clue": "फळांचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 20,
+   "x": "jceWmInVFIHAwYGI7NCX7x/a3IuLzeE=",
+   "clue": "आटवलेल्या दुधाचा गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jcesmIjrFIHAyQ==",
+   "clue": "दुधात शिजवलेला गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 18,
+   "x": "jceWmIjrFIHA5g==",
+   "clue": "लाल रंगाचा कंद"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jceMmInpFIHA7B3NyYBPjceQmInVFIHAyoGI6g==",
+   "clue": "दिवाळीतील चौकोनी गोड तुकडे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 12,
+   "x": "jceQmInVFIHAyx3NyaU=",
+   "clue": "लोहयुक्त हिरवी पालेभाजी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 17,
+   "x": "jceeBM3P9x2E3c3NybJPjcecmIjr",
+   "clue": "किल्ल्याभोवतीची भिंत"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 17,
+   "x": "jceeBM3P3YHAxw==",
+   "clue": "पोळ्या भाजण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 14,
+   "x": "jceMmInUiMXmBYGJx0zTydHa3JM=",
+   "clue": "ज्यात मोती तयार होतो ते कवच"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 16,
+   "x": "jcesBM3P3YHAxw==",
+   "clue": "आटवलेले दूध"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 16,
+   "x": "jcesBM3P0B2E3fdRjZSL",
+   "clue": "बारीक पांढरे दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jcezBM3Pwh2E3dTNyY5PjceC",
+   "clue": "अन्न न खाता राहणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jceCmIjmiMXRBYGJwtCX7x/a3IeLzN8YmcW4",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jceQmInVFIHA2oGI7UzTycna3awXiMXUmcSt",
+   "clue": "गोलगप्पे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 18,
+   "x": "jceQmIjqFIHA3R3NyZPTyOM=",
+   "clue": "भावाची मुलगी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 18,
+   "x": "jceQmIjqFIHA34GJ0kzTycva3JM=",
+   "clue": "थंडावा देणारी सुगंधी पाने"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jcevBM3PyoHB+R3NyZpPjceemIjmiMXAmcWT",
+   "clue": "फोडणीतील सुगंधी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceKmInpFIHA7h3NyZ7TyeFGmInx",
+   "clue": "नाटक होते ते व्यासपीठ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 13,
+   "x": "jceMmInUFIHAy4GJ00zTydHa3aoXiMXy",
+   "clue": "दगडावर कोरलेला लेख"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 13,
+   "x": "jceMmInUFIHAzB3NyaxPjceVmInpFIHA3YGI7Q==",
+   "clue": "शिवरायांचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceUmIjpFIHA7g==",
+   "clue": "हिरवे लहान कडधान्य"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceCmInViMXmBYGJwdCX0x/a3J0=",
+   "clue": "दक्षिणी डाळीची आमटी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 11,
+   "x": "jceQmIjqFIHAy4GJ00zTydY=",
+   "clue": "भाज्या घालून केलेला भात"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 16,
+   "x": "jceCBM3PxoHAxx3NyZjTyd1GmInbiMTpmcWIjZWz",
+   "clue": "एकाच अर्थाचे शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceRBM3Pyx2E3dk=",
+   "clue": "काटेरी सालीचे मोठे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jceRBM3P2IHAxx3NyYM=",
+   "clue": "दिवाळीचे खास पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jceWmInVFIHA5R3NyYDTyOM=",
+   "clue": "हिवाळ्यातील भाकरीचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 15,
+   "x": "jce/BM3PxoHAxx3NyYVPjceCmIjmiMXLmcWT",
+   "clue": "चंद्र न दिसणारी रात्र"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceRBM3P2B2E3dnNyY5PjceZ",
+   "clue": "तळलेले खारे पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcegBM3P/YHB8h3NyYA=",
+   "clue": "चांदणे पिऊन जगतो अशी कल्पना असलेला पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcevmIjgFIHA3IGJ0tCX7x/a3IGLzeEYmcWd",
+   "clue": "हिरवी सुगंधी पाने"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 13,
+   "x": "jceVmInpFIHA3YGI4NCX3R/a3IOLzN8YmcWFEdCX2A==",
+   "clue": "रोबोट"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 17,
+   "x": "jcePBM3P2B2E3cJRjZSejceEBM3PzA==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceemIjqFIHAyh3NyazTyd1GmInBiMTmBYGJ3Q==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jceemIjqFIHA7IGJ00zTydPa3JMXiMXK",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jcevmIjsFIHAyR3NyYjTyOJGmInIiMTk",
+   "clue": "झाडलोट करण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 10,
+   "x": "jceCmIjsFIHA0YGJ00zTyclGmInPiMTk",
+   "clue": "सैन्याचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 12,
+   "x": "jceQBM3PwIHB+R3NyYA=",
+   "clue": "दूध फाडून केलेले"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 17,
+   "x": "jceKBM3P0B2E3fbNyLFPjceImIjmiMXWmcWT",
+   "clue": "बंगाली गोड स्पंजसारखा गोळा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jceCmInVFIHA7x3NyYA=",
+   "clue": "गोड पांढरे कण"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jceeBM3P2x2E3cI=",
+   "clue": "तेलात तळलेले पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jceeBM3P2IHAxx3NyazTyOE=",
+   "clue": "वजन करणारी दोन पारड्यांची दांडी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 6,
+   "x": "jceCmIjqFIHA3oGJ00zTydNGmInT",
+   "clue": "साखरेचा लिंबू घातलेला पाक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 9,
+   "x": "jceCBM3PxoHAxx3NyYg=",
+   "clue": "दोन शब्दांचा एक शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 11,
+   "x": "jceCmIjqFIHAyR3NyZM=",
+   "clue": "खाज सुटणारा मोठा कंद"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 17,
+   "x": "jceXmInVFIHAy4GJ00zTycja3aoXiMXx",
+   "clue": "भाला दूर फेकण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 20,
+   "x": "jcevBM3P2B2E3dTNybJPjcec",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceImIjgFIHA2oGI7Q==",
+   "clue": "ताक घुसळून काढलेले"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 15,
+   "x": "jceQmInpFIHA7h3NyZQ=",
+   "clue": "एका रांगेत बसून जेवण"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 16,
+   "x": "jcetBM3P0YHB+w==",
+   "clue": "चपातीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jcevmInVFIHA5YGI7w==",
+   "clue": "किडनीच्या आकाराचा सुका मेवा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 1,
+   "x": "jcevmInVFIHAyx3NyYVPjceZ",
+   "clue": "रस्सा असलेली भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 8,
+   "x": "jceemInUFIHAwR3NyYHTyO7a3IKLzN8=",
+   "clue": "समुद्रकिनारी मिळणारी शिंपल्यातील जलचरे"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 8,
+   "x": "jceemInUFIHAyh3NyafTyOFGmInY",
+   "clue": "संक्रांतीला वाटायचा गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 6,
+   "x": "jcemmInViMXmBYGJwNCW7x/a3J4=",
+   "clue": "जांभळ्या रंगाचे पावसाळी फळ"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 18,
+   "x": "jceSmInVFIHAyR3NyZY=",
+   "clue": "नारायण नारायण म्हणणारा मुनी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 18,
+   "x": "jceSmInVFIHA3YGJ00zTydA=",
+   "clue": "येशूचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 0,
+   "x": "jcegBM3P3R2E3dLNyLA=",
+   "clue": "पांढरे कडधान्य"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 8,
+   "x": "jcetmIjpFIHAyg==",
+   "clue": "उसापासून बनणारा तपकिरी गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 16,
+   "x": "jceemIjgiMXmBYGJzEzTydHa3a0=",
+   "clue": "लहान हिरवी भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 4,
+   "x": "jcezBM3PyYHB+R3NyZY=",
+   "clue": "इडलीसाठी काळी डाळ"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 6,
+   "x": "jcezBM3P0B2E3dI=",
+   "clue": "मोडाच्या कडधान्याची भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 6,
+   "x": "jcezBM3Pwh2E3cnNyY9PjceNBM3Pzg==",
+   "clue": "वेदांचा तत्त्वज्ञान भाग"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 15,
+   "x": "jceQBM3PyR2E3dRRjZSA",
+   "clue": "लांब सापासारखी भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 3,
+   "x": "jceWBM3PyYHB+R3NyYbTyORGmInB",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 9,
+   "x": "jce/BM3P24HB+w==",
+   "clue": "वडीसाठी मोठी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 9,
+   "x": "jce/BM3PwB2E3clRjZSL",
+   "clue": "काटेरी सालीचे आंबटगोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 13,
+   "x": "jcevmIjjFIHAyYGI7Q==",
+   "clue": "कच्चा आंबा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 6,
+   "x": "jceSmInUFIHAyYGJ09CX7x/a3LEXiMXM",
+   "clue": "आरतीचा लहान तुपाचा दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 11,
+   "x": "jceUmIjgFIHAwB3NyYDTyOM=",
+   "clue": "फोडणीत तडतडणारे काळे दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 11,
+   "x": "jceUmIjgFIHA3x3NyaU=",
+   "clue": "गणरायाचा आवडता गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 5,
+   "x": "jcecmIjmiMXRmcSqEdCX2g==",
+   "clue": "तिरस्कार"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 6,
+   "x": "jcecBM3P0YHB+Q==",
+   "clue": "विरजण लावून बनवतात ते"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 9,
+   "x": "jceCBM3PwoHB9IGJyUzTyfY=",
+   "clue": "सा रे ग म प ध नी"
+  }
+ ]
+}

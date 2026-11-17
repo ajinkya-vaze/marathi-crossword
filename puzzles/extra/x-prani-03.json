@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-03",
+ "title": "प्राणी आणि पक्षी ३",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceKmInODoHKwVHQl8yDn/lRkNb0jsyg0Jf4H9rcnQ==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceXmInODoHK2VHQl8uDn/XN1MeBytdR0Jfx",
+   "clue": "तपकिरी पंखांचा शुभ मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jceUmIj7DoHK2VHQl8eDn/hRkNbZ",
+   "clue": "मोराच्या पिसाऱ्यातील एक पीस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jce/BM3Uyx2OzYNM08nFRpiJ2A6Byv5R0Jfd",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jce/BM3U7h2OzbpM08nT",
+   "clue": "भक्ष्य गिळणारा मोठा साप"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceUBM3U5R2OzZ0=",
+   "clue": "नदीतील धोकादायक सरपटणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceCmIjxDoHK/lHQl90f2tyO",
+   "clue": "सुंदर लोंबते घरटे विणणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "x": "jceCmIjxDoHK2s2UjQ==",
+   "clue": "हत्तीचा बाहेर आलेला दात"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcetBM3U7YHK11HQl90=",
+   "clue": "सांडपाण्याचे नाले"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jce/BM3Uyh2OzZRM08n22tyTDJLF3g==",
+   "clue": "इंग्रजांना सहकार्य न करण्याचे आंदोलन"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jcevmInODoHK9VHQl9iDnsY=",
+   "clue": "रात्री चमकणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jceCBM3Uwh2OzYzQl9M=",
+   "clue": "रंग बदलणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jceCBM3Uwh2OzZXQluCDns1RkNbFjsyt",
+   "clue": "विद्येची देवता"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceCmIjxDoHK0VHQl90=",
+   "clue": "नदीतील लांब तोंडाची मगरीसारखी जात"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jce8BM3U54HK11HQl9sf2tyYkNbfEomJk9PI4w==",
+   "clue": "रेडिओ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jce8BM3Ux4HK11HQl/E=",
+   "clue": "ध्वनी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceMBM3Uy4HK11HQl8ODn/tRkNb2",
+   "clue": "सर्वात मोठा न उडणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcefBM3Ux4HK1w==",
+   "clue": "पक्ष्यांचा समूह"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jcegBM3U2IHK11HQl8mDn/g=",
+   "clue": "गव्हाची पोळी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceQmInODoHKylHQl/iDn/PN1PAdjs2BTNPJwtrdrQ==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceMmInPksXsFc2UpA==",
+   "clue": "बैलाच्या डोक्यावरील टोकदार भाग"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jceMmInPksXsFc2UpBGDnsjN1fA=",
+   "clue": "घोड्याचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcevmInOksXsFc2UpI3HhATN1MKBy+s=",
+   "clue": "पोटाच्या पिशवीत पिल्लू ठेवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jcetmInODoHKxg==",
+   "clue": "दूध देणारी, जिला गोमाता म्हणतात"
+  }
+ ]
+}

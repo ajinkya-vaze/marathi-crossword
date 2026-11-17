@@ -1,0 +1,177 @@
+{
+ "id": "x-san-15",
+ "title": "सण, कला आणि परंपरा १५",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jce8BM3XyxLNlaqNx4Q=",
+   "clue": "दसऱ्याला सोने म्हणून वाटतात त्याची पाने"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jcecmInMHY6JhNXJ3UaYicCBy61N1cnm2tyvD4HKuA==",
+   "clue": "दिवाळीत निघणारे विशेष मासिक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceQBM3X9xLNlYCNx4QEzdf9",
+   "clue": "दोन्ही बाजूंनी वाजणारे वारकरी वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jceCBM3XxY6Jj0mNx4o=",
+   "clue": "तारांचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceCBM3XyRLNlb0=",
+   "clue": "लग्नात वाजणारे फुंकवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceimInxHY6JrtXJ3Q==",
+   "clue": "देवळातील वाजवायची"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jce/mInxHY6JndXJ3UaYid+BypNN1cnr",
+   "clue": "कोल्हापूरची देवी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jcePmInMHY6Jl9XI4UaYicQdjomk",
+   "clue": "हसवणारा; जोकर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jcePmInMHY6JkdXI7trcjQ+Byp8=",
+   "clue": "पंढरपूरचा विठोबा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jce/BM3X1BLNlZGNx4QEzdfR",
+   "clue": "देवाचे पृथ्वीवरील रूप"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceUmInxHY6JpkmNx4mYic0djomm1cjvRpiJww==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcezBM3XxY6IvNXJ20aYicY=",
+   "clue": "सण साजरा करणे; सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jcetBM3X/BLNlYc=",
+   "clue": "उर्दूतून आलेला काव्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 10,
+   "x": "jceemInNHY6Jh9XJ3Q==",
+   "clue": "ढोलासोबत वाजणारे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jceemIjyHY6JgkmNx6aYic0djomb1cjhRpiJww==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceemIjyHY6JgkmNx4yYiPMdjomE1cncRpiJxoHKk03Vydo=",
+   "clue": "दिवाळीनंतर तुळशीचे लग्न"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceQmIjxHY6JrdXJ3Q==",
+   "clue": "देवाची उपासना"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceSBM3X0RLNlaARg57iUZPFys2UtBGDnsjN1uyOiZdJjceMmIjz",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jceSBM3X0Y6IvNXJx0aYieaBy60=",
+   "clue": "नाचणारी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jcevBM3X046Jj0mNx6+Yic0djomB",
+   "clue": "कला सादर करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcePmInMHY6JiUmNx4qYiP6ByrFN1cnL",
+   "clue": "मूर्ती पाण्यात सोडणे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceQmInNHY6JkEmNx4+Yic0=",
+   "clue": "दिवाळीतील बलिप्रतिपदा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceSmInNHY6JgUmNx5w=",
+   "clue": "नारायण नारायण म्हणणारा मुनी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jceDBM3X0RLNlZGNx4QEzdfTjomOSY3Hr5iJzQ==",
+   "clue": "गणेशचतुर्थीच्या आधीचा व्रताचा दिवस"
+  }
+ ]
+}

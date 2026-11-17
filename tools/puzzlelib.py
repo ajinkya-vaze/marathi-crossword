@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import base64
 import json
+import re
 import unicodedata
 from pathlib import Path
 
@@ -14,6 +15,8 @@ from akshara import split_aksharas
 ROOT = Path(__file__).resolve().parent.parent
 PUZZLES = ROOT / "puzzles"
 INDEX = PUZZLES / "index.json"
+EXTRA = PUZZLES / "extra"            # undated "More puzzles"
+EXTRA_INDEX = EXTRA / "index.json"
 
 MAX_WORDS = 100
 MAX_AKSHARAS = 7
@@ -158,25 +161,35 @@ def load_index() -> dict:
 
 
 def validate_all() -> list[tuple[str, list[str]]]:
-    """Validate index.json and every puzzle it lists."""
-    index = load_index()
+    """Validate index.json, puzzles/extra/index.json and every puzzle they list."""
     report = []
     seen = set()
-    for p in index.get("puzzles", []):
-        errs = []
-        pid = p.get("id")
-        if pid in seen:
-            errs.append("Duplicate id in index.json")
-        seen.add(pid)
-        path = PUZZLES / f"{pid}.json"
-        if not path.exists():
-            report.append((pid, errs + ["File missing"]))
-            continue
-        data = read_json(path)
-        if data.get("id") != pid:
-            errs.append(f'id mismatch: index "{pid}" vs file "{data.get("id")}"')
-        if p.get("words") != len(data.get("entries", [])):
-            errs.append(f"index says {p.get('words')} words, file has {len(data.get('entries', []))}")
-        errs += validate_puzzle(data)
-        report.append((pid, errs))
+    sources = [(load_index(), PUZZLES, False)]
+    if EXTRA_INDEX.exists():
+        sources.append((read_json(EXTRA_INDEX), EXTRA, True))
+    for index, folder, extra in sources:
+        themes = {t.get("key") for t in index.get("themes", [])}
+        for p in index.get("puzzles", []):
+            errs = []
+            pid = p.get("id")
+            if pid in seen:
+                errs.append("Duplicate id in index.json")
+            seen.add(pid)
+            if not re.fullmatch(r"[A-Za-z0-9-]+", pid or ""):
+                errs.append(f'id "{pid}" must be ASCII letters, digits and dashes (it goes in the URL)')
+            if extra and not str(pid).startswith("x-"):
+                errs.append(f'extra puzzle id "{pid}" must start with "x-"')
+            if extra and p.get("theme") not in themes:
+                errs.append(f'theme "{p.get("theme")}" is not in the themes list')
+            path = folder / f"{pid}.json"
+            if not path.exists():
+                report.append((pid, errs + ["File missing"]))
+                continue
+            data = read_json(path)
+            if data.get("id") != pid:
+                errs.append(f'id mismatch: index "{pid}" vs file "{data.get("id")}"')
+            if p.get("words") != len(data.get("entries", [])):
+                errs.append(f"index says {p.get('words')} words, file has {len(data.get('entries', []))}")
+            errs += validate_puzzle(data)
+            report.append((pid, errs))
     return report

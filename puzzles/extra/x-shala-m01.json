@@ -1,0 +1,534 @@
+{
+ "id": "x-shala-m01",
+ "title": "शाळा आणि खेळ · मोठे कोडे १",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "x": "jceXmInNFIHI+83IsA==",
+   "clue": "बहिणीची मुलगी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jceXmInNFIHI083Jjk2Nx5GYiPQUgcj0",
+   "clue": "भाला दूर फेकण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jceXmInNFIHI083Jjg==",
+   "clue": "लांब दांड्याचे शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jcegmInMFIHIwc3IvdHJw9rdrQ==",
+   "clue": "लहान पत्र"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jcegmInMFIHIxc3IvdHJ00aYidkUgcj+UY2UiY3GuQTN19+ByezNya/RyOM=",
+   "clue": "सिनेमाचे जग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceUmIj+iMXVHc3Jkw==",
+   "clue": "अनुभवाचे छोटे शहाणे वाक्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 13,
+   "x": "jceCmIj4FIHIyc3Itw==",
+   "clue": "पिवळा मौल्यवान धातू"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 14,
+   "x": "jceSmIj0FIHIz1GNlJ2Nx4QEzdf0gcnh",
+   "clue": "बंदुकीने लक्ष्य साधणे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 18,
+   "x": "jcegmInNFIHI01GNlKQRg57SUZPM0RCBidjQldMf2tyFk8zf",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jcelmIj4FIHI9FGNlJ6Nx7gEzdfMgcnszcmA",
+   "clue": "पेन्सिलला टोक करणारे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jcelmIj4FIHIz83ItU2Nx6WYiPg=",
+   "clue": "लाल रसाळ फळभाजी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcetBM3Xyx2MxZiNlbYRg57O",
+   "clue": "शाळेचा ठरलेला पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcetBM3X24HI3w==",
+   "clue": "मान; कंठ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceMBM3X2IHJ7M3Jn02Nx54=",
+   "clue": "स्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 14,
+   "x": "jceUBM3X0YHI31GNlISNx4UEzdfOgcnszcmf0cndRpiJwRSByM4=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 16,
+   "x": "jcePmInMFIHI0s3IsA==",
+   "clue": "भाजी चिरायचे जमिनीवर ठेवायचे पाते"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jceMmInNFIHI0s3Jjg==",
+   "clue": "विद्यालय"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceMmInNFIHI0w==",
+   "clue": "पांघरायचे लोकरीचे वस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 12,
+   "x": "jceCmIj+iMXEgYjqTNHJ2kaYicuIxe4dzcme0cjkRpiJwRSByMk=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceRmIjyFIHI/lGNlJ2NxrMEzdfa",
+   "clue": "पायाने चेंडू मारण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcePmInMFIHIx83IvdHJzNrdrA+Ixcgdzcma0cju2tydD4jF2YGJ00zRydo=",
+   "clue": "तारेतून वाहणारी वीज"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jcePmInMFIHI/s3IsE2Nx5yYic2Ixe4dzcmR0cjh",
+   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceQmIj+iMXcHc3JhtHI7trchQ==",
+   "clue": "सवाल"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 18,
+   "x": "jceQBM3XzIHJ7M3JlNHI5A==",
+   "clue": "बावन्न पानांचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceQmInNFIHI/s3IsA==",
+   "clue": "दगडी लिहिण्याचा फलक"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 12,
+   "x": "jceCmInxFIHI+Q==",
+   "clue": "खेळाडूंचा गट"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 15,
+   "x": "jcevBM3X2IHJ7M3Jk02Nx52Yic0UgcjR",
+   "clue": "संघाचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 15,
+   "x": "jcevBM3XyoHJ4Q==",
+   "clue": "ताकाची फोडणी दिलेली"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 18,
+   "x": "jcePmInNFIHIzs3Isg==",
+   "clue": "हवेसारखे रूप"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcesBM3XyYHJ4w==",
+   "clue": "फळ्यावर लिहिण्याचा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcesBM3X2h2MxYWNlI8Rg57XUZPM9A==",
+   "clue": "गोष्टीतील वाईट माणूस"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcePmIj+iMXVgYjkTNHJ0drdrQ+IxcCBiORM0cnR",
+   "clue": "जाळ्यावरून हाताने चेंडू टोलवायचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 16,
+   "x": "jceQmIj+iMXcgYnTTNHJ09rdoJPMxBCBicXQldM=",
+   "clue": "शाळा सुरू होताना म्हणायची"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 16,
+   "x": "jceQmIj+iMXcgYnTTNHJwEaYicaIxdIdzcmf0cjh",
+   "clue": "श्वासात घ्यायचा वायू"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceXmIjxFIHI9s3Iu02Nx4g=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceamIj0FIHI9M3Jjg==",
+   "clue": "तालाचा आघात"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 12,
+   "x": "jceSBM3X/YHI31GNlIeNx4Q=",
+   "clue": "प्रदेश दाखवणारे चित्र"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 14,
+   "x": "jceMmInNFIHI2M3Jj02Nx4KYiP6IxciBiOpM0cn12tyTD4jFxA==",
+   "clue": "लाल महालात बोटे गमावलेला"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceSmInNFIHIzs3Jj02Nx6+Yic0=",
+   "clue": "नाटकाची मुख्य स्त्री पात्र"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 11,
+   "x": "jcevmInNFIHIzw==",
+   "clue": "कार्य"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 14,
+   "x": "jceDmInMFIHI0VGNlISNx4Q=",
+   "clue": "पानांचा रंग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jcetmIj+iMXcgYnvTNHJxtrckw+Ixd4dzcmf",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jcePmIj+iMXDgYnTTNHJzNrckw+IxcI=",
+   "clue": "शरीराची कसरत"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 9,
+   "x": "jcePmIj+iMXDgYnTTNHJ9kaYicMUgcjC",
+   "clue": "भाषेचे नियम"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 19,
+   "x": "jceemIj+iMXcgYnSTNHJ9trdpg+Ixc8=",
+   "clue": "तीन बाजूंची आकृती"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jcevBM3X2IHI41GNlJARg57t",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 12,
+   "x": "jcedmInNFIHI9s3Jjg==",
+   "clue": "दोरा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 14,
+   "x": "jcesmInNFIHI0Q==",
+   "clue": "झाडावर चढणारी पाठीवर पट्टे असलेली"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 17,
+   "x": "jceQmIj4FIHI2FGNlJKNxr0=",
+   "clue": "पाण्यातील व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 19,
+   "x": "jcevmIj4FIHIyQ==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 11,
+   "x": "jceVmIj4FIHI9s3Jjk2Nx4IEzdfA",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 13,
+   "x": "jceCBM3XxoHI31GNlIk=",
+   "clue": "दोन शब्दांचा एक शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 17,
+   "x": "jceDBM3XzIHJ7M3JlNHI40aYidA=",
+   "clue": "हत्तीची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 8,
+   "x": "jcetmIjyFIHIwg==",
+   "clue": "परीक्षेत मिळालेले मार्क"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 8,
+   "x": "jcetmIjyFIHI0c3IsU2Nx6aYiPM=",
+   "clue": "शिक्षकांना आदराने म्हणतात"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 15,
+   "x": "jcedmInNFIHI1FGNlJKNxr0=",
+   "clue": "शर्यतीत करतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 16,
+   "x": "jcePBM3X2IHJ7M3JlNHI4kaYicA=",
+   "clue": "गोल आकृती"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 11,
+   "x": "jcevmInxFIHIy83Jjk2Nx4I=",
+   "clue": "वर्तुळ काढण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 12,
+   "x": "jceQmInNFIHIwlGNlJ2NxrsEzdfJgcnh",
+   "clue": "पाण्याखाली जाणारी नौका"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 6,
+   "x": "jce9mInxFIHI9s3IvdHJ00aYie+IxOw=",
+   "clue": "इंग्लंडची भाषा"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 6,
+   "x": "jce9mInxFIHIxlGNlJk=",
+   "clue": "जळणासाठीचे"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 15,
+   "x": "jcesmIj0FIHI0lGNlJKNxro=",
+   "clue": "मुलांची खेळायची वस्तू"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 15,
+   "x": "jcesmIj0FIHI0lGNlJsRg57nzdblgcj+zciw",
+   "clue": "क्रिकेटची पिच"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 10,
+   "x": "jcegmInMiMXuHc3Jqg==",
+   "clue": "आंबट फळांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 12,
+   "x": "jceWmIjyFIHIx83IvdHJxNrckg+IxcAdzcmD",
+   "clue": "राजा-वजिराचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 4,
+   "x": "jcePmInMFIHI/c3IvdHJ/drckw+IxcQ=",
+   "clue": "प्रयोगांचा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 4,
+   "x": "jcePmInMFIHI183IvdHJ1trckw+IxdQ=",
+   "clue": "भरवसा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 9,
+   "x": "jcezmInxFIHI+1GNlLgRg57Zzdbo",
+   "clue": "बार ओलांडून उडी"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 11,
+   "x": "jcezBM3XzIHJ7M3JlE2Nx4o=",
+   "clue": "प्रश्नाला दिलेले"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 15,
+   "x": "jceQBM3X94HJ7M3Jr9HI4w==",
+   "clue": "रेघ मारायचे लांब मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 8,
+   "x": "jceQmIj0FIHIyQ==",
+   "clue": "शाईने लिहिण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 14,
+   "x": "jceCmIjyFIHI/s3IvdHJ/NrdrQ==",
+   "clue": "शाळा बंद असण्याचे दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 14,
+   "x": "jceCmIjyFIHI6Q==",
+   "clue": "शिवण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 2,
+   "x": "jceRmIjyFIHIys3IvdHJyNrdrA+IxdQ=",
+   "clue": "श्वास घेणारा अवयव"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 6,
+   "x": "jceCmIjxFIHI0c3IvdHJzEaYidsUgcjPUY2UiY3Gt5iJ5ojF0h3NyYA=",
+   "clue": "बारा आसनांचा व्यायाम"
+  }
+ ]
+}

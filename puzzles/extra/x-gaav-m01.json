@@ -1,0 +1,541 @@
+{
+ "id": "x-gaav-m01",
+ "title": "गाव आणि शहर · मोठे कोडे १",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jcePmInYHYHSg42UjxGDntA=",
+   "clue": "आकाशात उडणारे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jcePmInYHYHSm42UjxGDnstRh8X2Cs3JkQ==",
+   "clue": "बाजीप्रभूंच्या लढाईशी जोडलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 18,
+   "x": "jce8BM3DwA==",
+   "clue": "गावातील जुनी विहीर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 18,
+   "x": "jce8BM3DwR2WidhM0cnC2t2qG4HF2s3Jjk2Nx6aYidkdgdKd",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcecmInYHYHSm42Ujw==",
+   "clue": "पूर्व पश्चिम उत्तर दक्षिण"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 14,
+   "x": "jceQmIjgHYHSm42VsQ==",
+   "clue": "सजीवांचे सर्वात लहान एकक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 14,
+   "x": "jceQmIjgHYHSnRHQlc6Dn/g=",
+   "clue": "शेतात बी टाकणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 12,
+   "x": "jceMmInlHYHSuBHQld0=",
+   "clue": "महादेव"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 12,
+   "x": "jceMmInlHYHSgBHQld0=",
+   "clue": "दहा दहे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 17,
+   "x": "jcetmIjsHYHSmBHQldyDn/XNw86B0pM=",
+   "clue": "इंधनासाठी वाळवलेले शेण"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceUmIjgHYHStRHQlfof2tydh8TslonxTNHJy9rckw==",
+   "clue": "आकाशात होणारा ढगांचा नाद"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jceUmIjgHYHSiI2VsQ==",
+   "clue": "कडवट पालेभाजी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceSmInZHYHSuhHQlceDnvpRh8X7Cs3JntHI4w==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jcetBM3D/oHSkxHQld0=",
+   "clue": "सांडपाण्याचे नाले"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceCmInZHYHSmI2UjhGDntzNwuyB0p2NlbERg57UzcPfHZaJ5Q==",
+   "clue": "पहिल्या स्त्री शिक्षिका"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 15,
+   "x": "jceCmInZHYHSghHQlfgf2tyf",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 20,
+   "x": "jceemInYHYHSuI2VsRGDnuc=",
+   "clue": "प्रवासाचा पास"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jce9mInlHYHSsY2UjhGDntA=",
+   "clue": "गाडी चालवणारे यंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceSBM3D9h2Wid0=",
+   "clue": "शहर; पुरी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 12,
+   "x": "jcecmInYHYHSuo2VvI3HnATNw9GB06CNlIcRg57t",
+   "clue": "चित्रपट घडवणारा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 12,
+   "x": "jcecmInYHYHSmI2Ujw==",
+   "clue": "उजेड देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 17,
+   "x": "jcegmInZHYHSnRHQlfeDnsZRh8X0lojt",
+   "clue": "मोटार"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 17,
+   "x": "jcegmInZHYHSng==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jce1BM3D04HSkhHQlcaDnvpRh8X+lonT",
+   "clue": "घारापुरी बेटावरील लेणी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jcetBM3DyYHSkhHQlcODn/hRh8X0lonTTNHJ1trckw==",
+   "clue": "शिवरायांचे युद्धतंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jcevmInZHYHSnY2VvI3HlZiJ2R2B0p8R0JXC",
+   "clue": "ऑफिस"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceDmIjgHYHSn42UjhGDnu3NwugdlonH0JTgg57nUYfF0Q==",
+   "clue": "पंख्याचे उडणारे वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 18,
+   "x": "jceXmInZHYHSt42Ujw==",
+   "clue": "बहिणीचा मुलगा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 19,
+   "x": "jcegmInZHYHSmBHQlcyDn/g=",
+   "clue": "गावातील सभेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 13,
+   "x": "jcemmInZgcX0UY2UnI3GuATNw9I=",
+   "clue": "जांभळ्या रंगाचे पावसाळी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 14,
+   "x": "jceXmIjlHYHSuI2UsxGDntI=",
+   "clue": "जमीन हादरण्याची घटना"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 19,
+   "x": "jcePBM3D04HToI2UiI3GvQ==",
+   "clue": "होडी चालवायचे दांडे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jcegmInYHYHSgxHQlfKDnsY=",
+   "clue": "लहान वस्तू पकडण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceUBM3D2IHSkxHQlceDnsZRh8XTlonSTNHJ9trckw==",
+   "clue": "मोठ्या शहराचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcetmIjqgcXGzcmOTY3HlATNw8uB0q8R0JX3g57GUYfFzgrNyZQ=",
+   "clue": "गावाचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcetmIjqgcXGzcmOTY3HlATNw9mB06CNlJQ=",
+   "clue": "गावात राहणारे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 10,
+   "x": "jcegmInZHYHSnxHQlfgf2tyHG4HFxlGNlISNx4QEzcPJgdKT",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 16,
+   "x": "jceCBM3D0R2WicfQle8f2ty3",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 18,
+   "x": "jcePmInZHYHSjI2VsQ==",
+   "clue": "लहान वस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 18,
+   "x": "jcePmInZHYHSlBHQlcmDn/pRh8X0Cs3JpdHI6NrcrxuBxdfNyLA=",
+   "clue": "ट्रॅफिक जॅम"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 6,
+   "x": "jcevmInZHYHSgw==",
+   "clue": "कार्य"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 13,
+   "x": "jcezBM3Dyx2WidTQldMf2tydG4HF4c3Is02Nx4M=",
+   "clue": "हॉटेल; खाणावळ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 13,
+   "x": "jcezBM3Dx4HToI2UhI3HhATNw9gdlonF",
+   "clue": "लिफ्ट"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jceRmIjlHYHSshHQlceDnsZRh8XE",
+   "clue": "रस्त्याकडेचा पायी चालण्याचा मार्ग"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 1,
+   "x": "jceWBM3D2Q==",
+   "clue": "लाल परी म्हणून ओळखली जाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 6,
+   "x": "jceCmInZHYHSgY2VsBGDnt7Nw98dlonO0JXT",
+   "clue": "उपवासाचे पांढरे मोती"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 8,
+   "x": "jcegmInYHYHSiY2VvI3HigTNw8sdlonyTNHJ9NrdrhuBxc8=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 16,
+   "x": "jcegBM3D1h2Wifg=",
+   "clue": "विजेत्याचा करंडक"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 1,
+   "x": "jceCBM3Dxx2WicXQldIf2ty4h8Xf",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 2,
+   "x": "jcecBM3D1IHSrxHQlcyDn/g=",
+   "clue": "ढोल वाजवून दिलेली सूचना"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 8,
+   "x": "jceKmIjmHYHSuo2VvI3HmQTNw9SB0pMR0JXUg57HUYfF9JaJ0w==",
+   "clue": "आजारी माणसाला नेणारी गाडी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 8,
+   "x": "jceKmIjmHYHSg42UjxGDnso=",
+   "clue": "हात पुसायचे लहान कापड"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 12,
+   "x": "jcevmInZHYHShxHQlc6Dn/g=",
+   "clue": "पीक कापणे"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 15,
+   "x": "jceWmIjvHYHSnxHQlfqDnsZRh8XAlojt",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 1,
+   "x": "jceDmIjsHYHSjI2VsQ==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 1,
+   "x": "jceDmIjsHYHSuI2UjxGDntfNw+MdlonJ0JTgg57I",
+   "clue": "दिशा दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 4,
+   "x": "jceQmInZHYHSlI2VsBGDntvNw98=",
+   "clue": "घरी आलेला अतिथी"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 4,
+   "x": "jceQmInZHYHSso2VsRGDnso=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 12,
+   "x": "jceQBM3D14HToI2Uq43HhQTNw88=",
+   "clue": "सूर्य मावळतो ती दिशा"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 14,
+   "x": "jceUBM3D2IHSkxHQlceDn/RRh8XR",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jceSmIjrHYHSuI2Ujw==",
+   "clue": "होडी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 7,
+   "x": "jceQmIjlHYHSnw==",
+   "clue": "नदीवरून जाण्यासाठी बांधतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 7,
+   "x": "jceQmIjlHYHSnY2VvI3Hjw==",
+   "clue": "सूर्य उगवतो ती दिशा"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 11,
+   "x": "jcetmIjsHYHSjo2VsQ==",
+   "clue": "धान्य भरायची पोती"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 11,
+   "x": "jcetmIjsHYHSno2UjxGDntPNwuYdlon4",
+   "clue": "लोखंडी गोळा फेकण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 14,
+   "x": "jceDmInZHYHSpBHQldUf2tyGh8TgCs3Jgg==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 18,
+   "x": "jceIBM3D9IHToI2Uho3Gt5iJyYHE9lGNlJ2Nx4QEzcPp",
+   "clue": "झाशीची राणी"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 3,
+   "x": "jceWmInZHYHSnxHQlfqDnvpRh8XGCs3JgNHI7trcmA==",
+   "clue": "स्त्रीभूमिका करणारे नटसम्राट गायक"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 3,
+   "x": "jceWmInZHYHSsY2UjxGDnsg=",
+   "clue": "मंडई"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jceUBM3D0oHSkw==",
+   "clue": "भाजीचे शेत"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 0,
+   "x": "jceQmInZHYHSiY2VvI3Hig==",
+   "clue": "कथेतील व्यक्ती"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 13,
+   "x": "jceMmInYHYHSnRHQldWDn/XNw8WB06CNlIGNx4QEzcPC",
+   "clue": "डोक्याचे लोखंडी संरक्षण"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 13,
+   "x": "jceMmInYHYHSjI2VsQ==",
+   "clue": "वर चढण्यासाठी पायऱ्यांचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 18,
+   "x": "jceWmInZHYHSsRHQld2Dn/g=",
+   "clue": "हिवाळ्यातील भाकरीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 2,
+   "x": "jcecBM3D0R2WicHQldMf2tyd",
+   "clue": "राजाची सभा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 10,
+   "x": "jceQmIjnHYHSuA==",
+   "clue": "शेतात उगवलेले धान्य"
+  }
+ ]
+}

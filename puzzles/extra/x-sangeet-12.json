@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-12",
+ "title": "संगीत आणि चित्रपट १२",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jcetmIjzHY7DwRmUiYHSyd1GmIndgcrZGYXQgk3SycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceQmInNHY7DwYXRoNGW3Q==",
+   "clue": "कथेतील व्यक्ती"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceQBM3X/hKHwfAIzZWXjceE",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jcedmIj+gcrSGYXQhdGW0h/a3IaTxO4bhcHQ",
+   "clue": "कॅसेट"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jcegmInMHY7DwYXRoNGW3R/a3IcPgcr4GYXQldGX7h/a3JqTxOOHwfqUiLE=",
+   "clue": "सिनेमाचे जग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jcegmInMHY7DwYXRoNGW3R/a3IcPgcr4GYXQutGX7R/a3Ik=",
+   "clue": "सिनेमातील गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jce/BM3XzI7D2hmUiZnSyORGmInXgcrZ",
+   "clue": "चित्रपटात काम करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceUmInNHY7D3IXQkk3Sycfa3a0PgcrNGYXQsg==",
+   "clue": "सत्य घटनांवरील चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jce/BM3XzI7D2hmUiZlOjceV",
+   "clue": "भूमिका साकारणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jceCBM3X0Y7C6IXQi9GX7Q==",
+   "clue": "नाक वाहणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jceCBM3X9I7D2xmUiYI=",
+   "clue": "प्रातःकाळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jceQmIjyHY7D3YXRoNGWyYOex1GTxfuHwds=",
+   "clue": "लहान पुस्तक"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceQmIjyHY7D1RmUiYnSyO7a3LiTxdAbhcHE",
+   "clue": "सन्मान; बक्षीस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceemInNHY7DzQ==",
+   "clue": "वेगवान स्वरांची फेक"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceSBM3X0Y7C6IXQg03SycXa3JM=",
+   "clue": "मध्य भारतातील पश्चिमवाहिनी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jcetmIjzHY7DwRmUiaTSyd1GmInD",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jcecmInNHY7Dww==",
+   "clue": "कलाकाराला दिलेली वाहवा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcevmInMHY7D04XRpk3SydM=",
+   "clue": "खट्याळ आवाजाचा गायक कुमार"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcevmInMHY7DzYXQk03SydPa3JM=",
+   "clue": "समुद्राचा काठ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceCmInxHY7DyoXRrE3Syfba3aCTxcobhcHaUdGW1IOexlGTxd6HwdsIzZWFjca3mInsgcvqhcHE",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jceCmInxHY7DwoXRoNGWwoOexlGTxfuHwdsIzZWB",
+   "clue": "दिवस मावळतानाची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceUBM3X047C6IXQlNGW0x/a3J0=",
+   "clue": "पावसाचा राग"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceamIj0HY7D8IXQkw==",
+   "clue": "तालाचा आघात"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jceCBM3X0RKHwfIIzZWc",
+   "clue": "स्वरांची मालिका"
+  }
+ ]
+}

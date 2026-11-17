@@ -1,0 +1,541 @@
+{
+ "id": "x-itihas-m01",
+ "title": "इतिहासाच्या पानांतून · मोठे कोडे १",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceUmInrCInM9g/NyYNNjceVmInXCInMyQ==",
+   "clue": "मंगळाकडे गेलेली भारतीय मोहीम"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcetBM3N64nM3w/NyYA=",
+   "clue": "सांडपाण्याचे नाले"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 14,
+   "x": "jceQmIjiCInM0g/NyZrRyd1GmIn2",
+   "clue": "पोळी लाटायचा गोल पाट"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 16,
+   "x": "jceQmInXCInMyZOJ0kzRyclGmInN",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 20,
+   "x": "jceQBM3NxInM3w/NyYVNjceKmIjklM3MHZOJxQ==",
+   "clue": "प्रकाश परत फिरणे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 18,
+   "x": "jcemmInrCInM/ZOJ0kzRydPa3JM=",
+   "clue": "मुरुडजवळचा समुद्री किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceDBM3NxBWIxdfNyY5NjceImInWCInM9JOJ0w==",
+   "clue": "गणेशचतुर्थीच्या आधीचा व्रताचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceemInXCInMwJOI5kzRyc/a3JM=",
+   "clue": "चंद्रपूरजवळचे वाघांचे अभयारण्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 13,
+   "x": "jceCmIjoCInMxZOJ00zRydNGmInDCInM9JOI4NCV2oOf+A==",
+   "clue": "चोचीने झाडाचे खोड ठोकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 14,
+   "x": "jceemInXCInM0ZOJ00zRyc/a3JMVlM3g",
+   "clue": "संभाजीराजांनंतर स्वराज्य लढवणारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 18,
+   "x": "jceCmInXCInM1JOJ0kzRycfa3aCJ0NmIxPNRjZSdjceEBM3N/A==",
+   "clue": "पहिल्या स्त्री शिक्षिका"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jce8mInrCInMzZOJ0w==",
+   "clue": "फळांचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jce8mInrCInMzZOI6kzRycJGmIn8CInM0Q==",
+   "clue": "राज्यघटनेचे शिल्पकार"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 11,
+   "x": "jce/BM3NzYnM3g/NyYLRyO7a3IKJ0NcUgdeBjZSPEYOe8A==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jce/BM3N2YnM3g/NyZ7Ryd1GmInB",
+   "clue": "स्वाभिमान; गौरव"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 17,
+   "x": "jceCmInrCInM1JOJ0kzRycTa3JMVlM3A",
+   "clue": "देशाची राज्यघटना"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceSmIjuCInM2A/NyYDRyOE=",
+   "clue": "पहिले पंतप्रधान"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jceMBM3N3InM3g/NyYXRyd1GmInZCInM1JOJ00zRycLa3JM=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 16,
+   "x": "jceImInXCInM0w/NyZ5NjceDmInXCInM0w==",
+   "clue": "पुण्यातील शिवरायांचा वाडा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceImIjiCInM2A/NyadNjceb",
+   "clue": "लोणावळ्याजवळचा किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 16,
+   "x": "jceIBM3N4YnN7JOJ2tCU4IOe1s3M9BWIxd/NyY5Njcey",
+   "clue": "झाशीची राणी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jcePmInXCInM+Q/NyZhNjcesmIju",
+   "clue": "अफजलखानाच्या वधासाठीचे शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 14,
+   "x": "jceUmIjoCInMyZOI7UzRyc0=",
+   "clue": "हिशेब ठेवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 14,
+   "x": "jceUmIjoCInM9JOI7EzRyfw=",
+   "clue": "राजाच्या डोक्यावरचा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jce8BM3NxBWIxd3NyY5NjceK",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jce8BM3N0InN7JOJw0zRyflGmInZlM3XHZOJydCU4IOeyA==",
+   "clue": "स्वतः लिहिलेली जीवनकथा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 20,
+   "x": "jcegmInrCInMx5OI4NCV3R/a3JuJ0e4Ugde7EdCV3Q==",
+   "clue": "आझाद म्हणवणारे क्रांतिकारक"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 12,
+   "x": "jce9mInrCInM9pOI4NCV3R/a3LE=",
+   "clue": "ब्रिटिश राज्यकर्ते"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 14,
+   "x": "jcelBM3N3onM3w/NyYI=",
+   "clue": "पोस्टाचे पत्र"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 15,
+   "x": "jceQmInXCInM1A/NyZhNjcesmInWlM3qHZOJzA==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 18,
+   "x": "jcepBM3N1A==",
+   "clue": "तोंडाचा कडेचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcegBM3Nw4nN7JOJw9CV0w==",
+   "clue": "डोळ्यांवर लावायच्या काचा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 17,
+   "x": "jceQmInXCInMwQ==",
+   "clue": "शरीराचा मागचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 17,
+   "x": "jceQmInXCInMzg/NyZZNjceJ",
+   "clue": "पायी लढणारे सैन्य"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jce/BM3N3xWIxe9RjZSDEYOe7s3NyhWIxds=",
+   "clue": "प्रतापगडावर मारला गेलेला सरदार"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jce/BM3N4RWIxd9RjZSB",
+   "clue": "बिरबलचा बादशहा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 13,
+   "x": "jceIBM3NzA==",
+   "clue": "रोगप्रतिकारासाठी टोचतात"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 1,
+   "x": "jceimIjiCInMwJOI6kzRydva3aCJ0NyIxc1RjZSBjca6",
+   "clue": "घोड्यावर बसून जाणे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jceCmIjklM3dgdeTEdCVyYOe+lGJ0M2IxP7NyYDRyO7a3II=",
+   "clue": "पारतंत्र्याच्या उलट"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceCmIjrCInMxZOI4NCV3R/a3JWJ0OsUgde3jZSPEYOeylGJ0Pw=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jceCmIjrCInM0ZOI4NCVwh/a3IUVlM3GHZOJ1dCU4IOe7c3NyhWIxcM=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 17,
+   "x": "jcecBM3NxBWIxd/NyY5NjceK",
+   "clue": "राजाची सभा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 19,
+   "x": "jceWmInXCInMwg==",
+   "clue": "धनुष्यातून सोडतात"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcesmIjuCInMwJOI6g==",
+   "clue": "लहान गाव"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 12,
+   "x": "jceDmInWCInM0Q/NyaVNjceZmIjp",
+   "clue": "रायगडाचा कडा उतरून गेलेली आई"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 14,
+   "x": "jceimIjiCInMwA/NyZZNjceJ",
+   "clue": "घोड्यांवरचे सैन्य"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 16,
+   "x": "jcecBM3NwhWIxeY=",
+   "clue": "दहा वर्षे"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 1,
+   "x": "jceCmIjklM3dgdeTEdCVyYOe+lGJ0M2IxP7NyYDRyO7a3IIVlM3OgdeSEdCVxQ==",
+   "clue": "पंधरा ऑगस्ट"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 8,
+   "x": "jce8BM3N4xWIxcNRjZSkEYOeyA==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 8,
+   "x": "jce8BM3NwonN7JOJ90zRydPa3aCJ0MY=",
+   "clue": "अचंबा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 20,
+   "x": "jceSmIjlCInM9JOJ0w==",
+   "clue": "होडी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 0,
+   "x": "jcecmIjiCInM0ZOI7Q==",
+   "clue": "रस्सी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 12,
+   "x": "jcevBM3NwRWIxek=",
+   "clue": "युद्धातील अंगरक्षक पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 14,
+   "x": "jcegBM3NxonN5g/NyazRyd1GmInc",
+   "clue": "एकोणीसशे बेचाळीसचे आंदोलन"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 18,
+   "x": "jcenmIjoCInMzw/NyaXRyd0=",
+   "clue": "कानात लोंबणारा दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 19,
+   "x": "jceUBM3NzYnM3w/NyZxNjceJmIjuCInM15OI4NCV2B/a3J0=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 2,
+   "x": "jceCmInWlM3qHZOJ1NCV0x/a3JUVlM3A",
+   "clue": "राजाचे आसन"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 7,
+   "x": "jcedmIjhCInM0ZOI4NCVwg==",
+   "clue": "हिंमत"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 10,
+   "x": "jceRmInXCInM0g/NyZPRyOM=",
+   "clue": "एकोणीसशे सत्तेचाळीसला झालेले देशाचे विभाजन"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 10,
+   "x": "jceRmInXCInM0g/NyaXRyOQ=",
+   "clue": "भारतीय चित्रपटाचे जनक दादासाहेब"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 14,
+   "x": "jceImIjuCInM9w==",
+   "clue": "वृत्तपत्रातील मजकूर"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 17,
+   "x": "jceWBM3N4hWIxcM=",
+   "clue": "मराठ्यांचा जुना इतिहासग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jce9BM3N0InM3g/NyYnRyd1GmInRCInM9JOJ00zRydM=",
+   "clue": "इतिहास लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 4,
+   "x": "jcevmInXCInMyZOI4NCV1IOf81GJ0PWIxPM=",
+   "clue": "मराठ्यांचे आरमारप्रमुख आंग्रे"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 17,
+   "x": "jcesBM3NxhWIxd9RjZSVjca3mInNlM3W",
+   "clue": "कुटण्याचे दगडी भांडे आणि दांडा"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 6,
+   "x": "jceKmIjuCInMwpOI7w==",
+   "clue": "अणूंचा समूह"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 8,
+   "x": "jcedmIjrCInMzw/NyaXRyORGmInNlMzq",
+   "clue": "शेपटीवाला आकाशस्थ गोळा"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 9,
+   "x": "jceUBM3NzYnM3g/NyZjRyd0=",
+   "clue": "मास"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 13,
+   "x": "jceCmInXCInM1A/NyYBNjcevBM3NxA==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 13,
+   "x": "jceCmInXCInMz5OI4NCV3YOexlGJ0PWIxP7NyZ8=",
+   "clue": "सम्राटाचे राज्य"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 0,
+   "x": "jcePBM3N0BWIxds=",
+   "clue": "वंशपरंपरेने मिळालेली जमीन"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 1,
+   "x": "jceeBM3NzQ==",
+   "clue": "युद्धानंतरचा करार"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 4,
+   "x": "jcemmIjpCInM1JOJ00zRycDa3a8=",
+   "clue": "डोळ्यांना न दिसणारे सूक्ष्मजीव"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 7,
+   "x": "jceiBM3N6xWIxdvNyY4=",
+   "clue": "संविधान; किंवा प्रसंग"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 11,
+   "x": "jceCmIjklM3dHZOJ3dCV0x/a3LGJ0eSIxdw=",
+   "clue": "शिवरायांनी स्थापन केलेले"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 15,
+   "x": "jcecmIjoCInM9JOJ00zRyctGmInPlM3WHZOJ3Q==",
+   "clue": "दुकान चालवणारा"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-02",
+ "title": "घर आणि कुटुंब २",
+ "difficulty": "सोपे",
+ "rows": 12,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "x": "jceQBM3D2oHWr0zSyfQ=",
+   "clue": "झोपण्याची खाट"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceQBM3D2IHWk0zSycc=",
+   "clue": "पीठ मळण्याचे मोठे ताट"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jce/BM3DwIHWr0zSycdGmIn9FIHWidCX7B/a3J2HzeySiZZOjceMmIjn",
+   "clue": "गणपती विसर्जनाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceemIjmFIHWnkzSyds=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceCmInZiMXwUdCWzB/a3JuHzeE=",
+   "clue": "गरम भांडे पकडण्याचा चिमटा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jceUmInZFIHWg9CW0w==",
+   "clue": "आईचा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceCmInZFIHWlUzSydPa3ao=",
+   "clue": "नवऱ्याचे किंवा बायकोचे वडील"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jceCmInZFIHWldCX7w==",
+   "clue": "नवऱ्याची किंवा बायकोची आई"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceUmInZFIHWmEzSydXa3a0=",
+   "clue": "आईची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jcePBM3DyYHXrUzSydE=",
+   "clue": "बाबा; पिता"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jce8BM3D9IHXqkzSydva3JMbiMXKzZWw",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jce8BM3DzIHXoNCWwoOexg==",
+   "clue": "वडिलांची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceCmInZFIHWlUzSydM=",
+   "clue": "नवऱ्याचे घर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcezBM3D2h2SiZVOjceZmIjg",
+   "clue": "पोळी उलटण्याचे सपाट साधन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jcezBM3D3oHXrQ==",
+   "clue": "झोपताना डोक्याखाली घेतो ती"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcefBM3D2IHXoNCWw4OexlGHzM+SiLBOjcelBM3D2A==",
+   "clue": "ताप मोजणारे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceSBM3D2B2SiaVOjcegBM3DzIHXrEzSydPa3aCHzMcOzZSEjca6",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jceSBM3Dy4HWr0zSycU=",
+   "clue": "नवऱ्याची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jcegBM3Dxh2SiarSyd0=",
+   "clue": "आमटी पिण्यासाठी वापरतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcegmInZFIHWi0zSydM=",
+   "clue": "अंथरुणावरील कापड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jcegmInZFIHWmEzSycLa3a0=",
+   "clue": "गावातील सभेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcegmInZFIHWn0zSyfY=",
+   "clue": "गाडी चालवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jcevBM3Dyh2Sibg=",
+   "clue": "तळण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jcegBM3D9x2Sibg=",
+   "clue": "जमिनीवर अंथरण्याची"
+  }
+ ]
+}

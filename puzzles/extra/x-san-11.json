@@ -1,0 +1,177 @@
+{
+ "id": "x-san-11",
+ "title": "सण, कला आणि परंपरा ११",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "x": "jceKmInNHY6Jn02Nx5IEzdfUEs2Vn43Gug==",
+   "clue": "श्रीरामाचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceUBM3X2I6Jj02Nx5eYic0djomBTY3Hng==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceXBM3X1I6Jj02Nx5KYiPM=",
+   "clue": "शिवरायांची कुलदेवता"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcePmInNHY6JidHI4kaYidWBy6pN0cnW",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jce1BM3X9I6Jj02Nx5wEzdfXjoix",
+   "clue": "उपवासाचा अकरावा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jceKmIj0HY6JktHI4kaYieaBypM=",
+   "clue": "माहूरची देवी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jceemIj4HY6JgU2Nx5k=",
+   "clue": "दाराला लावायची फुलांची माळ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jcecBM3X146Jj02Nx48EzdfFjomPTY3Hig==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jce/BM3XyY6Js02Nx54Ezdf7Es2VlY3GuwTN19GOiLzRycVGmInFgcut",
+   "clue": "गणपती विसर्जनाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jce/BM3X9I6IvNHJ1EaYidwdjomV0cjgRpiJ14HLrU3Rycza3JM=",
+   "clue": "सोने खरेदीचा शुभ दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceemIjyHY6Jgk2Nx4yYiPMdjomE0cncRpiJxoHKk03Rydo=",
+   "clue": "दिवाळीनंतर तुळशीचे लग्न"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcetmInNHY6Jnk2Nx68=",
+   "clue": "गाणारा कलाकार"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jceemInNHY6Jgw==",
+   "clue": "संगीतातील लयबद्ध ठेका"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceQBM3X9xLNlYSNx4QEzdf9",
+   "clue": "दोन्ही बाजूंनी वाजणारे वारकरी वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jcePmInMHY6JkdHI7trcjQ+Byp8=",
+   "clue": "पंढरपूरचा विठोबा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jceUmInNHY6JgdHI4kaYideBy60=",
+   "clue": "हनुमान; बजरंगबली"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceQmInNHY6JkE2Nx4+Yic0=",
+   "clue": "दिवाळीतील बलिप्रतिपदा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceQmInNHY6JgdHI7trcmA+ByonRlO0=",
+   "clue": "शंकराची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jceDBM3XyY6IsE2Nx5SYic0djomZTY3HpgTN186OibNNjceemIjz",
+   "clue": "मारुतीचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceSBM3X1BLNlYGNx4QEzdfFjoi80cnT",
+   "clue": "देवीचा नऊ दिवसांचा उत्सव"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceVmInxHY6JldHI7trcnQ==",
+   "clue": "मशीन"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 8,
+   "x": "jceKmInNHY6Jnw==",
+   "clue": "अयोध्येचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceXmInMHY6JldHI7trciZPF0VHRlfeDnsdRk8XKzZS8jceK",
+   "clue": "भिंतीवर काढलेले चित्र"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jcegmInMHY6JldHI7trcnQ==",
+   "clue": "रेखाटन"
+  }
+ ]
+}

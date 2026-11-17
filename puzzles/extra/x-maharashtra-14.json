@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-14",
+ "title": "माझा महाराष्ट्र १४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceUmInSHYjFyh2TzMc=",
+   "clue": "फरसाण घातलेली तिखट उसळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jce8BM3J0ojF8B2TzNKSxK0=",
+   "clue": "ज्ञानेश्वरांची समाधी असलेले गाव"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jce8BM3J0RSB1s+TzMoOgYmB",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcePmInSHYjFxIHX1giSxZ5N1Mn0RpiJzA==",
+   "clue": "बाजीप्रभूंच्या लढाईशी जोडलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceemIjsHYjFwR2TzOiSxZNN1MnJ2t2vEYHM0Q==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceImIjqHYjF0YHW6A==",
+   "clue": "डोंगरात कोरलेली प्राचीन गुहा-मंदिरे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jceMmInTHYjFy4HW6g==",
+   "clue": "कोल्हापूरचे लोकराजे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jceUmInTHYjFwB2TzMEOgYmS1Mjj",
+   "clue": "सिंधुदुर्गातील बोली"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jcePBM3J0RSB1sIPiNDfgYmPSI3Hng==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceSmInTHYjF5R2TzN6SxK9N1MnT",
+   "clue": "संत्र्यांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceSmInTHYjFwh2TzMeSxK1N1MnJ2t2hEYHM0ZLE/ojQ0YGJjkiNx5SYidM=",
+   "clue": "कोळी समुद्राला नारळ अर्पण करतात"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceUmInvHYjF5R2TzMeSxZNN1Mn02t2hEYHM0Q==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcenmIjsHYjF0R2TzOGSxZM=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jceCmInvHYjF54HW5ZTW0c2Vio3HuATNycU=",
+   "clue": "तिळगूळ वाटण्याचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceUmInTHYjF14HW7wiSxZ3RkNMf2tyF",
+   "clue": "वाहनांना बंदी असलेले थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceSBM3J6xSB1tSTzMoOgYmB1Mjj",
+   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcecmInTHYjF2IHW4wiSxZ/Rke0=",
+   "clue": "कोकणातील कृषी विद्यापीठाचे गाव"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jcePBM3JwIjFzB2TzN6SxZNN1MnW",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jceQmIjmHYjFx4HX1giSxYzRkNM=",
+   "clue": "वीररसपूर्ण शाहिरी गीत"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jcepBM3J1IjE8g==",
+   "clue": "ज्ञानेश्वरीतील छंद"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcePmInTHYjFwh2TzMaSxK0=",
+   "clue": "आदिवासी चित्रशैली"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jcePmIjtHYjF0YHW7wiSxbhN1MnT2t2t",
+   "clue": "दिंडीत वीणा घेऊन चालणारा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 10,
+   "x": "jcetmInTHYjFxw==",
+   "clue": "खेडे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 10,
+   "x": "jcetmInTHYjF14HX1g==",
+   "clue": "तुकारामांच्या अभंगांचा संग्रह"
+  }
+ ]
+}

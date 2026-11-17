@@ -36,6 +36,7 @@ async function route() {
   try {
     if (m) teardown = await renderPlay(m[1]);
     else if (hash === '#/help') renderHelp();
+    else if (hash === '#/more') await renderMore();
     else await renderHome();
   } catch (err) {
     console.error(err);
@@ -83,6 +84,7 @@ function wireTopbar() {
 
 async function renderHome() {
   const index = await fetchJSON('puzzles/index.json');
+  const extras = await loadExtras();
   const today = todayISO();
   const list = index.puzzles.filter((p) => p.date <= today).sort((a, b) => b.date.localeCompare(a.date));
   const [top, ...rest] = list;
@@ -105,6 +107,11 @@ async function renderHome() {
       </section>`;
     const streak = store.streakAsOf(today);
     if (streak > 0) html += `<p class="streak">${t('streak', { n: streak })}</p>`;
+    if (extras?.puzzles?.length) {
+      html += `<a class="more-card" href="#/more">
+          <span class="more-text"><b>${t('morePuzzles')}</b><small>${t('moreCount', { n: extras.puzzles.length })}</small></span>
+          <span class="chev" aria-hidden="true">›</span></a>`;
+    }
     if (rest.length) {
       html += `<h3 class="section-title">${t('archive')}</h3><ul class="archive">${rest
         .map((p) => `<li><a href="#/p/${encodeURIComponent(p.id)}">
@@ -129,10 +136,102 @@ async function renderHome() {
 
   // Warm the offline cache: the latest puzzle and the next few days' puzzles.
   const soon = index.puzzles.filter((p) => p.date >= (top?.date ?? today) && p.date <= addDays(today, 3));
-  const warm = () => soon.forEach((p) => fetch(`puzzles/${encodeURIComponent(p.id)}.json`).catch(() => {}));
+  const warm = () => soon.forEach((p) => fetch(`puzzles/${puzzlePath(p.id)}`).catch(() => {}));
   const sw = navigator.serviceWorker;
   if (sw?.controller) warm();
   else sw?.addEventListener('controllerchange', warm, { once: true }); // first visit: wait for the worker
+}
+
+// ───────────────────────── More puzzles ─────────────────────────
+
+/** Extra (undated) puzzles have ids starting with "x-" and live in puzzles/extra/. */
+const isExtra = (id) => id.startsWith('x-');
+const puzzlePath = (id) => (isExtra(id) ? `extra/${encodeURIComponent(id)}.json` : `${encodeURIComponent(id)}.json`);
+
+/** The extra puzzles' index, or null when it can't be had (offline and never cached). */
+async function loadExtras() {
+  try {
+    return await fetchJSON('puzzles/extra/index.json');
+  } catch {
+    return null;
+  }
+}
+
+async function renderMore() {
+  const extras = await fetchJSON('puzzles/extra/index.json');
+  const settings = store.loadSettings();
+  const themes = extras.themes || [];
+  let theme = themes.some((th) => th.key === settings.moreTheme) ? settings.moreTheme : 'all';
+  let size = ['small', 'large'].includes(settings.moreSize) ? settings.moreSize : 'all';
+
+  const chip = (group, value, label, on) =>
+    `<button type="button" class="chip" data-group="${group}" data-value="${esc(value)}" aria-pressed="${on}">${label}</button>`;
+  app.innerHTML = topbar(t('morePuzzles'), { backHref: '#/' }) + `<main class="home more">
+      <p class="filter-label">${t('theme')}</p>
+      <div class="chips" role="group" aria-label="${t('theme')}">
+        ${chip('theme', 'all', t('allThemes'), theme === 'all')}
+        ${themes.map((th) => chip('theme', th.key, `<span lang="mr">${esc(th.title)}</span>`, theme === th.key)).join('')}
+      </div>
+      <p class="filter-label">${t('size')}</p>
+      <div class="chips" role="group" aria-label="${t('size')}">
+        ${chip('size', 'all', t('anySize'), size === 'all')}
+        ${chip('size', 'small', t('sizeSmall'), size === 'small')}
+        ${chip('size', 'large', t('sizeLarge'), size === 'large')}
+      </div>
+      <button type="button" class="btn-primary play-any">🎲 ${t('playAny')}</button>
+      <p class="more-summary muted"></p>
+      <ul class="archive more-list"></ul>
+    </main>`;
+  document.title = `${t('morePuzzles')} · ${t('appName')}`;
+  wireTopbar();
+
+  const listEl = app.querySelector('.more-list');
+  const summaryEl = app.querySelector('.more-summary');
+  const sizeLabel = (p) => `${t('words', { n: p.words })} · ${t(p.size === 'large' ? 'large' : 'small')}`;
+  const matching = () => extras.puzzles.filter((p) => (theme === 'all' || p.theme === theme) && (size === 'all' || p.size === size));
+
+  function renderList() {
+    const list = matching();
+    const solved = list.filter((p) => store.statusOf(p.id) === 'solved').length;
+    summaryEl.textContent = list.length ? t('moreSummary', { n: list.length, s: solved }) : t('noneMatch');
+    listEl.innerHTML = list
+      .map((p) => {
+        const st = store.statusOf(p.id);
+        return `<li><a href="#/p/${encodeURIComponent(p.id)}">
+          <span class="a-title"><span lang="mr">${esc(p.title)}</span><small>${sizeLabel(p)}${p.difficulty ? ' · ' + t('diff.' + p.difficulty) : ''}</small></span>
+          <span class="status ${st}">${t('status.' + st)}</span></a></li>`;
+      })
+      .join('');
+    listEl.hidden = !list.length;
+  }
+
+  app.querySelector('main').addEventListener('click', (ev) => {
+    const b = ev.target.closest('.chip');
+    if (!b) return;
+    if (b.dataset.group === 'theme') theme = b.dataset.value;
+    else size = b.dataset.value;
+    app.querySelectorAll(`.chip[data-group="${b.dataset.group}"]`).forEach((c) => c.setAttribute('aria-pressed', String(c === b)));
+    const s = store.loadSettings();
+    s.moreTheme = theme;
+    s.moreSize = size;
+    store.saveSettings(s);
+    renderList();
+  });
+
+  app.querySelector('.play-any').addEventListener('click', () => {
+    const list = matching();
+    const pick = (st) => list.filter((p) => store.statusOf(p.id) === st);
+    const pool = pick('new').length ? pick('new') : pick('progress');
+    if (!pool.length) return toast(list.length ? t('allSolvedHere') : t('noneMatch'));
+    location.hash = `#/p/${encodeURIComponent(pool[Math.floor(Math.random() * pool.length)].id)}`;
+  });
+
+  renderList();
+  // Keep the chosen chip visible when its row scrolls sideways (e.g. a theme far to the right).
+  app.querySelectorAll('.chips').forEach((row) => {
+    const on = row.querySelector('[aria-pressed="true"]');
+    if (on) row.scrollLeft = on.offsetLeft - row.offsetLeft - (row.clientWidth - on.offsetWidth) / 2;
+  });
 }
 
 // ───────────────────────── Help ─────────────────────────
@@ -187,7 +286,9 @@ function openSheet(inner, { center = false } = {}) {
 const SENTINEL = '​'; // lets us detect backspace in an otherwise-empty system-keyboard input
 
 async function renderPlay(id) {
-  const data = await fetchJSON(`puzzles/${encodeURIComponent(id)}.json`);
+  const data = await fetchJSON(`puzzles/${puzzlePath(id)}`);
+  const extra = isExtra(id);
+  const homeHref = extra ? '#/more' : '#/';
   const pz = buildPuzzle(data);
   const settings = store.loadSettings();
   const prog = store.loadProgress(id);
@@ -213,7 +314,7 @@ async function renderPlay(id) {
   app.innerHTML = `
     <div class="play ${settings.input === 'system' ? 'sys' : ''}">
       <header class="playbar">
-        <a class="icon-btn" href="#/" aria-label="${t('home')}">←</a>
+        <a class="icon-btn" href="${homeHref}" aria-label="${t(extra ? 'morePuzzles' : 'home')}">←</a>
         <div class="title" lang="mr">${esc(pz.title)}</div>
         <button type="button" class="timer" aria-label="${t('pause')}"></button>
         <button type="button" class="submit-btn" disabled></button>
@@ -439,6 +540,15 @@ async function renderPlay(id) {
 
   // ── finish screen
   function shareText() {
+    if (extra) {
+      // Undated: name the puzzle and link straight to it so a friend can play the same one.
+      return t('shareTextExtra', {
+        app: t('appName'),
+        title: pz.title,
+        time: time(S.elapsed),
+        assisted: S.assisted ? t('shareAssisted') : '',
+      }) + '\n' + location.href;
+    }
     return t('shareText', {
       app: t('appName'),
       date: date(id, { day: 'numeric', month: 'long', year: 'numeric' }),
@@ -479,7 +589,7 @@ async function renderPlay(id) {
         ${streak > 0 ? `<p class="streak">${t('streak', { n: streak })}</p>` : ''}
         ${id === today ? `<p class="muted">${t('comeTomorrow')}</p>` : ''}
         <button type="button" class="btn-primary share-btn">${t('share')}</button>
-        <a class="btn-secondary" href="#/">${t('home')}</a>
+        <a class="btn-secondary" href="${homeHref}">${t(extra ? 'anotherPuzzle' : 'home')}</a>
         <button type="button" class="link-btn" data-close>${t('view')}</button>
       </div>`,
       { center: true },

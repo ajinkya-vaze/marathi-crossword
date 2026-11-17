@@ -55,6 +55,12 @@ Open http://localhost:8000. For the phone layout, use your browser's device mode
 
    If a line ends in ⚠ (for example a Sunday under 60 words), run the same batch again with `--force --seed N` and a different N. Redoing the whole batch keeps the 7-day gap; redoing one day in the middle may shrink it, because the days after it already use some words. A bigger word list makes this rarer.
 
+   **Extra puzzles** (the "More puzzles" screen) are undated and grouped by theme:
+   ```bash
+   python3 tools/generate.py --extra
+   ```
+   This adds 15 small and 3 large puzzles per theme to `puzzles/extra/` (change with `--small N --large N`). Run it again later to add more; existing ones keep their ids, so players keep their progress. `--extra --force` rebuilds them all from scratch.
+
 3. **Check them:**
    ```bash
    python3 tools/validate.py
@@ -86,5 +92,6 @@ This runs the Python tests: akshara splitting, encoding, the validator, the gene
 | `content/words.csv` | source word and clue list |
 | `puzzles/index.json` | list of daily puzzles |
 | `puzzles/<date>.json` | one puzzle |
+| `puzzles/extra/` | undated extra puzzles by theme, with their own `index.json` |
 | `tools/generate.py` | builds puzzles from the word list |
 | `tools/puzzlelib.py` | answer encoding and validation rules, mirrored by `tools/validate-lib.js` for the browser |

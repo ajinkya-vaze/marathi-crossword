@@ -1,0 +1,177 @@
+{
+ "id": "x-manus-07",
+ "title": "माणूस आणि भावना ७",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceCmIjsHY7R182UiRGDnsg=",
+   "clue": "लाकडाचे काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jce1BM3J9BKV17LQkuof2tyHEYHK1pOJjg==",
+   "clue": "सोबत नसणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceWmInTHY7R5FHQk9iDnsZRjcXG",
+   "clue": "फळे विकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jcecmIjvHY7R1FHQk9iDnsZRjcXcldeT",
+   "clue": "दूध घालणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jcevBM3J0Y7R8VHQk/of2tyejcTu",
+   "clue": "सर्वात लहान बोट"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceCmInTHY7R5FHQk90f2ty6jcTlCZOJr9fI5A==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceCmInTHY7RxlHQk/iDnsZRjcXe",
+   "clue": "व्याजाने पैसे देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcePmInTHY7Ry82VthGDnt7NyOYSldeY",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceSBM3J2Q==",
+   "clue": "रक्त वाहून नेणारी नलिका"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceCBM3Jz47Q8VHQk9Qf2ty6jcTuCZOJlA==",
+   "clue": "अनेकांनी मिळून म्हणायचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jcevBM3J0Y7Q8lHQk86DnsY=",
+   "clue": "दुसऱ्याचे दुःख पाहून येणारी कणव"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jcevBM3Jy47RzVHQk94=",
+   "clue": "टिळा लावतात ती जागा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jcegmInTgcr3D82Umo3HhATNydE=",
+   "clue": "चपला शिवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmInvHY7R5M2VtxGDntxRjcX7ldeTTNfJ0w==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceeBM3J0hKV15TQk9Mf2tyJ",
+   "clue": "हाताचा आतला सपाट भाग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jceDmInTHY7R3FHQk8yDn/XNydGO0PhR0JPxH9rchQ==",
+   "clue": "सर्वात हलका वायू"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 10,
+   "x": "jcecmInTHY7R1w==",
+   "clue": "चावण्यासाठी असतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jce/BM3J2I7R8VHQk/iDnsZRjcXe",
+   "clue": "गर्विष्ठपणा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceUBM3JzxKV14nQk9M=",
+   "clue": "आईची माया"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcevmInTHY7RwFHQk/GDn/g=",
+   "clue": "चिंता"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jcemmIjtHY7RxlHQk8Uf2tyVEYHK0ZOIvdfJx9rdoI3F2w==",
+   "clue": "व्हिटॅमिन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jcemBM3J9xKV14M=",
+   "clue": "लागलेले खरचटलेले"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jcevmInTHY7Rw1HQk/iDn/pRjcXG",
+   "clue": "कार्यालयातील लेखनिक"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcedBM3JyRKV17pM18nT",
+   "clue": "मेंढपाळ समाज"
+  }
+ ]
+}

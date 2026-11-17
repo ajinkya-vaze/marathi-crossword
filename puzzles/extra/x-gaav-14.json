@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-14",
+ "title": "गाव आणि शहर १४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jcecmInZHYHSj9GR7Q==",
+   "clue": "हनुवटीवरचे केस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceKmIjmHYHSutGR4IOe21GHxdSWiY9IjceDmInYHYHSuNGQ0w==",
+   "clue": "आजारी माणसाला नेणारी गाडी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jcePmInZHYHSsg==",
+   "clue": "मार्ग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcevmInZHYHSndGR4IOe183D3x2WiYNIjceV",
+   "clue": "ऑफिस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jce8BM3D1oHSk03UycHa3a0=",
+   "clue": "पंढरपूरची मोठी एकादशी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jce8BM3DwR2WiYRIjcebmIjgHYHSgdGQ0x/a3LGHxd8KzZWE",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceUmInZHYHSldGQ0w==",
+   "clue": "मत्स्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jceCmInZHYHSnU3UydZGmInE",
+   "clue": "जमिनीला शेणाने लिंपणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jcetmIjqgcXGzZWKEYOe1lGHxcuWibNIjcegmInZHYHSgk3Uycc=",
+   "clue": "गावाचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceUBM3D0h2WiZLUyOM=",
+   "clue": "कणसांतून दाणे वेगळे करणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jcegmInZHYHSng==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceeBM3Dyx2WiaTUydxGmInXgcT2",
+   "clue": "चॉकलेटी रंग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceQBM3Dwh2Wia3UyOhGmInLgcXI",
+   "clue": "आजोबांचे वडील"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcevmInZHYHSh03UycDa3a0=",
+   "clue": "पीक कापणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jcevmInZHYHStw==",
+   "clue": "पारदर्शक नाजूक पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceKBM3D2B2WiZfUyd1GmInXgcT2",
+   "clue": "रस्त्यावरची वर्दळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceQmIjgHYHSnU3UycDa3a0=",
+   "clue": "शेतात बी टाकणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceQmIjgHYHSstGR4IOeyM3C6h2WiYM=",
+   "clue": "गाड्यांचे इंधन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jce/BM3D04HSkk3Uyc/a3JMbgcXh",
+   "clue": "रायगड जिल्ह्याचे समुद्रकिनारी मुख्यालय"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcezBM3DwIHToNGQzIOexlGHxcIKzZWejca4BM3D0w==",
+   "clue": "रस्त्यावरून जाणारा उंच रस्ता"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcezBM3Dyx2WiZlIjcetBM3D0Q==",
+   "clue": "शहराच्या कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceQmIjlHYHSnw==",
+   "clue": "नदीवरून जाण्यासाठी बांधतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jcetBM3D9h2WiZlIjcegmIjmgcX0UdGQwYOf+A==",
+   "clue": "आकाशाला भिडणारी इमारत"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jcelmIjqgcXGzZSxEYOe7c3C7IHSsk3UydM=",
+   "clue": "शेतीचे यंत्र"
+  }
+ ]
+}

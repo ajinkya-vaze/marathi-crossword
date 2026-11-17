@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-09",
+ "title": "निसर्ग ९",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jceCmIjsFZPFwofEoNCdwh/a3IOOzc0dksPTzZSH",
+   "clue": "सूर्य व त्याचे ग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceUmInQFZPF0YfFkkzZyfY=",
+   "clue": "लाल रंगाचे रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "x": "jceYBM3K/g==",
+   "clue": "मेघ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcePmIjmFZPF3IfFk0zZycva3JISidf0",
+   "clue": "विमान चालवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jcePmIjmFZPF2huBiafZyeFGmIn5idff",
+   "clue": "विदर्भातील मोठी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceCmInQFZPF5RuBiYXZyd1GmInG",
+   "clue": "मजबूत इमारती लाकडाचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceCmInQFZPFx4fFkkzZycfa3aCOzcOB1+cdzZSVjceEBM3K4Q==",
+   "clue": "पहिल्या स्त्री शिक्षिका"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcecmIjvFZPFxYfEoNCd+IOexlGOzcA=",
+   "clue": "पाऊस न पडल्याने येणारी टंचाई"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceCmIjpFZPFx4fFk0zZyfTa3aCOzcOB1tkdzZSX",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcetmInQFZPFwhuBiYXZyd0=",
+   "clue": "हवेतील सुखद थंडावा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jcevBM3K2g+B1t+BiLJFjceWmInQFZPF+g==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jcevBM3KypPE/4fFlNCc6h/a3J0=",
+   "clue": "पिवळी किंवा गुलाबी फुले येणारे झुडूप"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jceSBM3Kz5PE8g==",
+   "clue": "सरिता"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceDmInRFZPF3BuBiZhFjcecmIju",
+   "clue": "बर्फाची हळूहळू वाहणारी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceDmInRFZPFwhuBiYVFjceJ",
+   "clue": "हिरवेगार गवत"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jcecmIjsFZPFwhuBiZfZyO7a3JgSidfJksLh",
+   "clue": "टेलिफोन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jcedmIjjidfUDofFhdCd0h/a3IaOzPMdksPF",
+   "clue": "कॅसेट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceemIjvFZPFxYfFk0zZydM=",
+   "clue": "पाण्याचे बारीक उडणारे कण"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 10,
+   "x": "jceWmIjpFZPFwA==",
+   "clue": "शंकराला वाहिल्या जाणाऱ्या त्रिदलांचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceWmIjpFZPF7Q==",
+   "clue": "चारही बाजूंनी पाण्याने वेढलेला भूभाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcePmInQFZPFwRuBiYXZyeFGmInx",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcePmInQFZPFwYfErw==",
+   "clue": "रेती"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceQmIjjidfRDofFgNCd0x/a3Ik=",
+   "clue": "सकाळ; उषःकाल"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jceQmIjjidfRDofFmNCd0x/a3JQ=",
+   "clue": "वाहत्या पाण्याचा ओघ"
+  }
+ ]
+}

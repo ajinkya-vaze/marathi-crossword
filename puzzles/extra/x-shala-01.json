@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-01",
+ "title": "शाळा आणि खेळ १",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 8,
+   "x": "jcetmIjyFIHI0c2VsA==",
+   "clue": "शिष्याला ज्ञान देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jcetmIjyFIHIws2UjxGDnu3N19YdjMWd",
+   "clue": "पटीने वाढवणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jcevBM3X2IHI41HQlcwf2ty4",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jceVmIj4FIHI9s2UjxGDnsBRk8zJ",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcevmIj2FIHI0VHQlcM=",
+   "clue": "सोंगट्या पॉकेटमध्ये घालायचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jceemIj4FIHI0VHQlc6DnsY=",
+   "clue": "शिवरायांनी जिंकलेला पहिला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jceXmInNFIHI9s2UjxGDnu3N19YdjMWd",
+   "clue": "समान वाटणी करणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jcevmInNFIHI01HQlfuDnvpRk8zA",
+   "clue": "इतिहासातील ठराविक काळ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceUBM3X0YHI31HQldWDnsZRk8z2EIGJgA==",
+   "clue": "अतिविशाल समुद्र"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jceCmInNFIHIy1HQlduDnsdRk8zAjMSt",
+   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcePmInMFIHI/c2VvI3HpJiJzRSByMk=",
+   "clue": "प्रयोगांचा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jcePmInMFIHI0c2UjxGDntZRk8z7jMWSTNHJy9rdoJPM2A==",
+   "clue": "पूर्णविराम स्वल्पविराम वगैरे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jcezBM3Xwh2MxZ1M0cnA2t2q",
+   "clue": "खांद्यावर घ्यायचे वस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceMmInMFIHI9M2VvI3HjQTN1/0=",
+   "clue": "गुरुजी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcevBM3X2IHJ7M2UkhGDnt/N19YdjMWd",
+   "clue": "संघाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceUBM3X2oHJ7M2UgxGDnu7N19aByONR0JXB",
+   "clue": "लाकडी खांबावरील महाराष्ट्राचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcevmIj4FIHIyQ==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jcedmInNFIHI1FHQlc6Dn/8=",
+   "clue": "शर्यतीत करतात ते"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceCmIjxFIHI0c2VvI3HlQTN18AdjMWDTNHJ29rdoJPM9IzFk0zRydM=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jceUBM3X0YHI31HQldiDnsdRk8zHjMSg0JXCg57GUZPM0xCBiZ8=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcegmIj0iMXuHc2UkI3GuA==",
+   "clue": "गोल खेळणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcePmInMFIHI/s2VsRGDnt7N19aByONR0JXMg5/6",
+   "clue": "दोन लाकडी तुकड्यांचा पारंपरिक खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceCBM3X0R2MxZ8=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jceCmIj+iMXEgYi3TY3HgwTN19CByONR0JXDg5//UZPM0xCBiZg=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  }
+ ]
+}

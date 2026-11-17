@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-12",
+ "title": "प्राणी आणि पक्षी १२",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcePmInODoHKz82Uv43HlQTN1MeBy+rNlbARg57e",
+   "clue": "वादकांचा समूह; ऑर्केस्ट्रा"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "x": "jceCmIjxDoHKzc2VjBGDnshRkNbLEomJpNLI7trcmpDX4Q==",
+   "clue": "चोचीने झाडाचे खोड ठोकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceQBM3UwoHK11HRltgf2tydkNfsjs2JTdLJyw==",
+   "clue": "प्रकाश परत फिरणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jcevmInODoHK0VHRltg=",
+   "clue": "पाठीवर कवच असलेला संथ प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jceCmInODoHKww==",
+   "clue": "सर्प"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceCmInODoHK2s2VjY3HuATN1NQdjs2d",
+   "clue": "अंगावर काटे असलेला प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceWBM3U1B2Ozbg=",
+   "clue": "पाण्यात पोहणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jceWBM3Uy4HK1lHRlt2Dn/g=",
+   "clue": "शिकारी ससाण्याची एक जात"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jcevBM3Uwh2OzYzRl+8=",
+   "clue": "शेळीचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceKBM3U54HL5M2VhY3HhATN1N6ByutR0ZbKH9rchQ==",
+   "clue": "बहीण भावाला राखी बांधते तो सण"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jcedBM3U2oHL7lHRlts=",
+   "clue": "मोठ्या चोचीचा जंगलातील पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jceCmIjxDoHK2VHRlsMf2tyl",
+   "clue": "किंमती चविष्ट समुद्री मासा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceCmIjxDoHK/lHRlt0f2tyO",
+   "clue": "सुंदर लोंबते घरटे विणणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceMBM3Uy4HK11HRlsODn/tRkNb2",
+   "clue": "सर्वात मोठा न उडणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcevmIj7DoHK2s2VjRGDns/N1f+ByvZR0Zb4",
+   "clue": "कोळ्याचे जाळे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jcevBM3U3oHL61HRlskf2tyd",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jcevmIj7ksXsFc2VnhGDntnN1Mw=",
+   "clue": "पहाटे आरवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jceQmInODoHKylHRlviDn/PN1PAdjs2BTdLJwtrdrQ==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceQmInODoHKylHRlvWDn/NRkNbAjs2T",
+   "clue": "नदीत राहणारा अवजड प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jceCmInPksXsFc2Vi43GugTN1NE=",
+   "clue": "सिंहाची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceCmInPksXsFc2Viw==",
+   "clue": "जंगलाचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcezBM3U2B2OzZTRltMf2tydDJLF+YmIsk6Nx4M=",
+   "clue": "हॉटेल; खाणावळ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcebmInODoHK0Q==",
+   "clue": "मलेरिया पसरवणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 8,
+   "x": "jceCBM3UyoHK11HRls6DnsY=",
+   "clue": "वेगाने झेप घेणारा शिकारी पक्षी"
+  }
+ ]
+}

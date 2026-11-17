@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-11",
+ "title": "खाऊ आणि स्वयंपाकघर ११",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "x": "jceRBM3P94HAxx3NlaSNxr0=",
+   "clue": "दिवाळीत फोडतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jceRBM3P2IHAxx3NlYI=",
+   "clue": "दिवाळीचे खास पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jcevmIjsFIHAzx3NlYE=",
+   "clue": "महाग सुगंधी लाल धागे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceRBM3P2B2E3dnNlY8Rg57b",
+   "clue": "तळलेले खारे पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceCmInVFIHA7x3NlYE=",
+   "clue": "गोड पांढरे कण"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcetmIjpFIHAyg==",
+   "clue": "उसापासून बनणारा तपकिरी गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceKBM3P0B2E3fbNlLARg57Kzc7lgcDLgYmP",
+   "clue": "बंगाली गोड स्पंजसारखा गोळा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "x": "jcetmIjqFIHAy4GJj02Nx5YEzc/0gcDHHc2Vnw==",
+   "clue": "पाकात मुरलेले गोड गोळे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceemIjpFIHAyQ==",
+   "clue": "वरणाची डाळ देणारे कडधान्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceemIjpFIHA0w==",
+   "clue": "लोणी कढवून मिळणारे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jceWBM3PyYHB+R3NlYeNxr0Ezc/C",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceMmIjsFIHAzA==",
+   "clue": "बेसनाची तळलेली बारीक कांडी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcevmIjgFIHA7B3NlZ8=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcevmIjgFIHA3IGJjtHJ4UaYiceIxOQFgYmB",
+   "clue": "हिरवी सुगंधी पाने"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceCmIjqFIHA3oGJj02Nx4oEzc/Q",
+   "clue": "साखरेचा लिंबू घातलेला पाक"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceCmIjqFIHA5oGIvNHJ/NrdrQ==",
+   "clue": "शाळा बंद असण्याचे दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceCBM3P2B2E3c1R0ZXJ",
+   "clue": "थंड गोड पेय"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jceKBM3P3YHAxw==",
+   "clue": "गव्हाचा जाडसर भरडा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jce8mInpFIHA1YGJjw==",
+   "clue": "फळांचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jceWmInVFIHAyYGJj02Nx6wEzc/JgcH5",
+   "clue": "का कि की कु कू"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jcebmInVFIHAyoGJjtHJ4UaYicc=",
+   "clue": "लाल दाण्यांचे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jcenmIjqFIHA2h3NlaSNx4Q=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceeBM3P2x2E3cI=",
+   "clue": "तेलात तळलेले पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jcevmInVFIHA7B3NlZCNxro=",
+   "clue": "कोशिंबिरीत घालायची हिरवी फळभाजी"
+  }
+ ]
+}

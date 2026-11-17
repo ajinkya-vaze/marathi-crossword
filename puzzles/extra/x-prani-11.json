@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-11",
+ "title": "प्राणी आणि पक्षी ११",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceUmIj9ksXXiYi5TY3Hgg==",
+   "clue": "दूध देणारी काळी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jceimIj7DoHKylHRldU=",
+   "clue": "विषारी साप; त्याच्या अंगावर साखळीसारखे ठिपके"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceimIj7DoHK2VHRlccf2tyM",
+   "clue": "किल्ल्याच्या भिंतीवर चढणारा सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceQmIj9ksXeFc2VlY3HhATN1Ngdjs26TdHJwg==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jcedBM3U2oHL7lHRlds=",
+   "clue": "मोठ्या चोचीचा जंगलातील पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceCmIjxDoHKzc2VjxGDnshRkNbLEomJpNHI7trcmpDX4Q==",
+   "clue": "चोचीने झाडाचे खोड ठोकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceMBM3Uy4HK11HRlcODn/tRkNb2",
+   "clue": "सर्वात मोठा न उडणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceDmInODoHKxlHRlcyDn/XN1MKBy+JR0ZXxH9rchQ==",
+   "clue": "सर्वात हलका वायू"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 10,
+   "x": "jcevmIj7DoHK282UvI3Hg5iJzg==",
+   "clue": "धूर्त म्हणून ओळखला जाणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jcevmIj7DoHK2s2UsQ==",
+   "clue": "जाळे विणणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcebBM3Uwh2OzbjRldMf2tyekNfh",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcevmInODoHK3FHRlfiDnsZRkNbU",
+   "clue": "कावळ्याचा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jceCmInPksXsFc2ViA==",
+   "clue": "जंगलाचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceCBM3Uwh2OzYzRldM=",
+   "clue": "रंग बदलणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcevmInODoHK9VHRldiDnsY=",
+   "clue": "रात्री चमकणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jcePmInODoHK2lHRldiDn/g=",
+   "clue": "लाकूड पोखरणारे पांढरे कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jce/BM3Uyx2OzYNN0cnFRpiJ2A6Byv5R0ZXd",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jce/BM3UyoHL5M2VhBGDnso=",
+   "clue": "मधाचा शौकीन केसाळ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceUBM3U1R2OzYPRldMf2tybkNfh",
+   "clue": "मध गोळा करणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcebmInODoHK0Q==",
+   "clue": "मलेरिया पसरवणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jceCBM3U1h2OzZ3Rle8f2tyxkNfh",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceQmInODoHK2w==",
+   "clue": "भिंतीवर चालणारा लहान सरपटणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceUmInODoHK3FHRld6DnsY=",
+   "clue": "शिवरायांचा सैनिक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jceUmInODoHK382UsQ==",
+   "clue": "घोंघावणारा लहान कीटक"
+  }
+ ]
+}

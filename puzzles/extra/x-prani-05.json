@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-05",
+ "title": "प्राणी आणि पक्षी ५",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceQmInODoHK2w==",
+   "clue": "भिंतीवर चालणारा लहान सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceUmInODoHK21HQkdgf2tyOkNfh",
+   "clue": "सिंधुदुर्गातील बोली"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcebmIjxDoHK/M2VuI3HrwTN1MI=",
+   "clue": "चिखलात लोळणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceWmIjxDoHK21HQkcGDn/lRkNbT",
+   "clue": "डोक्यावर तुरा असलेला गाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceImInOksXsFc2UlBGDnu/N1Mw=",
+   "clue": "कळपात शिकार करणारा जंगली प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceimIj7DoHK2VHQkccf2tyM",
+   "clue": "किल्ल्याच्या भिंतीवर चढणारा सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceimIj7DoHKylHQkdU=",
+   "clue": "विषारी साप; त्याच्या अंगावर साखळीसारखे ठिपके"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcegmInPDoHKx1HQkc6Dn/g=",
+   "clue": "घराजवळ चिवचिवणारा लहान पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jcegmInPDoHK3FHQkfeDnsdRkNbU",
+   "clue": "चिमणीचा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceDBM3UwoHL6VHQkc4=",
+   "clue": "मृग"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceDBM3U1oHL5M2UkY3GugTN1NE=",
+   "clue": "हत्तीची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jcetmInODoHKy1HQkdg=",
+   "clue": "ओझे वाहणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcesmInPksXsFc2UoI3HhATN1MEdjs2O0JDq",
+   "clue": "घोड्याचे ओरडणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcegmInPDoHKzc2VuI3HnpiJzg==",
+   "clue": "सर्वात वेगवान प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceYmIj3DoHK/M2VtxGDnts=",
+   "clue": "गादीत लपून चावणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jcevmInODoHK3FHQkfiDnsZRkNbU",
+   "clue": "कावळ्याचा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jcevmInODoHK21HQkdgf2tyO",
+   "clue": "रस्सा असलेली भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jcetmInOksXsFc2UlI3GuATN1ME=",
+   "clue": "मातीत राहणारा शेतकऱ्याचा मित्र"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceImInODoHK3M2Uiw==",
+   "clue": "लहान तपकिरी जमिनीवर राहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceQmInODoHKylHQkdgf2tyNkNbf",
+   "clue": "गावातील पाणी भरण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceQmInODoHKylHQkfWDn/NRkNbAjs2T",
+   "clue": "नदीत राहणारा अवजड प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcePBM3UwYHL6w==",
+   "clue": "सांड; गावात मोकाट फिरणारा बैल"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcePmInODoHK8c2VtRGDnts=",
+   "clue": "वाघाची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceKmInODoHKzVHQkfiDnsdRkNbAjs2T",
+   "clue": "रात्री किर्रकिर्र करणारा कीटक"
+  }
+ ]
+}

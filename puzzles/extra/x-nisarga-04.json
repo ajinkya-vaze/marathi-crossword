@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-04",
+ "title": "निसर्ग ४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceCmInQFZPF5RuBiYXUyd1GmInG",
+   "clue": "मजबूत इमारती लाकडाचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jcePmInQFZPFyxuBiYXUyd0=",
+   "clue": "शाबासकी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcePmInQFZPFwofFkw==",
+   "clue": "पवन"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceQmInQFZPFwofFkw==",
+   "clue": "थर्मामीटरमधील द्रवरूप धातू"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jceQmInQFZPF+BuBiYg=",
+   "clue": "पर्जन्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceSBM3Kz5PE8g==",
+   "clue": "सरिता"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceuBM3Kz5PE84fFr0zUyc9GmIne",
+   "clue": "दत्तगुरूंचे आवडते झाड"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcecBM3K3A+B1suBiY/UyeFGmInIidbj",
+   "clue": "गवतावर पहाटे दिसणारा थेंब"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jcevmIjlFZPFwRuBiYjUyd0=",
+   "clue": "जळणारा काळा खनिज पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceCBM3K2ZPE+RuBiYVIjceK",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceDmInRFZPF3BuBiZhIjcecmIju",
+   "clue": "बर्फाची हळूहळू वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceUBM3K0JPFzBuBiYjUyd1GmIn5FZPFwg==",
+   "clue": "अतिविशाल समुद्र"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcetBM3KyA+B1vAdzZSVjceEBM3K9g==",
+   "clue": "ढगांचा मोठा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcecmIjsFZPFwhuBiZZIjceKmIjjidfXDofFhQ==",
+   "clue": "टीव्ही"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jcecBM3K2w+B1sEdzZSG",
+   "clue": "ओली पाय रुतणारी जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jcemmInsFZPF5RuBiYI=",
+   "clue": "वन, अरण्य"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcecBM3K2ZPE8g==",
+   "clue": "दोन डोंगरांमधील खोल भाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcegmInRFZPF5BuBiYI=",
+   "clue": "पाणी आणि माती यांचे मिश्रण"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jcesBM3KwZPFzRuBiaw=",
+   "clue": "जमिनीतून काढला जाणारा नैसर्गिक पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceQBM3K0JPFzBuBia8=",
+   "clue": "सूर्योदयापूर्वीची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceQBM3K0JPFzBuBiZE=",
+   "clue": "मोठा उंच डोंगर"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jcePmIjuFZPF7g==",
+   "clue": "पावसात आकाशात चमकते ती"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jcepBM3K0ZPFzBuBiZE=",
+   "clue": "निर्जन आणि उजाड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jcepBM3Ky5PFzA==",
+   "clue": "लहान नदी किंवा नाला"
+  }
+ ]
+}

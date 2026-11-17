@@ -1,0 +1,177 @@
+{
+ "id": "x-san-08",
+ "title": "सण, कला आणि परंपरा ८",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceKmInNgcqvTNjJ9Nrdpg+Byp7Qne0=",
+   "clue": "दारासमोर काढली जाणारी रंगीत नक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcetmIj4HY6JhdjJ3Nrcrw+ByovQnNM=",
+   "clue": "हंडी फोडणारे तरुण"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jcesBM3X0xLNlJCNx4QEzdfOEs2UrQ==",
+   "clue": "गोष्टीतील वाईट माणूस"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jcecmInMHY6JhdjJ3UaYicCBy60=",
+   "clue": "दिव्यांचा सण"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "x": "jcecmInMHY6JhdjJ3UaYicCBy61M2Mnm2tyvD4HKuA==",
+   "clue": "दिवाळीत निघणारे विशेष मासिक"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcevmInxHY6JltjI40aYicE=",
+   "clue": "दिवाळीत टांगायचा आकाशदिवा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceXmIjzHY6JnkSNx4KYiPQdjomY",
+   "clue": "किराणा घराण्याचे जोशी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceXmIjzHY6JntjJ3UaYicWByq9M2Mn2RpiJww==",
+   "clue": "सह्याद्रीतील ज्योतिर्लिंग"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceSmInNHY6JgESNx4mYiPMdjoma2MjvRpiJw4HLoNCczoOex1GTxcDNlIY=",
+   "clue": "कोळी समुद्राला नारळ अर्पण करतात"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceSmIj+gcqC0JzTH9rcgpPF0FHQnN8f2tyC",
+   "clue": "कोर्ट"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceVmInNHY6JlNjI7trcnZPF0A==",
+   "clue": "देवस्थानी भरणारी जत्रा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jcePmIj+gcqU0JzTH9rcgpPE5VHQnN+DnsdRk8XG",
+   "clue": "हनुवटीखाली धरायचे गजवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcevBM3XxBLNlK0=",
+   "clue": "उत्तरेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jceDBM3X0RLNlJyNx4QEzdfTjomPRI3Hr5iJzQ==",
+   "clue": "गणेशचतुर्थीच्या आधीचा व्रताचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceDBM3XyY6IsUSNx5SYic0djomY",
+   "clue": "रामभक्त वानर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceiBM3X/hLNlICNxreYidaBypNM2MnJRpiJ24HKkw==",
+   "clue": "नवरात्राचा पहिला दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jcePBM3X/hLNlJKNxrYEzdfRjoi92MnA2tySD4HKg9Cc0w==",
+   "clue": "सुवासिनी वडाची पूजा करतात"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jceSmInNHY6Jr0SNx68=",
+   "clue": "रंगमंचावर सादर होणारी कलाकृती"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceSBM3X/hLNlIARg57WzdbsjomA2MndRpiJ7A==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jceCBM3X0RLNlICNxreYicYdjomU2Mjj",
+   "clue": "विद्येची देवता"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jcemBM3Xyw==",
+   "clue": "नाम पुन्हा पुन्हा घेणे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceSmInNHY6Jn9jJ3EaYieaBypM=",
+   "clue": "नाटकाची मुख्य स्त्री पात्र"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 6,
+   "x": "jcevmInNHY6JhdjI7trcgg==",
+   "clue": "कविता; पद्य"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jce/BM3X2Y6IvdjJ1kaYicE=",
+   "clue": "मधाचा शौकीन केसाळ प्राणी"
+  }
+ ]
+}

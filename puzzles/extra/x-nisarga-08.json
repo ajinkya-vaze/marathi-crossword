@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-08",
+ "title": "निसर्ग ८",
+ "difficulty": "मध्यम",
+ "rows": 12,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcecmInRFZPFx4fFk0zYydDa3a0SidfkksPjUdCc+A==",
+   "clue": "दिवाळीत निघणारे विशेष मासिक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceDBM3K3JPFzA==",
+   "clue": "वायू"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceWmInQFZPFwBuBiafYyONGmInK",
+   "clue": "लहान मुलांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jceQmInQFZPF+BuBiYg=",
+   "clue": "पर्जन्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jceDmInRFZPF3IfFk0zYydFGmInB",
+   "clue": "भारताच्या उत्तरेची पर्वतरांग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceDmInRFZPFwhuBiYVEjceJ",
+   "clue": "हिरवेगार गवत"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceQmIjjidfRDofFmNCc0x/a3J4=",
+   "clue": "समुद्रात तयार होणारे लाल रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jce/mInsFZPF54fErEzYydM=",
+   "clue": "बीमधून फुटणारा कोवळा कोंब"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceWmInQFZPFyhuBiYDYyONGmInbidffDofFi0zYyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jceWmInQFZPF1A==",
+   "clue": "आऊट"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jcePBM3K0ZPF8BuBiZQ=",
+   "clue": "ऋतूंचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceUmIjsFZPFwQ==",
+   "clue": "झाडाचा जमिनीखालचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceUmIjsFZPF5Q==",
+   "clue": "हिरवे लहान कडधान्य"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jcelmIjpFZPF5xuBiZHYyOM=",
+   "clue": "लहानसा डोंगर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceCmIjvFZPFwofErNCc7x/a3Lo=",
+   "clue": "खडक फोडण्यासाठी वापरतात तो स्फोटक"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jceCmIjvFZPFwRuBiaXYyd0=",
+   "clue": "टोकदार डोंगरशिखर"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcevBM3Kxw+B1tQ=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jcefmInsFZPF04fErQ==",
+   "clue": "हिवाळ्यातील गारठा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jcevmInQFZPF2IfEr0zYyds=",
+   "clue": "पांढरे पीक ज्यापासून कापड बनते"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jceCBM3K2ZPE+RuBiYVEjceK",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jcezBM3K3pPE/4fFjkzYycfa3JM=",
+   "clue": "गरमी; ताप"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcezBM3KwZPE/4fFlNCc0x/a3J6Ozc0=",
+   "clue": "सर्वात उष्ण ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jceemInQFZPFwofFkw==",
+   "clue": "रात्री आकाशात लुकलुकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jceQmInQFZPFxxuBiYjYyd1GmIndidff",
+   "clue": "पावसाचा ऋतू"
+  }
+ ]
+}

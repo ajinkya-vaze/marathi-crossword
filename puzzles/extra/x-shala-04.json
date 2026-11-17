@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-04",
+ "title": "शाळा आणि खेळ ४",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceUmIj6FIHI0w==",
+   "clue": "मोठे खरेदी संकुल"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcetmIj+iMXcgYmySI3Hn5iJzRSByNNR0JDC",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceVBM3X34HJ7M2Uq43HhQTN19gdjMW40JHgg57PUZPM9A==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceVmIj4FIHI9s2UihGDnsBRk8zJ",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jce/BM3X/YHJ7M2UgxGDnsg=",
+   "clue": "लिपीचा घटक"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jce/BM3XxYHJ7M2Um43HhATN19A=",
+   "clue": "शिकण्यासाठी केलेली मेहनत"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jcePmIj+iMXDgYmOSI3HrwTN19gdjMWO",
+   "clue": "भाषेचे नियम"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceQmIj0FIHIyc2VuY3HgpiJzBSByNM=",
+   "clue": "खोडता येईल असे लिहिण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceCBM3XxoHI31HQkNU=",
+   "clue": "दोन शब्दांचा एक शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcevBM3X2IHJ7M2UlxGDnt/N19YdjMWd",
+   "clue": "संघाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceQmIj7FIHI01HQkNiDnsZRk8zJ",
+   "clue": "कुस्ती खेळणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcePmInNFIHI9M2VuY3HkJiI/ojF3B3NlK6Nx4QEzdfY",
+   "clue": "विशिष्ट अर्थाचा शब्दसमूह"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jcegmIj/FIHI9M2VvxGDntA=",
+   "clue": "चार बाजूंची आकृती"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceQmIj+iMXcHc2UjI3HhATN184=",
+   "clue": "देवाला दाखवलेला नैवेद्य"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 10,
+   "x": "jcevmIj4FIHIyQ==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceCmInNFIHI9lHQkN0f2ty6k83qEIGJr9TI5A==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcetmIj4FIHI082UthGDnt7N19YdjMWx",
+   "clue": "क्रिकेटमध्ये चेंडू टाकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceSmInMFIHI0c2Uio3HuATN1/QdjMWF",
+   "clue": "आरतीचा लहान तुपाचा दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceSmInMFIHIzc2UthGDnt8=",
+   "clue": "विषयावर लिहिलेला लेख"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceWmInNFIHIxw==",
+   "clue": "आऊट"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jceWmInNFIHI6Q==",
+   "clue": "शिक्षिकेला मुले म्हणतात"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jcetBM3X9B2MxZ3QkNM=",
+   "clue": "केसात माळायची फुलांची वेणी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jcecmInNFIHI2VHQkMGDn/NRk8zG",
+   "clue": "रामदासांचा ग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jcemBM3X0YHI31HQkPE=",
+   "clue": "समुद्रातून प्रवास करणारे मोठे वाहन"
+  }
+ ]
+}

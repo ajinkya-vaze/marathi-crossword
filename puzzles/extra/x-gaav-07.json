@@ -1,0 +1,170 @@
+{
+ "id": "x-gaav-07",
+ "title": "गाव आणि शहर ७",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceCmIjqgcXTzZSJEYOe0FGHxfQ=",
+   "clue": "गाडी थांबते ते ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jceCBM3Dxx2WiZjXydxGmInygcXI",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceCBM3D0R2WiZrXyeFGmIn9",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcevmInZHYHSndCS4IOe183D3x2WiYJLjceV",
+   "clue": "ऑफिस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceSBM3D9h2WiYA=",
+   "clue": "शहर; पुरी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jcegmInZHYHSuA==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcegmInZHYHSn0zXyfZGmInNHYHSnUzXydba3JMbgcXezZSJ",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceUmIjuHYHSnw==",
+   "clue": "मोठे खरेदी संकुल"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcetmIjqgcXGzZSJEYOe1lGHxdmWiL3XycY=",
+   "clue": "गावात राहणारे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceUBM3D2IHSk0zXycna3aEbgcXG",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceImInZgcX0UdCTwR/a3KQbgcXXzZW3",
+   "clue": "वाळूत लांब उडी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jce9mInlHYHSikzXycs=",
+   "clue": "जळणासाठीचे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcevmInZHYHSh0zXycDa3a0=",
+   "clue": "पीक कापणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcegmIjrHYHSuA==",
+   "clue": "रस्ते मिळतात ती जागा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jcezBM3Dyx2WiZhLjcetBM3D0Q==",
+   "clue": "शहराच्या कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcetBM3D0x2WiZxLjcee",
+   "clue": "शिडाचे मोठे जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jcePmInZHYHSlEzXycfa3a8bgcXjUdCT+IOf883D4x2WiZHXyOM=",
+   "clue": "ट्रॅफिक जॅम"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jceWBM3Dx4HSk0zXyc0=",
+   "clue": "बुद्धी वाढवतो असे म्हणतात तो सुका मेवा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceUBM3D2IHSk0zXyctGmInwHYHSnQ==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcetmIjqgcXGzZSJEYOe1lGHxcuWibJLjcegmInZHYHSgkzXycc=",
+   "clue": "गावाचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceUBM3D2IHSk0zXycna3JMbgcXEzZSIEYOe7c3D3w==",
+   "clue": "मोठ्या शहराचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceQmInZHYHSjkzXyc/a3awbgcXXzZW3",
+   "clue": "पाण्याखाली जाणारी नौका"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jcevmInZHYHSnUzXyfXa3JMbgcXezZSJ",
+   "clue": "वस्तू बनवण्याची जागा"
+  }
+ ]
+}

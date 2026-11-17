@@ -1,6 +1,6 @@
 # मराठी शब्दकोडे — Marathi Crossword (Spec, draft v0.1)
 
-Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button and lenient checking for small spelling slips (§5, game features). Still open: the word list (1,888 words in 12 themes, grown from 573 on 2026-11-17) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
+Status: **All four milestones are done.** Live at https://ajinkya-vaze.github.io/marathi-crossword/ and tested on a real Android phone (Chrome): both keyboards, back button, install, offline play and share. Puzzles are generated through 2026-12-23. Added since: a Submit button, lenient checking for small spelling slips (§5, game features), and a More puzzles screen with 216 extra puzzles by theme (§5, screens). Still open: the word list (1,888 words in 12 themes, grown from 573 on 2026-11-17) is an unreviewed Claude draft. The tools are written in Python rather than Node, because Node isn't installed on this machine.
 
 Decided so far: one square = one akshara · Claude drafts words and clues, you review · custom keyboard plus an optional system keyboard · daily puzzle with an archive.
 
@@ -48,8 +48,9 @@ Other options (not recommended):
    - A **clue bar** above the keyboard shows the current clue, for example "५ आडवे: महाराष्ट्राची राजधानी (४)". Tap it to see all clues.
    - A **custom in-app Marathi keyboard** (see below).
    - Tap a square to select it. Tap the same square again to switch between across (आडवे) and down (उभे).
-3. **All clues**: a bottom sheet with two tabs, आडवे and उभे. Tapping a clue jumps to that word.
-4. **Help (कसे खेळावे)**: short how-to-play page.
+3. **More puzzles (आणखी कोडी)**: opened from a card on the home screen. Filter by theme (12 themes) and size (small or large), tap **Play any puzzle** for a random unplayed one, or pick from the list with its status. These puzzles are undated (ids `x-<theme>-NN`, files in `puzzles/extra/`), always available, don't count toward the daily streak, and share a direct link instead of a date. They are generated with `generate.py --extra`.
+4. **All clues**: a bottom sheet with two tabs, आडवे and उभे. Tapping a clue jumps to that word.
+5. **Help (कसे खेळावे)**: short how-to-play page.
 
 ### Input: custom keyboard by default, system keyboard optional
 A ⌨️ toggle on the play screen switches between the two. The choice is remembered.

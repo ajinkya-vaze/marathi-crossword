@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-09",
+ "title": "माझा महाराष्ट्र ९",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcecBM3J0RSB1tSTzMoOgYms2cnd",
+   "clue": "किल्ल्याचे मोठे दार"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceXmIjtHYjF3IHX1giSxZvQne8f2ty4EYHM0Q==",
+   "clue": "सह्याद्रीतील ज्योतिर्लिंग"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jceSmInTHYjFwh2TzMeSxK1M2cnJ2t2hEYHM0ZLE/ojQ0YGJj0WNx5SYidM=",
+   "clue": "कोळी समुद्राला नारळ अर्पण करतात"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceCmIjsHYjFxx2TzMSSxKDQnc4f2tyLjcTpHZLFw4jR/4GJpw==",
+   "clue": "हर्णेजवळचा समुद्री किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceQmInvHYjF7oHX1g==",
+   "clue": "वाघाचा नखांचा पाय"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jcetmIjmHYjF1IHX1giSxZhM2cnT2t2t",
+   "clue": "दक्षिण गंगा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jcetmIjmHYjFwoHX1g==",
+   "clue": "कुंभार समाजातील संत"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceXmInvHYjF04HX1giSxZ1M2cnFRpiJ3YHM3w==",
+   "clue": "आर्थर तलाव असलेले ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jcecBM3J14jFzB2TzMEOgYmU2cndRpiJ3Q==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceCmInTHYjF1x2TzMySxa9M2cn0RpiJyQ==",
+   "clue": "गायकासोबत वाद्याची साथ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceVmIjqHYjFyoHX1giSxbHQnO0=",
+   "clue": "शिवरायांचा विश्वासू सरदार कंक"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceCmInTHYjF3oHW6QiSxYvQndMf2tyOjcXWHZLFxhSU1sDNlIc=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceCmInvHYjF34HX1giSxbHQnO0=",
+   "clue": "शिवरायांचे ज्येष्ठ पुत्र"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jcePmInTHYjF04HX1g==",
+   "clue": "जुने मोठे चौसोपी घर"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceMBM3JyYjFzR2TzMGSxZNM2cnTRpiJ2IHM3w6B18mU1t8=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcePmInTHYjFyoHW6QiSxYvQnOof2tyY",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jcePmInTHYjF6h2TzNwOgYmm2cjk",
+   "clue": "अफजलखानाच्या वधासाठीचे शस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jceUBM3J2IjFzB2TzNgOgYmD2cjkRpiJ24HN7JLFxhSU1tE=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jcesmInTHYjF2h2TzNKSxKpM2cnV",
+   "clue": "जळगाव-धुळ्याचा प्रदेश"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceSBM3J1IjE8h2TzNqSxKzQne8f2tyBEYHM6Q==",
+   "clue": "खाडीपलीकडचे नियोजित शहर"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceCmIjmHYjF2IHX1giSxYVM2cnF2t2qEYHM1A==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jceCmIjmHYjF2YHX1g==",
+   "clue": "बैठकीतील मऊ आसन"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceQmIjqHYjFxB2TzMGSxZM=",
+   "clue": "छत्रपतींचे प्रधान"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceUmInvHYjF5R2TzMeSxZNM2cn02t2hEYHM0Q==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  }
+ ]
+}

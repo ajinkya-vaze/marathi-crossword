@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-02",
+ "title": "गाव आणि शहर २",
+ "difficulty": "सोपे",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceSmIjqgcXZzZSMEYOe183D3x2WiYJOjceV",
+   "clue": "कोर्ट"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceCmIjqgcXTzZSMEYOe0FGHxfQ=",
+   "clue": "गाडी थांबते ते ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcetmIjqgcXGzZSMEYOe1lGHxcuWibJOjcegmInZHYHSgkzSycc=",
+   "clue": "गावाचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jceWBM3D0x2WiYDSyd1GmInJ",
+   "clue": "कृष्णाचा मोठा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceQmIjgHYHSnUzSycDa3a0=",
+   "clue": "शेतात बी टाकणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jcegmInZHYHSuA==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jcegmInZHYHSnUzSyfna3JMbgcXjzZWy",
+   "clue": "मोटार"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceQmIjqgcXGzZSMEYOe283D3h2WiYjSyeFGmInwgcT7zZSCEYOewc3D3x2WiYJOjceV",
+   "clue": "प्राणी पाहण्याची बाग"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jceQmInlHYHSj0zSydNGmInNgcT0UdCW3Q==",
+   "clue": "विठ्ठलाचे मंदिर असलेले गाव"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceCmInlHYHSutCX4IOeyFGHxdiWiY5OjceIBM3Dzg==",
+   "clue": "प्राचीन वस्तूंचे प्रदर्शन; म्युझियम"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jceemInYHYHSuNCX7R/a3LI=",
+   "clue": "प्रवासाचा पास"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jcelBM3Dy4HSk0zSydE=",
+   "clue": "पोस्टाचे पत्र"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceeBM3D0YHSk0zSyf/a3a8=",
+   "clue": "वजन करणारी दोन पारड्यांची दांडी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceKmInZHYHSsdCX4IOe183D3x2WiZ3SydxGmInQgcTxUdCW+A==",
+   "clue": "राजाला गादीवर बसवण्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 10,
+   "x": "jceQmInZHYHSjNCW0w==",
+   "clue": "आदिवासी वस्ती"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jcePmInZHYHSsg==",
+   "clue": "मार्ग"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jcePmInZHYHSjNCX7Q==",
+   "clue": "लहान वस्ती"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jceUmIjuHYHSnw==",
+   "clue": "मोठे खरेदी संकुल"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceWmIjvHYHSn0zSyfTa3JMbgcXXzZWy",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jce/BM3DzIHSkkzSycva3aobgcXSzZW/jceKmIjn",
+   "clue": "चित्रपटात काम करणारी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcevBM3D+x2WiYDSyd0=",
+   "clue": "टाकाऊ घाण"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcegBM3Dy4HToNCWxx/a3J8=",
+   "clue": "पायतण"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jcesBM3DxQ==",
+   "clue": "पिकांना घालायचे पोषक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jcevmIjsHYHSiUzSydba3JMbgcXE",
+   "clue": "गावातील दवंडी देणारा"
+  }
+ ]
+}

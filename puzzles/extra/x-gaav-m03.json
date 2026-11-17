@@ -1,0 +1,541 @@
+{
+ "id": "x-gaav-m03",
+ "title": "गाव आणि शहर · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "x": "jcegmInlHYHSi42Vvo3HigTNw9eB06oR0Jf7H9rcnQ==",
+   "clue": "आझाद म्हणवणारे क्रांतिकारक"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "x": "jcegmInlHYHSi42Vvo3HigTNw8yB0pMR0Jf6g57G",
+   "clue": "पंढरपुरात भीमेचे नाव"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jce/BM3D2IHSkhHQl9+Dn/XNw86B0pMR0JfBg57GUYfF6Q==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jce/BM3D9oHToI2Um43HhQTNw9cdlonDTNPJyw==",
+   "clue": "आग विझवणारे दल"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 13,
+   "x": "jceWmInZHYHSnxHQl/qDn/hRh8XF",
+   "clue": "लहान मुलांचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 17,
+   "x": "jce8BM3DzoHSkxHQl94=",
+   "clue": "सिंहाच्या मानेवरील केस"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 17,
+   "x": "jce8BM3D9h2Wid1M08n2RpiJ1w==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 15,
+   "x": "jce/mInlHYHSuhHQl82Dn/g=",
+   "clue": "बोटातील दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jceVBM3D1w==",
+   "clue": "सफलता"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 12,
+   "x": "jceCmIjmHYHSuo2Vsw==",
+   "clue": "कापणीचा आनंदाचा काळ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 17,
+   "x": "jceKBM3D2YHToI2Ul43HhA==",
+   "clue": "सडक"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jcetmInZHYHSgI2UjRGDnsjNw98=",
+   "clue": "मंदिरातील मूर्ती असलेला आतला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceXmInZHYHSsY2VsxGDns3Nw98dlonf0JfT",
+   "clue": "भाजी विकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceUmInlHYHSuhHQl94f2tyVh8TjCs3JlNPI7trcnQ==",
+   "clue": "विवाहितेच्या गळ्यातील काळ्या मण्यांचा दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 13,
+   "x": "jceeBM3D04HSkxHQl82Dn/g=",
+   "clue": "गावाची जमीन नोंदी ठेवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 14,
+   "x": "jceImInZHYHSiY2VsRGDnsg=",
+   "clue": "१९९३ च्या भूकंपाने हादरलेला जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 19,
+   "x": "jceMmIjnHYHSjA==",
+   "clue": "होडीचे वाऱ्याने फुगणारे कापड"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceQmInYHYHShRHQl/iDn/NRh8XA",
+   "clue": "पत्त्यातील सहा अंकी क्रमांक"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jcetBM3D9h2WicVM08n52t2sh8XjCs3JnNPI4w==",
+   "clue": "आकाशाला भिडणारी इमारत"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 16,
+   "x": "jcevmIjsHYHSnRHQl8Yf2tyM",
+   "clue": "जाड रसाळ पानांची औषधी वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 18,
+   "x": "jceRBM3D04HSkxHQl/I=",
+   "clue": "रेल्वेचा प्लॅटफॉर्म"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jcePmInYHYHSg42UjRGDntBRh8XFCs3Jgw==",
+   "clue": "विमाने उतरतात ते ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jcePmInYHYHSg42UjRGDntA=",
+   "clue": "आकाशात उडणारे वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcetmIjmHYHSn42UjRGDntQ=",
+   "clue": "काटेरी देठाचे सुंदर फूल"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jcetmIjmHYHSjo2UjRGDnu3Nw98dlond",
+   "clue": "पटीने वाढवणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceWBM3D2Q==",
+   "clue": "लाल परी म्हणून ओळखली जाणारी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceCmIjlHYHSiY2Vvo3HigTNw9mB0q8R0Jf3g57GUYfF0wrNyaU=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jcegmInZHYHSnxHQl/gf2tyHG4HFxlGNlIaNx4QEzcPJgdKT",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 13,
+   "x": "jcevBM3D0YHToI2UkBGDnt/Nw98dlond",
+   "clue": "संघाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 16,
+   "x": "jceUmIjmHYHSuI2VshGDnuc=",
+   "clue": "राजाच्या डोक्यावरचा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 17,
+   "x": "jcevmIjmHYHSnI2Vvo3Hg5iJ2R2B0ow=",
+   "clue": "लाकूड तोडायचे धारदार पाते"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceCBM3D/YHToI2UrxGDntBRh8X2Cs3JkQ==",
+   "clue": "रामदास स्वामींचा गड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcetBM3D/oHSkxHQl90=",
+   "clue": "सांडपाण्याचे नाले"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jcevBM3D+x2Wid3Ql9M=",
+   "clue": "टाकाऊ घाण"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 15,
+   "x": "jce/BM3D9IHToI2Ug43GsQTNw8A=",
+   "clue": "मेंदूच्या आकाराचा सुका मेवा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 15,
+   "x": "jce/BM3D2B2WicNM08nFRpiJzx2B0roR0Jfd",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 20,
+   "x": "jcetBM3D0x2WicFM08nH",
+   "clue": "शिडाचे मोठे जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceCBM3D0R2WicfQl+8f2ty3",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceCBM3Dxx2WicXQl9If2ty4h8Xf",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 10,
+   "x": "jcezBM3Dyx2WidTQl9Mf2tydG4HF4c3Is0+Nx4M=",
+   "clue": "हॉटेल; खाणावळ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 18,
+   "x": "jceQmIjgHYHSso2Vvo3HipiI7B2B0p8=",
+   "clue": "गाड्यांचे इंधन"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 18,
+   "x": "jceQmIjgHYHSnRHQl86Dn/g=",
+   "clue": "शेतात बी टाकणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jcePmIjgHYHSiw==",
+   "clue": "प्राचीन धर्मग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jcetmIjmHYHSnY2VshGDntzNwuyB0piNlI0Rg57tUYfF0ZaI4NCX2h/a3I4=",
+   "clue": "सफरचंद खाली पडण्याचे कारण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 15,
+   "x": "jceUBM3D2IHSkxHQl8eDn/RRh8XR",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jcePmInYHYHSsRHQl8If2tyFG4HF4VGNlIM=",
+   "clue": "हंपीचे साम्राज्य"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jcePmIjgHYHSjo2Vsw==",
+   "clue": "केसांची तीन पेडी गुंफलेली बट"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jceKmIjmHYHSuo2Vvo3HmQTNw9SB0pMR0JfUg57HUYfF9JaJ0w==",
+   "clue": "आजारी माणसाला नेणारी गाडी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jcemBM3D2IHSkxHQl/E=",
+   "clue": "समुद्रातून प्रवास करणारे मोठे वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jcevmInZHYHShxHQl86Dn/g=",
+   "clue": "पीक कापणे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jceQBM3D0YHSkxHQl82DnsY=",
+   "clue": "सारण भरून भाजलेली जाड पोळी"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 3,
+   "x": "jceMmIjgHYHSjg==",
+   "clue": "गुरांचे मलमूत्र; सारवायला वापरतात"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 7,
+   "x": "jceCmInZHYHSghHQl/gf2tyf",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 7,
+   "x": "jceCmInZHYHSmBHQl90f2ty4G4HFxg==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 12,
+   "x": "jcezBM3Dyx2WicVM08n0RpiJ1w==",
+   "clue": "शहराच्या कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 12,
+   "x": "jcezBM3Dx4HToI2Uho3HhATNw9gdlonF",
+   "clue": "लिफ्ट"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 2,
+   "x": "jceQmInZHYHSjhHQl9gf2tyNh8Xf",
+   "clue": "गावातील पाणी भरण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 2,
+   "x": "jceQmInZHYHSnQ==",
+   "clue": "वडाभोवतीचा बसण्याचा चौथरा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 4,
+   "x": "jcePBM3D04HToI2Uio3GvQ==",
+   "clue": "होडी चालवायचे दांडे"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 0,
+   "x": "jcetBM3D1IHSkxHQl90=",
+   "clue": "बारीक शेंगांची भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 6,
+   "x": "jceCmInZHYHSnRHQl9gf2tyO",
+   "clue": "जमिनीला शेणाने लिंपणे"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 14,
+   "x": "jcegmInZHYHSnRHQl/eDnsZRh8X0lojt",
+   "clue": "मोटार"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 3,
+   "x": "jcetmIjsHYHSmBHQl9yDn/XNw86B0pM=",
+   "clue": "इंधनासाठी वाळवलेले शेण"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 10,
+   "x": "jceUBM3D2IHSkxHQl8Uf2ty6G4HFxg==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 10,
+   "x": "jceUBM3D2IHSkxHQl8eDnsZRh8XTlonSTNPJ9trckw==",
+   "clue": "मोठ्या शहराचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 1,
+   "x": "jce8BM3DwR2WidhM08nC2t2qG4HF2s3Jjk+Nx6aYidkdgdKd",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 1,
+   "x": "jce8BM3D1IHSkxHQl/E=",
+   "clue": "ध्वनी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 5,
+   "x": "jceWmInZHYHSixHQl9+Dn/g=",
+   "clue": "पाणी भरण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 14,
+   "x": "jcegmInZHYHSng==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 8,
+   "x": "jceRmIjlHYHSshHQl8eDnsZRh8XE",
+   "clue": "रस्त्याकडेचा पायी चालण्याचा मार्ग"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 13,
+   "x": "jceDmIjuHYHSuI2Vsw==",
+   "clue": "स्टिक आणि चेंडूचा भारताचा राष्ट्रीय खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 0,
+   "x": "jcetBM3D/R2Wid3Ql9M=",
+   "clue": "केसात माळायची फुलांची वेणी"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 0,
+   "x": "jcetBM3D0YHToI2UlY3Gug==",
+   "clue": "खूप लोक एकत्र"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 2,
+   "x": "jceKmInZHYHSio2UjQ==",
+   "clue": "कृष्णाची सखी"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 2,
+   "x": "jcedmInZHYHSjBHQl9U=",
+   "clue": "हिंमत"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 6,
+   "x": "jce9BM3DxYHSkhHQl9SDnsZRh8XZCs3JpdPJ3UaYidc=",
+   "clue": "इतिहास लिहिणारा"
+  }
+ ]
+}

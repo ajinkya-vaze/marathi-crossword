@@ -1,0 +1,177 @@
+{
+ "id": "x-itihas-01",
+ "title": "इतिहासाच्या पानांतून १",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jce/BM3N4YnN7JOJgNHI6EaYicg=",
+   "clue": "मेंदूच्या आकाराचा सुका मेवा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceVmInXCInMxw/NlIQ=",
+   "clue": "देवगिरीचे राजघराणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jceeBM3NzQ==",
+   "clue": "युद्धानंतरचा करार"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceQmInXCInMzg/NlJcRg57L",
+   "clue": "पायी लढणारे सैन्य"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceQmInXCInMyZOJj02Nx5AEzc3Q",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceCmInWlM3qHZOJiU2Nx60Ezc3V",
+   "clue": "तानाजींच्या पराक्रमाचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jcetBM3N3InM3g/NlJ+NxroEzc3hiczfD82UhI3HhA==",
+   "clue": "शिवरायांचे युद्धतंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceXmIjpCInMzw/NlImNxr0Ezc3c",
+   "clue": "किराणा घराण्याचे जोशी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jceCmIjoCInMzJOJjk2Nx40Ezc3uiczjD82Ul43Gt5iJ2Q==",
+   "clue": "आझाद हिंद सेनेचे नेते बोस"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceCmInWlM3qHZOJidHJ3UaYidEIiczJ",
+   "clue": "राजाचे आसन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceUBM3NzYnM3w/NlJyNx4QEzc3EFYjF1w==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jceCmInXCInM0Q/NlIk=",
+   "clue": "उंच लाल डोक्याचा जोडीने राहणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jceCmInXCInM1A/NlIERg57tUYnQ2Q==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmInXCInMxQ/NlISNx4QEzc3NFYjF2w==",
+   "clue": "पैठणचे प्राचीन राजघराणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmInXCInMz5OIvdHJ09rckxWUzfSB1qDQlcI=",
+   "clue": "सम्राटाचे राज्य"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceDBM3N3InN4A/NlJ+Nx4QEzc3c",
+   "clue": "रामभक्त वानर"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jcegmInrCInMx5OIvdHJ00aYid+UzO8dk4mmTY3Hig==",
+   "clue": "आझाद म्हणवणारे क्रांतिकारक"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jce/BM3NzBWIxcpR0JX4g57GUYnQ2Q==",
+   "clue": "इंग्रजांना सहकार्य न करण्याचे आंदोलन"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jce/BM3NzYnM3g/NlIONxreYicaUzdYdk4mc0cndRpiJ4Q==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcevmInXCInMyZOIvdHJ2trdphWUzfSB1q0=",
+   "clue": "मराठ्यांचे आरमारप्रमुख आंग्रे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 10,
+   "x": "jcevBM3NwRWIxek=",
+   "clue": "युद्धातील अंगरक्षक पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceCmInrCInMxZOJjk2Nx5A=",
+   "clue": "तीव्र राग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jceWmInXCInM/ZOIsE2Nx4qYidcIiczU",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jceemInXCInM0ZOJjk2Nx5aYidcIiczp",
+   "clue": "संभाजीराजांनंतर स्वराज्य लढवणारी राणी"
+  }
+ ]
+}

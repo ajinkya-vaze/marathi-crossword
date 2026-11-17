@@ -1,0 +1,541 @@
+{
+ "id": "x-shala-m02",
+ "title": "शाळा आणि खेळ · मोठे कोडे २",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 17,
+   "x": "jcecmInNFIHIzQ==",
+   "clue": "एका भागावर पडणारे बल"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 16,
+   "x": "jceCmInNFIHIzVGNlJE=",
+   "clue": "अंग धुण्यासाठी फेस येणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 16,
+   "x": "jceCmInNFIHI0VGNlIcRg57b",
+   "clue": "जमिनीला शेणाने लिंपणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 14,
+   "x": "jceWmInNFIHI/c3Jjk6Nx4o=",
+   "clue": "मंडई"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 14,
+   "x": "jceWmInNFIHI6Q==",
+   "clue": "शिक्षिकेला मुले म्हणतात"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 20,
+   "x": "jceCBM3XxoHI31GNlIo=",
+   "clue": "दोन शब्दांचा एक शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 12,
+   "x": "jceXmIjyFIHI1FGNlLo=",
+   "clue": "डोळ्यांच्या वर असलेली केसांची रेघ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 12,
+   "x": "jceXmIjyFIHIzs3Jjk6Nx4qYiPMUgcjPzcmOTo3HipiI/ojF+w==",
+   "clue": "जमिनीखालचा रस्ता"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 16,
+   "x": "jcePBM3X9x2MxYeNlb4Rg57IzdblgcjCzcmPTo3HlJiJzQ==",
+   "clue": "सुवासिनी वडाची पूजा करतात"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceUmIj+iMXVHc3Jkw==",
+   "clue": "अनुभवाचे छोटे शहाणे वाक्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 11,
+   "x": "jceWmIj0FIHI0c3IsE6Nx6Y=",
+   "clue": "संख्या एकत्र करणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 17,
+   "x": "jceXmIjxFIHI9s3Iu06Nx4g=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 19,
+   "x": "jcePmInMFIHI/c3IvdLJ/drckw+IxcQ=",
+   "clue": "प्रयोगांचा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jcegmIj/FIHI9M3Jjk6Nx4o=",
+   "clue": "चार धावा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceiBM3X2B2MxbKNlbU=",
+   "clue": "पक्ष्याचे घर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jcerBM3X2oHI3s3Jsk6Nx5CYicwUgcj0",
+   "clue": "चार वर्षांनी भरणारी जागतिक क्रीडास्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 11,
+   "x": "jcePBM3X2IHJ7M3Jpw==",
+   "clue": "शाळेतील खोली"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jcePBM3X0B2MxYmNlI0Rg57vzdbrHYzFlA==",
+   "clue": "विद्यार्थ्यांच्या राहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 14,
+   "x": "jceCBM3X0R2MxZ8=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 16,
+   "x": "jceQmIj7FIHI01GNlIeNx4QEzdfA",
+   "clue": "कुस्ती खेळणारा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 16,
+   "x": "jceQmIj7FIHIwVGNlJE=",
+   "clue": "एकनाथांचे गाव; रेशमी साडीसाठी प्रसिद्ध"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 18,
+   "x": "jcePmInNFIHIwg==",
+   "clue": "हळदीकुंकवाला दिलेली भेटवस्तू"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceKBM3X0IHJ7M3JlNLJ3Q==",
+   "clue": "सडक"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcevmInxFIHIy83Jjk6Nx4I=",
+   "clue": "वर्तुळ काढण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jcevmInxFIHIzVGNlII=",
+   "clue": "पोट आणि पाय यांच्यामधला भाग"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 13,
+   "x": "jceeBM3X0Q==",
+   "clue": "युद्धानंतरचा करार"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceCmInNFIHI9lGNlIIRg57vzdbjHYzFso2VtQ==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jceCmInNFIHIy1GNlISNx4UEzdfJgcnh",
+   "clue": "फासे टाकून वर-खाली जायचा पटावरचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jcetmIj4FIHI/s3IvdLJzNrckw==",
+   "clue": "काचेच्या गोळ्यांचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 14,
+   "x": "jceIBM3X0IHJ41GNlJE=",
+   "clue": "फोडणीतील पांढऱ्या पाकळ्या"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 15,
+   "x": "jceCmIjxFIHI0c3IvdLJzEaYidsUgcjPUY2Uio3Gt5iJ5ojF0h3NyYA=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 19,
+   "x": "jceRmIjyFIHI/lGNlJ6NxrMEzdfa",
+   "clue": "पायाने चेंडू मारण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcegmIj/FIHI9A==",
+   "clue": "रस्ते मिळतात ती जागा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jcegmIj/FIHI9M3Iu06Nx5I=",
+   "clue": "चार बाजूंची आकृती"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 17,
+   "x": "jceCmIj7FIHI0c3Jjk6Nx6U=",
+   "clue": "आर्ची-परशाचा चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceMmInMFIHI9M3IvdLJ1EaYieY=",
+   "clue": "गुरुजी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jcevBM3X2IHI41GNlJMRg57t",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 8,
+   "x": "jcenmIj4FIHIyw==",
+   "clue": "निद्रा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jceCmIj+iMXEgYjqTNLJ2kaYicuIxe4dzcme0sjkRpiJwRSByMk=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 12,
+   "x": "jceCmInxFIHI2c3IvdLJ9trdrg+Ixcg=",
+   "clue": "प्राचीन देवभाषा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jcevmIj4FIHIyVGNlJyNx4QEzdfCHYzFuA==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jcevmIj4FIHIyQ==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jceUmInNFIHI083Jj06Nx6+Yic0=",
+   "clue": "दूरदर्शनवरील रोजची कथा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 9,
+   "x": "jcevBM3X2IHI31GNlKERg57tzdbv",
+   "clue": "गाण्याच्या संगीतावर स्वतः गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 15,
+   "x": "jceUBM3X0YHI31GNlIeNx4UEzdfOgcnszcmf0sndRpiJwRSByM4=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 17,
+   "x": "jcePmInMFIHI0s3Jjg==",
+   "clue": "गवत कापायचा वाकडा कोयता"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 20,
+   "x": "jceVBM3X34HJ7M3Jr9LJ3EaYicMUgcj0zci90snURpiJ5g==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceWmIj2FIHIwFGNlJyNx4WYifEUgcj+UY2Umg==",
+   "clue": "फूल उडवणाऱ्या रॅकेटचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceKmInNFIHI1s3IvdLJ/NrdoJPM0RCBifrQl+0f2tyJ",
+   "clue": "जन गण मन"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 11,
+   "x": "jcetmIjzFIHIxVGNlKeNx4QEzdfY",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 13,
+   "x": "jcePmIj+iMXDgYnTTNLJ9kaYicMUgcjC",
+   "clue": "भाषेचे नियम"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 14,
+   "x": "jcevBM3XxB2MxYyNlb+Nx5uYiPM=",
+   "clue": "श्वास रोखून खेळायचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 18,
+   "x": "jce/BM3X/YHJ7M3Jh06Nx4o=",
+   "clue": "लिपीचा घटक"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 5,
+   "x": "jcevmIj+iMXbHc3JntLJ3Q==",
+   "clue": "माफी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 6,
+   "x": "jceUmInNFIHI2M3Jj06Nx56YiPMUgcjLUY2UrQ==",
+   "clue": "सत्य घटनांवरील चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 8,
+   "x": "jcebmIj4FIHI9M3Itw==",
+   "clue": "मस्तक"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 8,
+   "x": "jcebmIj4FIHI2M3Jjk6Nx4mYiPQ=",
+   "clue": "गरोदरपणातील इच्छा आणि त्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 11,
+   "x": "jcevmInNFIHI0w==",
+   "clue": "आजच्या आधीचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 0,
+   "x": "jce/mInxFIHI9lGNlJKNxro=",
+   "clue": "बोटातील दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 1,
+   "x": "jcetBM3Xyx2MxZiNlbURg57O",
+   "clue": "शाळेचा ठरलेला पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 4,
+   "x": "jcetmIjyFIHIwg==",
+   "clue": "परीक्षेत मिळालेले मार्क"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 10,
+   "x": "jcedmIjzFIHI0Q==",
+   "clue": "संयम"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 16,
+   "x": "jceUmIjyFIHI983IvdLJzNrckw+IxcuBiODQlsKDnsZRk8zLEIGJ+A==",
+   "clue": "शाळेचे प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 16,
+   "x": "jceUmIjyFIHI0c3Jsk6Nx5aYic0=",
+   "clue": "साखरेत मुरवलेले फळ"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 19,
+   "x": "jceQBM3X2IHJ4VGNlKeNxreYicSIxdI=",
+   "clue": "ज्ञानाची कसोटी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 3,
+   "x": "jcetBM3Xyx2MxYcR0JbJg5/4UZPMy4zErBHQlt6Dn/8=",
+   "clue": "समुद्रकिनारी गणपतीचे देवस्थान"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 3,
+   "x": "jcetBM3Xy4HI3lGNlJY=",
+   "clue": "आकड्यांचा विषय"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 10,
+   "x": "jceemInMFIHI0c3Jsk6Nx62Yic0=",
+   "clue": "भारताचा राष्ट्रध्वज"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 13,
+   "x": "jceQBM3Xyx2MxbGNlbkRg57UzdfW",
+   "clue": "आजोबांचे वडील"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 13,
+   "x": "jceQBM3Xzh2MxZiNlbI=",
+   "clue": "शिक्षण पूर्ण झाल्याचे प्रमाणपत्र"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 15,
+   "x": "jcemmIj4FIHI0Q==",
+   "clue": "हात टेकून वरखाली होण्याचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 1,
+   "x": "jceMBM3X2IHJ7M3Jn06Nx54=",
+   "clue": "स्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 5,
+   "x": "jceSmIj+iMXDgYjvTNLJ/EaYids=",
+   "clue": "गतीचे नियम मांडणारा शास्त्रज्ञ"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 7,
+   "x": "jceSBM3X/g==",
+   "clue": "बोटांच्या टोकावर वाढते ते"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 9,
+   "x": "jceuBM3X2IHI41GNlKWNx4QEzdfEgcjfUY2UlA==",
+   "clue": "अजिंठा-वेरूळजवळचे शहर; आताचे छत्रपती संभाजीनगर"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 7,
+   "x": "jcesBM3XyYHJ4w==",
+   "clue": "फळ्यावर लिहिण्याचा"
+  }
+ ]
+}

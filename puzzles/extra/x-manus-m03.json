@@ -1,0 +1,541 @@
+{
+ "id": "x-manus-m03",
+ "title": "माणूस आणि भावना · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcevmIjggcrFk4nSTNPJ9trdqhGByuo=",
+   "clue": "बॅट आणि चेंडूचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 18,
+   "x": "jcedmIjtHY7Rww==",
+   "clue": "संयम"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 15,
+   "x": "jce/BM3J2I7R8VGNlKaNx4QEzcnR",
+   "clue": "गर्विष्ठपणा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 17,
+   "x": "jcevmInTHY7R11GNlJKNxro=",
+   "clue": "त्वचा; चामडे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jceRmIjvHY7R7FGNlJmNx4QEzcnE",
+   "clue": "रस्त्याकडेचा पायी चालण्याचा मार्ग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 12,
+   "x": "jcefBM3J9BKV15iNlI0=",
+   "clue": "श्रमामुळे आलेला शीण"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 15,
+   "x": "jceSmInTHY7Rxs3Jjk+Nx5uYiO0=",
+   "clue": "होडी चालवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 15,
+   "x": "jceSmInTHY7R5lGNlJeNxrEEzcnAjtHN",
+   "clue": "टुणटुण उड्या मारणारा हिरवा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jceDmInSgcr3D83Jnk+Nx54=",
+   "clue": "धैर्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jceXmInTHY7R783IsE+Nx4+YidMdjtHBzcmO",
+   "clue": "भाजी विकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jcemmIjtHY7RxlGNlJsRg57AUY3FypXWoI2Ul43Gt5iJ2A==",
+   "clue": "व्हिटॅमिन"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jceImInTHY7R7w==",
+   "clue": "संकोच"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 18,
+   "x": "jcecmIjsgcr2D83Jpg==",
+   "clue": "वेदना"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jce8BM3JxRKV14yNlbQ=",
+   "clue": "पोटातील लांब नळी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceeBM3J0hKV15SNlI0Rg57c",
+   "clue": "हाताचा आतला सपाट भाग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceCBM3J0Y7Q/s3JltPI4w==",
+   "clue": "नाक वाहणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceCBM3J0RKV14eNlLERg57i",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 17,
+   "x": "jceCmIjsHY7R5Q==",
+   "clue": "दुःखाच्या उलट"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 17,
+   "x": "jceCmIjsHY7R3s3Jjk+Nx40Ezcn7jtHxUY2UlY3Gt5iJ3Q==",
+   "clue": "आझाद हिंद सेनेचे नेते बोस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jce/mInvHY7R11GNlIONx4QEzcnSEpXXmI2VsxGDnsg=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jceCmInTHY7R11GNlIaNx4QEzcnYEpXXhQ==",
+   "clue": "पैठणचे प्राचीन राजघराणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jceCmInTHY7R3FGNlKYRg57K",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcePmInTHY7RylGNlJeNxrgEzcn0EpXXuI2VuI3HuATNycCO0PM=",
+   "clue": "ट्रॅफिक जॅम"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 14,
+   "x": "jcedBM3JwI7RzQ==",
+   "clue": "पुस्तकातील एक प्रकरण"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 14,
+   "x": "jcedBM3JyRKV17oR0Jfd",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 11,
+   "x": "jceCBM3Jz47RzVGNlJSNx4QEzcnJ",
+   "clue": "तृप्ती"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 16,
+   "x": "jcecmIjggcrAk4jqTNPJ1A==",
+   "clue": "तिरस्कार"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 19,
+   "x": "jceQmIjggcrFD83Jl9PJ3UaYicU=",
+   "clue": "मंत्री"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jceDmInTHY7R1w==",
+   "clue": "कर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jceDmInTHY7R0g==",
+   "clue": "अस्थी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jcegBM3J1hKV17g=",
+   "clue": "विजेत्याचा करंडक"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 14,
+   "x": "jcetBM3J0Y7Q/s3JhQ==",
+   "clue": "अभिमान"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 19,
+   "x": "jcedmInTHY7Rxg==",
+   "clue": "क्रिकेटमधील रन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceCmIjmgcr3D83JkQ==",
+   "clue": "हत्तीचे लांब नाक"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceCmIjmgcr3D83Jp0+Nx6WYiOCBytqTidM=",
+   "clue": "सारीपाटाचे खेळातले मोहरे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jcevBM3J1I7Q8w==",
+   "clue": "काव्य रचणारा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 12,
+   "x": "jcevmInvHY7R31GNlIM=",
+   "clue": "पोट आणि पाय यांच्यामधला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 13,
+   "x": "jceWBM3J0RKV17oR0JfMg5/4",
+   "clue": "छातीचे वाकडे हाड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 16,
+   "x": "jcegmInTgcr3D83JltPI7trcnRGBytqTidNM08nL",
+   "clue": "चंद्रावर गेलेली भारतीय मोहीम"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 16,
+   "x": "jcegmInTgcr3D83JndPJ3UaYid0=",
+   "clue": "चपला शिवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceWmInTHY7R5A==",
+   "clue": "उद्यान"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcetBM3J1I7R8VGNlJKNxro=",
+   "clue": "भिंती बांधणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jcetBM3J0xKV14ER0JfJ",
+   "clue": "शिडाचे मोठे जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 12,
+   "x": "jce8BM3J9hKV150R0Jf4H9rcnQ==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 15,
+   "x": "jcevBM3J0Y7R8VGNlKQRg57Lzcjh",
+   "clue": "सर्वात लहान बोट"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 18,
+   "x": "jceQmInTHY7R7M3IsE+Nx4g=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 18,
+   "x": "jceQmInTHY7R3A==",
+   "clue": "चालण्याचे अवयव"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 20,
+   "x": "jceIBM3J9I7Q/s3Jh9PI7trcg43E7gmTicfQlu8f2tyxEYHK3Q==",
+   "clue": "दिवाळीत धनदेवतेची पूजा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceDBM3Jz47RzVGNlIE=",
+   "clue": "ओझे वाहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jceDBM3J2Y7Q8Q==",
+   "clue": "हास्य"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 11,
+   "x": "jceUmInTHY7R2w==",
+   "clue": "डोके आणि धड जोडणारा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jce8BM3J/Y7Q9FGNlIuNx4QEzcnZjtDx",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jcetmInTHY7R3FGNlJs=",
+   "clue": "गाणे म्हणणे"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 9,
+   "x": "jcetmInTHY7RwQ==",
+   "clue": "चेहऱ्याची बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 14,
+   "x": "jceWmInTHY7R5FGNlIaNx4QEzcnJ",
+   "clue": "फळे विकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 17,
+   "x": "jceSBM3J/g==",
+   "clue": "अभिनेता"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 6,
+   "x": "jcevmIjmHY7R11GNlIaNx4QEzcnT",
+   "clue": "गावातील दवंडी देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 8,
+   "x": "jcePmInTHY7RylGNlKY=",
+   "clue": "बसमधील तिकीट देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 12,
+   "x": "jceXmIjvHY7R5g==",
+   "clue": "खाण्याची इच्छा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 17,
+   "x": "jcelBM3J0RKV14GNlbERg57k",
+   "clue": "उन्हाळ्यातील मोठे फळ; कलिंगडाचे दुसरे नाव"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 18,
+   "x": "jceKBM3J9I7Q/s3JlE+Nx60Ezcn+",
+   "clue": "ए बी ओ प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 11,
+   "x": "jcelmInSHY7R5lGNlIGNxro=",
+   "clue": "कपाळावर लावायचा ठिपका"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 11,
+   "x": "jcelmInSHY7RwFGNlKY=",
+   "clue": "स्वराज्य माझा जन्मसिद्ध हक्क म्हणणारे"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 16,
+   "x": "jceImIjmHY7Rys3Jjk+Nx4o=",
+   "clue": "लोखंडाचे काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 4,
+   "x": "jcedmInTHY7R0lGNlIs=",
+   "clue": "हिंमत"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 6,
+   "x": "jcezBM3JxY7Q/s3JiNPI4kaYifgdjtHXzcmO",
+   "clue": "जाणून घेण्याची इच्छा"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 6,
+   "x": "jcezBM3JxY7Q/s3JiNPJ3UaYidQ=",
+   "clue": "जोश"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 9,
+   "x": "jceemInTHY7R2Q==",
+   "clue": "अंग गरम होणारा आजार; ज्वर"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 15,
+   "x": "jceUBM3J2I7RzVGNlJsRg57vUY3F3g==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 3,
+   "x": "jcegmIjtHY7R0g==",
+   "clue": "रागाची भावना"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 9,
+   "x": "jceQBM3J/hKV17gR0JfIg57G",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 4,
+   "x": "jceCBM3Jz47Q8VGNlIoRg57vzcjhEpXXiQ==",
+   "clue": "अनेकांनी मिळून म्हणायचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 8,
+   "x": "jceeBM3J2I7RzVGNlJs=",
+   "clue": "पाणी पिण्याची इच्छा"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 8,
+   "x": "jceDmInTHY7R3FGNlJKNxreYid2By/4PzcmsT43Hkg==",
+   "clue": "सर्वात हलका वायू"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 11,
+   "x": "jcemBM3JxY7Q/s3JgNPJ3Q==",
+   "clue": "गावात भरणारा मेळा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 5,
+   "x": "jcevmInTHY7Rw1GNlKaNxrgEzcnJ",
+   "clue": "कार्यालयातील लेखनिक"
+  }
+ ]
+}

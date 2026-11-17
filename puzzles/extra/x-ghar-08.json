@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-08",
+ "title": "घर आणि कुटुंब ८",
+ "difficulty": "मध्यम",
+ "rows": 12,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcetmIjsFIHWuNCd7B/a3J6HzN8OzZSPjca3mIn4FIHWg9Cd7Q==",
+   "clue": "कृष्णजन्माचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcevmIjmFIHWn9Cd7x/a3Ic=",
+   "clue": "दाराला लावायचे टाळे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceQBM3D2IHWkkzYyfna3JMbiMXCzZSHEYOe7c3D1g==",
+   "clue": "नर्स"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jcenmIjsFIHWh9Cc0x/a3J6HzN8=",
+   "clue": "झुलण्यासाठी टांगलेली बैठक"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jcePmInZFIHWnUzYyds=",
+   "clue": "संपत्तीचा पुढचा हक्कदार"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcegmInZFIHWi0zYydM=",
+   "clue": "अंथरुणावरील कापड"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jceUmInZFIHWg9Cd7Q==",
+   "clue": "मामांची पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceUmInZFIHWsUzYyftGmInX",
+   "clue": "जुन्या घरातील मधली खोली"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jcehBM3DwoHXoNCcxx/a3J0=",
+   "clue": "घराचे छत"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceRmIjqiMXCzZW4EYOe5A==",
+   "clue": "अन्न थंड ठेवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcevmInZFIHWuNCc0w==",
+   "clue": "वडिलांचा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceQBM3D2B2SiYhEjcecmInZFIHWnQ==",
+   "clue": "घराच्या मागचे अंगण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jceQBM3Dyx2SiZTYyOM=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcecmInZFIHWn0zYyfna3JIbiMXazZW4",
+   "clue": "झाडाची सुगंधी साल"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jcebBM3DxIHWkw==",
+   "clue": "जेवण नेण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceWmInZFIHWsdCd7R/a3J2HzN8OzZSN",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceCmInZFIHWgUzYycA=",
+   "clue": "अंग धुण्यासाठी फेस येणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jceCmInZFIHWlUzYydPa3ao=",
+   "clue": "नवऱ्याचे किंवा बायकोचे वडील"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jcesBM3D2h2SiZxEjceemIjqiMXWzZSG",
+   "clue": "कुटण्याचे दगडी भांडे आणि दांडा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcemmIjnFIHWmNCc0x/a3I6HzeM=",
+   "clue": "डोळ्यांना न दिसणारे सूक्ष्मजीव"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jcegmInYFIHWu0zYydFGmInBFIHWndCc0w==",
+   "clue": "विदर्भातील थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceWmInZFIHWn9Cd4IOe7VGHzMmSiLA=",
+   "clue": "घराबाहेर डोकावणारी गॅलरी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jcePBM3DyYHXrUzYydE=",
+   "clue": "बाबा; पिता"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 11,
+   "x": "jceIBM3D/4HXoNCcxQ==",
+   "clue": "विवाह"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-09",
+ "title": "प्राणी आणि पक्षी ९",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceCmIjxDoHK/lHQnd0f2tyO",
+   "clue": "सुंदर लोंबते घरटे विणणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceWmInOksXsFc2UrhGDntnN1Mw=",
+   "clue": "कोकणातील लोकप्रिय मासा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jcevmIj7ksXsFc2UlRGDntnN1fI=",
+   "clue": "अंडी देणारी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcemmInPDoHK2c2UhxGDntM=",
+   "clue": "सर्वात उंच प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceWBM3UwB2OzZ3QndMf2tyD",
+   "clue": "कृष्णाचा मोठा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jceQmInODoHKylHQnfiDn/PN1PAdjs2BTNnJwtrdrQ==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jceQmInODoHKys2VuRGDntLN1fMdjs2d0Jzt",
+   "clue": "गोलगप्पे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceWBM3Uy4HK1lHQnd2Dn/g=",
+   "clue": "शिकारी ससाण्याची एक जात"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcegmInPDoHKx1HQnc6Dn/g=",
+   "clue": "घराजवळ चिवचिवणारा लहान पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jcegmInPDoHKzc2VtI3HigTN1OeBytdR0J3d",
+   "clue": "कुंचला हातात घेणारा कलाकार"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceDBM3UwoHL6VHQnc4=",
+   "clue": "मृग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceDBM3U2oHL6FHQncODnsZRkNbJ",
+   "clue": "रामभक्त वानर"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcevmIj7DoHK2s2UuxGDntTN1fI=",
+   "clue": "लहान वाकडी जलचर; प्रॉन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jcevmIj7DoHK/M2UhhGDnsvN1Mw=",
+   "clue": "वसंतात कुहू कुहू गाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceWmIjwDoHK2g==",
+   "clue": "उंदराचे जमिनीतले घर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcevmInODoHK3M2VvhGDnsjN1fI=",
+   "clue": "दक्षिण भारतातील मोठी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jceDmInyDoHKxVHQnd0f2tyOkNfm",
+   "clue": "गायीचे ओरडणे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jceWBM3U5R2OzZ7QndM=",
+   "clue": "पाण्याकाठी एका पायावर उभा राहणारा पांढरा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceKmInODoHKwVHQncyDn/lRkNb0jsyg0J34H9rcnQ==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceKmInODoHKzVHQnfiDnsdRkNbAjs2T",
+   "clue": "रात्री किर्रकिर्र करणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceKmIj7DoHK0M2UhhGDntw=",
+   "clue": "गुलाबी रंगाचा लांब पायांचा पाणपक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcevmIj7ksXsFc2UlRGDntnN1Mw=",
+   "clue": "पहाटे आरवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jceWBM3U7R2OzY4=",
+   "clue": "सदऱ्याची गुंडी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceYmIj3DoHK/M2VuxGDnts=",
+   "clue": "गादीत लपून चावणारा कीटक"
+  }
+ ]
+}

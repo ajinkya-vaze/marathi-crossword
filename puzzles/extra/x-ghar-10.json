@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-10",
+ "title": "घर आणि कुटुंब १०",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceSmInZFIHWidGV7w==",
+   "clue": "मुलाचा किंवा मुलीचा मुलगा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceSmInZFIHWidGV6h/a3JiHzN8OzZW4EYOe7Q==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jce/mInlFIHWutGU0x/a3KU=",
+   "clue": "बाळाला झोपवताना गायचे गीत"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcemmInZFIHWidGV6g==",
+   "clue": "दगडी धान्य दळण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceUmIjmFIHWn03QyfTa3JM=",
+   "clue": "पुत्र"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceUmIjmFIHWlU3QydA=",
+   "clue": "उखळात कुटण्याचा जाड दांडा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jcePmInZFIHWnU3Qyds=",
+   "clue": "संपत्तीचा पुढचा हक्कदार"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceCmIjqiMXHUdGUwoOe+lGHzMuSiY9Mjcev",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jceCmIjqiMXHUdGUwoOe+lGHzMuSiY9MjcevBM3D8B2SiYE=",
+   "clue": "जेवण बनवण्याची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceQmInZFIHWsg==",
+   "clue": "जमिनीवर बसायचे लाकडी आसन"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jcezBM3D3oHXrQ==",
+   "clue": "झोपताना डोक्याखाली घेतो ती"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcesmInZiMXwUdGUy4Oexg==",
+   "clue": "ओझे घेतात तो भाग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jcecmInZFIHWh9GV5h/a3J+HzeE=",
+   "clue": "कोकणातील कृषी विद्यापीठाचे गाव"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceUmInZFIHWmE3QydXa3a0=",
+   "clue": "आईची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceUmInZFIHWsU3QyftGmInX",
+   "clue": "जुन्या घरातील मधली खोली"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceQmIjsFIHWnk3Qycna3JMbiMXt",
+   "clue": "पोळी लाटायचा गोल पाट"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceRmIjqiMXCzZSwEYOe5A==",
+   "clue": "अन्न थंड ठेवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcesmIjsFIHWn9GV7Q==",
+   "clue": "घरातील एक दालन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jcemmInZFIHWuk3QydNGmInE",
+   "clue": "देवीसाठी रात्रभर जागणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcemmInZFIHWmE3Qyes=",
+   "clue": "मुलीचा पती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceSBM3D3R2SiYFMjcecmIjgFIHWmA==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jcePBM3DyYHXrU3QydE=",
+   "clue": "बाबा; पिता"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcezBM3D2h2SiZRMjceZmIjg",
+   "clue": "पोळी उलटण्याचे सपाट साधन"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jcezBM3D/h2SiYI=",
+   "clue": "धान्य कांडण्याचा खोल दगड"
+  }
+ ]
+}

@@ -33,6 +33,9 @@ const HELP = {
     <h2>रोजचे कोडे</h2>
     <p>रोज नवे कोडे येते: सोमवार ते शनिवार लहान आणि रविवारी मोठे. जुनी कोडी मुख्य पानावर आहेत. वेळ आणि उत्तरे याच फोनवर जतन होतात.</p>
 
+    <h2>आणखी कोडी</h2>
+    <p>मुख्य पानावरील <b>आणखी कोडी</b> मध्ये विषयवार शेकडो कोडी आहेत, केव्हाही खेळता येतात. विषय आणि आकार निवडा किंवा <b>कोणतेही कोडे खेळा</b> दाबा. ही कोडी सलग दिवसांच्या मोजणीत धरली जात नाहीत.</p>
+
     <h2>इंटरनेटशिवाय खेळा</h2>
     <p>Chrome च्या मेनूमधून <b>Add to Home screen</b> किंवा <b>ॲप इन्स्टॉल करा</b> निवडा. एकदा उघडलेली कोडी इंटरनेटशिवायही खेळता येतात.</p>
   `,
@@ -65,6 +68,9 @@ const HELP = {
 
     <h2>Daily puzzles</h2>
     <p>A new puzzle every day: small Monday to Saturday, large on Sunday. Past puzzles are on the home screen. Your time and answers are saved on this phone.</p>
+
+    <h2>More puzzles</h2>
+    <p><b>More puzzles</b> on the home screen has hundreds of puzzles by theme, to play any time. Pick a theme and size, or tap <b>Play any puzzle</b>. They don't count toward your daily streak.</p>
 
     <h2>Play offline</h2>
     <p>In Chrome's menu choose <b>Add to Home screen</b> or <b>Install app</b>. Puzzles you've opened once also work without internet.</p>

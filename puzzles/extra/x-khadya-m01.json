@@ -1,0 +1,541 @@
+{
+ "id": "x-khadya-m01",
+ "title": "खाऊ आणि स्वयंपाकघर · मोठे कोडे १",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jceCBM3P2B2E3fZRjZSf",
+   "clue": "स्वरांची मालिका"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 9,
+   "x": "jceemInUFIHAwR3NyYHRyO7a3IKLzN8=",
+   "clue": "समुद्रकिनारी मिळणारी शिंपल्यातील जलचरे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceCBM3P2B2E3c1RjZSV",
+   "clue": "थंड गोड पेय"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 15,
+   "x": "jcePmInVFIHAyR3NyaVNjceKmIjr",
+   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 15,
+   "x": "jcePmInVFIHA3x3NyaU=",
+   "clue": "वाद्य वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jcedmInUFIHAyR3NyZHRyOQ=",
+   "clue": "पिठाचे पातळ तव्यावरचे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jcevmIjgFIHA7B3NyZ4=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceQmInUFIHA2R3NyYLRyOQ=",
+   "clue": "बेसनाचे घट्ट कालवण"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 12,
+   "x": "jcePmInVFIHA34GI4NCVwh/a3JiLzeKE3eNRjZSX",
+   "clue": "वादकांचा समूह; ऑर्केस्ट्रा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 12,
+   "x": "jcePmInVFIHA5oGJ00zRycDa3JM=",
+   "clue": "हिरवे गोल दाणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceQmIjmiMXUBYGJ29CV0h/a3LiLzeyE3dZRjZSk",
+   "clue": "खेळ शिकवणारा; कोच"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceQmIjmiMXUBYGJ+NCV0x/a3JsXiMXcmcWvEdCV24Of9c3P2oHB/h3NyYdNjceZ",
+   "clue": "पाने अन्न बनवतात ती क्रिया"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 10,
+   "x": "jceWBM3P94HAxx3Nya/Ryd0=",
+   "clue": "वड्यात भरतात तो कंद"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 15,
+   "x": "jcevBM3Pyh2E3ek=",
+   "clue": "तळण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 16,
+   "x": "jceYBM3P/w==",
+   "clue": "मेघ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jceUBM3PwIHB+B3NyaXRyd0=",
+   "clue": "सुकवलेली द्राक्षे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceUBM3P0IHAxx3NyYLRyORGmInGiMXaBYGJyQ==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jceCmInVFIHA1YGI7EzRycXa3JMXiMXHmcWTEdCV2B/a3IyLzN8=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceXmInVFIHA5YGI7Q==",
+   "clue": "पोळीसोबत खाल्ला जाणारा शिजवलेला पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 14,
+   "x": "jcegBM3P0YHAxw==",
+   "clue": "सकाळचे गरम पेय"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceUmIjgFIHAwYGJ70zRyc/a3a0=",
+   "clue": "रसाचे हिरवट लिंबूवर्गीय फळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcevmInViMXmBYGJy9CV0w==",
+   "clue": "कापताना डोळ्यांत पाणी आणणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 13,
+   "x": "jcetmIjqFIHAwIGJ0w==",
+   "clue": "डोंगरातील पोकळी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 13,
+   "x": "jcetmIjqFIHA2B3NyajRyd0=",
+   "clue": "पायाचा मधला सांधा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 16,
+   "x": "jcemBM3P24HB+w==",
+   "clue": "रक्त शोषणारा पाण्यातील किडा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcevmInUFIHAy4GI4NCV34Of/1GLzM2E3d/NybJNjcedBM3Py4HB+Q==",
+   "clue": "दिवाळीत मुले मातीचे गड बनवतात"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 10,
+   "x": "jce8BM3PxoHB9IGJ3UzRyfXa3K8XiMXF",
+   "clue": "आंब्याचे श्रीखंड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jce8BM3P3R2E3dLNyY4=",
+   "clue": "आंबट तुरट हिरवे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 15,
+   "x": "jce/BM3P24HB+w==",
+   "clue": "वडीसाठी मोठी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 15,
+   "x": "jce/BM3PwB2E3clRjZSJ",
+   "clue": "काटेरी सालीचे आंबटगोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 20,
+   "x": "jcepBM3P94HAxw==",
+   "clue": "घराबाहेरील उंच बसण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jce/mInpFIHA3R3NyYDRyd1GmInYFIHAzIGI7UzRydM=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jcePBM3PyYHAxx3NyZrRyd1GmIne",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 13,
+   "x": "jceimInVFIHAzB3NyZg=",
+   "clue": "तांदळाच्या पिठाचे कोकणी धिरडे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 17,
+   "x": "jcecmIjqFIHA04GJ00zRydM=",
+   "clue": "मध्यान्ह"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 19,
+   "x": "jceimIjgFIHA5oGJ0w==",
+   "clue": "पावलाचा सांधा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 19,
+   "x": "jceimIjgFIHA2B3NyZZNjceJ",
+   "clue": "घोड्यांवरचे सैन्य"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceeBM3P2x2E3cI=",
+   "clue": "तेलात तळलेले पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceWmInViMXmBYGJ+kzRycLa3JM=",
+   "clue": "कोकणातील लोकप्रिय मासा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 15,
+   "x": "jceCBM3Pwx2E3dFRjZSrjce4BM3Pzg==",
+   "clue": "लाल रंगाचे काश्मिरी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 16,
+   "x": "jceRBM3Pyx2E3dk=",
+   "clue": "काटेरी सालीचे मोठे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceXmIjsFIHAyg==",
+   "clue": "चुरमुरे-चटणीचा चटपटीत पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceSmInVFIHA4x3NyZPRyOM=",
+   "clue": "लाल पौष्टिक धान्य; रागी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcegBM3Pxh2E3fvNyY4=",
+   "clue": "आमटी पिण्यासाठी वापरतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 13,
+   "x": "jceXmInVFIHA1IGJ0w==",
+   "clue": "भारतीय अणुसंशोधनाचे जनक"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 14,
+   "x": "jceXmInVFIHA7B3NyYDRyOM=",
+   "clue": "ज्वारी किंवा बाजरीच्या पिठाची"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jceCmInViMXmBYGJwdCV0x/a3J0=",
+   "clue": "दक्षिणी डाळीची आमटी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 14,
+   "x": "jcevBM3Py4HB+R3NyYg=",
+   "clue": "मक्याचे किंवा ज्वारीचे दाण्यांचे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceWmIjgFIHAyQ==",
+   "clue": "लहान आंबटगोड फळ; संक्रांतीला लुटतात"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jce8BM3P8oHAxx3NyYDRyOM=",
+   "clue": "स्वयंपाक करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jce8BM3Pxh2E3f7NyLA=",
+   "clue": "डाळीचे तिखट पातळ कालवण"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 12,
+   "x": "jcevBM3P8oHB8h3NyYDRyOM=",
+   "clue": "डाळीचे सारण भरलेली खुसखुशीत पुरी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 12,
+   "x": "jcevBM3P2B2E3dTNybJNjcec",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceQmIjqFIHAyR3NyYjRyO7a3LiLzN8YmcWd",
+   "clue": "सन्मान; बक्षीस"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 9,
+   "x": "jceQmIjqFIHAy4GJ00zRydY=",
+   "clue": "भाज्या घालून केलेला भात"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 0,
+   "x": "jceCmIjgFIHAwYGJ00zRycxGmIn0iMTk",
+   "clue": "सदनिकांचा समूह"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 0,
+   "x": "jceCmIjgFIHAyx3NyaVNjceYmIjr",
+   "clue": "कोकमची गुलाबी कढी"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 8,
+   "x": "jceQmIjsFIHAy4GJ0w==",
+   "clue": "पाणी पिण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 19,
+   "x": "jcelBM3P2B2E3c3NyLJNjcem",
+   "clue": "उन्हाळ्यातील मोठे फळ; कलिंगडाचे दुसरे नाव"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 9,
+   "x": "jcePBM3PyYHAxw==",
+   "clue": "तळलेला गोल पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 10,
+   "x": "jcebmInVFIHAyoGJ0tCV7x/a3IE=",
+   "clue": "लाल दाण्यांचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 12,
+   "x": "jcecBM3P0YHB+Q==",
+   "clue": "विरजण लावून बनवतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 15,
+   "x": "jcePmInVFIHA4Q==",
+   "clue": "भारताचा राष्ट्रीय प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 17,
+   "x": "jceCmIjqFIHA3oGJ00zRydNGmInT",
+   "clue": "साखरेचा लिंबू घातलेला पाक"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 0,
+   "x": "jcevBM3PyoHB+R3NyZpNjceemIjmiMXAmcWT",
+   "clue": "फोडणीतील सुगंधी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 2,
+   "x": "jceQBM3P9x2E3fRRjZSUjceE",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 15,
+   "x": "jceiBM3P0IHAxw==",
+   "clue": "गळ्याचा आतला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 16,
+   "x": "jceCmInVFIHA7x3NyYA=",
+   "clue": "गोड पांढरे कण"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 10,
+   "x": "jceWBM3PyYHB+R3NyYbRyORGmInB",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 13,
+   "x": "jceQBM3P/YHB8h3NyZHRyd0=",
+   "clue": "बेसनात घोळून तळलेली भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 16,
+   "x": "jcesBM3P2B2E3c3NyLJNjcem",
+   "clue": "पिवळसर गराचे सुगंधी फळ"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 1,
+   "x": "jcevmInVFIHA7B3NyZHRyOM=",
+   "clue": "कोशिंबिरीत घालायची हिरवी फळभाजी"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 13,
+   "x": "jcevmIjgFIHA3IGJ0tCV7x/a3IGLzeEYmcWd",
+   "clue": "हिरवी सुगंधी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 15,
+   "x": "jceWmIjrFIHA5g==",
+   "clue": "लाल रंगाचा कंद"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 11,
+   "x": "jceDmIjqFIHAyR3NyZHRyd0=",
+   "clue": "भाजलेली कोवळी ज्वारी खाण्याचा कार्यक्रम"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 12,
+   "x": "jceKBM3P3YHAxw==",
+   "clue": "गव्हाचा जाडसर भरडा"
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "id": "x-maharashtra-m02",
+ "title": "माझा महाराष्ट्र · मोठे कोडे २",
+ "difficulty": "मध्यम",
+ "rows": 20,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceKmInTHYjFxYHW5ZTW/s3IvdLJ00aYifqBzeEOgdfM",
+   "clue": "जन गण मन"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceKmInTHYjF7h2TzOMOgYnM",
+   "clue": "शिवरायांची पहिली राजधानी"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 12,
+   "x": "jcePmIjlHYjF2h2TzOOSxa8R0Jb6g57G",
+   "clue": "विदर्भातील मोठी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 13,
+   "x": "jceSBM3JxA==",
+   "clue": "नाकातील दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 15,
+   "x": "jcetmInTHYjF0x2TzOOSxKoR0JbBg57GUY3FxIHW3w==",
+   "clue": "हातात खराटा घेऊन स्वच्छता शिकवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 18,
+   "x": "jceCmInTHYjF3oHW6QiSxYuNlIwRg57bzcnfFIHW1A+I0NOBidM=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jce9mInvHYjF5YHW5ZTW0VGNlK4=",
+   "clue": "ब्रिटिश राज्यकर्ते"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jce9mInvHYjF1IHW5ZTW0c3Jjk6Nx5UEzcnCiMTy",
+   "clue": "आळंदी-देहूची नदी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcepBM3J1IjE8g==",
+   "clue": "ज्ञानेश्वरीतील छंद"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 15,
+   "x": "jcebBM3Jyg==",
+   "clue": "गोल हाताने वाजवायचे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 18,
+   "x": "jceWmIjsHYjFwoHW6giSxbE=",
+   "clue": "किल्ल्याच्या तटबंदीचा गोल भाग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 20,
+   "x": "jcemBM3JwRSB1tE=",
+   "clue": "अन्न पचवणारी पिशवी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceQmInSHYjFxB2TzMGSxK0=",
+   "clue": "सामान ठेवण्याची"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceMBM3JyYjFzR2TzMGSxZMR0JbdH9rcmI3F1h2SxdKI0Mw=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceSmInTHYjF3B2TzNKSxKoR0JbY",
+   "clue": "पंजाबपर्यंत भक्ती पोहोचवणारे संत"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 13,
+   "x": "jceemInTHYjF04HW4wiSxYGNlIw=",
+   "clue": "चंद्रपूरजवळचे वाघांचे अभयारण्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 13,
+   "x": "jceemInTHYjFwoHX1giSxYGNlIwRg57w",
+   "clue": "संभाजीराजांनंतर स्वराज्य लढवणारी राणी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jce/BM3J2IjFzR2TzMSSxZMR0JbOg5/4",
+   "clue": "खानदेशातील बोली"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jce/BM3J1ojE/4HX9wiSxYeNlb+Nx4oEzcnGiMXMHZPM3A==",
+   "clue": "शिवरायांचे आठ मंत्र्यांचे मंडळ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jceCmIjqHYjFx4HX1giSxbqNlb+Nx4qYidMdiMXc",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceWmInTHYjF7oHW6AiSxZ2NlIwRg57N",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 16,
+   "x": "jcemmIjtHYjF3w==",
+   "clue": "चव घेणारे इंद्रिय"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcemmInvHYjF7oHX1wiSxZ2NlIw=",
+   "clue": "मुरुडजवळचा समुद्री किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcegmInSHYjF1oHW5ZTW0Q==",
+   "clue": "रेखाटन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcegmInSHYjF5B2TzMYOgYnLTNLJ09rckw==",
+   "clue": "विदर्भातील थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 11,
+   "x": "jcePBM3J2RSB1uk=",
+   "clue": "किल्ला असलेले मुंबईच्या उत्तरेचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 12,
+   "x": "jceCBM3Jy4jE/4HXzAiSxZuNlbGNx7gEzcn2iMTy",
+   "clue": "वणीची देवी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 17,
+   "x": "jceVmIjqHYjFyoHX1giSxbGNlbI=",
+   "clue": "शिवरायांचा विश्वासू सरदार कंक"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 19,
+   "x": "jceCmIjmHYjF2IHX1giSxYUR0JbLg5//UY3F3Q==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jceUBM3J0YjFzB2TzNQOgYnY0JbTH9rcjI3F1g==",
+   "clue": "लातूर आणि नांदेड ज्या प्रदेशात आहेत तो"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jcePmInTHYjF04HX1g==",
+   "clue": "जुने मोठे चौसोपी घर"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 17,
+   "x": "jceCmInTHYjFwoHW6AiSxYeNlIwRg57n",
+   "clue": "फाशांचा जुना खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceQBM3JyRSB1tSTzfMOgYnf",
+   "clue": "रायगड जिल्ह्यातील रेल्वे जंक्शन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jceQBM3JxYjE/4HXzJTX5g==",
+   "clue": "बावन्न पानांचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 14,
+   "x": "jceemIjsHYjF5x2TzNWSxKYR0Jbxg5/4",
+   "clue": "ग्रामगीता लिहिणारे राष्ट्रसंत"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 15,
+   "x": "jcevBM3J04jE/4HXx5TW31GNlJE=",
+   "clue": "मुंबईजवळचे मोठे रेल्वे जंक्शन"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jcetmIjtHYjF1h2TzMSSxZMR0JbDg57GUY3Fxx2SxdA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jceCBM3Jz4jE8B2TzM0OgYn60JftH9rciQ==",
+   "clue": "अनेकांनी मिळून म्हणायचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 13,
+   "x": "jceeBM3J0xSB1tSTzMoOgYnd",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 18,
+   "x": "jceSmInTgczjDoHXzpTX5lGNlJM=",
+   "clue": "हजूर साहिब गुरुद्वारासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceemIjsHYjF54HX1giSxZ2NlIwRg57W",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jcevmInTHYjFwh2TzOGSxK8R0JbF",
+   "clue": "कार्यालयातील लेखनिक"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceUBM3J2YjFzB2TzMaSxKoR0JbAg57GUY3FzA==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceeBM3Jz4jFzB2TzMKSxZM=",
+   "clue": "लोकनाट्याचा पारंपरिक प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 13,
+   "x": "jceIBM3J9IjE/4HX35TX7M3Jnk6Nx5k=",
+   "clue": "रामाचा धाकटा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jcetmIjsHYjF0x2TzOySxZM=",
+   "clue": "पायाचा मधला सांधा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceCmInTHYjF1oHX1giSxZ2NlIw=",
+   "clue": "कंदी पेढ्यांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jcetBM3JyYjFzR2TzNqSxK0R0Jb4g57GUY3F3YHW3w==",
+   "clue": "शिवरायांचे युद्धतंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 9,
+   "x": "jcetBM3JwhSB1ssPiNDWgYjtTNLJydrdrBGBzNKSxPQ=",
+   "clue": "समुद्रकिनारी गणपतीचे देवस्थान"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 16,
+   "x": "jceWmIjqHYjFwoHW6AiSxbE=",
+   "clue": "संख्या एकत्र करणे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jceUmInTHYjFwB2TzMEOgYnO",
+   "clue": "सिंधुदुर्गजवळचे मासळीसाठी प्रसिद्ध गाव"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 13,
+   "x": "jceKBM3JxYjE/4HXwJTW31GNlKWNx4UEzcnRiMTy",
+   "clue": "हापूस आंब्यासाठी प्रसिद्ध कोकणातील जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 18,
+   "x": "jceCmIjmgczjDoHX/wiSxbKNlb+Nx5WYidM=",
+   "clue": "सारीपाटाचे खेळातले मोहरे"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceimInTHYjFxx2TzNw=",
+   "clue": "तांदळाच्या पिठाचे कोकणी धिरडे"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 1,
+   "x": "jcePBM3J0IjE/4HX0ZTW31GNlJONxro=",
+   "clue": "विदर्भातील बोली"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceQBM3JxYjE/4HX2A==",
+   "clue": "टपालाने पाठवायचा मजकूर"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 20,
+   "x": "jcetmIjmHYjF7YHW5ZTWzs3Jjg==",
+   "clue": "काचेच्या गोळ्यांचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 4,
+   "x": "jceeBM3J0hSB1sI=",
+   "clue": "तेलात तळलेले पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 11,
+   "x": "jceQmInvHYjF6B2TzOOSxa8R0Jb6g57G",
+   "clue": "कोल्हापूरची नदी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 11,
+   "x": "jceQmInvHYjF0B2TzMQOgYnH0JfvH9rcnQ==",
+   "clue": "विठ्ठलाचे मंदिर असलेले गाव"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 14,
+   "x": "jcetmInTHYjF14HX1g==",
+   "clue": "तुकारामांच्या अभंगांचा संग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 17,
+   "x": "jce8BM3J/ojE/4HXx5TW31GNlJiNx4QEzcn+iMT/gdfHlNbf",
+   "clue": "जुना मराठी मैदानी खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 17,
+   "x": "jce8BM3JwRSB1tQPiNDR",
+   "clue": "स्मृती"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 0,
+   "x": "jcecmInSgczjDoHXyZTX4Q==",
+   "clue": "वारीतील भक्तांचा समूह"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 7,
+   "x": "jcecBM3J2IjFzA==",
+   "clue": "दोन्ही हातांची बोटे"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 14,
+   "x": "jcefmInTHYjFwIHW6AiSxYeNlbIRg57Y",
+   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 6,
+   "x": "jceUBM3J2IjFzB2TzNgOgYne0JfqH9rcm43E5YHW1A+I0MI=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 8,
+   "x": "jceWBM3J0RSB1vYPiNDTgYjt",
+   "clue": "छातीचे वाकडे हाड"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 17,
+   "x": "jcePBM3JwIjFzB2TzN6SxZMR0JbY",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 19,
+   "x": "jceQmInTHYjF6B2TzOMOgYnO0Jft",
+   "clue": "टेबललँड असलेले थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 14,
+   "x": "jcemmInTHYjF5R2TzMQOgYnO",
+   "clue": "देवीसाठी रात्रभर जागणे"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 15,
+   "x": "jcetBM3JwojE9R2TzMI=",
+   "clue": "गणपतीचे नाव; विघ्नहर्ता"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 7,
+   "x": "jceUmInvHYjF5R2TzMeSxZMR0Jb6g5/0UY3F2A==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 19,
+   "x": "jcetBM3J1IjFzA==",
+   "clue": "सह्याद्रीतील रानबैल"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 13,
+   "x": "jceKmIjqHYjF5IHX1pTW41GNlIQ=",
+   "clue": "ग्रीनविचपासूनचे अंतर"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 18,
+   "x": "jceImIjqHYjF0YHW6A==",
+   "clue": "डोंगरात कोरलेली प्राचीन गुहा-मंदिरे"
+  }
+ ]
+}

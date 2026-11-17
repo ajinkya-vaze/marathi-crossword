@@ -1,0 +1,177 @@
+{
+ "id": "x-san-13",
+ "title": "सण, कला आणि परंपरा १३",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "x": "jceImIj0HY6Jp0+Nx68=",
+   "clue": "पुस्तक लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcecmInMHY6JhNPJ3UaYicCBy61N08nm2tyvD4HKuA==",
+   "clue": "दिवाळीत निघणारे विशेष मासिक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceXBM3X0RLNlZcRg57QzdffEs2VrI3Gt5iJ3B2OiZ8=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jceSBM3X0RLNlaYRg57iUZPFys2UshGDnsjN1uyOiZdPjceMmIjz",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jcezBM3XyxLNlYaNx4QEzdfZ",
+   "clue": "अन्न न खाता राहणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcevBM3X046Jj0+Nx6+Yic0djomB",
+   "clue": "कला सादर करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jceQmIjyHY6JgU+Nx5kEzdfLjoi6T43HiZiI8w==",
+   "clue": "होळीच्या सणाचा खास गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceSmInNHY6Jpk+Nx5CYifEdjomrT43HlJiI8w==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jcevBM3X0hLNlYs=",
+   "clue": "मंदिराचे शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceQmInNHY6JkE+Nx4+Yic0=",
+   "clue": "दिवाळीतील बलिप्रतिपदा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jcepBM3XwhLNlZ0=",
+   "clue": "केरळचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceemIjyHY6Jgk+Nx4yYiPMdjomE08ncRpiJxoHKk03Tydo=",
+   "clue": "दिवाळीनंतर तुळशीचे लग्न"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceemIjyHY6JldPJ3UaYicOBy60=",
+   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jcePmInMHY6JiU+Nx4qYiP6ByrFN08nL",
+   "clue": "मूर्ती पाण्यात सोडणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceDBM3XyY6IsE+Nx5SYic0djomZT43HpgTN186OibNPjceemIjz",
+   "clue": "मारुतीचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jce8BM3X9I6Jj0+Nx4wEzdf0jomzT43HnJiI8x2OiYM=",
+   "clue": "दिवाळीत टांगतात तो दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcevmInNHY6Jl9PJ4UaYid8djomB08jj",
+   "clue": "दीर्घ कथात्मक साहित्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jceUmInNHY6JntPJ3Q==",
+   "clue": "प्रेमळ जिव्हाळा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcevmIjzHY6JgdPI7trciQ+ByoU=",
+   "clue": "गायन व निरूपणासह सांगितलेली हरिकथा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jcecmIjzHY6Jm0+Nx68=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jcemBM3Xyw==",
+   "clue": "नाम पुन्हा पुन्हा घेणे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceQBM3X0hLNlYs=",
+   "clue": "केशरी फुलांचे जंगली झाड"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jcesBM3X0xLNlZuNx4QEzdfOEs2Vpg==",
+   "clue": "गोष्टीतील वाईट माणूस"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 7,
+   "x": "jceUmInNHY6JgdPI4kaYideBy60=",
+   "clue": "हनुमान; बजरंगबली"
+  }
+ ]
+}

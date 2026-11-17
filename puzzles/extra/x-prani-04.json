@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-04",
+ "title": "प्राणी आणि पक्षी ४",
+ "difficulty": "मध्यम",
+ "rows": 10,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jce/BM3UyoHL5M2UgRGDnso=",
+   "clue": "मधाचा शौकीन केसाळ प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceCmInOksXsFc2UmBGDnsg=",
+   "clue": "मोठ्या शिंगांचे हरीण"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceimIjxDoHKxVHQkMw=",
+   "clue": "रात्री जागणारा मोठ्या डोळ्यांचा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceCmIjxDoHK2s2Uig==",
+   "clue": "हत्तीचा बाहेर आलेला दात"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceQmInODoHK2w==",
+   "clue": "भिंतीवर चालणारा लहान सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "x": "jceQmInODoHKylHQkPiDn/PN1PAdjs2BTNTJwtrdrQ==",
+   "clue": "पाण्यात राहणारी काळी कोंबडीसारखी पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jceWBM3U5R2OzZ7QkNM=",
+   "clue": "पाण्याकाठी एका पायावर उभा राहणारा पांढरा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jceimIj7DoHK2VHQkMcf2tyM",
+   "clue": "किल्ल्याच्या भिंतीवर चढणारा सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jceimIj7DoHKyM2VtA==",
+   "clue": "घोड्याची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceQBM3UwoHL5M2Um43HhATN1Mcdjs2dTNTJwA==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jce1BM3U0x2OzbjQkNM=",
+   "clue": "लढाऊ नर मेंढा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jcePBM3UwYHL6w==",
+   "clue": "सांड; गावात मोकाट फिरणारा बैल"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jcePBM3U7R2OzZjQkNMf2ty1kNfjEomJgw==",
+   "clue": "उलटे लटकणारा उडणारा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcevmIj7ksXsFc2UmBGDntnN1fI=",
+   "clue": "अंडी देणारी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jceUmInODoHK/FHQkMw=",
+   "clue": "वानर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceUmInODoHK0c2Uig==",
+   "clue": "मत्स्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcecmIj3DoHK3FHQkMODnsZRkNbZjs2T",
+   "clue": "समुद्रातील सर्वात मोठा सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jcevmInODoHK9VHQkNiDnsY=",
+   "clue": "रात्री चमकणारा कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceQmIjxDoHK2VHQkM4f2tyHkNfqEomJg9TI4w==",
+   "clue": "होळीच्या सणाचा खास गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jceQmIj7DoHKw1HQkPI=",
+   "clue": "हिरवा बोलणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jcevBM3UwR2OzYc=",
+   "clue": "हरणांचा किंवा गुरांचा समूह"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jcevBM3Uwh2OzYzQke8=",
+   "clue": "शेळीचे पिल्लू"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jceQBM3U0x2OzYvQkNM=",
+   "clue": "खिडकीवर लावलेले कापड"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcegBM3U54HL4lHQkN0=",
+   "clue": "चांदणे पिऊन जगतो अशी कल्पना असलेला पक्षी"
+  }
+ ]
+}

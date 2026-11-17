@@ -1,0 +1,541 @@
+{
+ "id": "x-itihas-m03",
+ "title": "इतिहासाच्या पानांतून · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "x": "jceQmInXCInMyZOJ0kzTyclGmInN",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceQmInXCInMzg/NyZZPjceJ",
+   "clue": "पायी लढणारे सैन्य"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceQBM3NwonN7JOJ99CX0h/a3IM=",
+   "clue": "सूर्य मावळतो ती दिशा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceCmInXCInM1A/NyYBPjcevBM3NxA==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jcePmIjhCInMz5OJ00zTycva3JIVlM39",
+   "clue": "विमान चालवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 17,
+   "x": "jce8BM3Nx4nM4w/NyZbTyOM=",
+   "clue": "ज्ञानेश्वरांची समाधी असलेले गाव"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 17,
+   "x": "jce8BM3N1BWIxcZRjZSSjceE",
+   "clue": "सात दिवसांचा कालावधी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jcePBM3N6xWIxdnNyLxPjceKmIjklM3LgdeSEdCXw4Oexg==",
+   "clue": "सुवासिनी वडाची पूजा करतात"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 14,
+   "x": "jcePmInWCInMx5OI4NCXwoOexlGJ0MOIxPNRjZST",
+   "clue": "पदव्या देणारी मोठी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jcePmIjuCInMxw==",
+   "clue": "प्राचीन धर्मग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceUBM3NzYnM3w/NyYXTyONGmInZ",
+   "clue": "जैन धर्माचे तीर्थंकर"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 11,
+   "x": "jceSmInWCInM0ZOI4NCXw4OexlGJ0M2Ixc0=",
+   "clue": "चित्रपटाला पैसे घालणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 13,
+   "x": "jceemInXCInMz5OI4NCX3R/a3IcVlM33",
+   "clue": "तांब्याच्या पत्र्यावरील लेख"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 17,
+   "x": "jcePBM3N1YnM3w/NyZrTyd1GmInc",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jcelmInWCInM0g/NyaU=",
+   "clue": "स्वराज्य माझा जन्मसिद्ध हक्क म्हणणारे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 15,
+   "x": "jcesmIjuCInM9A/NyZHTyd0=",
+   "clue": "तिरका चालणारा जलचर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 15,
+   "x": "jcesmIjuCInM0pOJ00zTycLa3a8=",
+   "clue": "खेळणारा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcevmIjklM3YgdeTjZSxEYOe3M3NyxWIxebNyY5PjceKBM3N4Q==",
+   "clue": "सशस्त्र लढा देणारा देशभक्त"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jcevmInXCInMyZOI4NCX1IOf81GJ0PWIxPM=",
+   "clue": "मराठ्यांचे आरमारप्रमुख आंग्रे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jcevBM3NxxWIxcvNyLJPjceWmInXCInM6Q==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 13,
+   "x": "jceQBM3N3InN7JOJ1NCX0x/a3J6J0Nc=",
+   "clue": "कोल्हापूरजवळचा किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 18,
+   "x": "jcemmInrCInM/ZOJ0kzTydPa3JM=",
+   "clue": "मुरुडजवळचा समुद्री किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 20,
+   "x": "jceKmInXCInM/Q/NyYXTyd1GmInIlM3W",
+   "clue": "राजाचा महाल"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 11,
+   "x": "jceUmIjoCInM9JOI7EzTyfw=",
+   "clue": "राजाच्या डोक्यावरचा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 12,
+   "x": "jcevmIjoCInM0JOI4NCX1IOexlGJ0Mg=",
+   "clue": "लाकूड तोडायचे धारदार पाते"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceVmIjuCInM2ZOJ00zTyf/a3a0=",
+   "clue": "शिवरायांचा विश्वासू सरदार कंक"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceCmIjrCInM0ZOI4NCXwoOexlGJ0NGIxP7NyZQ=",
+   "clue": "सूर्य मावळण्याची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 18,
+   "x": "jceDmInWCInM0Q/NyaVPjceZmIjp",
+   "clue": "रायगडाचा कडा उतरून गेलेली आई"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 11,
+   "x": "jce9BM3N1RWIxcHNyLA=",
+   "clue": "वाफवलेला दक्षिणी पांढरा पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jce9BM3N0InM3g/NyYnTyd1GmInRCInM9JOJ00zTydM=",
+   "clue": "इतिहास लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 15,
+   "x": "jceMBM3N3InM3g/NyYXTyd1GmInZCInM1JOJ00zTycLa3JM=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 15,
+   "x": "jceMBM3N0BWIxeY=",
+   "clue": "शंभर वर्षे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jce/BM3NzYnM3g/NyYLTyO7a3IKJ0NcUgdeBjZSNEYOe8A==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jce/BM3N3xWIxe9RjZSBEYOe7s3NyhWIxds=",
+   "clue": "प्रतापगडावर मारला गेलेला सरदार"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceWmInXCInMwg==",
+   "clue": "धनुष्यातून सोडतात"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceemIjiCInMyg==",
+   "clue": "किल्ल्यावरील गोळा उडवणारे अस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcenmIjiCInMyw==",
+   "clue": "निद्रा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 13,
+   "x": "jcecBM3NwhWIxeY=",
+   "clue": "दहा वर्षे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 13,
+   "x": "jcecBM3NxBWIxd/NyY5PjceK",
+   "clue": "राजाची सभा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 17,
+   "x": "jcevBM3N14nN4Q/NyYg=",
+   "clue": "मक्याचे किंवा ज्वारीचे दाण्यांचे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 17,
+   "x": "jcevBM3N1onN4Q==",
+   "clue": "ताकाची फोडणी दिलेली"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jceCmInWlM3qHZOJ1NCX0x/a3JUVlM3A",
+   "clue": "राजाचे आसन"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jceQBM3NxBWIxctRjZSVjceEBM3NxA==",
+   "clue": "घराच्या मागचे अंगण"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceImInXCInM0w/NyZ5PjceDmInXCInM0w==",
+   "clue": "पुण्यातील शिवरायांचा वाडा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 13,
+   "x": "jceWmInXCInM/ZOI7UzTydPa3JMVlM3d",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 16,
+   "x": "jcePBM3N0BWIxds=",
+   "clue": "वंशपरंपरेने मिळालेली जमीन"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 19,
+   "x": "jceDmInWlM3qHZOJy9CW7Q==",
+   "clue": "राष्ट्रभाषा मानली जाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 0,
+   "x": "jcePmInWCInM15OJ00zTydBGmIn+CInMwA==",
+   "clue": "बाजीप्रभूंच्या लढाईशी जोडलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jce8BM3N4xWIxcNRjZSmEYOeyA==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 9,
+   "x": "jce8BM3N3hWIxezNyY4=",
+   "clue": "दसऱ्याला सोने म्हणून वाटतात त्याची पाने"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 12,
+   "x": "jcevBM3NxBWIxcZRjZSX",
+   "clue": "लाकूड कापायचे दातेरी पाते"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 16,
+   "x": "jceeBM3N6xWIxd/NybJPjcecmIjp",
+   "clue": "किल्ल्याभोवतीची भिंत"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 18,
+   "x": "jceWmInrCInM9g/NyYLTyd0=",
+   "clue": "बाग असलेले मोठे स्वतंत्र घर"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceMmInXCInM2JOJ0kzTydva3aCJ0M2IxPRRjZSljceEBM3N3A==",
+   "clue": "लाल महालात बोटे गमावलेला"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 14,
+   "x": "jcevmInXCInM0ZOI4NCXwR/a3IU=",
+   "clue": "कोळशातील मूलद्रव्य"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 20,
+   "x": "jcetmIjiCInM9w/NyYLTyOQ=",
+   "clue": "गांधीजींचे राजकीय गुरू"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 17,
+   "x": "jceMmInWCInM05OJ00zTydHa3aoVlM3+",
+   "clue": "दगडावर कोरलेला लेख"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 17,
+   "x": "jceMmInWCInM0Q/NyYjTyO7a3ImJ0eSIxcPNyY5PjceZ",
+   "clue": "डोक्याचे लोखंडी संरक्षण"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 0,
+   "x": "jcetBM3N3InM3g/NyZ7TyONGmIn8lM3WHZOJ2NCX0w==",
+   "clue": "शिवरायांचे युद्धतंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 4,
+   "x": "jcePmInXCInM+Q/NyZhPjcesmIju",
+   "clue": "अफजलखानाच्या वधासाठीचे शस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 6,
+   "x": "jcedmIjiCInMxQ/NyYA=",
+   "clue": "पुरुषांचे पारंपरिक वस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 8,
+   "x": "jcevmInXCInM0w/NyabTyeFGmInI",
+   "clue": "इतिहासातील ठराविक काळ"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 10,
+   "x": "jceXBM3N4xWIxddRjZSLjceFmInrCInM9g==",
+   "clue": "तरुण क्रांतिकारक; फाशी गेलेला"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 11,
+   "x": "jcetBM3N1xWIxdlRjZSXjca6BM3N3onN4A/NyYPTyOQ=",
+   "clue": "समुद्रकिनारी गणपतीचे देवस्थान"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 16,
+   "x": "jceDmInXCInM0Q==",
+   "clue": "गळ्यातला दागिना किंवा फुलांची माळ"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 6,
+   "x": "jceeBM3N2BWIxcFRjZSvjca6",
+   "clue": "तबला वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 15,
+   "x": "jcecmIjuCInM1A/NyafTydxGmInZlMzo",
+   "clue": "दौलताबादचा किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 1,
+   "x": "jcePmInWCInM/Q/NyZ9PjceSBM3N4xWIxcM=",
+   "clue": "हंपीचे साम्राज्य"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 1,
+   "x": "jcePmInWCInM+ZOI4NCXxR/a3JQVlM3YgdagjZSXjceE",
+   "clue": "संकटे दूर करणारा गणपती"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 13,
+   "x": "jceQBM3NxInN7JOJwtCX0x/a3JgVlM3YHZOJzg==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 7,
+   "x": "jceemIjilM3qHZOJzA==",
+   "clue": "मुख"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jcevmIjklM3YgdeTjZSxEYOe3M3M9A==",
+   "clue": "मोठा बदल; उठाव"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 1,
+   "x": "jceDBM3N1RWIxdnNyL3Tycna3JM=",
+   "clue": "सिंधू संस्कृतीचे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 13,
+   "x": "jceXmIjoCInMzpOJ00zTydPa3a0VlM3GgdeTEdCX3YOf9c3N4w==",
+   "clue": "जमिनीखालचा रस्ता"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 16,
+   "x": "jceUmInXCInMz5OI7Q==",
+   "clue": "मामांची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 9,
+   "x": "jcebmIjiCInM2JOJ00zTydDa3ao=",
+   "clue": "गरोदरपणातील इच्छा आणि त्याचा सोहळा"
+  }
+ ]
+}

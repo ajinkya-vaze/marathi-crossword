@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-09",
+ "title": "संगीत आणि चित्रपट ९",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "x": "jceQmIj+gcrXhcHKUdCdzoOex1GTxdaHwecIzZSujca3mInDHY7D3IXQk0zZydFGmInc",
+   "clue": "प्राणी पाहण्याची बाग"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jcePmInMHY7Dw4XRoNCdwoOexlGTxd6HwOiUiZXZyOM=",
+   "clue": "शिकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jcePmInMHY7D+RmUiZ9FjceSBM3X9hKHwdU=",
+   "clue": "हंपीचे साम्राज्य"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcecmIj0HY7D0xmUiZ1FjcevmIj+gcrDhcHLUdCd+oOf+FGTxco=",
+   "clue": "देशप्रेमाचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceCmInxHY7D8oXRoNCd3R/a3JSTxdAbhcHGUdCdwg==",
+   "clue": "प्राचीन वस्तूंचे प्रदर्शन; म्युझियम"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jceDmInNHY7D7BmUiYhFjceRmIjyHY7D1w==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcaIBM3XyY7D2hmUiZ7ZyORGmInFHY7DzQ==",
+   "clue": "कार्टून चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceCBM3X0RKHwfIIzZSX",
+   "clue": "स्वरांची मालिका"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jcecmIjzHY7DzxmUiaU=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcegmInMHY7DwYXRoNCd3R/a3IcPgcr4GYXQutCc7R/a3Ik=",
+   "clue": "सिनेमातील गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcegmInMHY7DwYXRoNCd3YOf+FGTxfsbhcHEUdCdzg==",
+   "clue": "शूटिंग"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceIBM3XxY7D2w==",
+   "clue": "गानकोकिळा मंगेशकर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceemInNHY7DzRmUiZrZyOJGmInDgcrZ",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jceXmInNHY7D0BmUiafZyONGmInX",
+   "clue": "भावनांचे मराठी गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceImIj4HY7D8BmUiafZyONGmInX",
+   "clue": "परंपरेने चालत आलेले गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceKBM3X1I7D2hmUiYbZyeFGmInmHY7D1Q==",
+   "clue": "सतारीचे पंडित"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcetmIjzHY7DwRmUiYDZyd1GmIndgcrZGYXQgkzZycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceUmInNHY7D3IXQkkzZycfa3a0PgcrNGYXQsg==",
+   "clue": "सत्य घटनांवरील चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceXmInMgcrlGYXQiQ==",
+   "clue": "खोलीच्या चारही बाजूंनी असते ती"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceUBM3Xxo7C6IXQgtCd7x/a3IkPgcrX",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceUBM3X047C6IXQlNCd0x/a3J0=",
+   "clue": "पावसाचा राग"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 10,
+   "x": "jceKBM3X1I7D2hmUiYXZyd1GmInD",
+   "clue": "सुट्टीचा वार"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jceQBM3X0Y7C6IXQgtCd0x/a3JgPgcrXGYXQjg==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceQmInNHY7DzxmUiYLZyORGmIns",
+   "clue": "चपटा पांढरा चविष्ट मासा"
+  }
+ ]
+}

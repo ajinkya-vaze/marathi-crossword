@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-10",
+ "title": "माझा महाराष्ट्र १०",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceMmIjqHYjF5YHX1giSxZg=",
+   "clue": "गजानन महाराजांचे गाव"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jce8mInvHYjF3oHW4wiSxZ7Rle0=",
+   "clue": "डाळ-तांदळाचे जाळीदार कोकणी धिरडे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jceCmInTHYjFxx2TzNCSxZNN0MnN2tyTEYHM0pLE8w==",
+   "clue": "भाजीमळ्यात विठ्ठल पाहणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceemInTHYjF04HW4wiSxYHRlNM=",
+   "clue": "चंद्रपूरजवळचे वाघांचे अभयारण्य"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceXmIjtHYjF3IHX1g==",
+   "clue": "पंढरपुरातून वाहणारी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceMmInSHYjFxx2TzNySxKpN0MnT2t2t",
+   "clue": "शिवरायांचे जन्मस्थान असलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceUmInTHYjFwB2TzMEOgYmS",
+   "clue": "सिंधुदुर्गजवळचे मासळीसाठी प्रसिद्ध गाव"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jcePmInSHYjF0oHW4wiSxYHRlNM=",
+   "clue": "पंढरीचा देव"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcePmInSHYjFxIHX1giSxZ5N0Mn0RpiJzA==",
+   "clue": "बाजीप्रभूंच्या लढाईशी जोडलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcevmIjmHYjFwIHW5ZTW2M2VjhGDntLNyOAUgdbRk830",
+   "clue": "प्रसिद्ध चामडी चप्पल"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jcevmIjmHYjFwYHW6AiSxbrRle0f2tyJ",
+   "clue": "मच्छीमारांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jceQmIjsHYjF0YHW7w==",
+   "clue": "विद्येचे माहेरघर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jcemBM3J0hSB1vaTzMoOgYmE",
+   "clue": "केळीसाठी प्रसिद्ध जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcePBM3J2RSB1uk=",
+   "clue": "किल्ला असलेले मुंबईच्या उत्तरेचे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceCBM3Jy4jE/4HXzAiSxZvRle6DnvpRjcX/gdfh",
+   "clue": "वणीची देवी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceSmInTgczjDoHXzpTX5lHRlMw=",
+   "clue": "हजूर साहिब गुरुद्वारासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jcecmIjqHYjFy4HW6g==",
+   "clue": "तुकारामांचे गाव"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jceeBM3Jz4jFzB2TzMKSxZM=",
+   "clue": "लोकनाट्याचा पारंपरिक प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceMmInTHYjFy4HX1wiSxZXRleCDntzNyOYUgdb3k8zKDoGJmQ==",
+   "clue": "लाल महालात बोटे गमावलेला"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jceKmInTHYjF3R2TzOMOgYmQ",
+   "clue": "शिवरायांची राजधानी असलेला किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jceUmInSHYjFyh2TzMc=",
+   "clue": "फरसाण घातलेली तिखट उसळ"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 4,
+   "x": "jcelmInTHYjFwQ==",
+   "clue": "वारकरी भजनात वाजवतात ते"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 7,
+   "x": "jceCBM3J/YjE/4HX9AiSxYVN0Mn0RpiJzA==",
+   "clue": "रामदास स्वामींचा गड"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 3,
+   "x": "jceemIjsHYjFwR2TzMKSxK1N0MnN2tyTEYHM0g==",
+   "clue": "वारकऱ्याच्या गळ्यातील माळ"
+  }
+ ]
+}

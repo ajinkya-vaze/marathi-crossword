@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-04",
+ "title": "माझा महाराष्ट्र ४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jceUmInvHYjF5R2TzMc=",
+   "clue": "लाल ग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceUmInvHYjF5R2TzMeSxZNM1Mn02t2hEYHM0Q==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jce/BM3JzIjF8B2TzOM=",
+   "clue": "संत तुकारामांची काव्यरचना"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jce/BM3J2IjFzR2TzMaSxKDQkMKDnsZRjcXEgdbfD4jQ+g==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jcecmIjqHYjFy4HW6g==",
+   "clue": "तुकारामांचे गाव"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jcecmIjqHYjFxx2TzOOSxZJM1MnT2t2t",
+   "clue": "दौलताबादचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceMmIjqHYjF5YHX1giSxZg=",
+   "clue": "गजानन महाराजांचे गाव"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcePmIjlHYjF2h2TzOOSxa9M1Mn02tyT",
+   "clue": "विदर्भातील मोठी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jceSBM3JxA==",
+   "clue": "नाकातील दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceKBM3JxYjE/4HXwJTW31HQkPqDnsdRjcXYgdfh",
+   "clue": "हापूस आंब्यासाठी प्रसिद्ध कोकणातील जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcePBM3J2RSB1uk=",
+   "clue": "किल्ला असलेले मुंबईच्या उत्तरेचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceCBM3J/YjE/4HX9AiSxYVM1Mn0RpiJzA==",
+   "clue": "रामदास स्वामींचा गड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceQmIjggczRDoHXzJTW31HQkMcf2ty6EYHMwA==",
+   "clue": "अफझलखानाच्या वधाचा साक्षीदार किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceUmInTHYjF14HW7wiSxZ3QkNMf2tyF",
+   "clue": "वाहनांना बंदी असलेले थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jcetBM3JwhSB1ssPiNDWgYiwSI3HkJiI7B2IxcGB1u8=",
+   "clue": "समुद्रकिनारी गणपतीचे देवस्थान"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceQmInTHYjFxx2TzNwOgYmm1Mnc2tyvEYHMwA==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jceSBM3J6xSB1tSTzMoOgYmA1Mjj",
+   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcetmInTHYjF0x2TzOOSxKpM1MnP2tyTEYHMzZLFzQ==",
+   "clue": "हातात खराटा घेऊन स्वच्छता शिकवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 5,
+   "x": "jcetmInTHYjF14HX1g==",
+   "clue": "तुकारामांच्या अभंगांचा संग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jceWmInTHYjF7oHX1giSxZ0=",
+   "clue": "मंडई"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceQmIjmHYjFx4HX1giSxYzQkNM=",
+   "clue": "वीररसपूर्ण शाहिरी गीत"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 7,
+   "x": "jceCmIjsHYjF1YHW6AiSxZ0=",
+   "clue": "मराठी गीतरामायणाचे गायक फडके"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jceCmIjsHYjF+g==",
+   "clue": "शिवण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jcemBM3JyYjFzB2TzNiSxZNM1Mnr",
+   "clue": "नामदेवांच्या घरी काम करणारी संत कवयित्री"
+  }
+ ]
+}

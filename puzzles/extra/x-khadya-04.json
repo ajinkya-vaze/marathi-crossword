@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-04",
+ "title": "खाऊ आणि स्वयंपाकघर ४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 10,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jceQBM3Pwh2E3ek=",
+   "clue": "केशरी गराचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceQBM3P3R2E3clR0JDnH9rcnYvN7ITd/c2Uig==",
+   "clue": "वाऱ्यापासून मिळणारी ऊर्जा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceSBM3P3YHB+R3NlJqNxruYiekUgcDVHc2UvA==",
+   "clue": "खाडीपलीकडचे नियोजित शहर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceDBM3P2x2E3cc=",
+   "clue": "पिवळ्या रंगाचा मसाला"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcezBM3PyYHB+R3NlJI=",
+   "clue": "इडलीसाठी काळी डाळ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcezBM3Pwh2E3dTNlIoRg57A",
+   "clue": "अन्न न खाता राहणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceWBM3PyYHB+R3NlIKNxr0Ezc/C",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceUmInUFIHAwR3NlIc=",
+   "clue": "फरसाण घातलेली तिखट उसळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jce/mInpFIHA2IGJjkiNx68Ezc/YgcH5",
+   "clue": "अंड्याचा रस्सा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jcesBM3P0B2E3fdR0JDV",
+   "clue": "बारीक पांढरे दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcesBM3P3YHAxw==",
+   "clue": "आटवलेले दूध"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jcePBM3PyYHAxw==",
+   "clue": "तळलेला गोल पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceKBM3P3YHAxw==",
+   "clue": "गव्हाचा जाडसर भरडा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceKBM3P0B2E3fbNlbURg57Kzc7lgcDLgYmO",
+   "clue": "बंगाली गोड स्पंजसारखा गोळा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jcevBM3Py4HB+R3NlIw=",
+   "clue": "मक्याचे किंवा ज्वारीचे दाण्यांचे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceUmInUFIHAyYGIsA==",
+   "clue": "काळा तिखट मसाला"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceUmInUFIHAyR3NlIERg57bzc7qHYTd9A==",
+   "clue": "ढोलताशांसह निघणारी यात्रा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jce8BM3Pxh2E3f7NlbQ=",
+   "clue": "डाळीचे तिखट पातळ कालवण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceCmIjqFIHAyR3NlJoRg57w",
+   "clue": "किंमती चविष्ट समुद्री मासा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jceCmIjqFIHA3oGJjkiNx4oEzc/Q",
+   "clue": "साखरेचा लिंबू घातलेला पाक"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceimIjsFIHAzB3NlJWNx4Q=",
+   "clue": "चपट्या शेंगांची भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jceXmInVFIHA7oGJjkiNx6+YidUUgcDJ",
+   "clue": "समान वाटणी करणे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jceXmInVFIHA5YGIsA==",
+   "clue": "पोळीसोबत खाल्ला जाणारा शिजवलेला पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jcevBM3P2IHA+x3NlKiNxro=",
+   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
+  }
+ ]
+}

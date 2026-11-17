@@ -1,0 +1,177 @@
+{
+ "id": "x-vidnyan-11",
+ "title": "विज्ञान आणि अवकाश ११",
+ "difficulty": "सोपे",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceemIn0FYTK3YHLoNGV3R/a3LGWzOmO3f+OiY9NjceS",
+   "clue": "विज्ञानाचा उपयोग"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jceQBM3S34TL9IHKt9GV0h/a3IM=",
+   "clue": "सूर्य मावळतो ती दिशा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceQBM3S2YTL9IHKgtGV0x/a3JgKicDeBYHKjg==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceVmIn0FYTK3YHLoNGV3Q==",
+   "clue": "मशीन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceCmIn0FYTKzIHKk03RycU=",
+   "clue": "नाटकातील बोलणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceCmIn0FYTK7IHLqk3RycdGmInOicHjmcXLUdGV3g==",
+   "clue": "वेबसाइट"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceXmInIFYTKzB2OiabRyONGmInS",
+   "clue": "भावनांचे मराठी गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jceSBM3S3BiO3dESzZWXjca9BM3S3A==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceeBM3S2YTKxx2Oia3RyOE=",
+   "clue": "वजन करणारी दोन पारड्यांची दांडी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jce/mIn0FYTK3R2OiYHRyd1GmInF",
+   "clue": "अवकाश"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceKmInIFYTK1x2OiZk=",
+   "clue": "प्रकाशाच्या विकिरणाचा शोध लावणारे भारतीय नोबेलविजेते"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 10,
+   "x": "jce8BM3Sx4TL9IHKnw==",
+   "clue": "लिंबासारखा आंबट रासायनिक पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jce8BM3S/ITKxx2OiYdNjcePmInIFYTK2oHLrQ==",
+   "clue": "रेडिओ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceCmIn0FYTKz4HLpk3RycRGmIne",
+   "clue": "नवीन शोध घेणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceCmIn0FYTK7h2OiZJNjcev",
+   "clue": "कॉम्प्युटर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jcedBM3SwRiO3cWOiLzRydNGmInZicHlBYHKi03RydXa3a0=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jce/BM3S/oTL9IHKhdGV0h/a3IGWzdoSmcXN",
+   "clue": "रॉकेट"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jce/BM3Sx4TKxx2OiYRNjceCmIj7icDBmcXQ",
+   "clue": "चंद्र न दिसणारी रात्र"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jcegmInIFYTKyh2OiZLRyOM=",
+   "clue": "पीठ गाळण्याचे छिद्रांचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jcegmInIFYTK2h2OiaTRyO7a3II=",
+   "clue": "अर्थशास्त्र लिहिणारा कौटिल्य"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jce/BM3S3BiO3fSOiY9NjceM",
+   "clue": "पृथ्वीबाहेरील पोकळी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceMBM3SwYTL+Q==",
+   "clue": "कड्यांचा ग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 6,
+   "x": "jcecBM3S/ITL9IHKmtGV0h/a3I4=",
+   "clue": "उत्तरेच्या उलट दिशा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceUmInJFYTKz4HLrQ==",
+   "clue": "ओठावरचे केस"
+  }
+ ]
+}

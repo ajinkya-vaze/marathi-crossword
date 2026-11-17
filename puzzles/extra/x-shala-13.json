@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-13",
+ "title": "शाळा आणि खेळ १३",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceWmIj2FIHIwFHRl8ODnsfN1+odjMWyTdPJyw==",
+   "clue": "फूल उडवणाऱ्या रॅकेटचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jce/BM3X/YHJ7M2Vg43GsQTN18k=",
+   "clue": "मेंदूच्या आकाराचा सुका मेवा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jce/BM3Xy4HJ4w==",
+   "clue": "पदार्थाचा अतिसूक्ष्म कण"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceCmInNFIHI9lHRl90f2ty6k83qEIGJrtPI5A==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jcetBM3Xyx2MxZjRluof2tyb",
+   "clue": "शाळेचा ठरलेला पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceMBM3X2IHJ7M2VnBGDntw=",
+   "clue": "स्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceCmIjxFIHI0c2Uvo3HlQTN18AdjMWDTdPJ29rdoJPM9IzFk03TydM=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceUBM3X0YHI31HRl8eDn/RRk8zR",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceVmIj4FIHI9s2VjRGDnsBRk8zJ",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcelmIj0FIHIyc2VjBGDnsA=",
+   "clue": "रॅकेट आणि चेंडूचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceSmInMFIHI9M2VjRGDnso=",
+   "clue": "परीक्षेचे उत्तरपत्रक; रिझल्ट"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceXmInNFIHI9s2VjRGDnu3N19YdjMWd",
+   "clue": "समान वाटणी करणे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcetmIj+iMXcgYmzT43Hn5iJzRSByNNR0ZfC",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceVBM3X34HJ7M2VrI3HhQTN19gdjMW40Zbgg57PUZPM9A==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jcecBM3XwoHJ7M2VlxGDnsg=",
+   "clue": "पुस्तके नेण्याची पिशवी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jce/BM3XxYHI3lHRl8ODnsZRk8zJ",
+   "clue": "स्वाभिमान; गौरव"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jce/BM3XwoHJ41HRl92Dn/XN18uByN/NlbERg57t",
+   "clue": "अर्धा पाऊण असे भाग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcesmIj4FIHIwFHRl90f2tyBD4jF3A==",
+   "clue": "पेन्सिलचे लिहिलेले पुसणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jceQmIj0FIHIyQ==",
+   "clue": "शाईने लिहिण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jcevBM3XxB2MxYzRluCDntnN1ug=",
+   "clue": "श्वास रोखून खेळायचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jcevmIj4FIHIyVHRl8ODnsZRk8zLEIGJpA==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jcevmIj4FIHI0s2Usw==",
+   "clue": "जाळे विणणारा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 8,
+   "x": "jceQBM3X94HJ7M2VrI3Gug==",
+   "clue": "रेघ मारायचे लांब मोजण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jcePmInMFIHI0s2Usw==",
+   "clue": "भाजी चिरायचे जमिनीवर ठेवायचे पाते"
+  }
+ ]
+}

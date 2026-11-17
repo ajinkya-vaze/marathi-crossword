@@ -1,0 +1,177 @@
+{
+ "id": "x-san-07",
+ "title": "सण, कला आणि परंपरा ७",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceeBM3XzRLNlIURg57kzdbh",
+   "clue": "तबला वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jcezBM3XxxLNlJsRg57czdbsjomU18jj",
+   "clue": "सुवासिक धूर देणारी काडी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jcezBM3XyxLNlIKNx4QEzdfZ",
+   "clue": "अन्न न खाता राहणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jcemBM3Xyw==",
+   "clue": "नाम पुन्हा पुन्हा घेणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jcecBM3X2RLNlIeNx4Q=",
+   "clue": "विजयादशमी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceKmInNHY6JnkuNx5IEzdfUEs2UmY3Gug==",
+   "clue": "श्रीरामाचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceXBM3X0RLNlJMRg57QzdffEs2UqI3Gt5iJ3B2OiZ4=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jce/BM3X1BLNlJONx4QEzdfR",
+   "clue": "देवाचे पृथ्वीवरील रूप"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceIBM3X9I6IvdfJ1NrdoJPFwM2Vtw==",
+   "clue": "धनाची देवता"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceUBM3X2I6JjkuNx5eYic0djomAS43Hng==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceIBM3X9I6IvdfJ1NrdoJPFwM2VtxGDntLN1uMSzZSrEYOe0A==",
+   "clue": "दिवाळीत धनदेवतेची पूजा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jce/BM3X9I6IvdfJ1EaYideBypM=",
+   "clue": "लग्नात टाकतात ते तांदूळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jce/BM3X9BLNlJsRg57I",
+   "clue": "बिरबलचा बादशहा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jceSmInNHY6Jn0uNx68=",
+   "clue": "नाटकाचा किंवा चित्रपटाचा मुख्य पुरुष"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jcetmIj4HY6JpdfI4kaYicCBypNM18nU2t2gk8XxUdCTw4Of+A==",
+   "clue": "कृष्णजन्माचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jcetmIj4HY6JhdfJ3Nrcrw+ByovQk9M=",
+   "clue": "हंडी फोडणारे तरुण"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcecBM3X146JjkuNx48EzdfFjomOS43Hig==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceUBM3X9xLNlIc=",
+   "clue": "गणपतीची सजावट केलेली आरास"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcesBM3X0xLNlJ+Nx4QEzdfOEs2Uog==",
+   "clue": "गोष्टीतील वाईट माणूस"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceSBM3X1BLNlIcRg57ezdbmEs2Ugg==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 8,
+   "x": "jceSmInNHY6Jr0uNx68=",
+   "clue": "रंगमंचावर सादर होणारी कलाकृती"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jcevBM3X1I6Jj0uNx56Yic0=",
+   "clue": "काव्य"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 10,
+   "x": "jcePmInMHY6Jh9fI7trcjpPE7A==",
+   "clue": "शेषशायी देव"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jceUmInMHY6JgEuNx48EzdfCjoiyS43Hrw==",
+   "clue": "ढोलताशांसह निघणारी यात्रा"
+  }
+ ]
+}

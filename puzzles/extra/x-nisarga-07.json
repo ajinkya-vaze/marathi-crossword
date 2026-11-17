@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-07",
+ "title": "निसर्ग ७",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 10,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jcedmIjvFZPF54fEqg==",
+   "clue": "हिवाळ्यात सकाळी पसरणारा पांढरा पडदा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcevmIjpFZPFxxuBiZHXyd0=",
+   "clue": "तीव्र सुगंधी पानांचे काटेरी झुडूप"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcePBM3K0ZPE8xuBiZzXyd1GmIneFZPFyg==",
+   "clue": "दिवाळीची सुरुवात; गायवासराची पूजा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceCBM3Kz5PFzBuBiZvXyOJGmIncidbh",
+   "clue": "वर्षभर फुलणारे फूल"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceWmInQFZPF1BuBiYLXyOM=",
+   "clue": "पाणी भरण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceWmInQFZPF5Q==",
+   "clue": "उद्यान"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceDmIjpFZPF3IfFr0zXycc=",
+   "clue": "हिवाळ्याच्या सुरुवातीचा ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceKmInQFZPF2g==",
+   "clue": "शेताबाहेरची झाडाझुडपांची जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceCmIjvFZPFwofErNCT7x/a3Lo=",
+   "clue": "खडक फोडण्यासाठी वापरतात तो स्फोटक"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceCmIjvFZPFwRuBiaXXyd0=",
+   "clue": "टोकदार डोंगरशिखर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceQmInQFZPF2huBiadLjceJ",
+   "clue": "झाडांची पाने गळण्याचा काळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceQmInQFZPFxxuBiYjXyd1GmIndidff",
+   "clue": "पावसाचा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceeBM3K25PFzBuBiYU=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jcevmInQFZPFwBuBiYXXyd0=",
+   "clue": "शेतीसाठी पाणी नेणारा बांधीव प्रवाह"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jcePmInQFZPF1BuBiYM=",
+   "clue": "जोरदार वारा आणि पाऊस"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcecBM3K2ZPE8g==",
+   "clue": "दोन डोंगरांमधील खोल भाग"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jce8BM3K3A+B1tSBiY4=",
+   "clue": "आंबट तुरट हिरवे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jcePBM3KyA==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceCmInsFZPF1YfEoNCTwoOexlGOzeaB1tkdzZSE",
+   "clue": "दिवस मावळतानाची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jcevmInQFZPFx4fEqkzXydPa3a0=",
+   "clue": "दक्षिण भारतातील मोठी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jcelmIjpFZPF5xuBiZHXyOM=",
+   "clue": "लहानसा डोंगर"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceWmInQFZPFyhuBiYDXyONGmInbidffDofFi0zXyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jceCBM3K0JPE/4fFgtCT0x/a3IuOzP6B1teBiLA=",
+   "clue": "महाराष्ट्रातील पश्चिम घाटाची पर्वतरांग"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jcePmInQFZPFwYfErw==",
+   "clue": "रेती"
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "id": "x-manus-m02",
+ "title": "माणूस आणि भावना · मोठे कोडे २",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jcePmInSHY7R1c3IvdLJzNrdrBGBytEPzcma0sju2tydEYHKwJOJ00zSydo=",
+   "clue": "तारेतून वाहणारी वीज"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jcePmInSHY7Rxc3IvdLJ1trckxGBys0=",
+   "clue": "भरवसा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceeBM3J0Y7Q/s3JrE6Nx5KYiO0=",
+   "clue": "अंगठ्याजवळचे बोट"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceDBM3J2Y7Q8Q==",
+   "clue": "हास्य"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 14,
+   "x": "jceemIjggcrAD83JqtLJ3Q==",
+   "clue": "शरीराचे बाहेरचे आवरण"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 18,
+   "x": "jceWmInSHY7Ry83IvdLJzdrckhGByseTiODQlt+DnsY=",
+   "clue": "सनईचे उस्ताद खान"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 18,
+   "x": "jceWmInSHY7Rw83IvdLJzNrckxGBytaTiO0=",
+   "clue": "मसालेदार थरांचा भात"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 11,
+   "x": "jceCmIjvHY7R183IvdLJ00aYidWByvcPzcmq0sndRpiJ3x2O0eY=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 13,
+   "x": "jceCmInvHY7R3M3IsU6Nx60=",
+   "clue": "दोन मूलद्रव्यांचे रासायनिक मिश्रण"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 16,
+   "x": "jcevBM3Jy47RzVGNlIE=",
+   "clue": "टिळा लावतात ती जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceQmIjmHY7Rwc3IsE6Nx4I=",
+   "clue": "कायद्याचे रक्षक"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceQmIjmHY7R7FGNlIKNxro=",
+   "clue": "गुडघ्याखालचा मागचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceSmIjtHY7RwVGNlJw=",
+   "clue": "निळ्या रंगाचे रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 16,
+   "x": "jceQmInTHY7R2VGNlJGNxro=",
+   "clue": "डोळ्याच्या कडेचे केस"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceWmIjmHY7R7A==",
+   "clue": "हाताला पाच असतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 12,
+   "x": "jce/mInvHY7R5FGNlJE=",
+   "clue": "घरासमोरची मोकळी जागा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 12,
+   "x": "jce/mInvHY7R11GNlIKNx4QEzcnSEpXXmI2VshGDnsg=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceKBM3J9I7Q/s3JlA==",
+   "clue": "लाल जीवनद्रव्य"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 15,
+   "x": "jcesmInTgcr3D83JnA==",
+   "clue": "छत तोलणारा उभा स्तंभ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 17,
+   "x": "jceWmInTHY7R5FGNlIeNx4QEzcnJ",
+   "clue": "फळे विकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceCmInvHY7R3M3IsU6Nx6+YiOCBytEPzcmeTo3Hg5iJ0x2O0cPNyY5OjceNmIjggcrqk4jg0Jbd",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceCmInvHY7R183Jjk6Nx5A=",
+   "clue": "तीव्र राग"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceUBM3JyRKV17oR0Jby",
+   "clue": "हात आणि पंजा जोडणारा सांधा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 15,
+   "x": "jceWBM3J0RKV17oR0JbMg5/4",
+   "clue": "छातीचे वाकडे हाड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceQBM3JxY7Q/s3JgE6Nx6+YidMdjtHD",
+   "clue": "बातम्या लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jce/BM3JzI7RzFGNlJ2Nx7gEzcnFjtHN",
+   "clue": "इंजिनिअर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jce/BM3J2I7R8VGNlKeNx4QEzcnR",
+   "clue": "गर्विष्ठपणा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 14,
+   "x": "jceDBM3J2RKV146NlbU=",
+   "clue": "खुशीने खळखळणे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceUmInSHY7R183IvdLJ0w==",
+   "clue": "सखा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 14,
+   "x": "jceCBM3Jz47RzVGNlJWNx4QEzcnJ",
+   "clue": "तृप्ती"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 16,
+   "x": "jcedmInTHY7R0lGNlIo=",
+   "clue": "हिंमत"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jcevmInTHY7R11GNlJONxro=",
+   "clue": "त्वचा; चामडे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jceUmIjsHY7R5s3IsU6Nx6U=",
+   "clue": "राजाच्या डोक्यावरचा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jcevmIjsHY7Rw1GNlJE=",
+   "clue": "गुरे चरण्याची गवताळ जागा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 12,
+   "x": "jceKBM3JwBKV146NlbU=",
+   "clue": "डोळ्यांत पाणी येणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 13,
+   "x": "jcebBM3J0RKV17iNlIwRg57Lzcjh",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 19,
+   "x": "jcelmInTHY7R6Q==",
+   "clue": "पावलाचा मागचा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceDmIjsHY7Rw1GNlIuNxrsEzcnR",
+   "clue": "मनाची अस्वस्थ ओढ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceDmIjsHY7Rw1GNlJONx4Q=",
+   "clue": "भाजलेली कोवळी ज्वारी खाण्याचा कार्यक्रम"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jceUmIjqgcr3D83JltLI4Q==",
+   "clue": "विचार करणारा अवयव"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 16,
+   "x": "jceCBM3J0RKV14eNlLARg57i",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 17,
+   "x": "jceKBM3J1I7RzFGNlISNx7gEzcn0EpXXnQ==",
+   "clue": "सतारीचे पंडित"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceQmIjggcrFD83JltLI4UaYidodjtHQ",
+   "clue": "हवा-पाणी खराब होणे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jceQmIjggcrFD83Jl9LJ3UaYicU=",
+   "clue": "मंत्री"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 13,
+   "x": "jcevmInTHY7R2w==",
+   "clue": "ऐकण्याचे इंद्रिय"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcevmIjqHY7RxlGNlJONx4Q=",
+   "clue": "तीव्र सुगंधी पानांचे काटेरी झुडूप"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jcePBM3J9I7Q81GNlIA=",
+   "clue": "न्यायालयात बाजू मांडणारा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 11,
+   "x": "jceYmIjmHY7R31GNlIGNxro=",
+   "clue": "भरलेली मिरचीची जात"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 12,
+   "x": "jceWBM3J0w==",
+   "clue": "ढकलणे किंवा ओढणे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 19,
+   "x": "jceKmInvHY7R5FGNlJiNx7gEzcn7EpXXg42Vsg==",
+   "clue": "होळीनंतर रंग खेळण्याचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 0,
+   "x": "jcetmIjsHY7Rw83IsQ==",
+   "clue": "शिष्याला ज्ञान देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jcemmIjtHY7RxlGNlJoRg57AUY3FypXWoI2Ulo3Gt5iJ2A==",
+   "clue": "व्हिटॅमिन"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 5,
+   "x": "jcePBM3J2I7Q8w==",
+   "clue": "लिहिण्यासाठी कोऱ्या पानांचा संच"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jceCBM3J0Y7Q/s3JltLI4w==",
+   "clue": "नाक वाहणे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 15,
+   "x": "jcedBM3JyRKV17oR0Jbd",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 17,
+   "x": "jcevBM3J0Y7R8VGNlKURg57Lzcjh",
+   "clue": "सर्वात लहान बोट"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceKmIjsHY7R5M3IvdLJwNrckxGByscPzcmf",
+   "clue": "हॉस्पिटल"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 3,
+   "x": "jceVBM3JzxKV14U=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 13,
+   "x": "jcecmIjsHY7R5s3Jjk6Nx5IEzcnHjtHNUY2Ugg==",
+   "clue": "दुकान चालवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 3,
+   "x": "jceUBM3J0o7RzQ==",
+   "clue": "भाजीचे शेत"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 0,
+   "x": "jceQmIjmHY7Ry83IvdLJ/EaYicMdjtHb",
+   "clue": "पत्रे वाटणारा"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 2,
+   "x": "jceUBM3JxY7Q/s3JiE6Nx4o=",
+   "clue": "हेवा"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 13,
+   "x": "jcevmInvHY7R31GNlII=",
+   "clue": "पोट आणि पाय यांच्यामधला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 13,
+   "x": "jcevmInvHY7R7M3Jjk6Nx4mYidM=",
+   "clue": "उत्साह नसणे"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 18,
+   "x": "jceMBM3Jz47Q8w==",
+   "clue": "दसऱ्याला पूजले जाणारे काटेरी झाड"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jce8BM3JxxKV150=",
+   "clue": "सन्मान"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 0,
+   "x": "jce8BM3JxRKV14yNlbU=",
+   "clue": "पोटातील लांब नळी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 12,
+   "x": "jcetBM3J0o7RzQ==",
+   "clue": "मान; कंठ"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 12,
+   "x": "jcetBM3J1I7R8VGNlJONxro=",
+   "clue": "भिंती बांधणारा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 8,
+   "x": "jcegBM3J2I7RzQ==",
+   "clue": "सकाळचे गरम पेय"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 8,
+   "x": "jcegBM3JzxKV17eNlIw=",
+   "clue": "आमटी पिण्यासाठी वापरतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 6,
+   "x": "jceCmInvHY7R3FGNlJw=",
+   "clue": "स्वतःवरचा ताबा"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 6,
+   "x": "jceCmInvHY7R183IvdLJ09rdqg==",
+   "clue": "नागपूरचे प्रसिद्ध फळ"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 10,
+   "x": "jceSmInTHY7Rxs3Jjk6Nx5uYiO0=",
+   "clue": "होडी चालवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 10,
+   "x": "jceSmInTHY7R5g==",
+   "clue": "वास घेण्याचे इंद्रिय"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 8,
+   "x": "jcegmInTHY7RwVGNlKc=",
+   "clue": "गाडी चालवणारा"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-15",
+ "title": "निसर्ग १५",
+ "difficulty": "मध्यम",
+ "rows": 11,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceCmIjlFZPF2IfFk03VyctGmInIidbmDofFmA==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 9,
+   "x": "jceQmInQFZPF0YfErQ==",
+   "clue": "जल"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcedBM3KxQ+B1sAdzZWZjceE",
+   "clue": "उंचावरून कोसळणारे पाणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jcewBM3KwQ==",
+   "clue": "सूर्याची उष्णता आणि प्रकाश"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jcefmIjpidfjDofFgQ==",
+   "clue": "पाण्याचा लहानसा बिंदू"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceQmInRidfjDofFh03VydA=",
+   "clue": "पानांना टोक असलेला पवित्र वृक्ष"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcesBM3KwZPFzRuBia0=",
+   "clue": "जमिनीतून काढला जाणारा नैसर्गिक पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jcesBM3KyA+B1vI=",
+   "clue": "मोठा दगड"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jceQBM3K0JPFzBuBiZA=",
+   "clue": "मोठा उंच डोंगर"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jce8BM3K3A+B1tSBiY8=",
+   "clue": "आंबट तुरट हिरवे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jce8BM3Kzw+B1tc=",
+   "clue": "सन्मान"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceWmInQFZPF34fEr03VydA=",
+   "clue": "काटेरी झाड"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceXmIjsFZPF54fFr03Vyck=",
+   "clue": "जमीन हादरण्याची घटना"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jcevBM3K2Q+B1tKBibNJjcec",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceImInQFZPF7Q==",
+   "clue": "समुद्रातील पाण्याची उसळी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceKBM3K/JPE/4fFiU3VyfRGmInx",
+   "clue": "ए बी ओ प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 10,
+   "x": "jcetBM3KyA+B1vAdzZWUjceEBM3K9g==",
+   "clue": "ढगांचा मोठा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceQBM3K2g+B1t8=",
+   "clue": "केशरी फुलांचे जंगली झाड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceCBM3K2ZPE+RuBiYRJjceK",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceDmInRFZPFx4fFk03VydDa3JM=",
+   "clue": "थंडीचा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcePmInQFZPF2Q==",
+   "clue": "पाणी उकळल्यावर निघणारी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceQmInQFZPFxxuBiYnVyd1GmIndidff",
+   "clue": "पावसाचा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jcevmIjpFZPFxxuBiZDVyd0=",
+   "clue": "तीव्र सुगंधी पानांचे काटेरी झुडूप"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcevmIjpFZPFyg==",
+   "clue": "डोक्यावर वाढतात ते"
+  }
+ ]
+}

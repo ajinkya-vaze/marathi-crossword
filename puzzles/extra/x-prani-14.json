@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-14",
+ "title": "प्राणी आणि पक्षी १४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcebmIj5DoHK282UuY3HkZiJzw6BysE=",
+   "clue": "हुशार खेळकर सागरी सस्तन प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jcezmInyDoHK9g==",
+   "clue": "वाळवंटातील जहाज"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jcezmInyDoHKz82UtBGDnsg=",
+   "clue": "गणपतीचे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceXBM3Uwh2OzYlN1MnL2tyTDJLF8YmIvNTJzEaYid4=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceKmInODoHKwVHRkMyDn/lRkNb0jsyg0ZD4H9rcnQ==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceKmInODoHK9VHRkNSDnvpRkNbZ",
+   "clue": "दूध आणि पाणी वेगळे करतो अशी कथा असलेला पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jceXmInODoHK2VHRkMuDn/XN1MeBytdR0ZDx",
+   "clue": "तपकिरी पंखांचा शुभ मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jceXmInODoHK3FHRkPqDn/hRkNbF",
+   "clue": "भावनांचे मराठी गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jce/BM3U7h2OzbpN1MnT",
+   "clue": "भक्ष्य गिळणारा मोठा साप"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jcePmIjwDoHKys2Vig==",
+   "clue": "सरस्वतीच्या हातातील वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jcemBM3UwYHL6w==",
+   "clue": "रक्त शोषणारा पाण्यातील किडा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceCBM3UyoHK11HRkM6DnsY=",
+   "clue": "वेगाने झेप घेणारा शिकारी पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceCmInODoHK2s2Vi43HuATN1NQdjs2d",
+   "clue": "अंगावर काटे असलेला प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceemInPDoHKzVHRkN0=",
+   "clue": "शेतात आढळणारा शिकारीचा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jceemInPDoHK9c2UvxGDnsjN1fI=",
+   "clue": "पैसे-दागिने ठेवण्याची लोखंडी पेटी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceUBM3U0YHL5M2Vm43HhATN1MI=",
+   "clue": "रात्री फिरणारा अतिविषारी साप"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceQmInODoHK2VHRkNiDnsY=",
+   "clue": "कबुतराचे दुसरे नाव"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceQmInODoHKylHRkPWDn/NRkNbAjs2T",
+   "clue": "नदीत राहणारा अवजड प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcePmInODoHK9s2UtA==",
+   "clue": "आमटी वाढण्याचे लहान भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceQmInPDoHK0c2VihGDnsjN1Mw=",
+   "clue": "मोराचा पंखांचा फुललेला पसारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jceimIj7DoHKyM2UtA==",
+   "clue": "घोड्याची मादी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceKmInODoHKzVHRkPiDnsdRkNbAjs2T",
+   "clue": "रात्री किर्रकिर्र करणारा कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jceeBM3Uwh2OzZU=",
+   "clue": "रात्री हसल्यासारखा ओरडणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceCBM3UyoHK1w==",
+   "clue": "लांब कानांचा चपळ प्राणी"
+  }
+ ]
+}

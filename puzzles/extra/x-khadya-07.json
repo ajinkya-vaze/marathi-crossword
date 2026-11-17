@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-07",
+ "title": "खाऊ आणि स्वयंपाकघर ७",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcePBM3P2B2E3cJR0JPAg57GUYvMxQ==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcePmInUFIHA5R3NlJgRg57QUYvM9hiZxZ0=",
+   "clue": "हंपीचे साम्राज्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jcesBM3P2B2E3c3NlbURg57k",
+   "clue": "पिवळसर गराचे सुगंधी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jce/mInpFIHA5YGIsEuNx4o=",
+   "clue": "सुकवून खाल्ले जाणारे गोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceemInUFIHAwR3NlIaNxreYicSIxdo=",
+   "clue": "समुद्रकिनारी मिळणारी शिंपल्यातील जलचरे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceCBM3P2B2E3c1R0JPJ",
+   "clue": "थंड गोड पेय"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceCBM3Pzh2E3cnNlIgRg57tzc/W",
+   "clue": "इमारतीतील घर; फ्लॅट"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jceRBM3Pyx2E3dk=",
+   "clue": "काटेरी सालीचे मोठे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceRBM3P2IHAxx3NlIQ=",
+   "clue": "दिवाळीचे खास पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceDBM3P2B2E3cxR0JPdg57G",
+   "clue": "चण्याचे झाड आणि दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceDBM3P2h2E3dTNlIk=",
+   "clue": "गाजराचा किंवा रव्याचा गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcenmIjqFIHA2h3NlKKNx4Q=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jcezBM3Pwh2E3dTNlIkRg57A",
+   "clue": "अन्न न खाता राहणे"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceCBM3Pwx2E3dFR0JP3g576UYvMxw==",
+   "clue": "लाल रंगाचे काश्मिरी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jcePmIjsFIHAyx3NlK2Nxro=",
+   "clue": "चहातील सुगंधी मसाला"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceIBM3P3YHA+x3NlKA=",
+   "clue": "फुलाच्या कळीसारखा तिखट मसाला"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcetBM3P3YHAxx3NlIc=",
+   "clue": "बारीक शेंगांची भाजी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceKBM3P0B2E3fbNlbYRg57Kzc7lgcDLgYmO",
+   "clue": "बंगाली गोड स्पंजसारखा गोळा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcetmIjqFIHAy4GJjkuNx5YEzc/0gcDHHc2UmQ==",
+   "clue": "पाकात मुरलेले गोड गोळे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jcevBM3P2B2E3dTNlLURg57e",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jcevBM3P8oHB8h3NlIeNxro=",
+   "clue": "डाळीचे सारण भरलेली खुसखुशीत पुरी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jceWBM3PzoHAxx3NlJk=",
+   "clue": "बुद्धी वाढवतो असे म्हणतात तो सुका मेवा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceSmIjmiMXLmcWTTNfJ2trckxeIxdSZxK0=",
+   "clue": "सकाळचे खाणे"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jceUBM3P9x2E3fTNlbc=",
+   "clue": "मोड आणून उसळ करतात ते कडधान्य"
+  }
+ ]
+}

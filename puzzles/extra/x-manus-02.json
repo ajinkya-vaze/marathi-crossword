@@ -1,0 +1,177 @@
+{
+ "id": "x-manus-02",
+ "title": "माणूस आणि भावना २",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceiBM3J2Y7RzQ==",
+   "clue": "गळ्याचा आतला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcecmIjsHY7R5s2UjBGDntBRjcXIldeTTNLJ0w==",
+   "clue": "दुकान चालवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceCmInTHY7RxlHQlviDnsZRjcXe",
+   "clue": "व्याजाने पैसे देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jcehmInTHY7R3M2UjBGDnuLNyd4SldeJ0Jfgg57IUY3F+5XXk0zSydM=",
+   "clue": "फोटो काढणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceUmInTHY7R3M2UjA==",
+   "clue": "प्रेमळ जिव्हाळा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jcecmInTHY7R1w==",
+   "clue": "चावण्यासाठी असतात ते"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jce1BM3J9BKV17LQl+of2tyHEYHK1pOJjg==",
+   "clue": "सोबत नसणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jcegmInSHY7R182Vv43HigTNyfSO0c1R0Jbd",
+   "clue": "कुंचला हातात घेणारा कलाकार"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jcevmInTHY7Rw1HQlviDn/pRjcXG",
+   "clue": "कार्यालयातील लेखनिक"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceCmInvHY7R2c2UjBGDnt5RjcX7",
+   "clue": "वृत्तपत्राचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "x": "jceCmInvHY7R3FHQlsM=",
+   "clue": "स्वतःवरचा ताबा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceUmInSHY7R182Vv43Hig==",
+   "clue": "सखा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceDBM3J0RKV14nQltMf2tyfjcXRCZOJpdLJ3Q==",
+   "clue": "गणेशचतुर्थीच्या आधीचा व्रताचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceUBM3JzxKV14nQltM=",
+   "clue": "आईची माया"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 0,
+   "x": "jceUBM3J2I7RzVHQltiDnsdRjcXIldag0JbCg57GUY3F3AmTiZ8=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceQBM3JxY7Q/s2UghGDnu3Nyd8Slded",
+   "clue": "बातम्या लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jcevmInTHY7R11HQlsyDn/g=",
+   "clue": "त्वचा; चामडे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jceSBM3Jz47Q/s2UghGDntzNyd8=",
+   "clue": "विनय"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcePmInSHY7R0FHQlvgf2tyd",
+   "clue": "कापड विणणारा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceKBM3JwBKV147Ql+o=",
+   "clue": "डोळ्यांत पाणी येणे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jceSmInTHY7R0s2Vsg==",
+   "clue": "मनगटावर जाणवणारे ठोके"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceSmInTHY7R3s2Vsg==",
+   "clue": "पोटाचा मधला खळगा; बेंबी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jceMmInSHY7R5s2Vv43HjZiJ0h2O0ebNlIw=",
+   "clue": "शिकवणारी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceVBM3J147Q+FHQlsuDnsY=",
+   "clue": "कृष्णाची आई"
+  }
+ ]
+}

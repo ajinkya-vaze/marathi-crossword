@@ -5,6 +5,12 @@ Usage:
   python3 tools/generate.py --from 2026-12-01 --days 30    # a month
   python3 tools/generate.py --from 2026-11-20 --days 1 --force   # redo one day
 
+  python3 tools/generate.py --extra                        # 15 small + 3 large extra puzzles per theme
+
+Extra puzzles (the "More puzzles" screen) live in puzzles/extra/ and are never tied to a date.
+--extra adds --small/--large more per theme to what is there; --extra --force rebuilds them all
+(players lose progress on rebuilt ones, so prefer adding).
+
 Options:
   --gap N     a word isn't reused within N days of another puzzle using it (default 7;
               relaxed automatically if the word list is too small)
@@ -28,7 +34,7 @@ from collections import defaultdict
 from akshara import split_aksharas
 from puzzlelib import (
     MAX_AKSHARAS, PUZZLES, ROOT, INDEX,
-    decode_puzzle, encode_cells, load_index, read_json, validate_puzzle, write_json,
+    EXTRA, EXTRA_INDEX, decode_puzzle, encode_cells, load_index, read_json, validate_puzzle, write_json,
 )
 
 WORDS_CSV = ROOT / "content" / "words.csv"
@@ -48,6 +54,13 @@ THEMES = [
     ("विज्ञान", "विज्ञान आणि अवकाश", {"विज्ञान"}),
     ("संगीत", "संगीत आणि चित्रपट", {"संगीत", "चित्रपट"}),
 ]
+# ASCII ids for extra puzzles (they end up in URLs): x-<slug>-NN, x-<slug>-mNN for large ones
+THEME_SLUGS = {
+    "निसर्ग": "nisarga", "प्राणी": "prani", "घर": "ghar", "खाद्य": "khadya", "महाराष्ट्र": "maharashtra",
+    "सण": "san", "शाळा": "shala", "माणूस": "manus", "गाव": "gaav", "इतिहास": "itihas",
+    "विज्ञान": "vidnyan", "संगीत": "sangeet",
+}
+DEV_DIGITS = str.maketrans("0123456789", "०१२३४५६७८९")
 LARGE_TITLE = "रविवारचे मोठे कोडे"
 UNTHEMED_TITLE = "दैनिक कोडे"
 DIFFICULTY = {1: "सोपे", 2: "मध्यम", 3: "कठीण"}
@@ -272,6 +285,63 @@ def word_usage(index: dict, skip_ids: set[str]) -> dict[str, list[dt.date]]:
     return usage
 
 
+def make_extras(words: list[Word], small_n: int, large_n: int, force: bool, rng: random.Random) -> int:
+    """Add small_n small and large_n large puzzles per theme to puzzles/extra/."""
+    index = {"themes": [], "puzzles": []}
+    if EXTRA_INDEX.exists() and not force:
+        index = read_json(EXTRA_INDEX)
+    if force and EXTRA.exists():
+        for f in EXTRA.glob("x-*.json"):
+            f.unlink()
+    EXTRA.mkdir(parents=True, exist_ok=True)
+    by_id = {p["id"]: p for p in index["puzzles"]}
+
+    # Spread words out: each use in an extra puzzle lowers a word's bonus for the next ones.
+    uses: dict[str, int] = defaultdict(int)
+    for p in index["puzzles"]:
+        for e in decode_puzzle(read_json(EXTRA / f"{p['id']}.json"))["entries"]:
+            uses["".join(e["cells"])] += 1
+
+    failures = 0
+    for key, theme_title, tags in THEMES:
+        slug = THEME_SLUGS[key]
+        theme = {w.word for w in words if w.tags & tags}
+        for size_name, count in (("small", small_n), ("large", large_n)):
+            size = SIZES[size_name]
+            prefix = f"x-{slug}-{'m' if size_name == 'large' else ''}"
+            have = sum(1 for pid in by_id if pid.startswith(prefix) and pid[len(prefix):].isdigit())
+            for k in range(have + 1, have + count + 1):
+                t0 = time.time()
+                pid = f"{prefix}{k:02d}"
+                n_dev = str(k).translate(DEV_DIGITS)
+                title = f"{theme_title} · मोठे कोडे {n_dev}" if size_name == "large" else f"{theme_title} {n_dev}"
+                fresh = {w.word: 3.0 / (1 + uses[w.word]) for w in words}
+                L = best_layout(words, size, theme, fresh, rng)
+                puzzle = to_puzzle(L, pid, title)
+                errors = validate_puzzle(puzzle)
+                if errors:
+                    print(f"✗ {pid}: generator produced an invalid puzzle (bug): {errors[:3]}")
+                    failures += 1
+                    continue
+                write_json(EXTRA / f"{pid}.json", encode(puzzle))
+                n = len(L.placed)
+                by_id[pid] = {"id": pid, "title": title, "theme": slug, "size": size_name, "words": n,
+                              "difficulty": puzzle["difficulty"]}
+                for w, *_ in L.placed:
+                    uses[w.word] += 1
+                themed = sum(1 for w, *_ in L.placed if w.word in theme)
+                warn = f"  ⚠ only {n} words (wanted ≥{size['min']})" if n < size["min"] else ""
+                print(f"✓ {pid:22} {n:3} words  {puzzle['rows']}×{puzzle['cols']}  theme {themed}/{n}  "
+                      f"{time.time() - t0:.1f}s  “{title}”{warn}")
+
+    order = {THEME_SLUGS[k]: i for i, (k, *_r) in enumerate(THEMES)}
+    index["themes"] = [{"key": THEME_SLUGS[k], "title": title} for k, title, _ in THEMES]
+    index["puzzles"] = sorted(by_id.values(), key=lambda p: (order.get(p["theme"], 99), p["size"] == "large", p["id"]))
+    write_json(EXTRA_INDEX, index)
+    print(f"{len(index['puzzles'])} extra puzzles in {EXTRA.relative_to(ROOT)}")
+    return 1 if failures else 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--from", dest="start", help="first date, YYYY-MM-DD (default: day after the last puzzle)")
@@ -280,6 +350,9 @@ def main() -> int:
     ap.add_argument("--seed", type=int)
     ap.add_argument("--words", default=str(WORDS_CSV))
     ap.add_argument("--force", action="store_true", help="overwrite puzzles that already exist")
+    ap.add_argument("--extra", action="store_true", help="make extra (undated) puzzles per theme instead of dailies")
+    ap.add_argument("--small", type=int, default=15, help="with --extra: small puzzles to add per theme (default 15)")
+    ap.add_argument("--large", type=int, default=3, help="with --extra: large puzzles to add per theme (default 3)")
     args = ap.parse_args()
 
     words, problems = load_words(args.words)
@@ -289,6 +362,8 @@ def main() -> int:
     if len(words) < 60:
         print("Not enough words to build puzzles.")
         return 1
+    if args.extra:
+        return make_extras(words, args.small, args.large, args.force, random.Random(args.seed))
 
     index = load_index()
     by_id = {p["id"]: p for p in index.get("puzzles", [])}

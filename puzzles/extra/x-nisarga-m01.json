@@ -1,0 +1,541 @@
+{
+ "id": "x-nisarga-m01",
+ "title": "निसर्ग · मोठे कोडे १",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 20,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 15,
+   "x": "jceYBM3K/g==",
+   "clue": "मेघ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 16,
+   "x": "jcetBM3KyA+B1vAdzcmR0cndRpiJ8Q==",
+   "clue": "ढगांचा मोठा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcegmInsFZPF1IfEoI2UgQ==",
+   "clue": "शशी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 13,
+   "x": "jceDmInRFZPF3BuBicVM0cnF2t2t",
+   "clue": "बर्फाची हळूहळू वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jcegmInsFZPF1IfEoI2UgRGDntXNytcPgdbwgYnT",
+   "clue": "पंढरपुरात भीमेचे नाव"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jcetmInQFZPFwhuBidjQldM=",
+   "clue": "हवेतील सुखद थंडावा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceDmInRFZPF3IfFkxHQld8f2tyC",
+   "clue": "भारताच्या उत्तरेची पर्वतरांग"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 13,
+   "x": "jceUBM3K0JPFzBuBidXQldMf2ty6EonX0Q==",
+   "clue": "अतिविशाल समुद्र"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceUmInQFZPFwRuBid3QldMf2tyF",
+   "clue": "गवताळ मोकळी उघडी जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jcePmInRFZPF1IfEoI2Uno3GuwTNys0PgdbNgYjg0JXdH9rcmI7NzR2Sw9g=",
+   "clue": "तारेतून वाहणारी वीज"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcePmInRFZPFy4fErRHQld0=",
+   "clue": "पाणी काढण्यासाठी खोदलेला खोल खड्डा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceeBM3K25PFzBuBidg=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceDBM3K0ZPE8A==",
+   "clue": "हास्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceImInQFZPF7Q==",
+   "clue": "समुद्रातील पाण्याची उसळी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 15,
+   "x": "jceImInQFZPF1ofErxHQld0=",
+   "clue": "१९९३ च्या भूकंपाने हादरलेला जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceCmIjsFZPFwofEoI2Uno3GsQTNys8PgdbI",
+   "clue": "सूर्य उगवण्याची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jcecBM3K/g+B1sY=",
+   "clue": "पाषाण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jce/mInsFZPF1YfFkxHQld0=",
+   "clue": "प्रकाशाचा अभाव"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 13,
+   "x": "jcesBM3K9ZPE8BuBid0=",
+   "clue": "वाळवंटातील गोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 13,
+   "x": "jcesBM3K2w+B1ssdzcmU0cju2tyJjs3N",
+   "clue": "कुटण्याचे दगडी भांडे आणि दांडा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcetBM3K9ZPFzBuBicVM0cnL",
+   "clue": "शेगावचे संत"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jceImIjlFZPF5IfFrxHQlcw=",
+   "clue": "गंज चढणारा धातू"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceImIjlFZPF5xuBid8=",
+   "clue": "मुंबईची उपनगरी रेल्वे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 12,
+   "x": "jcePmIjpFZPFwA==",
+   "clue": "आधाराने वर चढणारी वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceUmIjlFZPF5RuBid3QldM=",
+   "clue": "सुगंधी पांढरे फूल"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceQmInQFZPFwofFkhHQlfGDnsZRjs3XHZLD9A==",
+   "clue": "रात्री फुलांचा सडा घालणारे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jceQmInQFZPF2g==",
+   "clue": "झाडाचे पर्ण"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceemInQFZPF2huBicfQlOwf2tydjs3N",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 13,
+   "x": "jceWBM3K0A+B1tc=",
+   "clue": "झाडांना फुले येण्याचा काळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 15,
+   "x": "jceKBM3K0Q+B1vCBiOxM0cnR2t2gjs3BgdbZ",
+   "clue": "बंगाली गोड स्पंजसारखा गोळा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 18,
+   "x": "jceemInQFZPF2IfErQ==",
+   "clue": "जळगाव जिल्ह्यातून वाहणारी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 18,
+   "x": "jceemInQFZPFwIfErRHQlcM=",
+   "clue": "कुस्तीचा आखाडा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceCmInQFZPF5RuBidjQldMf2tyF",
+   "clue": "मजबूत इमारती लाकडाचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceIBM3K/JPE/4fFmo2VvI3HlJiI7hWTxdiHxK8R0JXxH9rchQ==",
+   "clue": "दिवाळीत धनदेवतेची पूजा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jceQmIjsFZPFwg==",
+   "clue": "नदीला जास्त पाणी आल्याने येणारी आपत्ती"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 15,
+   "x": "jceCBM3Kz5PFzBuBicbQlOwf2tyfjszz",
+   "clue": "वर्षभर फुलणारे फूल"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jcewBM3KwQ==",
+   "clue": "सूर्याची उष्णता आणि प्रकाश"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcewBM3K0Q==",
+   "clue": "गोड रसाचे पीक"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jcevBM3K2g+B1t8=",
+   "clue": "मंदिराचे शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jcevBM3KyJPE8xuBid/QldKDnvpRjs3f",
+   "clue": "कडू पानांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 6,
+   "x": "jceKmInQFZPF3BuBicU=",
+   "clue": "प्रकाशाच्या विकिरणाचा शोध लावणारे भारतीय नोबेलविजेते"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jceUBM3K0JPFzBuBidjQldIf2tyLjsz+gdbIgYnTTNHJ0UaYicE=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jceemInQFZPFwofFkxHQlcGDnsZRjs37",
+   "clue": "संभाजीराजांनंतर स्वराज्य लढवणारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jceemInQFZPFwofFkw==",
+   "clue": "रात्री आकाशात लुकलुकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 12,
+   "x": "jceWmInQFZPF34fErxHQld4=",
+   "clue": "काटेरी झाड"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jcetmInQFZPFwofFkw==",
+   "clue": "पावसासोबत पडणारे बर्फाचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 14,
+   "x": "jce8mInsFZPF3ofFkw==",
+   "clue": "फळांचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 7,
+   "x": "jcePmInRFZPFwYfFkw==",
+   "clue": "गवत कापायचा वाकडा कोयता"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 11,
+   "x": "jcevBM3K2g+B1t+BiO9M0cnP2tyTEonX6Q==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 11,
+   "x": "jcevBM3Kxw+B1tQ=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 13,
+   "x": "jceCmIjsFZPFwofEoI2Uno3HhATNytGTxP+HxYk=",
+   "clue": "सूर्य मावळण्याची वेळ"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 15,
+   "x": "jceyBM3Kzw==",
+   "clue": "रमजाननंतरचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 1,
+   "x": "jcedBM3KxQ+B1sAdzcmc0cnd",
+   "clue": "उंचावरून कोसळणारे पाणी"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 3,
+   "x": "jcedBM3KwQ+B1sOBiODQld0f2tyCjsz4HZLDx1GNlIeNxro=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 15,
+   "x": "jcecBM3K3A==",
+   "clue": "पहाटे पानांवर साचणारे पाण्याचे थेंब"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 16,
+   "x": "jcePBM3K2JPE/4fFlI2UjxGDntnNy+k=",
+   "clue": "विदर्भातील बोली"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 5,
+   "x": "jceQmInQFZPF7YfErRHQld8=",
+   "clue": "गावाचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 5,
+   "x": "jceQmInQFZPF+BuBidU=",
+   "clue": "पर्जन्य"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 9,
+   "x": "jcemmInQidfjDofFgI2VsxGDnss=",
+   "clue": "जांभळ्या रंगाचे पावसाळी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 10,
+   "x": "jceXmIjsFZPF54fFrxHQlcc=",
+   "clue": "जमीन हादरण्याची घटना"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 1,
+   "x": "jce/mInsFZPF54fErBHQld0=",
+   "clue": "बीमधून फुटणारा कोवळा कोंब"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 3,
+   "x": "jceVmIjlFZPF5YfFkxHQldUf2tyF",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 6,
+   "x": "jceSBM3K2ZPE/4fFgxHQlcuDnsY=",
+   "clue": "मध्य भारतातील पश्चिमवाहिनी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 10,
+   "x": "jceQBM3K2g+B1t8=",
+   "clue": "केशरी फुलांचे जंगली झाड"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 12,
+   "x": "jceCBM3K2ZPFzRuBicnQldM=",
+   "clue": "नदी; तटिनी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 15,
+   "x": "jcedmIjsFZPF3BuBifjQlOof2tyJjszx",
+   "clue": "शेपटीवाला आकाशस्थ गोळा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 0,
+   "x": "jcevBM3K2Q+B1tKBie9M0cnF",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 0,
+   "x": "jcevBM3K2pPE8g==",
+   "clue": "न उमललेले फूल"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 12,
+   "x": "jceKmInRFZPF3BuBifDQldIf2tyD",
+   "clue": "हलका बारीक पाऊस"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 17,
+   "x": "jcevBM3K3pPE/4fFsg==",
+   "clue": "मेहनत"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 17,
+   "x": "jcevBM3KyJPFzA==",
+   "clue": "डोंगराची सरळ उभी बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 5,
+   "x": "jceUmIjmFZPF1IfFkxHQlcU=",
+   "clue": "खेळाची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 10,
+   "x": "jcezBM3K3pPE/4fFjhHQlcmDnsY=",
+   "clue": "गरमी; ताप"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 10,
+   "x": "jcezBM3K25PE/4fFuI2Ujw==",
+   "clue": "आकाशातून जळत पडणारा दगड"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 15,
+   "x": "jcevmIjpFZPFxxuBiczQldM=",
+   "clue": "तीव्र सुगंधी पानांचे काटेरी झुडूप"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 14,
+   "x": "jcexBM3KzZPE8A==",
+   "clue": "वर्षातील सहापैकी एक काळ"
+  }
+ ]
+}

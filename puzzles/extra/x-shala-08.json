@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-08",
+ "title": "शाळा आणि खेळ ८",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "x": "jceWmInNFIHI0c2UhhGDnu5Rk8zAjMSt",
+   "clue": "का कि की कु कू"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceWmInNFIHIxw==",
+   "clue": "आऊट"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceQmIj+iMXcHc2Ujo3HhQTN1/2ByezNlI8Rg57t",
+   "clue": "खेळ शिकवणारा; कोच"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jce8BM3XwIHI41HQnMs=",
+   "clue": "हर्ष"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "x": "jce8BM3X7x2MxYXQneCDnsDN1uWByP7NlIYRg57/UZPMyQ==",
+   "clue": "सापेक्षतावादाचा जनक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceMmInMFIHI1s2VtY3HlQTN192ByeJR0JzJg5/1zdfMgcnh",
+   "clue": "हुशार विद्यार्थ्यांना मिळणारी आर्थिक मदत"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceemInMFIHI0c2UuhGDnt7N19YdjMWx0J3t",
+   "clue": "धनुष्यबाणाने लक्ष्य साधणे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jceUBM3X0YHI31HQnNiDnsdRk8zHjMSg0JzCg57GUZPM0xCBiZ8=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcevBM3X2IHI41HQnMwf2ty4",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jce9BM3XzIHI3lHQnNSDnsZRk8zZ",
+   "clue": "भूतकाळाचा अभ्यास"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jcetmIjyFIHI0c2VuRGDnuTN1ug=",
+   "clue": "शिक्षकांना आदराने म्हणतात"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jcetmIjyFIHIws2UhhGDnu3N19YdjMWd",
+   "clue": "पटीने वाढवणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceCmIjxFIHI0c2VtY3HlQTN18AdjMWDTNjJ29rdoJPM9IzFk0zYydM=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceXmIjxFIHI9s2VsxGDnso=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jceVBM3X34HJ7M2Up43HhQTN19gdjMW40J3gg57PUZPM9A==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcevBM3X2IHJ7M2UmxGDnt/N19YdjMWd",
+   "clue": "संघाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jcevmIj4FIHIyQ==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jcecBM3XwoHJ7M2UnBGDnsg=",
+   "clue": "पुस्तके नेण्याची पिशवी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcedmInNFIHI9s2Uhg==",
+   "clue": "दोरा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jcegmIj/FIHI9M2UhhGDnsg=",
+   "clue": "चार धावा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jcegmIj/FIHI0c2UuhGDnu8=",
+   "clue": "पूजेसाठी चार पायांचा पाट"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 8,
+   "x": "jceQmIjyFIHI0VHQnNWDn/XN1/2ByN9R0Jzd",
+   "clue": "सन्मान; बक्षीस"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 8,
+   "x": "jceQmIjyFIHI2c2VtY3HngTN1/0=",
+   "clue": "ग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 3,
+   "x": "jceQmIj+iMXcHc2UrxGDntzN19cdjMWH0J3sH9rclZPN7IzFiUzYyfY=",
+   "clue": "गुण लिहिलेले पुस्तक"
+  }
+ ]
+}

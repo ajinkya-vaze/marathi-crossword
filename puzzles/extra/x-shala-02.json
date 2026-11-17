@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-02",
+ "title": "शाळा आणि खेळ २",
+ "difficulty": "सोपे",
+ "rows": 12,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceUmIj+iMXVHc2UkQ==",
+   "clue": "अनुभवाचे छोटे शहाणे वाक्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceemIj+iMXcgYmPTo3Hr5iI+BSByMI=",
+   "clue": "तीन बाजूंची आकृती"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jcevmIj4FIHIyVHQlsODnsZRk8zLEIGJpQ==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jcetmIj+iMXcgYmyTo3Hn5iJzRSByNNR0JbC",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceCBM3XxoHI31HQlsWDnsZRk8zRjMSg0JbIg5/4",
+   "clue": "एकाच अर्थाचे शब्द"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jceUmIj4FIHIzc2UjBGDnvBRk8zT",
+   "clue": "खिशातील फोन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "x": "jcevBM3XzYHI3w==",
+   "clue": "गोष्ट"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceXmIjxFIHI9s2VuRGDnso=",
+   "clue": "पृथ्वीचा अभ्यास करणारा विषय"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceWmInNFIHIxw==",
+   "clue": "आऊट"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcetmIj4FIHI0s2UjBGDntPN1u8djMW4",
+   "clue": "लोखंडी गोळा फेकण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceWmInNFIHI6Q==",
+   "clue": "शिक्षिकेला मुले म्हणतात"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmInNFIHIzlHQlvgf2tyf",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmInNFIHI0c2VshGDntLN19YdjMWy",
+   "clue": "फाशांचा जुना खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcevBM3X2IHJ7M2UkRGDnt/N19YdjMWd",
+   "clue": "संघाचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jceIBM3X/4HJ6lHQlt2Dn/g=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceVmIj4FIHI9s2UjBGDnsBRk8zJ",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jcedmInNFIHIwFHQltU=",
+   "clue": "हिंमत"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceCBM3X0R2MxZ8=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceXmIj4FIHI1FHQlt2DnsY=",
+   "clue": "दोरीने फिरवायचा लाकडी खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceNBM3X9x2MxbjQltMf2tyd",
+   "clue": "सीमापार सहा धावा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcevmInNFIHI0c2Vv43HlgTN18A=",
+   "clue": "कोळशातील मूलद्रव्य"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jceCBM3X9IHJ4VHQltg=",
+   "clue": "जिवंत प्राणी व वनस्पती"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceQmIj7FIHI01HQltiDnsZRk8zJ",
+   "clue": "कुस्ती खेळणारा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceUmIj2FIHI0c2VtRGDnt3N1uEdjMWF",
+   "clue": "लांब पल्ल्याची धाव"
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "id": "x-shala-m03",
+ "title": "शाळा आणि खेळ · मोठे कोडे ३",
+ "difficulty": "सोपे",
+ "rows": 21,
+ "cols": 20,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "x": "jcecmIjxFIHI0VGNlJSNxreYicYUgcjJzciw",
+   "clue": "टेलिफोन"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jcegBM3X3x2Mxbg=",
+   "clue": "विजेत्याचा करंडक"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceNBM3X9x2MxbiNlI0Rg57I",
+   "clue": "सीमापार सहा धावा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 12,
+   "x": "jcemmIj4FIHI0Q==",
+   "clue": "हात टेकून वरखाली होण्याचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 19,
+   "x": "jceQmIj+iMXcHc3Jl9PJ3UaYids=",
+   "clue": "मंत्री"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceCmInxFIHI9s3IvdPJ00aYicqIxdIdzcmCT43HlQ==",
+   "clue": "प्राचीन वस्तूंचे प्रदर्शन; म्युझियम"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jceCmInxFIHIzlGNlJ0=",
+   "clue": "स्वतःवरचा ताबा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jceVBM3X34HJ7M3Jr9PJ3EaYicMUgcj0zci908nURpiJ5g==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 10,
+   "x": "jceWmInNFIHI/c3Jjk+Nx4o=",
+   "clue": "मंडई"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jceWmInNFIHI/c3IsE+Nx4qYic0UgcjU",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jcevmInNFIHI0lGNlK+Nxro=",
+   "clue": "चिंता"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 13,
+   "x": "jceUmIjyFIHI983IvdPJzNrckw+IxcuBiODQl8KDnsZRk8zLEIGJ+A==",
+   "clue": "शाळेचे प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 16,
+   "x": "jceVmIj4FIHI9s3Jjk+Nx4IEzdfA",
+   "clue": "शरीराचा व्यायाम"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 18,
+   "x": "jceCBM3X0R2MxZ8=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceSmIjzFIHI01GNlJ0=",
+   "clue": "निळ्या रंगाचे रत्न"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jcesmIj4FIHIwFGNlIMRg57UUZPM0Q==",
+   "clue": "पेन्सिलचे लिहिलेले पुसणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceKmInNFIHIxc3IvdPJ0w==",
+   "clue": "निशा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 13,
+   "x": "jcesmIj+iMXDgYnTTNPJ0Q==",
+   "clue": "शास्त्रीय गायनाचा प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jce9BM3XzIHI3lGNlIqNx4QEzdfQ",
+   "clue": "भूतकाळाचा अभ्यास"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jcedmInNFIHI1A==",
+   "clue": "क्रिकेटमधील रन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceRmIjyFIHI/lGNlJ+NxrMEzdfa",
+   "clue": "पायाने चेंडू मारण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 15,
+   "x": "jceRmIjyFIHI9lGNlJKNxro=",
+   "clue": "दोघी हात धरून गोल फिरतात"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceQmIj+iMXcHc3Jp0+Nx56YicwUgcjLzcixT43HgpiI/ojFyB3NyaU=",
+   "clue": "गुण लिहिलेले पुस्तक"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceWmInNFIHIxw==",
+   "clue": "आऊट"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 13,
+   "x": "jceQBM3XzIHI41GNlKQ=",
+   "clue": "संक्रांतीला उडवतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jcevmIjwFIHIxVGNlK+NxreYie0UgcjFzcmO",
+   "clue": "उपकाराची जाणीव"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jceCmIjxFIHI9M3IvdPJ1NrdoJPMzxCBictM08nT2t2gk8zXEIGJ+A==",
+   "clue": "बारीक वस्तू मोठी दाखवणारे यंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceCmIjxFIHI0c3IvdPJzEaYidsUgcjPUY2Ui43Gt5iJ5ojF0h3NyYA=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 15,
+   "x": "jcebmIjzFIHI7lGNlJsRg573",
+   "clue": "आनुवंशिकतेचा रेणू"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jce/BM3XxYHJ7M3Jn9PJ3UaYics=",
+   "clue": "शिकण्यासाठी केलेली मेहनत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jce/BM3XwoHJ41GNlIONxreYidCIxdKBie9M08n2",
+   "clue": "अर्धा पाऊण असे भाग"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jceCmInxFIHI2c3IvdPJ9trdrg+Ixcg=",
+   "clue": "प्राचीन देवभाषा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jceCmInxFIHIxs3IsA==",
+   "clue": "दोन शब्द जोडण्याचा व्याकरणी नियम"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jcecmIjyFIHIxs3IsA==",
+   "clue": "लांब हिरवा भोपळा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jceSBM3X/YHI31GNlIWNx4Q=",
+   "clue": "प्रदेश दाखवणारे चित्र"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceMmInNFIHI2c3IvdPJx9rdoJPM0RCBifHQluCDnuY=",
+   "clue": "संशोधन करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 14,
+   "x": "jceQmIjxFIHI0w==",
+   "clue": "नदीवरून जाण्यासाठी बांधतात तो"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 15,
+   "x": "jceIBM3X/4HJ6lGNlIONxro=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 18,
+   "x": "jceKmInNFIHI/VGNlIaNx4QEzdfJgcjf",
+   "clue": "राजाचा महाल"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceUmIj+iMXVHc3Jkw==",
+   "clue": "अनुभवाचे छोटे शहाणे वाक्य"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceemInNFIHI083IsE+Nx5Q=",
+   "clue": "कुस्तीचा आखाडा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 13,
+   "x": "jceCmIj+iMXEgYjqTNPJ2kaYicuIxe4dzcme08jkRpiJwRSByMk=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 15,
+   "x": "jcetmIj4FIHI083Jsk+Nx5yYic0Ugcj9",
+   "clue": "क्रिकेटमध्ये चेंडू टाकणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcePmIj+iMXDgYnTTNPJ9kaYicMUgcjC",
+   "clue": "भाषेचे नियम"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jcePmIj+iMXDgYnTTNPJzNrckw+IxcI=",
+   "clue": "शरीराची कसरत"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 13,
+   "x": "jceDBM3X9IHJ5lGNlIONxro=",
+   "clue": "वर्गातील उपस्थितीची नोंद"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jcegmInNFIHI01GNlKYRg57SUZPM0RCBidjQl9Mf2tyFk8zf",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcegmIj/FIHI9M3Jjk+Nx4o=",
+   "clue": "चार धावा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jcegmIj/FIHI9M3Iu0+Nx5I=",
+   "clue": "चार बाजूंची आकृती"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 16,
+   "x": "jceIBM3XwoHI41GNlJKNx4QEzdfd",
+   "clue": "लपून बसण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 16,
+   "x": "jceIBM3X/YHJ7M3Jh9PI7trcg5PN4RCBicHQl9Mf2tyl",
+   "clue": "झाशीची राणी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 19,
+   "x": "jcePBM3X2IHJ7M3Jpw==",
+   "clue": "शाळेतील खोली"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceUBM3X0YHI31GNlIaNx4UEzdfOgcnszcmf08ndRpiJwRSByM4=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 1,
+   "x": "jceDmInNFIHIxQ==",
+   "clue": "कर"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 10,
+   "x": "jcelmIj4FIHI9FGNlJyNx7gEzdfMgcnszcmA",
+   "clue": "पेन्सिलला टोक करणारे"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jcevmIj4FIHIyVGNlJ2Nx4QEzdfCHYzFuA==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 6,
+   "x": "jcevmIj4FIHI9FGNlIONxrg=",
+   "clue": "मेंढीचे पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 15,
+   "x": "jceUmIj4FIHIzc3Jjk+Nx7IEzdfa",
+   "clue": "खिशातील फोन"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 4,
+   "x": "jceQBM3Xzh2Mxbg=",
+   "clue": "विजेत्याला मिळणारे"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 10,
+   "x": "jceVmInxFIHIxc3IvdPJ00aYid2IxdIdzcmYT43Hjw==",
+   "clue": "रोबोट"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 14,
+   "x": "jcePBM3X9IHI31GNlJ+Nx4QEzdf9gcnh",
+   "clue": "एका संख्येतून दुसरी काढणे"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 1,
+   "x": "jcetmIjyFIHIws3Jjk+Nx6+Yic0UgcjR",
+   "clue": "पटीने वाढवणे"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 1,
+   "x": "jcetmIjyFIHIwg==",
+   "clue": "परीक्षेत मिळालेले मार्क"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 9,
+   "x": "jceQmInNFIHIxc3IvdPJ0w==",
+   "clue": "कथेतील व्यक्ती"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 9,
+   "x": "jceQmInNFIHIw83Itw==",
+   "clue": "गुणाकाराची कोष्टके"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 0,
+   "x": "jcevmIj+iMXbHc3Jkw==",
+   "clue": "पळ"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 12,
+   "x": "jceSmIj0FIHIz1GNlJ+Nx4QEzdf0gcnh",
+   "clue": "बंदुकीने लक्ष्य साधणे"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 12,
+   "x": "jceSmIj0FIHI2FGNlIONxrg=",
+   "clue": "पहिले पंतप्रधान"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 2,
+   "x": "jce1BM3X/R2MxYWNlI0Rg57d",
+   "clue": "भारुडे रचणारे पैठणचे संत"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 3,
+   "x": "jcevBM3X2IHI41GNlJIRg57t",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 5,
+   "x": "jcefBM3X/R2MxZiNlI0=",
+   "clue": "श्रमामुळे आलेला शीण"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 8,
+   "x": "jceCmIjyFIHIxc3Jjk+Nx4o=",
+   "clue": "लाकडाचे काम करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jceimIjyiMXuHc3Jp0+Nx4qYiPE=",
+   "clue": "नर्तकांच्या पायातील वाजणारे"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 11,
+   "x": "jcetBM3X3YHI41GNlJKNxro=",
+   "clue": "भिंती बांधणारा"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 5,
+   "x": "jcePmInNFIHI9M3IvdPJydrdoJPM0RCBiffQl9Mf2tyd",
+   "clue": "विशिष्ट अर्थाचा शब्दसमूह"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 1,
+   "x": "jceQmIjyFIHI2c3IvdPJx0aYieY=",
+   "clue": "ग्रंथ"
+  }
+ ]
+}

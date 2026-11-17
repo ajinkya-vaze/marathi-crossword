@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-09",
+ "title": "खाऊ आणि स्वयंपाकघर ९",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jceQBM3P/YHB8h3NlJiNx4Q=",
+   "clue": "बेसनात घोळून तळलेली भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jcevmIjgFIHAz4GJj9nJ4UaYiceIxOQFgYmA",
+   "clue": "दह्यात कालवलेली कच्ची भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcevmInVFIHA7B3NlJiNxro=",
+   "clue": "कोशिंबिरीत घालायची हिरवी फळभाजी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jceXBM3P9IHB+Q==",
+   "clue": "बेसनात बुडवून तळलेले"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jcevBM3P2IHA+x3NlKWNxro=",
+   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcevmIjgFIHA3IGJj9nJ4UaYiceIxOQFgYmARY3HjwTNz8mBwfk=",
+   "clue": "हिरव्या पानांची तळलेली वडी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jcePBM3P2B2E3cJR0J3Ag57GUYvMxQ==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jcevmIjgFIHA7B3NlJc=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jcevmInVFIHAyR3NlIuNxr0=",
+   "clue": "कडू भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jcemmIjmiMXRmcWTTNnJ09rdrQ==",
+   "clue": "भाकरीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceUmIjgFIHA3x3NlKw=",
+   "clue": "गणरायाचा आवडता गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jceXmInVFIHA7B3NlImNxro=",
+   "clue": "ज्वारी किंवा बाजरीच्या पिठाची"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceUBM3P0IHAxx3NlIuNxr0Ezc/FgcDHHc2UnQ==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceCmInVFIHAzB3NlKWNxro=",
+   "clue": "नागपूरची तिखट रस्सा पद्धत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jceXmInVFIHAy4GJjkWNx5GYiOwUgcDs",
+   "clue": "भाला दूर फेकण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jcecmIjmiMXUBYGJhQ==",
+   "clue": "पाण्यासारखे वाहणारे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceQmInVFIHAzB3NlJSNx4QEzc/0gcH5",
+   "clue": "मुंबईच्या चौपाटीवरचा प्रसिद्ध पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceQmInVFIHAyx3NlKw=",
+   "clue": "लोहयुक्त हिरवी पालेभाजी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceXmInVFIHA5YGIsA==",
+   "clue": "पोळीसोबत खाल्ला जाणारा शिजवलेला पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jcePmInVFIHA3x3NlKw=",
+   "clue": "वाद्य वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcevBM3P2B2E3dTNlLsRg57e",
+   "clue": "डोंगरावरची आंबट काळी लहान फळे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcegBM3P/R2E3dPNlbk=",
+   "clue": "दिवाळीच्या फराळातील काटेरी गोल खाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jcegBM3P3R2E3dLNlbk=",
+   "clue": "पांढरे कडधान्य"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jcevBM3PyoHB+Q==",
+   "clue": "ताकाची फोडणी दिलेली"
+  }
+ ]
+}

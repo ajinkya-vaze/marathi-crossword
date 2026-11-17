@@ -1,0 +1,534 @@
+{
+ "id": "x-vidnyan-m02",
+ "title": "विज्ञान आणि अवकाश · मोठे कोडे २",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceWmIj3FYTK3g==",
+   "clue": "सूर्याजवळचा ग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 9,
+   "x": "jceQmIj7icDemcXQUY2UkRGDns3N0tcYjt3Ojojv",
+   "clue": "श्वासात घ्यायचा वायू"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceQmIj7icDemcXQUY2UnI3HhATN0sqEysYdjon4TNLJyUaYidWJwNA=",
+   "clue": "खरेपणा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jcePmInIFYTK0g==",
+   "clue": "पाणी उकळल्यावर निघणारी"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceCmIn0FYTKz4HLphHQlsof2tyF",
+   "clue": "नवीन शोध घेणे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jceCmIn0FYTK7h2Oic5M0sn2",
+   "clue": "कॉम्प्युटर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 17,
+   "x": "jcebBM3S2RiO3fSOidNM0snQ2t2t",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 19,
+   "x": "jcedmIj7icDbBYHKsQ==",
+   "clue": "झेंडा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 19,
+   "x": "jcedmIj7icDbBYHKhY2Vsg==",
+   "clue": "आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 16,
+   "x": "jcecmIj0FYTKyR2OicrQl+CDns1Rls3Mjtzh",
+   "clue": "टेलिफोन"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jcecmIj3FYTKyYHLoI2Uno3GugTN0so=",
+   "clue": "दूरचे जवळ दाखवणारे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jcecmIj3FYTK04HKkxHQlt0=",
+   "clue": "मध्यान्ह"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jceQmIj7icDemcTpUY2Up43Gt5iJwRWEyuw=",
+   "clue": "नाटक पाहणारे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 15,
+   "x": "jceiBM3S0YTKxw==",
+   "clue": "गळ्याचा आतला भाग"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcevBM3S24TKxx2OicM=",
+   "clue": "मिसाईलमॅन राष्ट्रपती"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceUBM3S0YTKxx2Oid/Ql+of2tyAls3aEpnFyg==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jceXmIn0FYTK2IHKkxHQlt0f2tyLConA3pnF0A==",
+   "clue": "आर्थर तलाव असलेले ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 13,
+   "x": "jce/BM3SwYTL9IHKhRHQltWDnsZRls3yEpnF3c3IsA==",
+   "clue": "कोण कोणाला खातो याची साखळी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jce/BM3S/oTL9IHKhY2UjRGDntTN0tcYjt3C",
+   "clue": "रॉकेट"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 16,
+   "x": "jcesBM3SwYTKxh2OifE=",
+   "clue": "जमिनीतून काढला जाणारा नैसर्गिक पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcezBM3SwxiO3dESzcmT0sjk",
+   "clue": "खांद्यावर घ्यायचे वस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jcezBM3SyITL9IHKjI2UjBGDnttRls3OjtzjEs3Jgg==",
+   "clue": "रस्त्यावरून जाणारा उंच रस्ता"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceCmInIFYTK1YHLrBHQlsuDnsZRls3Hjt3fEs3JhU6Nx5uYicg=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcecmInIFYTK1Q==",
+   "clue": "एका भागावर पडणारे बल"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceQmInJFYTK2R2Oid/Ql+o=",
+   "clue": "बेसनाचे घट्ट कालवण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 15,
+   "x": "jcePBM3S9RiO3ck=",
+   "clue": "किती जड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 15,
+   "x": "jcePBM3SyA==",
+   "clue": "पारंब्या असलेला मोठा वृक्ष"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 17,
+   "x": "jceSBM3S3BiO3dGOidM=",
+   "clue": "पती"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 19,
+   "x": "jceQmInIFYTKyYHKkw==",
+   "clue": "थर्मामीटरमधील द्रवरूप धातू"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 20,
+   "x": "jceKmInIFYTK1x2OicU=",
+   "clue": "प्रकाशाच्या विकिरणाचा शोध लावणारे भारतीय नोबेलविजेते"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jceXmInIFYTK1IHKkw==",
+   "clue": "भारतीय अणुसंशोधनाचे जनक"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jcegmInIFYTKyQ==",
+   "clue": "चौकोनाच्या बाजू"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 11,
+   "x": "jcecBM3S/ITL9IHKmo2UjRGDnts=",
+   "clue": "उत्तरेच्या उलट दिशा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jceSmInIFYTK5oHLoI2UnRGDnsDN0usYjt32jojtTNLJxw==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jceSmInIFYTKyR2Oid7Ql+0f2tyHlszoEpnF3s3IvdLJwNrckgqJwMCZxdA=",
+   "clue": "कोळी समुद्राला नारळ अर्पण करतात"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceCmIn0FYTK7IHLqhHQlskf2tyVlszpjt3EEs3Jgw==",
+   "clue": "वेबसाइट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jceDBM3S2RiO3cwSzcmA0snd",
+   "clue": "चण्याचे झाड आणि दाणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jceDBM3S2RiO3cWOidNM0snR2tySConA+5nF0A==",
+   "clue": "गणेशचतुर्थीच्या आधीचा व्रताचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 16,
+   "x": "jceQBM3S2YTKxx2OidhM0snT2t2gls3AEpnFxg==",
+   "clue": "प्रकाश परत फिरणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 16,
+   "x": "jceQBM3S2YTKxx2OifpM0sn2RpiJ1Q==",
+   "clue": "फुलातील बारीक पिवळी भुकटी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 18,
+   "x": "jcePBM3S2YTL9IHKio2UjA==",
+   "clue": "गांधीजींच्या सेवाग्रामचा जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jcevmIj9FYTKyoHLrRHQlvqDn/hRls3A",
+   "clue": "मच्छीमारांचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jce/BM3S3BiO3cWOidNM0snT",
+   "clue": "देवाचे पृथ्वीवरील रूप"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jce/BM3SyoTL+w==",
+   "clue": "पदार्थाचा अतिसूक्ष्म कण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 15,
+   "x": "jceUmIn0FYTK7h2Oid4=",
+   "clue": "लाल ग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 19,
+   "x": "jcezBM3S24TL9IHKuI2UjA==",
+   "clue": "आकाशातून जळत पडणारा दगड"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 19,
+   "x": "jcezBM3SwxiO3faOiODQlt0f2tyU",
+   "clue": "ग्रहाभोवती फिरणारा; चंद्र त्यातलाच"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jcerBM3S/ITL9IHKlY2UjRGDnuRRls3M",
+   "clue": "प्राणवायू"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 12,
+   "x": "jce/mIn0FYTK3R2Oid3QltMf2tyeConA25nE7lGNlII=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 7,
+   "x": "jceUBM3S/ITKxw==",
+   "clue": "कणसाचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 7,
+   "x": "jceUBM3SwRiO3fYSzcmv",
+   "clue": "हात आणि पंजा जोडणारा सांधा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 14,
+   "x": "jceiBM3S2YTL9IHKmhHQls4=",
+   "clue": "दोन पृष्ठभाग घासल्याने होणारा विरोध"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 14,
+   "x": "jceiBM3S9hiO3dmOiODQlsiDnsZRls3OEpnFxs3Jjg==",
+   "clue": "नवरात्राचा पहिला दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceCmIj0FYTKyYHLoI2UnRGDntbN0tcYjt3TjonT",
+   "clue": "सूर्य व त्याचे ग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 0,
+   "x": "jceCmIj0FYTK7IHLoI2UhY3Gt5iJ2BWEyt8djond0Jfgg57OUZbN8Q==",
+   "clue": "बारीक वस्तू मोठी दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jcecmIj9FYTK0Q==",
+   "clue": "एकानंतरची संख्या"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 18,
+   "x": "jcetmIj7icDeBYHKlA==",
+   "clue": "सूर्याभोवती फिरणारा गोल; पृथ्वी त्यातलाच"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 18,
+   "x": "jcetmIj7icDeBYHKlBHQls4=",
+   "clue": "सूर्य किंवा चंद्र झाकला जाणे"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 5,
+   "x": "jcenmInIFYTK7B2Oic4=",
+   "clue": "भांड्यावर ठेवायचे"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 9,
+   "x": "jceiBM3SwRiO3coSzcmD",
+   "clue": "किती जागा व्यापली"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 16,
+   "x": "jcedmIj7icDemcTvUY2Uhw==",
+   "clue": "पृथ्वीचे उत्तर किंवा दक्षिण टोक"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 2,
+   "x": "jcePmInJFYTK34HLrxHQltof2ty4",
+   "clue": "हसवणारा; जोकर"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 2,
+   "x": "jcePmInJFYTKzoHLrBHQltgf2tyYlsznEpnFys3IvdLJxw==",
+   "clue": "पृथ्वीच्या मध्यातून जाणारी रेषा"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 14,
+   "x": "jceQBM3S2YTL9IHKgo2UjBGDns1Rls3UEpnFzQ==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 17,
+   "x": "jceKBM3S/ITL9IHKiRHQlvof2tyy",
+   "clue": "ए बी ओ प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 8,
+   "x": "jcegmInIFYTKyx2OifhM0snJRpiJxhWEysyBypMR0JbFg57G",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 9,
+   "x": "jceIBM3S0Q==",
+   "clue": "रोगप्रतिकारासाठी टोचतात"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 11,
+   "x": "jceQBM3S34TL9IHKt42UjRGDntY=",
+   "clue": "सूर्य मावळतो ती दिशा"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 13,
+   "x": "jcePmInIFYTK1oHLrw==",
+   "clue": "हवेसारखे रूप"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jcevBM3S2RiO3dQSzcmU",
+   "clue": "लाकूड कापायचे दातेरी पाते"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 15,
+   "x": "jceSmInJFYTKyYHLoI2UnI3HhATN0s2Eysc=",
+   "clue": "चित्रपटाला पैसे घालणारा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jce8BM3SxxiO3f6OiO0=",
+   "clue": "डाळीचे तिखट पातळ कालवण"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 10,
+   "x": "jce8BM3SzxiO3dE=",
+   "clue": "सन्मान"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 14,
+   "x": "jcefBM3S2YTL9IHKg42UjBGDntbN0+kYjt3+Es3JgA==",
+   "clue": "ताप मोजणारे"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 8,
+   "x": "jceSmInIicDsBYHKuhHQlt0=",
+   "clue": "बैलांनी ओढायचे जमीन फोडण्याचे साधन"
+  }
+ ]
+}

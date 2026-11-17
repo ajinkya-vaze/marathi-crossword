@@ -1,0 +1,177 @@
+{
+ "id": "x-manus-01",
+ "title": "माणूस आणि भावना १",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceMmInTgcr3D82UlY3Gug==",
+   "clue": "मनाची स्थिरता"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceWmIjmHY7R7A==",
+   "clue": "हाताला पाच असतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jcehmInTHY7R182VsQ==",
+   "clue": "हृदयासमोरचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jcehmInTHY7R3M2UjxGDnuLNyd4SldeJ0JTgg57IUY3F+5XXk0zRydM=",
+   "clue": "फोटो काढणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jceQmIjmHY7R7A==",
+   "clue": "उदर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceQmIjmHY7Ry82VvI3HpQTNyc8SldeF",
+   "clue": "पत्रे वाटणारा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcecBM3Jzo7RzQ==",
+   "clue": "करुणा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jceUBM3JxY7Q/s2UiRGDnsg=",
+   "clue": "हेवा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcevmInTHY7R2w==",
+   "clue": "ऐकण्याचे इंद्रिय"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jcevmInTHY7Rw1HQlfiDn/pRjcXG",
+   "clue": "कार्यालयातील लेखनिक"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jcesmIjmHY7R5lHQld+DnsY=",
+   "clue": "घशातील खवखव"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jcecmIjsHY7R5s2UjxGDntBRjcXIldeTTNHJ0w==",
+   "clue": "दुकान चालवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcevmIjsgcr3D82UnI3HhATNydE=",
+   "clue": "मातीची भांडी बनवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcevBM3J1o7Q/s2Urg==",
+   "clue": "मेहनत"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceXmInTHY7R782VsRGDns3Nyd8Sldef0JXT",
+   "clue": "भाजी विकणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jcePmInTHY7RylHQlfg=",
+   "clue": "बसमधील तिकीट देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jcedBM3JyRKV17pM0cnT",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcetBM3J0Y7Q/s2UhA==",
+   "clue": "अभिमान"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jcevBM3Jy47RzVHQld4=",
+   "clue": "टिळा लावतात ती जागा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceQmInTHY7R2VHQlc6Dn/g=",
+   "clue": "डोळ्याच्या कडेचे केस"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jcecBM3J1I7RzVHQlfuDnsZRjcXGldeT",
+   "clue": "डॉक्टरांची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jcepBM3J1I7RzVHQld4f2tyOjcTu",
+   "clue": "भावाला ओवाळल्यावर दिलेली भेट"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jceCmIjmHY7R282UjxGDnsg=",
+   "clue": "दागिने घडवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 8,
+   "x": "jceKBM3J1I7RzQ==",
+   "clue": "गव्हाचा जाडसर भरडा"
+  }
+ ]
+}

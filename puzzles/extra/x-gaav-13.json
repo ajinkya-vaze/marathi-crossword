@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-13",
+ "title": "गाव आणि शहर १३",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceCmInlHYHSutGW4IOeyFGHxdiWiY9PjceIBM3Dzg==",
+   "clue": "प्राचीन वस्तूंचे प्रदर्शन; म्युझियम"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceQmIjnHYHSjQ==",
+   "clue": "दळलेले धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceQmIjnHYHSuA==",
+   "clue": "शेतात उगवलेले धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jcegmInZHYHSuA==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jcegmInZHYHSnU3Tyfna3JMbgcXjzZSz",
+   "clue": "मोटार"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcegmInYHYHSidGW4IOeyFGHxcsKzZWsEYOe783C4h2WiYg=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jceUBM3D2IHSk03TyctGmInwHYHSnQ==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceQmIjqgcXGUdGX2IOexlGHxdk=",
+   "clue": "यात्रा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcegmInZHYHSn03TyfZGmInNHYHSnU3Tydba3JMbgcXezZWN",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceCmIjsHYHSldGX0x/a3IIbgcXpzZSz",
+   "clue": "सदनिकांचा समूह"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcePmInYHYHSi9GW4IOe183C4B2WiZVPjceQmIjqgcXGUdGX2IOexlGHxdg=",
+   "clue": "तारेतून वाहणारी वीज"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcePmInYHYHSg9GX0x/a3IU=",
+   "clue": "आकाशात उडणारे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceQmIjqgcXGUdGXy4Of+lGHxdYKzZWQ",
+   "clue": "हवा-पाणी खराब होणे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jcezBM3Dx4HToNGX2IOexlGHxdgKzZWb",
+   "clue": "लिफ्ट"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jcezBM3Dyx2WiZlPjcetBM3D0Q==",
+   "clue": "शहराच्या कडेचा भाग"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jceWmIjvHYHSn03TyfTa3JMbgcXXzZSz",
+   "clue": "गावातील पारंपरिक वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcezBM3DwIHToNGXzIOexlGHxcIKzZWZjca4BM3D0w==",
+   "clue": "रस्त्यावरून जाणारा उंच रस्ता"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceQmInYHYHShU3Tyfba3aYbgcXX",
+   "clue": "पत्त्यातील सहा अंकी क्रमांक"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jcetmInZHYHSjNGW7Q==",
+   "clue": "वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcetBM3D9h2WiZlPjcegmIjmgcX0UdGXwYOf+A==",
+   "clue": "आकाशाला भिडणारी इमारत"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jcePmInZHYHSjNGW7Q==",
+   "clue": "लहान वस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jcePmInZHYHSsg==",
+   "clue": "मार्ग"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceUmIjmHYHSuNGW7B/a3LI=",
+   "clue": "राजाच्या डोक्यावरचा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceMmIjnHYHSjA==",
+   "clue": "होडीचे वाऱ्याने फुगणारे कापड"
+  }
+ ]
+}

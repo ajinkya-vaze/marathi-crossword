@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-07",
+ "title": "शाळा आणि खेळ ७",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceImIj4FIHI9FHQk/qDn/hRk8zF",
+   "clue": "परंपरेने चालत आलेले गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jceWmIjyFIHIzc2VthGDnss=",
+   "clue": "डोळ्यातील काळा गोल"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceWmIjyFIHIx82Vuo3HnZiJzBSByM1R0JPe",
+   "clue": "राजा-वजिराचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "x": "jceQmIjyFIHI2c2Vuo3HngTN1/0=",
+   "clue": "ग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcetBM3Xy4HI3lHQk8k=",
+   "clue": "आकड्यांचा विषय"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jce/mInxFIHIxVHQk92DnsZRk8zS",
+   "clue": "अवकाश"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "x": "jceKmInNFIHI1s2Vuo3HpZiI/ojF3B3NlKCNxroEzdfM",
+   "clue": "जन गण मन"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jcePmInMFIHIx82Vuo3HlZiI8hSByMU=",
+   "clue": "वीज"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jcePmInMFIHI/VHQk8I=",
+   "clue": "जीत"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jcetmIjzFIHIxVHQk92DnsZRk8zPjMWTTNfJzEaYidA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jce8BM3Xxx2MxYk=",
+   "clue": "लांबट चौकोन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jce8BM3X9IHJ5lHQk9WDnsZRk8zZjMSv",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceCmInNFIHI9lHQk90f2ty6k83qEIGJr9fI5A==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jcevmIj4FIHIyVHQk8ODnsZRk8zLEIGJpQ==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcetBM3Xyx2MxZjQkuof2tyb",
+   "clue": "शाळेचा ठरलेला पोशाख"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceCmIjxFIHI0c2Vuo3HlQTN18AdjMWDTNfJ29rdoJPM9IzFk0zXydM=",
+   "clue": "बारा आसनांचा व्यायाम"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceQmInxFIHI+w==",
+   "clue": "खेळाचा निर्णय देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jcegBM3X3x2Mxbg=",
+   "clue": "विजेत्याचा करंडक"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcetmIj4FIHI0s2UiRGDntPN1u8djMW4",
+   "clue": "लोखंडी गोळा फेकण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 10,
+   "x": "jcevBM3XwoHI31HQk94=",
+   "clue": "टिळा लावतात ती जागा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceQBM3XzIHJ7M2Uk43GvQ==",
+   "clue": "बावन्न पानांचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jcevBM3X2IHI41HQk8wf2ty4",
+   "clue": "स्पर्धेचा चषक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jceWBM3X/YHJ4FHQk94=",
+   "clue": "लहान सुगंधी फुलांचे झाड"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 9,
+   "x": "jcevmIjyFIHI2c2Vuo3HnpiI8w==",
+   "clue": "आखाड्यातील खेळ"
+  }
+ ]
+}

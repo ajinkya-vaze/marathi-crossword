@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-02",
+ "title": "माझा महाराष्ट्र २",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceCmIjmHYjFwIHX1giSxYfQl+8f2tyd",
+   "clue": "चादरींसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceUmInTHYjFwB2TzMEOgYmT0sjj",
+   "clue": "सिंधुदुर्गातील बोली"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jceImInTHYjFwB2TzNoOgYmJ0sndRpiJ3w==",
+   "clue": "पुण्यातील शिवरायांचा वाडा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 10,
+   "x": "jcePBM3J0YjE/4HXz5TW3w==",
+   "clue": "गांधीजींच्या सेवाग्रामचा जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcevmIjmHYjF14HX15TW41HQlsGDn/hRjcXYHZLFxhSU1sDNlbI=",
+   "clue": "हिरव्या पानांची तळलेली वडी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jcevmIjmHYjFwIHW5ZTW2M2UjBGDntLNyOMUgdbR",
+   "clue": "तांबडा-पांढरा रस्सा आणि चपलांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jcePBM3JwIjFzB2TzN6SxZNM0snW",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceKmInSgczjDoHX/wiSxY4=",
+   "clue": "वारीत अश्वांचे गोल धावणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceQmInTHYjF6B2TzOMOgYmT0sjj",
+   "clue": "टेबललँड असलेले थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jcecBM3J0RSB1tSTzMoOgYms0snd",
+   "clue": "किल्ल्याचे मोठे दार"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcePmInTHYjFwh2TzMaSxK0=",
+   "clue": "आदिवासी चित्रशैली"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceCmInTHYjF3oHW6QiSxYvQltMf2tyOjcXWHZLFxhSU1sDNlIw=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceemInTHYjFwIHW6AiSxYM=",
+   "clue": "कुस्तीचा आखाडा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceUBM3J0YjFzB2TzNQOgYmF0sndRpiJzIHM3w==",
+   "clue": "लातूर आणि नांदेड ज्या प्रदेशात आहेत तो"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jcecmInTHYjFyh2TzNiSxKZM0snE",
+   "clue": "रामदासांचा ग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jcedBM3JyRSB1vYPiNDC",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jceQmIjggczRDoHX/ZTW31HQlts=",
+   "clue": "उजेड"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcefmInTHYjFwIHW6AiSxYfQl+0f2tyN",
+   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jcePmInTHYjFyoHW6QiSxYvQl+of2tyY",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceMBM3JyYjFzR2TzMGSxZNM0snTRpiJ2IHM3w6B18mU1t8=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 2,
+   "x": "jcePmInTHYjF04HX1g==",
+   "clue": "जुने मोठे चौसोपी घर"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 10,
+   "x": "jcegmInTHYjFwg==",
+   "clue": "चौकोनाच्या बाजू"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 10,
+   "x": "jcegmInTHYjFwQ==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 9,
+   "x": "jcelmInTHYjFwQ==",
+   "clue": "वारकरी भजनात वाजवतात ते"
+  }
+ ]
+}

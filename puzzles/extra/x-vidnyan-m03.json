@@ -1,0 +1,541 @@
+{
+ "id": "x-vidnyan-m03",
+ "title": "विज्ञान आणि अवकाश · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 20,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jceWBM3S24TL9IHKgQ==",
+   "clue": "प्रकाश देणारा काचेचा गोळा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceWBM3S2w==",
+   "clue": "ढकलणे किंवा ओढणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 12,
+   "x": "jcegmInIicDsBYHKi42Vvo3HigTN0saEyscdjonF",
+   "clue": "चंद्रावर गेलेली भारतीय मोहीम"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 19,
+   "x": "jcevBM3S2hiO3dmOiO9M08nP2tyTConA5g==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jcevmInIFYTKyw==",
+   "clue": "आजच्या आधीचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jcevmInIFYTKyR2Oid/Qluo=",
+   "clue": "कडू भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jce/mIn0FYTK3R2Oid3Ql9Mf2tyeConA25nE7lGNlIM=",
+   "clue": "अवकाशात जाणारा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 12,
+   "x": "jcecmIj7icDeBYHKmA==",
+   "clue": "पाण्यासारखे वाहणारे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 16,
+   "x": "jcebmIj9FYTKwYHKkw==",
+   "clue": "तव्यावरचा कुरकुरीत दक्षिणी पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 17,
+   "x": "jceCmInIFYTK1YHLrBHQl8uDnsZRls3Hjt3fEs3JhU+Nx5uYicg=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcedmIj0FYTK1x2OifjQluof2tyJlszm",
+   "clue": "शेपटीवाला आकाशस्थ गोळा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "x": "jce/mIn0FYTK3R2Oid3Ql9Mf2tye",
+   "clue": "अवकाश"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jceSmIj7icDBmcTsUY2UrBGDntA=",
+   "clue": "गतीचे नियम मांडणारा शास्त्रज्ञ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 14,
+   "x": "jcecBM3S0ITKxw==",
+   "clue": "दोन्ही हातांची बोटे"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jceUBM3S0YTKxx2Oid/Qluof2tyAls3aEpnFyg==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceKmInIFYTK1x2OicU=",
+   "clue": "प्रकाशाच्या विकिरणाचा शोध लावणारे भारतीय नोबेलविजेते"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 14,
+   "x": "jceDmInIFYTK3Q==",
+   "clue": "कर"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 15,
+   "x": "jceeBM3SxRiO3dOOidM=",
+   "clue": "डग्ग्यासोबत वाजवायचे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceiBM3SwRiO3coSzcmD",
+   "clue": "किती जागा व्यापली"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceiBM3SwQ==",
+   "clue": "दगडासारखे कठीण रूप"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jceWmIj3FYTK3g==",
+   "clue": "सूर्याजवळचा ग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jceWBM3S0ITKxh2Oic7Ql9Mf2tyBls3aEpnF5g==",
+   "clue": "खानदेशातील कवयित्री संत"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceUmIn0FYTK7h2Oid5M08nM2tyTConAxg==",
+   "clue": "मंगळाकडे गेलेली भारतीय मोहीम"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jcetBM3SzYTL+Q==",
+   "clue": "वेग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 12,
+   "x": "jcecmIj0FYTK3h2OidjQl9Mf2tyfls3a",
+   "clue": "दूध घालणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 12,
+   "x": "jcecmIj0FYTKyR2OicrQluCDns1Rls3Mjtzh",
+   "clue": "टेलिफोन"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 14,
+   "x": "jcePmInIFYTK1oHLrw==",
+   "clue": "हवेसारखे रूप"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceCmInIFYTKzB2Oid1M08n2RpiJxg==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceCmInIFYTK0w==",
+   "clue": "सर्प"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 17,
+   "x": "jcebmInIFYTKyYHLoI2Uho3HhQTN0sE=",
+   "clue": "उत्क्रांतीचा सिद्धांत मांडणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jcevmIj3FYTKy4HLrxHQl8c=",
+   "clue": "दाराला लावायचे टाळे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 12,
+   "x": "jcedmIj7icDbBYHKhY2Vsw==",
+   "clue": "आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jcegmIj3icDsBYHKgRHQl/g=",
+   "clue": "लोखंड ओढून घेणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jceQmIj7icDeBYHKiY2UjBGDnt/N0+SEyswdjonF0Jbt",
+   "clue": "आवाज परत ऐकू येणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceQmIj7icDeBYHKgo2VuBGDnu9Rls3Sjt3fEs3Jg9PJ3Q==",
+   "clue": "प्रयोग करण्याची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 19,
+   "x": "jceUmInJFYTKyR2OidhM08nA2t2vConA+w==",
+   "clue": "ढोलताशांसह निघणारी यात्रा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcecmInIFYTK1Q==",
+   "clue": "एका भागावर पडणारे बल"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceCmIj9FYTK0YHLqg==",
+   "clue": "पिवळा मौल्यवान धातू"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceCmIj9FYTK1x2OidjQl9Mf2tyd",
+   "clue": "आठवड्याचा पहिला कामाचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 18,
+   "x": "jceWmIj9FYTKyQ==",
+   "clue": "लहान आंबटगोड फळ; संक्रांतीला लुटतात"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jcevBM3S24TKxx2OicM=",
+   "clue": "मिसाईलमॅन राष्ट्रपती"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 5,
+   "x": "jcesBM3SwYTKxh2OifE=",
+   "clue": "जमिनीतून काढला जाणारा नैसर्गिक पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceQBM3S2YTKxx2OifpM08n2RpiJ1Q==",
+   "clue": "फुलातील बारीक पिवळी भुकटी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceQBM3S3BiO3ckSzcm6T43HipiI+4nA8pnF0A==",
+   "clue": "वाऱ्यापासून मिळणारी ऊर्जा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 15,
+   "x": "jceQmIj6FYTKyYHLoI2UkI3HhQTN0seEysc=",
+   "clue": "पूर्ण चंद्राची रात्र"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 17,
+   "x": "jceCBM3S9YTL+R2Oidg=",
+   "clue": "जिवंत प्राणी व वनस्पती"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceSmInJFYTKyYHLoI2Ur43GugTN0tw=",
+   "clue": "जीव नसलेले"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 17,
+   "x": "jcemmIj2FYTKzIHKkxHQl86Dn/o=",
+   "clue": "डोळ्यांना न दिसणारे सूक्ष्मजीव"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jcesBM3S2RiO3c2OiO9M08n/",
+   "clue": "पिवळसर गराचे सुगंधी फळ"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 2,
+   "x": "jcesBM3S2xiO3c0SzcmU08ju2tyJls3a",
+   "clue": "कुटण्याचे दगडी भांडे आणि दांडा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 13,
+   "x": "jceVmIn0FYTK3YHLoI2UgxGDntbN0tcYjt3JEs3JhQ==",
+   "clue": "रोबोट"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 16,
+   "x": "jceSBM3S2RiO3fQSzcmqT43HnpiI9xWEysmBy6CNlJURg57OzdPp",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 7,
+   "x": "jcewBM3S2YTL9IHKsY2UjQ==",
+   "clue": "काम करण्याची शक्ती"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 12,
+   "x": "jcePmIjxFYTK7g==",
+   "clue": "किती जलद"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 18,
+   "x": "jcezBM3SzYTL9IHKuI2Vvo3HipiJyInA7AWByomNlbM=",
+   "clue": "डार्विनचा सिद्धांत"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 0,
+   "x": "jcevmIj3FYTK5oHLrI2UsRGDntQ=",
+   "clue": "परिवार"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 0,
+   "x": "jcevmIj3FYTKwIHLrxHQl/iDn/lRls3djtzj",
+   "clue": "कोकिळेचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 4,
+   "x": "jceCmIj6FYTKyR2OiedM08nT2t2gls34jt3f",
+   "clue": "सूर्यापासून मिळणारी ऊर्जा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 5,
+   "x": "jceKBM3S/ITL9IHKiRHQl/of2tyy",
+   "clue": "ए बी ओ प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 11,
+   "x": "jceQmIj7icDeBYHKuhHQl8mDnsdRls3OjtzgEs3JiNPI7trciQqJwPs=",
+   "clue": "गुण लिहिलेले पुस्तक"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 11,
+   "x": "jceQmIj7icDeBYHKiI2UjBGDntDN0+4=",
+   "clue": "स्नायूंसाठीचे पोषक; प्रोटीन"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 14,
+   "x": "jceQmIj3FYTKwYHLoI2Ul43HhQTN0vyEysc=",
+   "clue": "लहान पुस्तक"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 16,
+   "x": "jcegBM3Sw4TKxx2OicnQlu0=",
+   "clue": "गव्हाची पोळी"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 0,
+   "x": "jcevmIj3FYTKy4HLoI2UmI3Gug==",
+   "clue": "दुधाचे गोठवलेले थंड गोड"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 4,
+   "x": "jceCmIn0FYTK7h2Oic5M08n2",
+   "clue": "कॉम्प्युटर"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 7,
+   "x": "jcevBM3S2RiO3dQSzcmU",
+   "clue": "लाकूड कापायचे दातेरी पाते"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 9,
+   "x": "jce/BM3SxITKxh2OicXQluof2tyJlszpjt3Rjojt",
+   "clue": "चित्रपटात काम करणारी"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 9,
+   "x": "jce/BM3S/ITL9IHKmo2UjY3HuATN0t8=",
+   "clue": "विषुववृत्तापासूनचे अंतर"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 13,
+   "x": "jceemIn0FYTK3YHLoI2UgxGDnuTN0+SEyueBypMR0JfF",
+   "clue": "विज्ञानाचा उपयोग"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 6,
+   "x": "jce/BM3S3BiO3fSOidNM08nV",
+   "clue": "पृथ्वीबाहेरील पोकळी"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 11,
+   "x": "jcedBM3SwRiO3cWOiODQl90f2tyClszvEpnFyFGNlIWNxro=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 15,
+   "x": "jcecBM3S3ITK+x2OiczQlu0=",
+   "clue": "ढोल वाजवून दिलेली सूचना"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 10,
+   "x": "jceCmInIFYTK1g==",
+   "clue": "दुधावर जमणारा थर"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 17,
+   "x": "jceKmInIFYTK0Q==",
+   "clue": "शेताबाहेरची झाडाझुडपांची जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 9,
+   "x": "jceDmInIFYTK1h2OiczQluCDnsjN0+IYjt39Es3JmA==",
+   "clue": "सर्वात हलका वायू"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 15,
+   "x": "jcebmIj2FYTK9h2OicVM08ns",
+   "clue": "आनुवंशिकतेचा रेणू"
+  }
+ ]
+}

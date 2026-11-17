@@ -1,0 +1,177 @@
+{
+ "id": "x-san-12",
+ "title": "सण, कला आणि परंपरा १२",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "x": "jceemIjyHY6JldLJ3UaYicOBy60=",
+   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceemIjyHY6Jgk6Nx6aYic0djomb0sjhRpiJww==",
+   "clue": "तुळजाभवानीचे मंदिर"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "x": "jcecmIj0HY6Ju06Nx4k=",
+   "clue": "मंदिर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "x": "jcecmIj0HY6JhA==",
+   "clue": "ईश्वर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jce1BM3X9I6Jj06Nx5wEzdfXjoix",
+   "clue": "उपवासाचा अकरावा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceCmInxHY6JptLI40aYidcdjomk0sndRpiJww==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceUBM3X2I6Jj06Nx5IEzdf2Es2Vgg==",
+   "clue": "खूप मोठे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jceSBM3X0RLNlacRg57iUZPFys2UsxGDnsjN1uyOiZdOjceMmIjz",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceemIjyHY6Jgk6Nx4yYiPMdjomE0sncRpiJxoHKk03Sydo=",
+   "clue": "दिवाळीनंतर तुळशीचे लग्न"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceXBM3X/RLNlZo=",
+   "clue": "देवाची गाणी समूहाने म्हणणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcetmIjyHY6Jk9LI40aYidmBypNN0snCRpiJxoHKkw==",
+   "clue": "मराठी नववर्षाचा पहिला दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jcemBM3X0xLNlYKNx7gEzdf2",
+   "clue": "पाण्यात मिसळायचे रंग"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcetmIjyHY6Jk9LI4w==",
+   "clue": "पाडव्याला उभारतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jcePmInMHY6JiU6Nx4qYiP6ByrFN0snL",
+   "clue": "मूर्ती पाण्यात सोडणे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceQmInNHY6JkE6Nx4+Yic0=",
+   "clue": "दिवाळीतील बलिप्रतिपदा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jce/mInxHY6JndLJ3UaYid+BypNN0snr",
+   "clue": "कोल्हापूरची देवी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jce8BM3XyxLNla2Nx4Q=",
+   "clue": "दसऱ्याला सोने म्हणून वाटतात त्याची पाने"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jceDBM3XyY6IsE6Nx5SYic0djomZ",
+   "clue": "रामभक्त वानर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceSBM3X/hLNlYoRg57WzdbsjomB0sndRpiJ7A==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceQBM3X9xLNlYeNx4QEzdf9",
+   "clue": "दोन्ही बाजूंनी वाजणारे वारकरी वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcemBM3XxY6IvNLJ09rckw==",
+   "clue": "गावात भरणारा मेळा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 8,
+   "x": "jceCBM3XzxLNlbo=",
+   "clue": "देवापुढची पितळी उंच दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 6,
+   "x": "jceUmInxHY6JldLI7trcnQ==",
+   "clue": "पवित्र जपाचे शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jcegmInMHY6JldLI7trcnQ+ByodN0sn8",
+   "clue": "सिनेमा"
+  }
+ ]
+}

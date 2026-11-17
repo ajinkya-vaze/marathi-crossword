@@ -1,0 +1,177 @@
+{
+ "id": "x-san-01",
+ "title": "सण, कला आणि परंपरा १",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceKmInxHY6Jp02Nx5SYifEdjomq",
+   "clue": "नाटक होते ते व्यासपीठ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceSBM3X0RLNlKQRg57iUZPFys2VsBGDnsjN1uyOiZZNjceMmIjz",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceUmInxHY6Jp02Nx4mYic0djomn0cjvRpiJww==",
+   "clue": "नवविवाहितांचा श्रावणातील सण"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jcemmInMHY6JmNHJ3Q==",
+   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jceSmInNHY6Jr9HI7trcgg+BypXQle8f2ty6k8TuUdCVyQ==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceXBM3X9I6IvdHJx9rdrQ==",
+   "clue": "देवावरचे प्रेम"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceXBM3X0RLNlJURg57QzdffEs2Uro3Gt5iJ3B2OiZ4=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jceSmInNHY6Jp02Nx5CYifEdjomqTY3HlJiI8w==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceSmInNHY6JgE2Nx5w=",
+   "clue": "नारायण नारायण म्हणणारा मुनी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jceCmInxHY6Jp9HI40aYidcdjoml0cndRpiJww==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jcecmIj0HY6JhQ==",
+   "clue": "ईश्वर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 0,
+   "x": "jcegmInMHY6JlNHI7trcnQ+ByodM0cn8",
+   "clue": "सिनेमा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceUBM3X2I6Jjk2Nx4yYicwdjomFTY3HipiJzR2OiZTRyO7a3J2TxO4=",
+   "clue": "शंकराचा उपवासाचा सण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jceMmInMHY6JgNHI7trcjJPE7g==",
+   "clue": "साईबाबांचे गाव"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceKmInNHY6Jnk2Nx5IEzdfUEs2Un43Gug==",
+   "clue": "श्रीरामाचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jcePmIj+gcqU0JXTH9rcgpPE5VHQld+DnsdRk8XG",
+   "clue": "हनुवटीखाली धरायचे गजवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceQBM3X9xLNlISNx4QEzdf9",
+   "clue": "दोन्ही बाजूंनी वाजणारे वारकरी वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jcemBM3X0xLNlIGNx7gEzdf2",
+   "clue": "पाण्यात मिसळायचे रंग"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jcedBM3XyRLNlJWNxreYicMdjomf0cjoRpiJ1R2OiYbRyOM=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jce8BM3XyxLNlK6Nx4Q=",
+   "clue": "दसऱ्याला सोने म्हणून वाटतात त्याची पाने"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceKmInxHY6Jp02Nx5CYifEdjomqTY3HlJiI8w==",
+   "clue": "होळीनंतर रंग खेळण्याचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jcegBM3X9BLNlIONxro=",
+   "clue": "दिवाळीच्या फराळातील काटेरी गोल खाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceQBM3XxY6Jsk2Nx60=",
+   "clue": "संक्रांतीला उडवतात तो"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 4,
+   "x": "jcelmIj4HY6Jmk2Nx4iYiPM=",
+   "clue": "बांबूची करंडी"
+  }
+ ]
+}

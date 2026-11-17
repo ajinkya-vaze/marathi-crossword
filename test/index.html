@@ -35,7 +35,10 @@
     }
     out.insertAdjacentHTML('beforeend', '<h2>Puzzle files</h2>');
     const get = async (u) => { const r = await fetch(u, { cache: 'no-cache' }); if (!r.ok) throw new Error(r.status); return r.json(); };
-    const report = await validateAll(await get('../puzzles/index.json'), (id) => get(`../puzzles/${id}.json`));
+    const report = [
+      ...await validateAll(await get('../puzzles/index.json'), (id) => get(`../puzzles/${id}.json`)),
+      ...await validateAll(await get('../puzzles/extra/index.json'), (id) => get(`../puzzles/extra/${id}.json`)),
+    ];
     for (const { id, errors } of report) {
       if (errors.length) { fail++; line('bad', '✗ ' + id, errors.join('\n')); } else { pass++; line('ok', '✓ ' + id); }
     }

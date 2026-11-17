@@ -1,0 +1,177 @@
+{
+ "id": "x-itihas-10",
+ "title": "इतिहासाच्या पानांतून १०",
+ "difficulty": "कठीण",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jceMmInrCInM9A/NlYARg57Szc3KFYjFwM2Utw==",
+   "clue": "दिवाळीतील चौकोनी गोड तुकडे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceQmInXCInM1A/NlZgRg57uzc3LiczjD82VkQ==",
+   "clue": "बाजीप्रभू देशपांडेंनी लढवलेली खिंड"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceImInXlM3qHZOJnUyNx7MEzc3Vic3h",
+   "clue": "वाळूत लांब उडी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceWBM3N4hWIxcM=",
+   "clue": "मराठ्यांचा जुना इतिहासग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jceMmInWCInM0Q/NlYiNxreYic2UzOWB153RlNMf2tyO",
+   "clue": "डोक्याचे लोखंडी संरक्षण"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jcezBM3N0InN7JOJp0yNx5IEzc3c",
+   "clue": "जमिनीत खोदून इतिहास शोधणे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jcezBM3N4hWIxcA=",
+   "clue": "धान्य कांडण्याचा खोल दगड"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jce8BM3NxBWIxd3NlY4Rg57I",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jcePmInWCInM15OJj0yNx4kEzc3jFYjF0g==",
+   "clue": "बाजीप्रभूंच्या लढाईशी जोडलेला किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jcePmInWCInM/Q/NlZ8Rg57QUYnQ/hSB150=",
+   "clue": "हंपीचे साम्राज्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceWmInXCInMwg==",
+   "clue": "धनुष्यातून सोडतात"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceWmInXCInM/ZOIsUyNx4qYidcIiczU",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceDBM3N3InN4A/NlZ6Nx4QEzc3cFYjF71HRlMKDnvpRidDNiMTz",
+   "clue": "मारुतीचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jce/BM3N4YnN7JOJhkyNx5UEzc3Qic3iD82VlI3GugTNzduJzN8=",
+   "clue": "सोने खरेदीचा शुभ दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jce/BM3N4RWIxd9R0ZTd",
+   "clue": "बिरबलचा बादशहा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceVmInXCInMxw/NlYU=",
+   "clue": "देवगिरीचे राजघराणे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceKmInXCInM/ZOIvNDJzNrckxWUzcWB15JN0MnU2t2qFZTN/Q==",
+   "clue": "राजाला गादीवर बसवण्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 9,
+   "x": "jcePBM3N0BWIxds=",
+   "clue": "वंशपरंपरेने मिळालेली जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceCmInXCInM1A/NlYARg57tUYnQ2Q==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 2,
+   "x": "jceCmInXCInMz5OIvNDJ09rckxWUzfSB1qDRlMI=",
+   "clue": "सम्राटाचे राज्य"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcevBM3NwRWIxek=",
+   "clue": "युद्धातील अंगरक्षक पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jcecmIjuCInM1A/NlaeNx4UEzc3Eic3h",
+   "clue": "दौलताबादचा किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jcegBM3NxonN5g/NlayNx4QEzc3B",
+   "clue": "एकोणीसशे बेचाळीसचे आंदोलन"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 10,
+   "x": "jcevmIjklM3YgdeT0ZTvH9rciYnR6Q==",
+   "clue": "मोठा बदल; उठाव"
+  }
+ ]
+}

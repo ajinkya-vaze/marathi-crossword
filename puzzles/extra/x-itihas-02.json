@@ -1,0 +1,177 @@
+{
+ "id": "x-itihas-02",
+ "title": "इतिहासाच्या पानांतून २",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceCmInWlM3qHZOJidLJ3UaYidEIiczJ",
+   "clue": "राजाचे आसन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jceUBM3NzYnM3w/NlIeNxroEzc3E",
+   "clue": "जैन धर्माचे तीर्थंकर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceUBM3NzYnM3w/NlJ+Nx4QEzc3EFYjF1w==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "x": "jceemInXCInMyQ/NlJiNxrsEzc3Eiczf",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jceDmInXCInM6A/NlIoRg57Tzcz1FYjFwQ==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jceIBM3N4YnN7JOJh9LI7trcg4nR6RSB14HQltMf2tyl",
+   "clue": "झाशीची राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 2,
+   "x": "jceCmIjoCInMzJOJjk6Nx40Ezc3uiczjD82UlI3Gt5iJ2Q==",
+   "clue": "आझाद हिंद सेनेचे नेते बोस"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jcegmInrCInMx5OIvdLJ00aYid+UzO8dk4mmTo3Hig==",
+   "clue": "आझाद म्हणवणारे क्रांतिकारक"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceKmInXCInM1pOIvdLJ/NrdoInQ2RSB17rQl+0f2tyJ",
+   "clue": "जन गण मन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceCmInXCInM1JOJj06Nx56YiOSUzdiB1q1M0snP2tyTFZTN4A==",
+   "clue": "पहिल्या स्त्री शिक्षिका"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceCmInXCInM1A/NlIIRg57tUYnQ2Q==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jceWmInXCInM/ZOIsE6Nx4qYidcIiczU",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jcePBM3N0BWIxds=",
+   "clue": "वंशपरंपरेने मिळालेली जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jce8BM3NxBWIxd3NlIwRg57I",
+   "clue": "नौदल"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jce8BM3N4xWIxcNR0Jb4H9rcnQ==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jceCmIjklM3dHZOJgNLJ3UaYifWUzOWB14I=",
+   "clue": "शिवरायांनी स्थापन केलेले"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceXBM3N4xWIxddR0JbVg57Hzc32FYjF5A==",
+   "clue": "तरुण क्रांतिकारक; फाशी गेलेला"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jceXBM3NxInN4Q/NlJY=",
+   "clue": "भाजलेल्या वांग्याचे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jceemIjiCInM0Q/NlJGNx4Q=",
+   "clue": "शिवरायांनी जिंकलेला पहिला किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceemIjiCInMyg==",
+   "clue": "किल्ल्यावरील गोळा उडवणारे अस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcevmIjklM3YgdeT0JbvH9rciYnQ1hSB17jQltMf2tydFZTN/Q==",
+   "clue": "सशस्त्र लढा देणारा देशभक्त"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jcevBM3NwRWIxek=",
+   "clue": "युद्धातील अंगरक्षक पोशाख"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 8,
+   "x": "jcenmInXCInM15OIsA==",
+   "clue": "राणी लक्ष्मीबाईचे राज्य"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceSBM3NxBWIxeZR0Jb3H9rciYnR6BSB153Ql+CDnt5RidDfiMTz",
+   "clue": "दिवाळीत पहाटे अभ्यंगस्नानाचा दिवस"
+  }
+ ]
+}

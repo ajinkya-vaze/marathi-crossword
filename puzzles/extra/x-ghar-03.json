@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-03",
+ "title": "घर आणि कुटुंब ३",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 10,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceQmInZiMXwUdCX9R/a3J2HzeMOzZSQ",
+   "clue": "झोपताना अंगावर घ्यायचे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jce8BM3DwoHXrEzTydFGmInyiMTy",
+   "clue": "जवळीक"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jce8BM3D9IHXpkzTyc/a3JM=",
+   "clue": "आजीचे पती"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jce/mInlFIHWutCX0x/a3KU=",
+   "clue": "बाळाला झोपवताना गायचे गीत"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceQBM3Dyx2SiazTyOhGmInLiMXM",
+   "clue": "आजोबांचे वडील"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceQBM3D2IHWk0zTycc=",
+   "clue": "पीठ मळण्याचे मोठे ताट"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jcetmInZFIHWgNCX0x/a3J2HzN8=",
+   "clue": "मंदिरातील मूर्ती असलेला आतला भाग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jce8BM3D4A==",
+   "clue": "माता"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jce8BM3D9IHXqkzTydva3JMbiMXKzZWx",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceeBM3D2x2SiahPjceK",
+   "clue": "जमिनीखालची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceiBM3DyYHXoNCXwoOexlGHzNI=",
+   "clue": "वेळ दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jcezBM3D/h2SiYM=",
+   "clue": "धान्य कांडण्याचा खोल दगड"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceCmIjlFIHWhQ==",
+   "clue": "मुलाची पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceSBM3D3R2SiYDTyd0=",
+   "clue": "पती"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcePmInZFIHWjNCX0w==",
+   "clue": "जुने मोठे चौसोपी घर"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jceQBM3DzIHXoNCXxYOf+A==",
+   "clue": "बायको"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 6,
+   "x": "jceQBM3Dyx2SiazTyOM=",
+   "clue": "आजीची किंवा आजोबांची आई"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceKmInZFIHWsUzTydba3JMbiMXTzZSN",
+   "clue": "राजाचा महाल"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jcePmInZFIHWnUzTyds=",
+   "clue": "संपत्तीचा पुढचा हक्कदार"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jce8BM3D9IHXrQ==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jce8BM3D2B2SiYjTyd0=",
+   "clue": "चेहरा पाहण्याची काच"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceQBM3D2B2SiYhPjcecmInZFIHWnQ==",
+   "clue": "घराच्या मागचे अंगण"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 1,
+   "x": "jceQBM3DzIHXrQ==",
+   "clue": "नवरा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jceCmInZFIHWldCW7w==",
+   "clue": "नवऱ्याची किंवा बायकोची आई"
+  }
+ ]
+}

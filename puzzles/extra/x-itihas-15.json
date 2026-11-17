@@ -1,0 +1,177 @@
+{
+ "id": "x-itihas-15",
+ "title": "इतिहासाच्या पानांतून १५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceVBM3Nw4nN7JOJrtXJ3EaYidkIicz0k4i81cnURpiJ/A==",
+   "clue": "स्टंपमागे उभा राहणारा"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jceCmInXCInMzZOIsEmNx5yYidcIiczCk4mPSY3HjwTNzdWJzN8=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceCmInXCInM1A/NlYURg57tUYnQ2Q==",
+   "clue": "अंदमानात शिक्षा भोगलेले स्वातंत्र्यवीर"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jce8BM3N4xWIxcNR0ZH4H9rcnQ==",
+   "clue": "सुधारक; केसरीचे पहिले संपादक"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceMBM3N3InM3g/NlYCNx4QEzc3EFYjFxs2VixGDntnNzco=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceQmInXCInMyZOJjkmNx5AEzc3Q",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceCmIjklM3dHZOJntXJ4UaYicOUzdYdk4mkSY3HogTNzcQ=",
+   "clue": "जेवण बनवण्याची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceiBM3N6xWIxdvNlYs=",
+   "clue": "संविधान; किंवा प्रसंग"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcevmIjklM3YgdeT0ZHvH9rciYnQ1hSB17jRkdMf2tydFZTN/Q==",
+   "clue": "सशस्त्र लढा देणारा देशभक्त"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcevmIjklM3YgdeT0ZHvH9rciYnR6Q==",
+   "clue": "मोठा बदल; उठाव"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmIjuCInMyZOJj0mNx5AEzc3Qic3h",
+   "clue": "सैन्याचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmIjuCInM1JOJj0mNx62YiOSUzdiB15NN1cnN",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceUmIjolM3qHZOJkNXJ3UaYidwIiczSk4i81cnM2tyT",
+   "clue": "नवरा-नवरीच्या कपाळावर बांधतात त्या माळा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jcePBM3N0BWIxds=",
+   "clue": "वंशपरंपरेने मिळालेली जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceCmInrCInMzpOIsEmNx6+YiOSUzcwdk4mfSY3Hg5iJ1wiJzNGTiY9JjceNmIjklM33gdag0ZHd",
+   "clue": "मराठी भाषिक राज्यासाठीचा लढा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jceCmInrCInM9JOItkmNx54Ezc3Mic3sk4mUSY3HiQ==",
+   "clue": "वेबसाइट"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceKmInXCInM/Q/NlaKNxrsEzc3Eic3j",
+   "clue": "भगतसिंगांसोबत फाशी गेलेले"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jce/BM3N2YnM3g/NlZ0Rg57X",
+   "clue": "भूमिका साकारणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jce/BM3NzYnM3g/NlYeNxreYicaUzdYdk4md1cndRpiJ4Q==",
+   "clue": "होळकरांची लोककल्याणकारी राणी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jceVBM3N2hWIxds=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceeBM3NzQ==",
+   "clue": "युद्धानंतरचा करार"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jcegmInrCInMx5OIvNXJ00aYif6UzOkdk4mb1cju2tyJ",
+   "clue": "मौर्य साम्राज्याचा संस्थापक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jceWmInXCInMwg==",
+   "clue": "धनुष्यातून सोडतात"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceIBM3N1onM3w/Nlb0=",
+   "clue": "युद्ध"
+  }
+ ]
+}

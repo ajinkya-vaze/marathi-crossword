@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-11",
+ "title": "घर आणि कुटुंब ११",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jceXmInZFIHWpw==",
+   "clue": "बंधू"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceXmInZFIHWiQ==",
+   "clue": "शिजवलेले तांदूळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jceSmInZFIHWiQ==",
+   "clue": "मुलाची किंवा मुलीची मुलगी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "x": "jceSmInZFIHWidGU6h/a3JiHzN8OzZW5EYOe7Q==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "x": "jcemmInZFIHWidGU6g==",
+   "clue": "दगडी धान्य दळण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceSBM3D3R2SiYHRyOM=",
+   "clue": "लग्नातील वधू"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jcePmInZFIHWj03RycXa3JIbiMXHUdGV1Q==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceemIjmFIHWnk3Ryes=",
+   "clue": "छताला आधार देणारा आडवा लाकडी वासा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceemIjmFIHWnk3Ryds=",
+   "clue": "अंगणातील पवित्र रोप"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcevBM3DyYHXrQ==",
+   "clue": "दार बंद करण्याची लोखंडी साखळी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceQBM3Dyx2SiZXRyOM=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmInZFIHWlU3RydM=",
+   "clue": "नवऱ्याचे घर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmInZFIHWldGU7w==",
+   "clue": "नवऱ्याची किंवा बायकोची आई"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jceKBM3D0R2SiZfRyd1GmInXiMTy",
+   "clue": "रस्त्यावरची वर्दळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceRmIjqiMXCzZSxEYOe5A==",
+   "clue": "अन्न थंड ठेवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "x": "jceDBM3DwIHXrE3Ryc3a3JMbiMXaUdGV8R/a3IKHzOMOzZWVjca6",
+   "clue": "मारुतीचा जन्मदिवस"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceUmInZFIHWjQ==",
+   "clue": "पाणी थंड ठेवणारे मातीचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jceMmIjgFIHWsdGV0x/a3J2HzeE=",
+   "clue": "घराजवळ राहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcemmInZFIHWmE3Ryes=",
+   "clue": "मुलीचा पती"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcecBM3D3h2SiaQ=",
+   "clue": "दहा वर्षे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jcevBM3D8h2SiYHRyd0=",
+   "clue": "टाकाऊ घाण"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jcegBM3D9x2Sibk=",
+   "clue": "जमिनीवर अंथरण्याची"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jcenmInZFIHWndGV0w==",
+   "clue": "तळलेले बाहेर काढायचा छिद्रांचा चमचा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 1,
+   "x": "jcenmInZFIHWjNGU7w==",
+   "clue": "केर काढण्याचे साधन"
+  }
+ ]
+}

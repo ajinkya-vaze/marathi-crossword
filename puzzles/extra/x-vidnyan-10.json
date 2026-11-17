@@ -1,0 +1,177 @@
+{
+ "id": "x-vidnyan-10",
+ "title": "विज्ञान आणि अवकाश १०",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "x": "jceCmIj0FYTK7IHLoNGU2oOf9c3SxxiO3ccSzZWAjca3mInAFYTK7A==",
+   "clue": "बारीक वस्तू मोठी दाखवणारे यंत्र"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceCmIj0FYTKyYHLoNGUwh/a3IOWzdoSmcXczZWO",
+   "clue": "सूर्य व त्याचे ग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jceMBM3SwYTL+Q==",
+   "clue": "कड्यांचा ग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceCmIj9FYTK1h2OiYHQyOQ=",
+   "clue": "लग्नाने जुळलेले नातेवाईक"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceQmIj7icDeBYHKidGU0h/a3IqWzOmO3dQSzZWYjca6",
+   "clue": "आवाज परत ऐकू येणे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceQmIj7icDeBYHKuNGU0x/a3JsKicDWmcXsUdGU24Of9c3S24TL/h2OiYZMjceZ",
+   "clue": "पाने अन्न बनवतात ती क्रिया"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jcedmIj7icDbBYHKhdGV7Q==",
+   "clue": "आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcemBM3S24TKxx2OiYdMjceV",
+   "clue": "पाण्याचा मोठा साठा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jcemBM3S2xiO3dGOibNMjcet",
+   "clue": "पाण्यात मिसळायचे रंग"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceKmIjxFYTK74HKk9GU7x/a3Js=",
+   "clue": "ग्रीनविचपासूनचे अंतर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceemIj2FYTK0Q==",
+   "clue": "त्रिकोणाच्या बाजू"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 11,
+   "x": "jcegmInIicDsBYHKi9GV4IOeyFGWzcuO3d8SzZWY",
+   "clue": "चंद्रावर गेलेली भारतीय मोहीम"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jceCmIn0FYTKz4HLpk3QycRGmIne",
+   "clue": "नवीन शोध घेणे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcedBM3SwRiO3cWOiLzQydNGmInZicHlBYHKi03QydXa3a0=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceUmIn0FYTK7h2OiYI=",
+   "clue": "लाल ग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcegmIj3icDsBYHKgU3QyfY=",
+   "clue": "लोखंड ओढून घेणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 10,
+   "x": "jceiBM3SwQ==",
+   "clue": "दगडासारखे कठीण रूप"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jceiBM3S2YTL9IHKmk3QycA=",
+   "clue": "दोन पृष्ठभाग घासल्याने होणारा विरोध"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jcetmIj3FYTKyYHLrE3Qycfa3aCWzdGO3d8SzZWlEYOeyM3T5ITKzh2OiZI=",
+   "clue": "सफरचंद खाली पडण्याचे कारण"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jcetmIj3FYTKy4HKk03Qyc9GmInqicDQBYHKgw==",
+   "clue": "पाकात मुरलेले गोड गोळे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jcecBM3S/ITL9IHKmtGU0h/a3I4=",
+   "clue": "उत्तरेच्या उलट दिशा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceWBM3S24TL9IHKgQ==",
+   "clue": "प्रकाश देणारा काचेचा गोळा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceQmIjxFYTKz4HLrQ==",
+   "clue": "सजीवांचे सर्वात लहान एकक"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceKmInIFYTK1x2OiZk=",
+   "clue": "प्रकाशाच्या विकिरणाचा शोध लावणारे भारतीय नोबेलविजेते"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-08",
+ "title": "संगीत आणि चित्रपट ८",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceQmIjyHY7D1RmUiYjYyO7a3LiTxdAbhcHE",
+   "clue": "सन्मान; बक्षीस"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcedmIjxHY7DzQ==",
+   "clue": "सूरांची रचना"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceUBM3X047C6IXQlNCc0x/a3J0=",
+   "clue": "पावसाचा राग"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceemInNHY7DzRmUiZrYyOJGmInDgcrZ",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceemInNHY7Dy4XRoNCc3R/a3IcPgcr4",
+   "clue": "तांब्याच्या पत्र्यावरील लेख"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceKmInNHY7DyxmUiZbYyd1GmInL",
+   "clue": "दासबोध लिहिणारे समर्थ"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 1,
+   "x": "jcecmIjzHY7DzxmUiaU=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 6,
+   "x": "jceUBM3Xxo7C6IXQgtCc7x/a3IkPgcrX",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceeBM3X0xKHwdCUiY5EjceK",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcenmIj4HY7DzxmUiZFEjceQBM3X/o7C6IXQstCd7Q==",
+   "clue": "गरीब वस्ती"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceWmInNHY7D3RmUiYDYyONGmInGgcrZGYXQi0zYyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceWmInNHY7D1xmUiafYyeFGmInUHY7D1YXRoNCc2A==",
+   "clue": "स्त्रीभूमिका करणारे नटसम्राट गायक"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jcevBM3X047D2xmUiaXYyd1GmInD",
+   "clue": "कला सादर करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcevmIjyHY7Dy4XQk0zYydNGmInkgcrlGYXQikzYydPa3aCTxds=",
+   "clue": "निर्गुणी भजनांचे गायक"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceUmInNHY7D14XQkkzYyfba3JM=",
+   "clue": "दूरदर्शनवरील रोजची कथा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcetmInNHY7DyoXQkkzYyfba3JM=",
+   "clue": "गाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jcetmInNHY7DyhmUiZg=",
+   "clue": "गाणे म्हणणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jce/BM3XzI7D2hmUiZhEjceV",
+   "clue": "भूमिका साकारणे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceImIj4HY7D8BmUiafYyONGmInX",
+   "clue": "परंपरेने चालत आलेले गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcevmIj4HY7DzRmUiZ7Yyd1GmInZHY7D8A==",
+   "clue": "कोन मोजण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jcevmIj4HY7D1hmUiYjYyd0=",
+   "clue": "जळणारा काळा खनिज पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 6,
+   "x": "jceeBM3X0Y7D2xmUiZPYyd0=",
+   "clue": "अर्थहीन बोलांचे द्रुत गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 4,
+   "x": "jcetmIjzHY7DwRmUiYDYyd1GmIndgcrZGYXQgkzYycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceCmInNHY7DwBmUiYjYyeFGmInkHY7DwQ==",
+   "clue": "गायकासोबत वाद्याची साथ"
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "id": "x-sangeet-m03",
+ "title": "संगीत आणि चित्रपट · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jceImIj4HY7D8BmUifrQlu0f2tyJ",
+   "clue": "परंपरेने चालत आलेले गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcevBM3X+xKHwdWUidM=",
+   "clue": "टाकाऊ घाण"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jce8BM3XxY7C6IXQgo2UjQ==",
+   "clue": "वडिलांची बहीण"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "x": "jce8BM3X0hKHwd0=",
+   "clue": "सुस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 12,
+   "x": "jcePmIj7HY7DzRmUifrQl+8f2ty6k8XQ",
+   "clue": "विदर्भातील मोठी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 16,
+   "x": "jceimIj4HY7DxhmUidU=",
+   "clue": "विषारी साप; त्याच्या अंगावर साखळीसारखे ठिपके"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jceeBM3X0Y7D2xmUic7Ql9M=",
+   "clue": "अर्थहीन बोलांचे द्रुत गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceeBM3X0xKHwdCUidNM08nT",
+   "clue": "धारदार पाते असलेले शस्त्र"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jce8BM3X5hKHwc2UiODQl9WDn/XN1/6Ow9sZlInqTNPJyw==",
+   "clue": "सापेक्षतावादाचा जनक"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jce8BM3XwRKHwdAIzcmR08jkRpiJ34HK2RmF0LGNlI0Rg57I",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 14,
+   "x": "jcetmIjzHY7DwRmUifjQl9Mf2tyd",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 18,
+   "x": "jcetmIj4HY7D1YXQkhHQl9+DnsY=",
+   "clue": "सर्वात मोठे कपी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 19,
+   "x": "jceKmInMHY7DyoXQkxHQl/E=",
+   "clue": "गाण्याचा सराव"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceDmInNHY7D7BmUidVM08nI2t2sD4HK1Q==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jceDmInNHY7D1YXRoI2UnY3GsQTN18mOw9oZlInCTNPJzQ==",
+   "clue": "पेटी; भात्याचे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 14,
+   "x": "jceeBM3X0RKHwd0=",
+   "clue": "रात्री हसल्यासारखा ओरडणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcePmInNHY7D1oXRrw==",
+   "clue": "रेती"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceRmInNHY7D0BmUiczQluo=",
+   "clue": "माती ओढायचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 12,
+   "x": "jcetmInNHY7DyoXQkhHQl/iDnsY=",
+   "clue": "गाणारी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 17,
+   "x": "jceQmInNHY7DyhmUifFM08nN2tyT",
+   "clue": "ढिली विजार"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 18,
+   "x": "jceVBM3XzxKHwc0=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 20,
+   "x": "jceUmInNHY7D3IXQkhHQl8mDn/hRk8XEG4XB6w==",
+   "clue": "सत्य घटनांवरील चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceCmIjyHY7DwoXRrRHQl90=",
+   "clue": "मराठी गीतरामायणाचे गायक फडके"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceCmIjyHY7DwoXQkxHQl90f2tyV",
+   "clue": "साखरेचा लिंबू घातलेला पाक"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcemmInNHY7D3IXQkhHQl92DnsZRk8XK",
+   "clue": "वस्तू विकण्यासाठी केलेली प्रसिद्धी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 14,
+   "x": "jceKBM3Xyo7C5Q==",
+   "clue": "सुरेल पार्श्वगायक मोहम्मद"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceWBM3X2I7D2hmUic7Ql9Mf2tyBk8XQG4XB/A==",
+   "clue": "खानदेशातील कवयित्री संत"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 12,
+   "x": "jcevmInMHY7D14XRoI2UgY3HhA==",
+   "clue": "गड"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 12,
+   "x": "jcevmInMHY7D04XRphHQl90=",
+   "clue": "खट्याळ आवाजाचा गायक कुमार"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceUBM3X047C6IXQlI2UjRGDnsg=",
+   "clue": "पावसाचा राग"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 15,
+   "x": "jcePmInMHY7DxYXRphHQl8GDnsY=",
+   "clue": "पंढरीचा देव"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 17,
+   "x": "jceWmInNHY7D1xmUifrQlu0f2tyJ",
+   "clue": "लहान मुलांचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jceCBM3Xz47C5xmUidRM08n02t2tD4HKww==",
+   "clue": "अनेकांनी मिळून म्हणायचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceDBM3X0hKHwcOUiO1M08n22t2sk8XsG4XB4c3Isg==",
+   "clue": "सुवासिनींचा वाण देण्याचा कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jceKBM3X1I7D2hmUidvQl+8f2ty4D4HK1w==",
+   "clue": "सतारीचे पंडित"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jcePmInMHY7D1oXRrQ==",
+   "clue": "भाजी चिरायचे जमिनीवर ठेवायचे पाते"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 14,
+   "x": "jce8BM3X047D2xmUicc=",
+   "clue": "राग उलगडणारे संथ गायन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 17,
+   "x": "jceIBM3X+Y7C5BmUicdM08n8",
+   "clue": "छोटा चित्रपट"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceamIj0HY7D8IXQkw==",
+   "clue": "तालाचा आघात"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jce8BM3X9I7D2xmUidtM08n22tyvD4HKwYXA9FGNlIE=",
+   "clue": "दिवाळीत टांगतात तो दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jce8BM3XxY7C6IXQgxHQl/cf2tydk8XRG4XB0M3IvdPJ0w==",
+   "clue": "स्वतः लिहिलेली जीवनकथा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceMBM3XzY7C6IXQiw==",
+   "clue": "अक्षरांपासून बनलेला"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 12,
+   "x": "jcegmInMHY7DwYXRoI2UgxGDntJRk8XxG4XB483IsE+Nx54=",
+   "clue": "सिनेमातील गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 12,
+   "x": "jcegmInMHY7DwYXRoI2Ug43GugTN1/QSh8HVCM3Jkw==",
+   "clue": "शूटिंग"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 16,
+   "x": "jcetmIjzHY7DwRmUid3Ql9Mf2tyDk8XQG4XB21GNlJA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 19,
+   "x": "jceWmInNHY7D1xmUifrQl+8f2tyKD4HK14XA+c3JhQ==",
+   "clue": "स्त्रीभूमिका करणारे नटसम्राट गायक"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 9,
+   "x": "jcegmInNgcrlGYXQi42Vsw==",
+   "clue": "पांढरा मौल्यवान धातू"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jcecmIjzHY7DzxmUifg=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 18,
+   "x": "jceUmIjyHY7D1xmUifrQlu0=",
+   "clue": "कन्या"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jcegBM3X1o7C6IXQg42UjQ==",
+   "clue": "डोळ्यांवर लावायच्या काचा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jcegmInMHY7D8IXRrw==",
+   "clue": "तपकिरी गोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 3,
+   "x": "jcegmInMHY7DwYXRoI2UgxGDntJRk8XxG4XBzM3Is0+Nx42YiP6ByviFwPQ=",
+   "clue": "सिनेमाचे जग"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 6,
+   "x": "jcegmInMHY7DwYXRoI2UgxGDntJRk8XxG4XB483Is0+Nx4M=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 8,
+   "x": "jceXmInNHY7D/4XQkw==",
+   "clue": "बहिणीचा मुलगा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 10,
+   "x": "jceQBM3X/hKHwfAIzcmV08nd",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceQmInNHY7DwYXRoI2Ugw==",
+   "clue": "कथेतील व्यक्ती"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jceCmIjxHY7DwYXRoI2UgxGDnsDN1+MSh8H/lInTTNPJ0UaYieY=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 9,
+   "x": "jceIBM3XxY7D2w==",
+   "clue": "गानकोकिळा मंगेशकर"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 15,
+   "x": "jcevmIjyHY7Dy4XQkxHQl90f2ty6k8XsG4XB01GNlIONxreYicY=",
+   "clue": "निर्गुणी भजनांचे गायक"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 11,
+   "x": "jcegmInNHY7DxhmUifjQluCDntc=",
+   "clue": "अर्थशास्त्र लिहिणारा कौटिल्य"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 2,
+   "x": "jceSBM3X/hKHwd0Izcme08ju2tydk8XQG4XB6w==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 14,
+   "x": "jceCmInMgcrlGYXQlI2VsxGDnts=",
+   "clue": "सिंहाची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 14,
+   "x": "jceCmInMgcrlGYXQlBHQl/of2tyM",
+   "clue": "तानाजींच्या पराक्रमाचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 1,
+   "x": "jceemInNHY7DzRmUicfQluwf2tydk8XQ",
+   "clue": "गायकाला साथ देणारे तंतुवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 11,
+   "x": "jceQmIj+gcrXhcDzUY2Upo3Gt5iJxIHK2RmF0LqNlbARg57B",
+   "clue": "सभागृह; ऑडिटोरियम"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 0,
+   "x": "jcedmIjxHY7DzQ==",
+   "clue": "सूरांची रचना"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 5,
+   "x": "jcePmInNHY7D3BmUidjQl9M=",
+   "clue": "शाबासकी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 5,
+   "x": "jcePmInNHY7DwxmUifg=",
+   "clue": "वाद्य वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 7,
+   "x": "jcePmInNHY7Dw4XRoI2UnBGDns3N1uKOw+cZlInL",
+   "clue": "वादकांचा समूह; ऑर्केस्ट्रा"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jceemInMHY7D8IXRrRHQl/If2ty7k8XRG4XB1VGNlKaNxro=",
+   "clue": "बॉक्स ऑफिस"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 10,
+   "x": "jceemInMHY7D1YXQrxHQl/qDnsY=",
+   "clue": "भारताचा राष्ट्रध्वज"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 15,
+   "x": "jcevmIjzHY7D1YXRoI2UlxGDntA=",
+   "clue": "गायन व निरूपणासह सांगितलेली हरिकथा"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 1,
+   "x": "jceKmInNHY7D+YXRoI2UnI3HhATN18yOw9oZlIna0JbqH9rcuA==",
+   "clue": "राजाला गादीवर बसवण्याचा सोहळा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 6,
+   "x": "jcecmInNHY7Dww==",
+   "clue": "कलाकाराला दिलेली वाहवा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 10,
+   "x": "jcetmInNHY7DyhmUicU=",
+   "clue": "गाणे म्हणणे"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 15,
+   "x": "jceSBM3X1I7C5RmUicPQluyDnvpRk8XCG4XB/A==",
+   "clue": "खाडीपलीकडचे नियोजित शहर"
+  }
+ ]
+}

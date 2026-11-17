@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-05",
+ "title": "घर आणि कुटुंब ५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceSmIjqiMXLzZSLEYOe283C6B2SiahJjceK",
+   "clue": "आंघोळीची खोली"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jcevmIjmFIHWidCQ4IOeyM3D1g==",
+   "clue": "श्वान, इमानदार पाळीव प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcevmIjmFIHWi0zVydA=",
+   "clue": "जमीन खणायचे साधन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 6,
+   "x": "jceWBM3D2B2SiZPVyOM=",
+   "clue": "लोणचे ठेवण्याची चिनीमातीची भांडी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceCmIjqiMXHUdCRwoOe+lGHzMuSiY5Jjcev",
+   "clue": "अन्न शिजवण्याचे काम"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 8,
+   "x": "jceiBM3DyYHXoNCRwoOexlGHzNI=",
+   "clue": "वेळ दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceCmIjqiMXHUdCRwoOe+lGHzMuSiY5JjcevBM3D8B2SiYA=",
+   "clue": "जेवण बनवण्याची खोली"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcevBM3D2IHWk0zVyfBGmInyiMT1",
+   "clue": "गाण्याच्या संगीतावर स्वतः गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jceUmIjgFIHWlNCQ7B/a3I6HzN8=",
+   "clue": "बायकोचा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceUmIjgFIHWlNCQ7B/a3I6HzeE=",
+   "clue": "बायकोची बहीण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceSmInZFIHWidCQ6h/a3JiHzN8OzZS9EYOe7Q==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceSmInZFIHWukzVydPa3JIbiMXn",
+   "clue": "शहराचा रहिवासी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jcePmInZFIHWj0zVycXa3JIbiMXHUdCR1Q==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jcevmIjgFIHWnUzVydva3awbiMXRzZW1",
+   "clue": "झाडलोट करण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jceKBM3D9B2Sibg=",
+   "clue": "थंडीत पांघरायची जाड गोधडी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jcevBM3Dyh2Sibg=",
+   "clue": "तळण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcevBM3D2oHWktCR7x/a3LobiMXT",
+   "clue": "उन्हाळ्यातील लाल गराचे मोठे फळ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jcecmIjgFIHWmEzVyftGmInX",
+   "clue": "घरातील पूजेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcetBM3D/x2SiZhJjcegmIjmiMXwUdCRwYOf+A==",
+   "clue": "आकाशाला भिडणारी इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceSBM3Dy4HWr0zVycU=",
+   "clue": "नवऱ्याची बहीण"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jcePBM3D2YHXoNCR1IOexlGHzMA=",
+   "clue": "लग्नाला जाणारी पाहुणे मंडळी"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jcezBM3Dzh2SiZxJjceemIjqiMXWzZW1",
+   "clue": "सुवासिक धूर देणारी काडी"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 6,
+   "x": "jcezBM3D3oHXrQ==",
+   "clue": "झोपताना डोक्याखाली घेतो ती"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceUmInYFIHWuNCQ4IOewFGHzNE=",
+   "clue": "वाटण वाटणारे विजेचे यंत्र"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-15",
+ "title": "खाऊ आणि स्वयंपाकघर १५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jce8BM3P2oHB/g==",
+   "clue": "चहात घालायचे तिखट कंद"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceQmInVFIHA0x3NlYeNxr0Ezc/3",
+   "clue": "चपटा पांढरा चविष्ट मासा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceQBM3PwIHB+R3NlYU=",
+   "clue": "दूध फाडून केलेले"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcelBM3P2B2E3c3NlLcRg57k",
+   "clue": "उन्हाळ्यातील मोठे फळ; कलिंगडाचे दुसरे नाव"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 10,
+   "x": "jceKBM3P3YHAxw==",
+   "clue": "गव्हाचा जाडसर भरडा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "x": "jcevmIjgFIHAz4GJjtXJ4UaYiceIxOQFgYmB",
+   "clue": "दह्यात कालवलेली कच्ची भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jcevmIjgFIHA3IGJjtXJ4UaYiceIxOQFgYmBSY3HjwTNz8mBwfk=",
+   "clue": "हिरव्या पानांची तळलेली वडी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jceWmInVFIHA5R3NlYWNxro=",
+   "clue": "हिवाळ्यातील भाकरीचे धान्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceWmIjrFIHA5g==",
+   "clue": "लाल रंगाचा कंद"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jcevmIjsFIHAzx3NlYU=",
+   "clue": "महाग सुगंधी लाल धागे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jcevmIjsFIHAyoGItg==",
+   "clue": "पिवळ्या सालीचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jceWBM3PyYHB+R3NlYONxr0Ezc/C",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 4,
+   "x": "jceWBM3P2IHB9IGJmtXI4w==",
+   "clue": "दुधाची गोड वडी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceQBM3PyR2E3dRR0ZHe",
+   "clue": "लांब सापासारखी भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceQmIjqFIHAyR3NlZYRg57Szc7jHYTd0s2UtQ==",
+   "clue": "होळीच्या सणाचा खास गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcebmIjgFIHAwYGJjw==",
+   "clue": "तव्यावरचा कुरकुरीत दक्षिणी पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceCmInVFIHA1YGIsEmNx5yYidUUgcDagYmP",
+   "clue": "उपवासाचे पांढरे मोती"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcePBM3P0IHB+B3NlZmNx4QEzc/YHYTd2Q==",
+   "clue": "दिवाळीची सुरुवात; गायवासराची पूजा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 0,
+   "x": "jceCmInVFIHA14GIukmNx4KYidU=",
+   "clue": "त्रिकोणी तळलेला चटपटीत पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceemInViMXmBYGJl9XI4UaYidg=",
+   "clue": "भाताचे धान्य"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jceemInViMXmBYGJnUmNx5uYidU=",
+   "clue": "कोल्हापुरी लाल रस्सा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 10,
+   "x": "jceQmIjgFIHAwIGItg==",
+   "clue": "कांदे घालून केला जाणारा न्याहारीचा पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jceCmInVFIHA1YGIsEmNx5yYidUUgcDagYmPSY3HjwTNz8mBwMc=",
+   "clue": "उपवासाचा तळलेला वडा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 8,
+   "x": "jcegBM3P3R2E3dLNlLU=",
+   "clue": "पांढरे कडधान्य"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-12",
+ "title": "शाळा आणि खेळ १२",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "x": "jceQmInxFIHI+w==",
+   "clue": "खेळाचा निर्णय देणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcegBM3X2oHJ5lHRlvGDnsZRk8zU",
+   "clue": "एकोणीसशे बेचाळीसचे आंदोलन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jceQmIj+iMXcHc2VhI3Gt5iJ2w==",
+   "clue": "सवाल"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceQmIj+iMXcHc2VpRGDntzN19cdjMWH0ZfsH9rclZPN7IzFiU3SyfY=",
+   "clue": "गुण लिहिलेले पुस्तक"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceKmInNFIHI/c2VjA==",
+   "clue": "नृप"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "x": "jceCmIj+iMXEgYi2To3HgwTN19CByONR0ZbDg5//UZPM0xCBiZk=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jceMBM3XxIHJ7M2VlA==",
+   "clue": "अक्षरांपासून बनलेला"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jceMBM3X2IHJ7M2VnRGDntw=",
+   "clue": "स्पर्धा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcePBM3X0B2MxYnRltIf2ty6k83iEIGJiA==",
+   "clue": "विद्यार्थ्यांच्या राहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jceCmInxFIHI2c2Uv43Hr5iI8BSByMU=",
+   "clue": "प्राचीन देवभाषा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceQmIjyFIHI2c2Uv43HngTN1/0=",
+   "clue": "ग्रंथ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceQmIjyFIHIxVHRls6Dn/XN18eByN8=",
+   "clue": "भावाचा मुलगा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceIBM3X/4HJ6lHRlt2Dn/g=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jcecmInNFIHIxQ==",
+   "clue": "चावण्यासाठी असतात ते"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceQmIj0FIHIyQ==",
+   "clue": "शाईने लिहिण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceQmIj0FIHIyc2Uv43HgpiJzBSByNM=",
+   "clue": "खोडता येईल असे लिहिण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jceRmIjyFIHI/lHRlsGDn/FRk8zT",
+   "clue": "पायाने चेंडू मारण्याचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceUmIj2FIHI0c2UtRGDnt3N1uEdjMWF",
+   "clue": "लांब पल्ल्याची धाव"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jceIBM3X8IHJ4FHRlscf2tyy",
+   "clue": "छोटा चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jceKmIj0FIHI1s2VjA==",
+   "clue": "सरळ रेघ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jce/BM3Xwx2MxbFN0snRRpiJ5YjF0h3NlZo=",
+   "clue": "प्रतापगडावर मारला गेलेला सरदार"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jce/BM3X/YHJ7M2VhRGDnsg=",
+   "clue": "लिपीचा घटक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 8,
+   "x": "jcesmInNFIHI0Q==",
+   "clue": "झाडावर चढणारी पाठीवर पट्टे असलेली"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jcezBM3XzIHJ7M2VlhGDnsg=",
+   "clue": "प्रश्नाला दिलेले"
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "id": "x-nisarga-m03",
+ "title": "निसर्ग · मोठे कोडे ३",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jceSmInRFZPFxIfFkhHQl/qDnvpRjs3U",
+   "clue": "रात्री दरवळणारे पांढरे फूल"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceMmInRFZPF5BuBid0=",
+   "clue": "डोंगराचे सर्वात उंच टोक"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcedBM3K2Q+B1sQ=",
+   "clue": "नदीचे पाणी अडवणारी भिंत"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 19,
+   "x": "jceRmIjsFZPFwA==",
+   "clue": "पुष्प"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceKBM3K/JPE/4fFiQ==",
+   "clue": "लाल जीवनद्रव्य"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 18,
+   "x": "jcevmInQFZPFwBuBidjQl9M=",
+   "clue": "शेतीसाठी पाणी नेणारा बांधीव प्रवाह"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 18,
+   "x": "jcevmInQFZPF7YfFkw==",
+   "clue": "गुलाबाच्या फांदीवरील टोकदार भाग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 20,
+   "x": "jcePmInQFZPF2Q==",
+   "clue": "पाणी उकळल्यावर निघणारी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jce/mInsFZPF54fErBHQl90=",
+   "clue": "बीमधून फुटणारा कोवळा कोंब"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jce/mInsFZPF1YfFkxHQl90=",
+   "clue": "प्रकाशाचा अभाव"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 9,
+   "x": "jceQmInQFZPF6IfErw==",
+   "clue": "हिरव्या रंगाचे रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceQmInQFZPFwofFkhHQl/GDnsZRjs3XHZLD9A==",
+   "clue": "रात्री फुलांचा सडा घालणारे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 16,
+   "x": "jce8BM3Kww+B1viBidM=",
+   "clue": "दसऱ्याला सोने म्हणून वाटतात त्याची पाने"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 16,
+   "x": "jce8BM3KyQ+B1tIdzcmR08jkRpiJwonX3w6HxbGNlI0Rg57I",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "x": "jceMBM3KxZPE/4fFiw==",
+   "clue": "अक्षरांपासून बनलेला"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "x": "jceMBM3K0JPFzBuBicPQlu4f2ty6",
+   "clue": "सर्वात मोठा न उडणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jceSmInQFZPFwhuBid7Qlu0f2tyHjsz/HZLD0c3IvdPJwNrckhKJ18+Sw98=",
+   "clue": "कोळी समुद्राला नारळ अर्पण करतात"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceSmInQFZPF5RuBicfQl+8f2ty3EonXz5LC4Q==",
+   "clue": "सापाची पूजा करण्याचा श्रावणातील सण"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jceUmInQFZPFy4fEqhHQl90=",
+   "clue": "लग्न झालेल्या मुलीचे आईवडिलांचे घर"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 15,
+   "x": "jcetBM3K3A+B1sM=",
+   "clue": "तृण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceUmIjtFZPF1IfFrxHQl/o=",
+   "clue": "कीर्तनात दोन्ही बाजूंनी वाजवायचे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceDmIjpFZPF3IfFrxHQl8k=",
+   "clue": "हिवाळ्याच्या सुरुवातीचा ऋतू"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jcevmIjlFZPFwhuBicZM08nC",
+   "clue": "जाड रसाळ पानांची औषधी वनस्पती"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 14,
+   "x": "jcePmInQFZPFwRuBidjQl+8f2tyy",
+   "clue": "रेतीचा प्रदेश, मरुभूमी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceCBM3K2ZPE+RuBidhM08nT",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jceCBM3K0JPE/4fFgo2UjRGDnt7Ny+STxcKHxK0=",
+   "clue": "महाराष्ट्रातील पश्चिम घाटाची पर्वतरांग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jcePBM3K0ZPF8BuBick=",
+   "clue": "ऋतूंचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jcevBM3KypPE/4fFlI2VtBGDnsg=",
+   "clue": "पिवळी किंवा गुलाबी फुले येणारे झुडूप"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 13,
+   "x": "jcevBM3K2g+B1t+BiO9M08nP2tyTEonX6Q==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jcedmInQFZPFxw==",
+   "clue": "क्रिकेटमधील रन"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 18,
+   "x": "jceDBM3K3JPFzA==",
+   "clue": "वायू"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceMBM3Kx5PE8g==",
+   "clue": "दसऱ्याला पूजले जाणारे काटेरी झाड"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceeBM3K25PFzBuBidg=",
+   "clue": "तळे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 10,
+   "x": "jcetBM3KyA+B1vAdzcmR08ndRpiJ8Q==",
+   "clue": "ढगांचा मोठा आवाज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 13,
+   "x": "jcebmInQFZPFwofEoI2Uho3HhQTNysE=",
+   "clue": "उत्क्रांतीचा सिद्धांत मांडणारा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 16,
+   "x": "jceKBM3K3JPFzRuBidjQl9Mf2tyd",
+   "clue": "सुट्टीचा वार"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 17,
+   "x": "jcePmInRFZPF1IfErxHQl9of2ty4",
+   "clue": "हसवणारा; जोकर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 19,
+   "x": "jceKBM3KyA+B1sSBiOo=",
+   "clue": "डोळ्यांत पाणी येणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jceSBM3K3JPE8huBicPQluyDnvpRjs3fHZLD6Q==",
+   "clue": "खाडीपलीकडचे नियोजित शहर"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 1,
+   "x": "jcevmIjlFZPF54fFkhHQl96DnsY=",
+   "clue": "वसंतात कुहू कुहू गाणारी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceQmInQFZPFwBuBidjQlu0=",
+   "clue": "झाडाला फुटलेली नवी कोवळी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceQmInQFZPFwofFkw==",
+   "clue": "थर्मामीटरमधील द्रवरूप धातू"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jceQmIjjidfRDofFsY2UjRGDnsBRjs3XgdfqgYnJ0JfTH9rcuBKJ18eSw95RjZSb",
+   "clue": "सव्वीस जानेवारी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceQmIjjidfRDofFmI2UjRGDnss=",
+   "clue": "समुद्रात तयार होणारे लाल रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 9,
+   "x": "jceCBM3K2ZPFzRuBicnQl9M=",
+   "clue": "नदी; तटिनी"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 11,
+   "x": "jcevBM3K2pPE8g==",
+   "clue": "न उमललेले फूल"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 15,
+   "x": "jcenBM3K2ZPFzA==",
+   "clue": "डोंगरातून वाहणारा लहान प्रवाह"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jcevmInRFZPF2ofFkxHQl92DnsY=",
+   "clue": "समुद्राचा काठ"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 14,
+   "x": "jceQBM3K2ZPFzBuBifpM08n2RpiJzQ==",
+   "clue": "फुलातील बारीक पिवळी भुकटी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 14,
+   "x": "jceQBM3K2g+B1t8=",
+   "clue": "केशरी फुलांचे जंगली झाड"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceQmIjlFZPFwYfFkw==",
+   "clue": "बैलांचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 5,
+   "x": "jceWBM3K/JPE8xuBid4=",
+   "clue": "लहान सुगंधी फुलांचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jceemInQFZPF0w==",
+   "clue": "उंच सरळ खोडाचे झाड; त्यापासून निरा मिळते"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 10,
+   "x": "jcebBM3K2Q+B1vKBidNM08nQ2t2t",
+   "clue": "वाघाचा गर्जनेसारखा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 12,
+   "x": "jcemmInQidfjDofFgI2VsRGDnss=",
+   "clue": "जांभळ्या रंगाचे पावसाळी फळ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jce8mInsFZPF3huBid3Ql9Mf2tyl",
+   "clue": "आंब्याच्या झाडांची बाग"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 2,
+   "x": "jce8mInsFZPF3ofFkw==",
+   "clue": "फळांचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 4,
+   "x": "jceKmInQFZPF2g==",
+   "clue": "शेताबाहेरची झाडाझुडपांची जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 14,
+   "x": "jceCBM3Kz5PFzBuBicbQluwf2tyfjszz",
+   "clue": "वर्षभर फुलणारे फूल"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 16,
+   "x": "jceRmIjvFZPF5RuBiczQlu0=",
+   "clue": "दोघी हात धरून गोल फिरतात"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 0,
+   "x": "jceXmIjmFZPFwofEphHQl8GDnsY=",
+   "clue": "गावाचा रक्षक देव"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 6,
+   "x": "jcepBM3K0ZPFzBuBicw=",
+   "clue": "निर्जन आणि उजाड"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 10,
+   "x": "jcevmInQFZPFx4fEqhHQl92Dn/g=",
+   "clue": "दक्षिण भारतातील मोठी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 6,
+   "x": "jceCmInQFZPFxxuBicnQl9Mf2tyDjs3NHZLD0s3IsA==",
+   "clue": "भाजीमळ्यात विठ्ठल पाहणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 8,
+   "x": "jceemInQFZPF2IfErQ==",
+   "clue": "जळगाव जिल्ह्यातून वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 15,
+   "x": "jcesmInQFZPF04fErQ==",
+   "clue": "समुद्राचा जमिनीत शिरलेला भाग"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 15,
+   "x": "jcesmInQFZPFwhuBicbQluwf2tyyjszz",
+   "clue": "समुद्रकिनारी खाऱ्या पाण्यात वाढणारी झाडे"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 18,
+   "x": "jcevmInQFZPFwYfEphHQl/s=",
+   "clue": "दाट अंधार"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 3,
+   "x": "jceCmInRidfjDofFlBHQl/of2tyM",
+   "clue": "तानाजींच्या पराक्रमाचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 5,
+   "x": "jcetBM3Kyg+B1s0dzcmU08jj",
+   "clue": "ज्या देवाचा उत्सव दहा दिवस चालतो तो"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 13,
+   "x": "jceMmInRFZPFxIfFkhHQl90=",
+   "clue": "कडाक्याच्या थंडीचा ऋतू"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 15,
+   "x": "jceRmIjvFZPFwBuBicfQl9Mf2ty7EonX0ZLC4w==",
+   "clue": "रंगीबेरंगी पंख असलेला कीटक"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 17,
+   "x": "jceQmInQFZPF2g==",
+   "clue": "झाडाचे पर्ण"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 2,
+   "x": "jce1BM3K/A+B1viBiOpM08nJRpiJzYnX3w==",
+   "clue": "सोबत नसणे"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 3,
+   "x": "jcevBM3Kxw+B1tQ=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 13,
+   "x": "jcepBM3K0JPE+RuBifLQlu0=",
+   "clue": "समुद्राचे पाणी उतरण्याची वेळ"
+  }
+ ]
+}

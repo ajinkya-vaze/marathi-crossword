@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-10",
+ "title": "निसर्ग १०",
+ "difficulty": "मध्यम",
+ "rows": 12,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jcefmIjpidfjDofFgQ==",
+   "clue": "पाण्याचा लहानसा बिंदू"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceUmInQFZPFwRuBiYHQyd1GmInG",
+   "clue": "गवताळ मोकळी उघडी जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jcetmIjvFZPFwIfFk03Qyc8=",
+   "clue": "काटेरी देठाचे सुंदर फूल"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcetmIjvFZPFwBuBiZ/QyOhGmInXFZPFwg==",
+   "clue": "उन्हाळ्यात लाल फुलांनी बहरणारे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 2,
+   "x": "jcemmInsFZPF5RuBiYM=",
+   "clue": "वन, अरण्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jce/BM3K0JPFzRuBiYHQyd1GmInNidbh",
+   "clue": "खानदेशातील बोली"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jce/BM3K35PE+RuBiaQ=",
+   "clue": "सरळ उंच वाढणारे शोभेचे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceUmIjlFZPF1ofErQ==",
+   "clue": "शिंपल्यात तयार होणारे रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jcezBM3K9Q+B1s+BiLE=",
+   "clue": "भीमेवरील मोठे धरण"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 6,
+   "x": "jceQmInQFZPF5xuBiYLQyOM=",
+   "clue": "फुलाचा एक नाजूक भाग"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "x": "jceQmInQFZPF0YfErQ==",
+   "clue": "जल"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jceDmInRFZPFwhuBiaRMjceZmIju",
+   "clue": "रायगडाचा कडा उतरून गेलेली आई"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceDmInRFZPF3BuBiZlMjcecmIju",
+   "clue": "बर्फाची हळूहळू वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jceSmIjuFZPFwBuBiZ8=",
+   "clue": "निळ्या रंगाचे रत्न"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 0,
+   "x": "jceQmInQFZPFwofFkk3Qyf/a3JMSidfFDofFuA==",
+   "clue": "रात्री फुलांचा सडा घालणारे झाड"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceSBM3K2ZPE/4fFg03QycXa3JM=",
+   "clue": "मध्य भारतातील पश्चिमवाहिनी नदी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcecmInQFZPF1A==",
+   "clue": "कलाकाराला दिलेली वाहवा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceQmInQFZPF2g==",
+   "clue": "झाडाचे पर्ण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceQmInQFZPFwBuBialMjceK",
+   "clue": "ठाण्यातून वेगळा झालेला जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jcegmInQidfjDofFi9GV7Q==",
+   "clue": "पांढरा मौल्यवान धातू"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jcegmInQidfjDofFi03QycDa3a0=",
+   "clue": "आकाशातील लहान तारका"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jcecBM3K2w+B1sEdzZWC",
+   "clue": "ओली पाय रुतणारी जमीन"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcemmInQFZPFyofEoNGU2IOe+lGOzdU=",
+   "clue": "गणपतीला प्रिय लाल फूल"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcesmInQFZPFwhuBiZrQyOJGmInxidbh",
+   "clue": "समुद्रकिनारी खाऱ्या पाण्यात वाढणारी झाडे"
+  }
+ ]
+}

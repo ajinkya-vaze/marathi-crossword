@@ -1,0 +1,541 @@
+{
+ "id": "x-ghar-m02",
+ "title": "घर आणि कुटुंब · मोठे कोडे २",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 12,
+   "x": "jceQmIjsFIHWnhHQlseDnsZRh8z+",
+   "clue": "पोळी लाटायचा गोल पाट"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 17,
+   "x": "jceDBM3D2x2Sics=",
+   "clue": "पिवळ्या रंगाचा मसाला"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 17,
+   "x": "jceDBM3DyR2SicfQl+CDntLNw9Y=",
+   "clue": "सिंधू संस्कृतीचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 19,
+   "x": "jcecBM3D2B2SicHQltMf2tyd",
+   "clue": "राजाची सभा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 11,
+   "x": "jceWmInZFIHWng==",
+   "clue": "लहान मूल"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 14,
+   "x": "jceImIjsFIHWlBHQlvof2tyM",
+   "clue": "लोणावळ्याजवळचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 14,
+   "x": "jceImIjsFIHWjo2UjBGDns1Rh8zSkonT",
+   "clue": "चिक्कीसाठी प्रसिद्ध घाटातील ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jcepBM3D0B2Sid3Ql+0=",
+   "clue": "घरापुढील उघडी लांब जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 12,
+   "x": "jceQmInZFIHWlI2VsxGDntvNw9Y=",
+   "clue": "घरी आलेला अतिथी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jceCBM3DxoHXoI2Ugo3HhATNw/c=",
+   "clue": "राजांचा राजा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 14,
+   "x": "jcePBM3D0YHWkhHQlsWDn/g=",
+   "clue": "भावाची बायको"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 18,
+   "x": "jceDmIjmFIHWnRHQlsyDnsY=",
+   "clue": "भाजलेली कोवळी ज्वारी खाण्याचा कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jceMmIjgFIHWsY2UjBGDnsjNwug=",
+   "clue": "घराजवळ राहणारा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jceMmIjgFIHWuhHQlsyDn/g=",
+   "clue": "स्वयंपाकाची चूल; गॅस"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 13,
+   "x": "jceUBM3D24HWkw==",
+   "clue": "भाजीचे शेत"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 13,
+   "x": "jceUBM3D9IHXrxHQlt0=",
+   "clue": "रोजंदारीवर काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 15,
+   "x": "jceDBM3DwIHXrBHQlsODnsZRh8zJDs3JrE6Nx5WYieUUgdaJjZWy",
+   "clue": "मारुतीचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 17,
+   "x": "jcecmIjgFIHWmBHQlvqDnsdRh8zRkojt",
+   "clue": "दौलताबादचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 17,
+   "x": "jcecmIjgFIHWmBHQlvUf2tyd",
+   "clue": "घरातील पूजेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jcePBM3DyYHXrRHQlt8=",
+   "clue": "बाबा; पिता"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 7,
+   "x": "jcePBM3D2YHXoI2Ui43HhATNw8k=",
+   "clue": "लग्नाला जाणारी पाहुणे मंडळी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jceIBM3D/4HXoI2Umg==",
+   "clue": "विवाह"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 11,
+   "x": "jceimInZFIHWuhHQlt0=",
+   "clue": "पाणी भरण्याचे मोठे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 12,
+   "x": "jcetBM3D24HWkw==",
+   "clue": "मान; कंठ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 15,
+   "x": "jceUmInZFIHWsRHQlvUf2tyd",
+   "clue": "जुन्या घरातील मधली खोली"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jceQBM3DyR2SicvQltM=",
+   "clue": "खिडकीवर लावलेले कापड"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jceQBM3D2oHWrxHQlvo=",
+   "clue": "झोपण्याची खाट"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jcecmInZFIHWi42UjA==",
+   "clue": "मोठा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jcecmInZFIHWnQ==",
+   "clue": "दरवाजा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jceKBM3D3YHWkhHQltuDnvpRh8z0Ds3JgA==",
+   "clue": "सतारीचे पंडित"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 13,
+   "x": "jceSmInYFIHWnY2UjI3HuATNw/QdkonF",
+   "clue": "आरतीचा लहान तुपाचा दिवा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcemmInYFIHWhY2UjA==",
+   "clue": "वरच्या मजल्यावर जाण्याच्या पायऱ्या"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceSmInZFIHWiY2VtRGDns3Nw9YdkonlTNLJ9g==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcevmInlFIHWuhHQltiDnsY=",
+   "clue": "केस विंचरण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 5,
+   "x": "jcevmInlFIHWh42UjBGDnsA=",
+   "clue": "वर्तुळ काढण्याचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcePmInZFIHWjxHQlsuDnsdRh8zUDs3JiA==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jcePmInYFIHWno2Vsg==",
+   "clue": "भाजी चिरायचे जमिनीवर ठेवायचे पाते"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 11,
+   "x": "jceWmIjsFIHWsg==",
+   "clue": "हाताला पाच असतात ती"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 13,
+   "x": "jcezBM3DzIHXoI2Up43Gt5iJ14jFzM3Jsk6Nx56YiOc=",
+   "clue": "डार्विनचा सिद्धांत"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 13,
+   "x": "jcezBM3D/h2Sid4=",
+   "clue": "धान्य कांडण्याचा खोल दगड"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jcePmInZFIHWnRHQltU=",
+   "clue": "संपत्तीचा पुढचा हक्कदार"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 9,
+   "x": "jcevBM3DwoHWkxHQlvI=",
+   "clue": "कपडे ठेवण्याचे"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 2,
+   "x": "jceemInZFIHWpQ==",
+   "clue": "मोठी बहीण"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 12,
+   "x": "jcegmInZFIHWnhHQls6Dn/g=",
+   "clue": "पीठ गाळण्याचे छिद्रांचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 12,
+   "x": "jcegmInZFIHWixHQlt0=",
+   "clue": "अंथरुणावरील कापड"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 6,
+   "x": "jceUmIjmFIHWlRHQlt4=",
+   "clue": "उखळात कुटण्याचा जाड दांडा"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 6,
+   "x": "jceUmIjmFIHWnxHQlvqDnsY=",
+   "clue": "पुत्र"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 10,
+   "x": "jceXmInZFIHWn42UjA==",
+   "clue": "लांब दांड्याचे शस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 19,
+   "x": "jcezmInlFIHWgRHQlt0f2tyNh8zf",
+   "clue": "दाराचा खालचा आडवा भाग"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 4,
+   "x": "jcelmIjgFIHWgRHQlt8=",
+   "clue": "अभ्यासाचे किंवा जेवणाचे मेज"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 4,
+   "x": "jcelmIjgFIHWhY2UjRGDnsA=",
+   "clue": "रॅकेट आणि चेंडूचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 9,
+   "x": "jcevBM3D2oHWkxHQlviDnsZRh8zR",
+   "clue": "कला सादर करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 9,
+   "x": "jcevBM3Dyh2SieU=",
+   "clue": "तळण्याचे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 11,
+   "x": "jcevmInZFIHWnxHQlvuDnvpRh8zA",
+   "clue": "इतिहासातील ठराविक काळ"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 17,
+   "x": "jcezBM3Dzh2SicFM0snH2t2gh8zFkojt",
+   "clue": "सुवासिक धूर देणारी काडी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 17,
+   "x": "jcezBM3D3oHXrQ==",
+   "clue": "झोपताना डोक्याखाली घेतो ती"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 6,
+   "x": "jcetmInZFIHWi42Vsg==",
+   "clue": "झोपण्यासाठी मऊ बिछाना"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 7,
+   "x": "jcecmIjnFIHWnQ==",
+   "clue": "नवऱ्याचा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 3,
+   "x": "jceCmInZFIHWlRHQlt0=",
+   "clue": "नवऱ्याचे घर"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 3,
+   "x": "jceCmInZFIHWlY2VsA==",
+   "clue": "नवऱ्याची किंवा बायकोची आई"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 5,
+   "x": "jceKBM3Dw4HXrQ==",
+   "clue": "सुरेल पार्श्वगायक मोहम्मद"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 7,
+   "x": "jceKBM3D9B2SieU=",
+   "clue": "थंडीत पांघरायची जाड गोधडी"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 8,
+   "x": "jcemBM3DwIHWkxHQlsGDnsZRh8zp",
+   "clue": "नामदेवांच्या घरी काम करणारी संत कवयित्री"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 14,
+   "x": "jcePmInYFIHWnRHQltQ=",
+   "clue": "प्रियजनापासून दुरावा"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 16,
+   "x": "jcezBM3DzIHXoI2Uio3GuwTNw/0dkonJ0JbT",
+   "clue": "जाणून घेण्याची इच्छा"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 18,
+   "x": "jcetmIjsFIHWjY2UjA==",
+   "clue": "गाई-म्हशी बांधण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 18,
+   "x": "jcetmIjsFIHWihHQlsyDn/g=",
+   "clue": "जुन्या कपड्यांची शिवलेली उबदार पांघरूण"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 0,
+   "x": "jce8BM3D9IHXqhHQltWDnsZRh8zZkojv",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 0,
+   "x": "jce8BM3D9IHXphHQlsGDnsY=",
+   "clue": "आजीचे पती"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 10,
+   "x": "jceCmInZiMXwUY2UkxGDns7Nwug=",
+   "clue": "गरम भांडे पकडण्याचा चिमटा"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 10,
+   "x": "jceCmInZiMXwUY2UnhGDnsg=",
+   "clue": "मोठ्या शिंगांचे हरीण"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 13,
+   "x": "jcePmInZFIHWlBHQlsmDn/pRh8z0Ds3JpdLI6NrcrxuIxdPNyLA=",
+   "clue": "ट्रॅफिक जॅम"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 13,
+   "x": "jcePmInZFIHWnY2Vsg==",
+   "clue": "पंढरपूरला पायी जाणारी यात्रा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 0,
+   "x": "jceWmInZFIHWghHQlviDn/M=",
+   "clue": "पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 6,
+   "x": "jce/mInlFIHWuo2UjBGDnvA=",
+   "clue": "बाळाला झोपवताना गायचे गीत"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 10,
+   "x": "jceKBM3D0R2SicvQltMf2tydh83h",
+   "clue": "रस्त्यावरची वर्दळ"
+  }
+ ]
+}

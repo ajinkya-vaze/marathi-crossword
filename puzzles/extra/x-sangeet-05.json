@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-05",
+ "title": "संगीत आणि चित्रपट ५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceSmInNHY7D+oXRoNCRwh/a3JWTxewbhcHjzZW1EYOe3A==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jce/BM3XzI7D2hmUiZjVyORGmInXgcrZ",
+   "clue": "चित्रपटात काम करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jce/BM3X2BKHwcsIzZSTEYOe0FGTxfkbhcHE",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceemInNHY7DzQ==",
+   "clue": "वेगवान स्वरांची फेक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jceSmInNHY7D+oXRoNCRwh/a3LqTxO0bhcHN",
+   "clue": "नाटक पाहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jceCmIj7HY7D1YXQk0zVyfw=",
+   "clue": "आर्ची-परशाचा चित्रपट"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceWmInNHY7D3RmUiYDVyONGmInGgcrZGYXQi0zVyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jcemmInNHY7D3IXQkkzVydPa3JMPgcrD",
+   "clue": "वस्तू विकण्यासाठी केलेली प्रसिद्धी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcemmInNHY7D8hmUiYBJjceZ",
+   "clue": "देवीसाठी रात्रभर जागणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceSBM3X/hKHwd0IzZSbjca3mInDgcrZGYXQsg==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmIjyHY7DwoXRrUzVydM=",
+   "clue": "मराठी गीतरामायणाचे गायक फडके"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jceCmIjyHY7D+oXRoNCR8oOf+A==",
+   "clue": "शाळा बंद असण्याचे दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jceUBM3Xxo7C6IXQgtCR7x/a3IkPgcrX",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jceUBM3X047C6IXQlNCR0x/a3J0=",
+   "clue": "पावसाचा राग"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jcePmInNHY7D3BmUiYXVyd0=",
+   "clue": "शाबासकी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jcePmInNHY7Dw4XRoNCRwh/a3JiTxO2HwecIzZST",
+   "clue": "वादकांचा समूह; ऑर्केस्ट्रा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceSmInNHY7D1RmUiYM=",
+   "clue": "श्रीफळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcecmIjzHY7DzxmUiaU=",
+   "clue": "दिवे पेटवतो अशी कथा असलेला राग"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jceQBM3X/hKHwfAIzZSQjceE",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 10,
+   "x": "jcecmInNHY7Dww==",
+   "clue": "कलाकाराला दिलेली वाहवा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jcecmInNHY7Dw4XQkw==",
+   "clue": "मोठा भाऊ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceCmIjxHY7DwYXRoNCR3R/a3JWTxewbhcHuzZSLEYOeylGTxfs=",
+   "clue": "कार्यक्रमाचे निवेदन करणारा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 5,
+   "x": "jceCmInxHY7Dz4XQk0zVycVGmInm",
+   "clue": "वृत्तपत्राचा प्रमुख"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 1,
+   "x": "jceQmInNHY7D1YXRoNCR24Of9c3X1BKHwfKUiY5JjceVBM3X9A==",
+   "clue": "पडद्यामागे गाणारा"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-san-04",
+ "title": "सण, कला आणि परंपरा ४",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "x": "jcezBM3XyxLNlIGNx4QEzdfZ",
+   "clue": "अन्न न खाता राहणे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceCBM3XzxLNlLw=",
+   "clue": "देवापुढची पितळी उंच दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceMmIj0HY6JlEiNx68EzdfRjoiw",
+   "clue": "बळीराजा"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jceUBM3X2I6JjkiNx5eYic0djomASI3Hng==",
+   "clue": "व्यासांचे महाकाव्य"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceXmInNHY6JukiNx5aYiPMdjoms",
+   "clue": "बहीण भावाला ओवाळते तो दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jce/mInxHY6JnNTJ3UaYid+BypNM1Mnr",
+   "clue": "कोल्हापूरची देवी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcevBM3X0Y6JskiNx6aYiPM=",
+   "clue": "दिवाळीच्या फराळातील अर्धचंद्राकृती गोड पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceUmInxHY6JlNTI7trcnQ==",
+   "clue": "पवित्र जपाचे शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceXBM3X/RLNlJw=",
+   "clue": "देवाची गाणी समूहाने म्हणणे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceXBM3X0RLNlJARg57QzdffEs2Uq43Gt5iJ3B2OiZ4=",
+   "clue": "दक्षिणेतील शास्त्रीय नृत्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jcegmInMHY6JlNTI7trcnQ+ByrjQkNMf2tyd",
+   "clue": "कुंचला हातात घेणारा कलाकार"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceSmInNHY6Jn9TJ3EaYieaBypM=",
+   "clue": "नाटकाची मुख्य स्त्री पात्र"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 6,
+   "x": "jcevmInNHY6JgNTI7trciZPF0VHQkPiDn/g=",
+   "clue": "कार्तिक महिन्यातील एकादशी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 9,
+   "x": "jceXmIj7HY6JgNTI6EaYid+BypM=",
+   "clue": "गावाचा रक्षक देव"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jceWmInNHY6JiEiNx4qYiPM=",
+   "clue": "कृष्णाचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jceemIj+gcqd0JHgg57XzdfjEs2UmBGDnu3N1uYSzZSCjca3mInGHY6JgA==",
+   "clue": "गोदावरीच्या उगमाजवळचे ज्योतिर्लिंग"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceWBM3X0xLNlISNx4QEzdfP",
+   "clue": "कृष्णाचा मोठा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceKmInNHY6JptTI4w==",
+   "clue": "भावाच्या मनगटावर बांधायचा धागा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jcevmIj4HY6JrNTJ3UaYieSBypJM1MnT2t2t",
+   "clue": "शरद पौर्णिमेला मसाला दूध"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jcevmIj4HY6Jg9TI40aYieSBy61M1MnH",
+   "clue": "मच्छीमारांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jcetmInMHY6Jr9TJ3UaYicM=",
+   "clue": "तारांचे पाश्चात्य वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jceCBM3Xy46IvdTJx0aYicWBy67QkO8f2ty6k8Tu",
+   "clue": "वणीची देवी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jceCBM3XyRLNlLw=",
+   "clue": "लग्नात वाजणारे फुंकवाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 1,
+   "x": "jceKBM3X9I6IvdTJ1Nrckw+ByoHQkO8f2tyKD4HKhQ==",
+   "clue": "बहीण भावाला राखी बांधते तो सण"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-07",
+ "title": "घर आणि कुटुंब ७",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jcezBM3D2h2SiZVLjceZmIjg",
+   "clue": "पोळी उलटण्याचे सपाट साधन"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jcezBM3D/h2SiYM=",
+   "clue": "धान्य कांडण्याचा खोल दगड"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "x": "jceQmInZiMXwUdCT9R/a3J2HzeMOzZSU",
+   "clue": "झोपताना अंगावर घ्यायचे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jceiBM3DwB2SiZtLjceJ",
+   "clue": "किती जागा व्यापली"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceRBM3D2oHWr0zXycXa3JMbiMXu",
+   "clue": "क्रिकेटमध्ये बॅट घेऊन खेळणारा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceQBM3Dyx2SiazXyOhGmInLiMXM",
+   "clue": "आजोबांचे वडील"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceQBM3Dyx2SiZTXyOM=",
+   "clue": "मातीचा लहान दिवा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jce8BM3D9IHXqkzXydva3JMbiMXKzZW1",
+   "clue": "नवऱ्याची आजी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jceQBM3DzIHXrQ==",
+   "clue": "नवरा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceQBM3D2B2SiYhLjcecmInZFIHWnQ==",
+   "clue": "घराच्या मागचे अंगण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceUmInZFIHWsUzXyftGmInX",
+   "clue": "जुन्या घरातील मधली खोली"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceUmInZFIHWjNCS7Q==",
+   "clue": "घराचा वरचा मजला"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 8,
+   "x": "jce8BM3D2B2SiYjXyd0=",
+   "clue": "चेहरा पाहण्याची काच"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jce8BM3D9IHXrQ==",
+   "clue": "वडिलांची किंवा आईची आई"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcenmIjsFIHWh0zXycLa3a0=",
+   "clue": "गवताने शाकारलेले लहान घर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceQBM3D2IHWk0zXycc=",
+   "clue": "पीठ मळण्याचे मोठे ताट"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jceCBM3DzB2SiYDXyeFGmIn7iMTy",
+   "clue": "जमिनीवर अंथरण्याचे जाडसर कापड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceCmIjlFIHWhQ==",
+   "clue": "मुलाची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceSBM3D3R2SiYBLjcecmIjgFIHWmA==",
+   "clue": "लग्नातील वर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcecmIjgFIHWmEzXyftGmInX",
+   "clue": "घरातील पूजेची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jceCmIjlFIHWhw==",
+   "clue": "धान्य पाखडण्याचे बांबूचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jceQmInZFIHWnkzXycDa3JM=",
+   "clue": "बाळाला झोपवण्याचा झुलता बिछाना"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceiBM3D9x2SiYjXyO7a3IiHzN8OzZSdEYOe0M3D1g==",
+   "clue": "नवरात्राचा पहिला दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jceeBM3D2x2SiahLjceK",
+   "clue": "जमिनीखालची खोली"
+  }
+ ]
+}

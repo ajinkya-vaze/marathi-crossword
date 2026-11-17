@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-15",
+ "title": "शाळा आणि खेळ १५",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "x": "jcecmIj+iMXcHc2VgA==",
+   "clue": "पाण्यासारखे वाहणारे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "x": "jcePBM3X0B2MxYnRkdIf2ty6k83iEIGJiA==",
+   "clue": "विद्यार्थ्यांच्या राहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "x": "jceWBM3X/YHJ7M2Vgo3GugTN19A=",
+   "clue": "स्पर्धेत मिळणारे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceWmIj2FIHIwFHRkcODnsfN1+odjMWyTdXJyw==",
+   "clue": "फूल उडवणाऱ्या रॅकेटचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jce9BM3XzIHI3lHRkdSDnsZRk8zZ",
+   "clue": "भूतकाळाचा अभ्यास"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceCmIj+iMXEgYi2SY3HgwTN19CByONR0ZHDg5//UZPM0xCBiZk=",
+   "clue": "शाळेचा वार्षिक कार्यक्रम"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jceCmInxFIHIxs2UtQ==",
+   "clue": "दोन शब्द जोडण्याचा व्याकरणी नियम"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceIBM3X/4HJ6lHRkd2Dn/g=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceQBM3X2IHJ4VHRkfiDn/XN19+ByN8=",
+   "clue": "ज्ञानाची कसोटी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceQBM3Xzh2Mxbg=",
+   "clue": "विजेत्याला मिळणारे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jce/BM3XwoHJ41HRkd2Dn/XN18uByN/NlbcRg57t",
+   "clue": "अर्धा पाऊण असे भाग"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jce/BM3XxYHI3lHRkcKDnvpRk8zFjMWT",
+   "clue": "इंजिनिअर"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 8,
+   "x": "jceQmIj7FIHI01HRkdiDnsZRk8zJ",
+   "clue": "कुस्ती खेळणारा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcezmInxFIHI+1HRkeQf2tyMk83h",
+   "clue": "बार ओलांडून उडी"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 7,
+   "x": "jceImInNFIHI0w==",
+   "clue": "रक्ताचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jceSmIj0FIHIz1HRkcGDnsZRk8z9jMSt",
+   "clue": "बंदुकीने लक्ष्य साधणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jceQmInxFIHI+w==",
+   "clue": "खेळाचा निर्णय देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jcePmInNFIHI2c2UtBGDnt7N1u8djMWY",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jceemInNFIHI082UtRGDntY=",
+   "clue": "कुस्तीचा आखाडा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 5,
+   "x": "jcezBM3XzIHJ7M2VoxGDntBRk8zJ",
+   "clue": "जमिनीत खोदून इतिहास शोधणे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 7,
+   "x": "jceSBM3X/YHI31HRkduDnsY=",
+   "clue": "प्रदेश दाखवणारे चित्र"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jceWmInNFIHI0c2VixGDnu5Rk8zAjMSt",
+   "clue": "का कि की कु कू"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 0,
+   "x": "jce9mInxFIHI9s2UuI3HigTN1/SByeE=",
+   "clue": "इंग्लंडची भाषा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jce8BM3X3oHI3w==",
+   "clue": "उमेद"
+  }
+ ]
+}

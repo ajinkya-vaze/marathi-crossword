@@ -1,0 +1,177 @@
+{
+ "id": "x-khadya-01",
+ "title": "खाऊ आणि स्वयंपाकघर १",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceMmInpFIHA7B3NlIERg57Szc/WHYTd0s2Vtg==",
+   "clue": "दिवाळीतील चौकोनी गोड तुकडे"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceemIjpFIHA0w==",
+   "clue": "लोणी कढवून मिळणारे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jcevBM3PyoHB+R3NlJsRg57czc7lgcDdgYmO",
+   "clue": "फोडणीतील सुगंधी पाने"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jcevmIjgFIHAz4GJj9HJ4UaYiceIxOQFgYmA",
+   "clue": "दह्यात कालवलेली कच्ची भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jcevmIjgFIHA3IGJj9HJ4UaYiceIxOQFgYmATY3HjwTNz8mBwfk=",
+   "clue": "हिरव्या पानांची तळलेली वडी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceQmIjqFIHA34GJj02Nx5KYidU=",
+   "clue": "थंडावा देणारी सुगंधी पाने"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceQmInVFIHAyYGIvdHJ1kaYic+IxOQ=",
+   "clue": "शंकराची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcevmIjgFIHA1YGIsA==",
+   "clue": "पानांचा गड्डा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jce/BM3PwIHAxx3NlIERg57Azc7v",
+   "clue": "दिवाळीतील तांदळाचे जाळीदार पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 8,
+   "x": "jce/BM3PwB2E3clR0JXV",
+   "clue": "काटेरी सालीचे आंबटगोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jceKBM3P3YHAxw==",
+   "clue": "गव्हाचा जाडसर भरडा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceKBM3PzIHAxx3NlIKNxr0=",
+   "clue": "गोडसर कंद"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceKmInVFIHA1x3NlJoRg57L",
+   "clue": "सीताफळासारखे लाल फळ"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "x": "jcevmIjgFIHA7B3NlJ8=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceWBM3PyYHB+R3NlIeNxr0Ezc/C",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 0,
+   "x": "jceWBM3P2IHB9IGJm9HI4w==",
+   "clue": "दुधाची गोड वडी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceQBM3Pwh2E3ek=",
+   "clue": "केशरी गराचे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jceRBM3Pyx2E3dk=",
+   "clue": "काटेरी सालीचे मोठे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceQBM3PyR2E3dRR0JXe",
+   "clue": "लांब सापासारखी भाजी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcePBM3P2B2E3cJR0JXAg57GUYvMxQ==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceUBM3P2h2E3ek=",
+   "clue": "दुधावरची साय"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jcenmIjqFIHA2h3NlKSNx4Q=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 3,
+   "x": "jceUmInUFIHAyR3NlKuNxro=",
+   "clue": "तिखट हिरवी किंवा लाल"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jceCBM3P2B2E3c1R0JXJ",
+   "clue": "थंड गोड पेय"
+  }
+ ]
+}

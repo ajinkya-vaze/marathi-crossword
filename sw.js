@@ -5,7 +5,7 @@
 // always get the latest app and today's puzzle; every file fetched is kept for offline use.
 // The app shell is cached up front on install. Bump VERSION when files are added or removed.
 
-const VERSION = 'v3';
+const VERSION = 'v4';
 const CACHE = `marathi-crossword-${VERSION}`;
 const SHELL = [
   './',
@@ -25,6 +25,7 @@ const SHELL = [
   'icons/icon-512.png',
   'icons/maskable-512.png',
   'puzzles/index.json',
+  'puzzles/extra/index.json',
 ];
 const TIMEOUT_MS = 4000;
 

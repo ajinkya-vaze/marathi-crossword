@@ -1,0 +1,541 @@
+{
+ "id": "x-maharashtra-m01",
+ "title": "माझा महाराष्ट्र · मोठे कोडे १",
+ "difficulty": "मध्यम",
+ "rows": 21,
+ "cols": 21,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jcenmInTgczjDoHX9A==",
+   "clue": "एकमेकांवर आपटून वाजवायच्या थाळ्या"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 18,
+   "x": "jcefmInTHYjFwIHW6AiSxYeNlbERg57Y",
+   "clue": "भाजणीच्या पिठाचा खमंग पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "x": "jceWmIjsHYjFwoHW6giSxbE=",
+   "clue": "किल्ल्याच्या तटबंदीचा गोल भाग"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "x": "jceWmIjsHYjF1IHW5ZTWxs3Jj02Nx5YEzcnS",
+   "clue": "राजा-वजिराचा पटावरचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 11,
+   "x": "jceXBM3J1IjFzB2TzNySxK0=",
+   "clue": "शिवरायांची कुलदेवता"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jceXBM3J/RSB1sk=",
+   "clue": "देवाची गाणी समूहाने म्हणणे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 16,
+   "x": "jcecmInTHYjF2IHW4wiSxZ+NlbE=",
+   "clue": "कोकणातील कृषी विद्यापीठाचे गाव"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 16,
+   "x": "jcecmInTHYjFyh2TzNiSxKYR0JXK",
+   "clue": "रामदासांचा ग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 15,
+   "x": "jceemInTHYjFyg==",
+   "clue": "साठ मिनिटे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jceXmIjtHYjF3IHX1g==",
+   "clue": "पंढरपुरातून वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 10,
+   "x": "jcesmInTHYjF2h2TzNKSxKoR0JXb",
+   "clue": "जळगाव-धुळ्याचा प्रदेश"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 13,
+   "x": "jceMBM3JyYjFzR2TzMGSxZMR0JXdH9rcmI3F1h2SxdKI0Mw=",
+   "clue": "पेशव्यांचा पुण्यातील वाडा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceemIjsHYjFwR2TzMKSxK0R0JXDg57GUY3F2w==",
+   "clue": "वारकऱ्याच्या गळ्यातील माळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceemIjsHYjF54HX1giSxZ2NlI8Rg57W",
+   "clue": "अभंग लिहिणारे देहूचे संत"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 13,
+   "x": "jceSmInSHYjFxIHX1wiSxbqNlLMRg57f",
+   "clue": "रात्री दरवळणारे पांढरे फूल"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcetBM3JyYjFzR2TzNqSxK0R0JX4g57GUY3F3YHW3w==",
+   "clue": "शिवरायांचे युद्धतंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "x": "jceCmInTHYjF1oHX1giSxZ2NlI8=",
+   "clue": "कंदी पेढ्यांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 6,
+   "x": "jceemIjggczRksT+iNDdgYnvTNHJz0aYifiBzeYOgdfelNfszcmFTY3Hig==",
+   "clue": "गोदावरीच्या उगमाजवळचे ज्योतिर्लिंग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 20,
+   "x": "jcelmInTHYjFwQ==",
+   "clue": "वारकरी भजनात वाजवतात ते"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceUBM3J2IjFzB2TzNgOgYne0JTqH9rcm43E5YHW1A+I0MI=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceKBM3JxYjE/4HXwJTW31GNlKaNx4UEzcnRiMTy",
+   "clue": "हापूस आंब्यासाठी प्रसिद्ध कोकणातील जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 13,
+   "x": "jcePmInTHYjF04HX1g==",
+   "clue": "जुने मोठे चौसोपी घर"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 18,
+   "x": "jcetmIjmgczjDoHXzwiSxZ4=",
+   "clue": "देवीचा पारंपरिक लोकनृत्य-गीत प्रकार"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 19,
+   "x": "jcedBM3JyRSB1vYPiNDC",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jce1BM3J9IjFzB2TzNIOgYnb0JTt",
+   "clue": "उपवासाचा अकरावा दिवस"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 11,
+   "x": "jce/mInvHYjF3oHX1giSxYyNlI8=",
+   "clue": "डोक्यामागे बांधलेला केसांचा गोळा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 12,
+   "x": "jceWmInTHYjF3R2TzOGSxKY=",
+   "clue": "पत्नी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 15,
+   "x": "jcegmInTHYjFwQ==",
+   "clue": "मुंबईतील जुनी एका ओळीतील खोल्यांची इमारत"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 17,
+   "x": "jceimInTHYjFxx2TzNw=",
+   "clue": "तांदळाच्या पिठाचे कोकणी धिरडे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcenmIjsHYjF0R2TzOGSxZM=",
+   "clue": "भाकरीसोबत खाल्ला जाणारा बेसनाचा पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 0,
+   "x": "jcenmIjsHYjF3B2TzOGSxZM=",
+   "clue": "कानात लोंबणारा दागिना"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jceCmInTHYjFxx2TzNCSxZMR0JXDg57GUY3F24HX4Q==",
+   "clue": "भाजीमळ्यात विठ्ठल पाहणारे संत"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 14,
+   "x": "jcemBM3J0hSB1vaTzMoOgYnY",
+   "clue": "केळीसाठी प्रसिद्ध जिल्हा"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 14,
+   "x": "jcemBM3JyYjFzB2TzNiSxZMR0JXl",
+   "clue": "नामदेवांच्या घरी काम करणारी संत कवयित्री"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 19,
+   "x": "jcetBM3J1IjFzA==",
+   "clue": "सह्याद्रीतील रानबैल"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcecBM3J14jFzB2TzMEOgYnJ0JXTH9rcnQ==",
+   "clue": "कोकणातील पारंपरिक नाट्यप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jcePmInTHYjFwoHW6A==",
+   "clue": "पंढरपूरला पायी जाणारी यात्रा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jcePmInTHYjFyoHW6QiSxYuNlbYRg57N",
+   "clue": "पहाटे गाणी म्हणत येणारा मोरपिसांचा टोपवाला"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 12,
+   "x": "jcevmIjmHYjF3R2TzNySxZM=",
+   "clue": "महाबळेश्वरात उगम पावणारी नदी व धरण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 17,
+   "x": "jceSBM3J9hSB1tE=",
+   "clue": "शहर; पुरी"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 10,
+   "x": "jceCBM3JyRSB1uk=",
+   "clue": "लग्नात वाजणारे फुंकवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 16,
+   "x": "jceQmInTHYjF2oHX1wiSxYcR0JXJ",
+   "clue": "मराठ्यांची मोठी लढाई"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 20,
+   "x": "jceSBM3JxA==",
+   "clue": "नाकातील दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 10,
+   "x": "jceSBM3J1IjE8h2TzNqSxKyNlLMRg57UUY3F4A==",
+   "clue": "खाडीपलीकडचे नियोजित शहर"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 13,
+   "x": "jceWBM3J9xSB1tE=",
+   "clue": "मराठ्यांचा जुना इतिहासग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 16,
+   "x": "jceSmInSHYjFx4HW6wiSxYmNlbyNx56YiO0diMXagdfWCJLFiA==",
+   "clue": "ज्ञानेश्वरांचे मोठे भाऊ आणि गुरू"
+  },
+  {
+   "dir": "down",
+   "row": 12,
+   "col": 19,
+   "x": "jceSmInTHYjFwh2TzMeSxK0R0JXHg5/0UY3F2IHX7JPM15LFkhHQlcODnsY=",
+   "clue": "कोळी समुद्राला नारळ अर्पण करतात"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 0,
+   "x": "jceXmIjtHYjF3IHX1giSxZuNlLMRg57tUY3F2A==",
+   "clue": "सह्याद्रीतील ज्योतिर्लिंग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 3,
+   "x": "jcevmIjmHYjFwYHW6AiSxbqNlbERg57c",
+   "clue": "मच्छीमारांचे गाणे"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 3,
+   "x": "jcevmIjmHYjF2g==",
+   "clue": "दोन रेषांमधील कोपरा"
+  },
+  {
+   "dir": "down",
+   "row": 13,
+   "col": 6,
+   "x": "jceeBM3J0hSB1tiTzMoOgYnJ",
+   "clue": "हाताचा आतला सपाट भाग"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 8,
+   "x": "jcePBM3J2RSB1uk=",
+   "clue": "किल्ला असलेले मुंबईच्या उत्तरेचे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 0,
+   "x": "jceUmInTHYjF14HW7wiSxZ2NlI8Rg57Q",
+   "clue": "वाहनांना बंदी असलेले थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 14,
+   "col": 12,
+   "x": "jcePBM3J0RSB1sIPiNDfgYnTTNHJxw==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "down",
+   "row": 14,
+   "col": 12,
+   "x": "jcePBM3JwIjFzB2TzN6SxZMR0JXY",
+   "clue": "मुंबईचे लोकप्रिय खाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 4,
+   "x": "jceRmIjsHYjFwIHW7w==",
+   "clue": "स्त्रीशिक्षणाचे प्रणेते ज्योतिबा"
+  },
+  {
+   "dir": "across",
+   "row": 15,
+   "col": 6,
+   "x": "jceDmInTHYjF2IHW6giSxZU=",
+   "clue": "कोकणातील प्रसिद्ध आंब्याची जात"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 8,
+   "x": "jceCBM3Jy4jE/4HXzAiSxZuNlbKNx7gEzcn2iMTy",
+   "clue": "वणीची देवी"
+  },
+  {
+   "dir": "down",
+   "row": 15,
+   "col": 17,
+   "x": "jceSBM3Jz4jE/4HX2AiSxYmNlI8=",
+   "clue": "विनय"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 2,
+   "x": "jceUBM3J2YjFzB2TzMaSxKoR0JXAg57GUY3FzA==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 2,
+   "x": "jceUBM3J04jE/4HX2giSxbuNlI+Nx7gEzcnN",
+   "clue": "लाकडी खांबावरील महाराष्ट्राचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 5,
+   "x": "jceXmInTHYjFwoHW6giSxYw=",
+   "clue": "संत एकनाथांनी लोकप्रिय केलेला रचनाप्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 16,
+   "col": 11,
+   "x": "jceCmIjmHYjF2IHX1giSxYUR0JXLg5//UY3F3Q==",
+   "clue": "ज्ञानेश्वरांचे धाकटे भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 16,
+   "col": 14,
+   "x": "jcecmIjqHYjFxx2TzOOSxZIR0JXdg5/4",
+   "clue": "दौलताबादचा किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 17,
+   "col": 17,
+   "x": "jceemInTHYjF2B2TzNqSxZMR0JXF",
+   "clue": "किती गरम किंवा थंड"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 18,
+   "x": "jceQBM3JyYjE/4HX0ZTW31GNlIKNx4Q=",
+   "clue": "कोल्हापूरजवळचा किल्ला"
+  },
+  {
+   "dir": "down",
+   "row": 17,
+   "col": 20,
+   "x": "jceSBM3J6xSB1tSTzMoOgYnd0JTt",
+   "clue": "पारंपरिक मराठी पद्धतीने नेसलेली साडी"
+  },
+  {
+   "dir": "across",
+   "row": 18,
+   "col": 4,
+   "x": "jceQmInTHYjF0x2TzMGSxZM=",
+   "clue": "दिवाळीतील बलिप्रतिपदा"
+  },
+  {
+   "dir": "down",
+   "row": 18,
+   "col": 6,
+   "x": "jcePmInTHYjFwh2TzMaSxK0=",
+   "clue": "आदिवासी चित्रशैली"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 1,
+   "x": "jceemInTgczjDoHXxAiSxYyNlI8=",
+   "clue": "कोल्हापुरी लाल रस्सा"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 11,
+   "x": "jcevmIjmHYjFwIHW5ZTW2M3Jjk2Nx5CYiOwdiMXCgdbo",
+   "clue": "प्रसिद्ध चामडी चप्पल"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 13,
+   "x": "jceQmIjsHYjF0YHW7w==",
+   "clue": "विद्येचे माहेरघर"
+  },
+  {
+   "dir": "across",
+   "row": 19,
+   "col": 16,
+   "x": "jcesmInvHYjF04HX1giSxZ6NlI8=",
+   "clue": "लोणावळ्याजवळचा घाट"
+  },
+  {
+   "dir": "down",
+   "row": 19,
+   "col": 16,
+   "x": "jcesmInvHYjF04HW5ZTWzs3Jjg==",
+   "clue": "निळ्या रंगाचा मासे पकडणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 5,
+   "x": "jceemInTHYjFwIHW6AiSxYM=",
+   "clue": "कुस्तीचा आखाडा"
+  },
+  {
+   "dir": "across",
+   "row": 20,
+   "col": 19,
+   "x": "jcetmIjhHYjFwoHW6A==",
+   "clue": "गणपतीसोबत घरी येणाऱ्या देवी"
+  }
+ ]
+}

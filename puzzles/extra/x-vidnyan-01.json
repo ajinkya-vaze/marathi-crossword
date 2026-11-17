@@ -1,0 +1,177 @@
+{
+ "id": "x-vidnyan-01",
+ "title": "विज्ञान आणि अवकाश १",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceemIn0FYTK3YHLoNCV3R/a3LGWzOmO3f+OiY5NjceS",
+   "clue": "विज्ञानाचा उपयोग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceCmIj6FYTKyR2OibpNjceKmIj7icDymcXQ",
+   "clue": "सूर्यापासून मिळणारी ऊर्जा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jce9mIn0FYTK5h2OiYBNjceSmIjxFYTK5g==",
+   "clue": "जगभर जोडलेले संगणकाचे जाळे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceDmIj9FYTK7IHKk0zRycza3K8KicDKmcTjzZSB",
+   "clue": "दिशा दाखवणारे यंत्र"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 7,
+   "x": "jceKBM3S/ITL9IHKiUzRyfRGmInp",
+   "clue": "ए बी ओ प्रकार"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jceQBM3S3BiO3ckSzZS7EYOeyM3T5ITK5YHKkw==",
+   "clue": "वाऱ्यापासून मिळणारी ऊर्जा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jceQBM3S2YTKxx2OiadNjcevBM3Syg==",
+   "clue": "फुलातील बारीक पिवळी भुकटी"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 6,
+   "x": "jcewBM3S2YTL9IHKsdCV0w==",
+   "clue": "काम करण्याची शक्ती"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jceQmIj9FYTK0x2Oia8=",
+   "clue": "हिरवा बोलणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jceQBM3S24TK+x2Oiac=",
+   "clue": "झोपण्याची खाट"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcetBM3SzYTL+Q==",
+   "clue": "वेग"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcePmInIFYTK1oHLrw==",
+   "clue": "हवेसारखे रूप"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 8,
+   "x": "jceCmIn0FYTK7h2OiZNNjcev",
+   "clue": "कॉम्प्युटर"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 8,
+   "x": "jceCmIn0FYTK7oHLrUzRycdGmInjicDQBYHKnQ==",
+   "clue": "गाण्यांना चाल देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jceQmIj7icDemcXQUdCVzh/a3JiWzdoSmcXBzZWz",
+   "clue": "श्वासात घ्यायचा वायू"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jcePmInIFYTK0g==",
+   "clue": "पाणी उकळल्यावर निघणारी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcePmInJFYTK34HLoNCVwoOf+VGWzcASmcXEzZW8jceKBM3S3ITKxx2OiYk=",
+   "clue": "तारेतून वाहणारी वीज"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 11,
+   "x": "jceDBM3S2YTKxh2OiZRNjcecmIj7icDeBYHKmNCU4IOe1w==",
+   "clue": "पानांना हिरवा रंग देणारे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcezBM3S3oTL9IHKjkzRycfa3JM=",
+   "clue": "गरमी; ताप"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 3,
+   "x": "jceemInIFYTK14HLoNCV3R/a3IcKicDx",
+   "clue": "तांब्याच्या पत्र्यावरील लेख"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 5,
+   "x": "jcezBM3SwxiO3faOiL3RydNGmInP",
+   "clue": "ग्रहाभोवती फिरणारा; चंद्र त्यातलाच"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jceQBM3S2YTL9IHKgtCV0x/a3JgKicDeBYHKjg==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jcegmInJFYTK3YHLoNCV3R/a3IcKicDxBYHKutCU7h/a3JQ=",
+   "clue": "सिनेमा पाहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jceUmIj0FYTKyx2OiZbRyO7a3J0KicDbmcTjzZSe",
+   "clue": "एकाच प्रकारच्या अणूंचा पदार्थ"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-05",
+ "title": "गाव आणि शहर ५",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceCmInZHYHSiQ==",
+   "clue": "इंद्रधनुष्याचे रंग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "x": "jceCmInZHYHSgkzVyfZGmInV",
+   "clue": "पायाने चालवायचे दुचाकी वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcecmIjmHYHSt9CR0x/a3LiHxOE=",
+   "clue": "मोटारसायकल किंवा स्कूटर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jceCBM3D0R2WiZrVyeFGmIn9",
+   "clue": "ग्रामपंचायतीचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 2,
+   "x": "jcevmInZHYHSnUzVyfXa3JMbgcXezZSL",
+   "clue": "वस्तू बनवण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jcegmInZHYHSn0zVyfZGmInNHYHSnUzVydba3JMbgcXezZSL",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 10,
+   "x": "jceSmInZHYHSukzVydPa3JIbgcXj",
+   "clue": "शहराचा रहिवासी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcegmInZHYHSnUzVyfna3JMbgcXjzZW1",
+   "clue": "मोटार"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jceKmInYHYHSuNCQ4IOez83D3w==",
+   "clue": "तीन चाकी वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 2,
+   "x": "jceSmInZHYHSstCQ4IOe11GHxfaWiLNJjceD",
+   "clue": "नाटक पाहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceDBM3D0h2WiZbVyONGmInygcT3zZS3EYOe7c3C4w==",
+   "clue": "सुवासिनींचा वाण देण्याचा कार्यक्रम"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jcegmInZHYHSuA==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jcegmInZHYHSmEzVycLa3a0=",
+   "clue": "गावातील सभेची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceWmInZHYHSldCQ7IOe+lGHxceWiLA=",
+   "clue": "आटवलेल्या दुधाचा गोड पदार्थ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jceDmIjsHYHSjNCQ7Q==",
+   "clue": "नदीतून प्रवास करण्याचे लहान वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 2,
+   "x": "jceVmInlHYHSidCQ4IOeyFGHxc+WiY5JjceSBM3D1A==",
+   "clue": "रोबोट"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 4,
+   "x": "jcegmInYHYHSuNCQ7w==",
+   "clue": "तपकिरी गोड फळ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 4,
+   "x": "jcegmInYHYHSh0zVydDa3a8bgcXV",
+   "clue": "वाशिष्ठी नदीकाठचे कोकणातील शहर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 9,
+   "x": "jceCmInZHYHSnUzVydZGmInE",
+   "clue": "जमिनीला शेणाने लिंपणे"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 6,
+   "x": "jceUBM3D2IHSk0zVycna3aEbgcXG",
+   "clue": "महापालिकेचा प्रमुख"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jceUBM3DxoHToNCRwoOe+lGHxcUKzZSF",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcePmInYHYHSg9CR0x/a3IU=",
+   "clue": "आकाशात उडणारे वाहन"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 2,
+   "x": "jcePBM3D0R2WiZNJjceXmInZHYHSiQ==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 8,
+   "x": "jceQmInZHYHSjkzVydZGmInHgcXI",
+   "clue": "गावातील पाणी भरण्याची जागा"
+  }
+ ]
+}

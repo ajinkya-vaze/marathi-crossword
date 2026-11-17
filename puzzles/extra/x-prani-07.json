@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-07",
+ "title": "प्राणी आणि पक्षी ७",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jcegmInPDoHKzc2Vuo3HnpiJzg==",
+   "clue": "सर्वात वेगवान प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jcegmInPDoHKzc2Vuo3HigTN1Ngdjs2yTNfJ9NrdrQySxco=",
+   "clue": "सिनेमातील गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jcerBM3U54HL5M2UqI3GsQTN1Ngdjs2V",
+   "clue": "आठ भुजांचा सागरी प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 11,
+   "x": "jcevmIj7DoHKzM2UiI3HuATN1N6By+lR0JPdH9rcmAySxc+JiLA=",
+   "clue": "हिरव्या पानांची तळलेली वडी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jcegmInODoHKzVHQk/g=",
+   "clue": "फक्त पावसाचे पाणी पितो असे मानले जाणारे पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jcegmInODoHK2Q==",
+   "clue": "चौकोनाच्या बाजू"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcevBM3U3oHL61HQk8kf2tyd",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 9,
+   "x": "jceCmIjxDoHK0VHQk90=",
+   "clue": "नदीतील लांब तोंडाची मगरीसारखी जात"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceQmInPDoHK0c2UiRGDnsjN1Mw=",
+   "clue": "मोराचा पंखांचा फुललेला पसारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jceeBM3U3oHL7lHQk9+DnsY=",
+   "clue": "घोडे बांधण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceImInODoHK3M2UiQ==",
+   "clue": "लहान तपकिरी जमिनीवर राहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 10,
+   "x": "jceimIj7DoHKyM2Vtw==",
+   "clue": "घोड्याची मादी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 10,
+   "x": "jceimIj7DoHK2VHQk8cf2tyM",
+   "clue": "किल्ल्याच्या भिंतीवर चढणारा सरपटणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jceCmInODoHK2s2UiI3HuATN1NQdjs2d",
+   "clue": "अंगावर काटे असलेला प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jcecBM3U3YHK11HQk94=",
+   "clue": "काळा-पांढरा गाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 8,
+   "x": "jcePmInODoHKwVHQk90=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jceQmInPksXsFc2UqxGDnsjN1Mw=",
+   "clue": "पक्ष्याला ठेवण्याचे जाळीचे घर"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jcezmInyDoHK9g==",
+   "clue": "वाळवंटातील जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 4,
+   "x": "jcevmInODoHK2lHQk9iDn/hRkNb+",
+   "clue": "वळणदार शिंगांचे काळे हरीण"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcevmInODoHK3FHQk/iDnsZRkNbU",
+   "clue": "कावळ्याचा आवाज"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 2,
+   "x": "jceVmInODoHKz1HQk9g=",
+   "clue": "देवगिरीचे राजघराणे"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 2,
+   "x": "jceVmInODoHK/A==",
+   "clue": "हिमालयातील केसाळ बैल"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceWmIj3DoHKyM2VtRGDnu0=",
+   "clue": "पावसाळ्यात डराँव डराँव करणारा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 3,
+   "x": "jcevmInODoHK3FHQk96DnsY=",
+   "clue": "काव काव करणारा काळा पक्षी"
+  }
+ ]
+}

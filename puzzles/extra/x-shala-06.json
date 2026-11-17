@@ -1,0 +1,177 @@
+{
+ "id": "x-shala-06",
+ "title": "शाळा आणि खेळ ६",
+ "difficulty": "सोपे",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "x": "jceCBM3X0R2MxZ8=",
+   "clue": "शाळेची बाहेरची फेरी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceDBM3X9IHJ5lHQkt2Dn/g=",
+   "clue": "वर्गातील उपस्थितीची नोंद"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceDmInMFIHI0VHQktiDnsY=",
+   "clue": "पानांचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcezBM3XzIHJ7M2UkhGDnsg=",
+   "clue": "प्रश्नाला दिलेले"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jcevmIj4FIHIxM2UiY3HuATN18SByeFR0JLd",
+   "clue": "हिरवी सुगंधी पाने"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jcevmIj4FIHI/g==",
+   "clue": "शर्टावर घालायचे जाकीट"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "x": "jceCmInNFIHI0c2VthGDntLN19YdjMWy",
+   "clue": "फाशांचा जुना खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "x": "jceCmInNFIHI9lHQkt0f2ty6k83qEIGJr9bI5A==",
+   "clue": "हाताने उडवून पकडायचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 3,
+   "x": "jceQmInNFIHIw82VsQ==",
+   "clue": "गुणाकाराची कोष्टके"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcePmInNFIHI9M2Vu43HkJiI/ojF3B3NlKyNx4QEzdfY",
+   "clue": "विशिष्ट अर्थाचा शब्दसमूह"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jcevmIj2FIHI0VHQksM=",
+   "clue": "सोंगट्या पॉकेटमध्ये घालायचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcePBM3X2IHJ7M2UoQ==",
+   "clue": "शाळेतील खोली"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jcePBM3X0B2MxYnQktIf2ty6k83iEIGJiQ==",
+   "clue": "विद्यार्थ्यांच्या राहण्याची जागा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jcePmInMFIHI0c2UiBGDntZRk8z7jMWSTNbJy9rdoJPM2A==",
+   "clue": "पूर्णविराम स्वल्पविराम वगैरे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcePmInMFIHIx82Vu43HlZiJzRSByMvNlbYRg57Y",
+   "clue": "पदव्या देणारी मोठी संस्था"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jceUBM3X0YHI31HQktiDnsdRk8zHjMSg0JLCg57GUZPM0xCBiZ8=",
+   "clue": "बारावीनंतरचे शिक्षण; कॉलेज"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "x": "jcelmIj0FIHIyc2UiRGDnsA=",
+   "clue": "रॅकेट आणि चेंडूचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jcePmInMFIHI0c2VtxGDnt7N1uWByMbNlIgRg57IzdblgcjEzZW2",
+   "clue": "उलट अर्थाचे शब्द"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 3,
+   "x": "jcetmIjwFIHI2FHQkseDnsZRk8zB",
+   "clue": "घरी करायचा अभ्यास"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jceCBM3XzIHJ7M2UmY3HhATN1/+ByezNlIYRg57B",
+   "clue": "अहिंसक लढा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jceIBM3X/4HJ6lHQkt2Dn/g=",
+   "clue": "दगडांची रास पाडण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcetmIj+iMXcgYmySo3Hn5iJzRSByNNR0JLC",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jceIBM3XwoHI41HQksyDnsZRk8zU",
+   "clue": "लपून बसण्याचा खेळ"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceXmIj4FIHI1FHQkt2DnsY=",
+   "clue": "दोरीने फिरवायचा लाकडी खेळ"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-nisarga-05",
+ "title": "निसर्ग ५",
+ "difficulty": "सोपे",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "x": "jce8BM3Kww+B1viBiY4=",
+   "clue": "दसऱ्याला सोने म्हणून वाटतात त्याची पाने"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceQBM3K0JPFzBuBia8=",
+   "clue": "सूर्योदयापूर्वीची वेळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "x": "jceRmIjpFZPFyg==",
+   "clue": "लाटांवर किंवा साबणाचा पांढरा बुडबुडा"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "x": "jceCBM3K2ZPE+RuBiYVJjceK",
+   "clue": "मोठे तळे"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcegmInsFZPF1IfEoNCR3Q==",
+   "clue": "शशी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jcedBM3K2Q+B1sQ=",
+   "clue": "नदीचे पाणी अडवणारी भिंत"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jceKmIjlFZPF3ofEpkzVyfw=",
+   "clue": "यंत्रमानव"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcegmInsFZPF1IfEoNCR3R/a3JuOzPQdksP3UdCR3Q==",
+   "clue": "आझाद म्हणवणारे क्रांतिकारक"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 9,
+   "x": "jceMmIjpFZPFx4fFk0zVydA=",
+   "clue": "पाण्यातील हिरवी बुळबुळीत वनस्पती"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jcetmInQFZPFwhuBiYXVyd0=",
+   "clue": "हवेतील सुखद थंडावा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jcetmInQFZPFwofFkw==",
+   "clue": "पावसासोबत पडणारे बर्फाचे खडे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jcePmInQFZPFwofFkw==",
+   "clue": "पवन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jcevBM3Kxw+B1tQ=",
+   "clue": "चिखलात उगवणारे राष्ट्रीय पुष्प"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jcevBM3K2g+B1t+BiLJJjceWmInQFZPF+g==",
+   "clue": "महाराष्ट्रातील सर्वोच्च शिखर"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jcenBM3K2ZPFzA==",
+   "clue": "डोंगरातून वाहणारा लहान प्रवाह"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceKmInQFZPF3BuBiZtJjceJ",
+   "clue": "सीताफळासारखे लाल फळ"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "x": "jceUBM3K0JPFzBuBiZxJjceJmIjpFZPFxIfEoNCR2B/a3J0=",
+   "clue": "स्ट्रॉबेरीसाठी प्रसिद्ध थंड हवेचे ठिकाण"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 7,
+   "x": "jceCmIjsFZPFwofEoNCRwoOexlGOzcuB1+qBiZQ=",
+   "clue": "सूर्य मावळण्याची वेळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jcedBM3KxQ+B1sAdzZSZjceE",
+   "clue": "उंचावरून कोसळणारे पाणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jcevmIjlFZPFwRuBiYjVyd0=",
+   "clue": "जळणारा काळा खनिज पदार्थ"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jceDmInRFZPF3BuBiZhJjcecmIju",
+   "clue": "बर्फाची हळूहळू वाहणारी नदी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 1,
+   "x": "jceUBM3K0JPFzBuBiYjVyd1GmIn5FZPFwg==",
+   "clue": "अतिविशाल समुद्र"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 4,
+   "x": "jcetBM3K2ZPE/4fFi9CQ7Q==",
+   "clue": "खूप लोक एकत्र"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceRmInQidfjDofFi9CQ7Q==",
+   "clue": "झाडाची शाखा"
+  }
+ ]
+}

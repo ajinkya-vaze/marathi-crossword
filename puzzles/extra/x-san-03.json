@@ -1,0 +1,177 @@
+{
+ "id": "x-san-03",
+ "title": "सण, कला आणि परंपरा ३",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "x": "jceSmInNHY6Jr9PI7trcgg+BypXQl+8f2ty6k8TuUdCXyQ==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceUmIj7HY6Jm0+Nx4g=",
+   "clue": "गाण्याचा कार्यक्रम"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 11,
+   "x": "jceWmInNHY6JiE+Nx4qYiPM=",
+   "clue": "कृष्णाचे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "x": "jceQmIj+gcqd0JfTH9rcjpPF0VHQl9WDnvpRk8X5zZW+jceKBM3X2I6Jjk+Nx4gEzdfO",
+   "clue": "प्राणी पाहण्याची बाग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jceDmInNHY6JgNPI7trcg5PE5VHQl8WDnsdRk8XBUdCXww==",
+   "clue": "पेटी; भात्याचे वाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jcegmInMHY6JlNPI7trcnQ+ByrjQl9Mf2tyd",
+   "clue": "कुंचला हातात घेणारा कलाकार"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 9,
+   "x": "jceemIjyHY6JlNPJ3UaYicOBy60=",
+   "clue": "विजयाची घोषणा करणारे फुंकवाद्य"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 9,
+   "x": "jceemIjyHY6Jg0+Nx4yYiPMdjomF08ncRpiJxoHKk0zTydo=",
+   "clue": "दिवाळीनंतर तुळशीचे लग्न"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "x": "jceCmInxHY6JpdPI7trcnZPF0M2UsRGDntw=",
+   "clue": "तिळगूळ वाटण्याचा सण"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 6,
+   "x": "jce1BM3X9I6Jjk+Nx5wEzdfXjoiw",
+   "clue": "उपवासाचा अकरावा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 11,
+   "x": "jceImIj4HY6JiU+Nx5uYiPM=",
+   "clue": "पंजाबातील हिवाळ्यातील सण"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceYmIj4HY6Jgg==",
+   "clue": "मिरवणुकीत वाजवले जाणारे मोठे वाद्य"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceKmInNHY6Jng==",
+   "clue": "अयोध्येचा राजा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceKmInNHY6Jnk+Nx5IEzdfUEs2UnY3Gug==",
+   "clue": "श्रीरामाचा जन्मदिवस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jcePmInMHY6JgE+Nx4M=",
+   "clue": "प्रियजनापासून दुरावा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceWBM3X0xLNlIONx4QEzdfP",
+   "clue": "कृष्णाचा मोठा भाऊ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jcesmInxHY6JkdPI6EaYid+BypM=",
+   "clue": "जेजुरीचा देव"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 7,
+   "x": "jcePmInMHY6JqNPI7trchQ+BypRM08nT2t2gk8XKzZSN",
+   "clue": "संकटे दूर करणारा गणपती"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 7,
+   "x": "jcePmInMHY6JiE+Nx4qYiP6ByrFM08nL",
+   "clue": "मूर्ती पाण्यात सोडणे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 3,
+   "x": "jcePBM3X2Y6IsU+Nx5aYic0djomAT43Hgg==",
+   "clue": "दिवाळीची सुरुवात; गायवासराची पूजा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 10,
+   "x": "jcegmInMHY6JlNPI7trcnQ==",
+   "clue": "रेखाटन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 10,
+   "x": "jcegmInMHY6JlNPI7trcnQ+ByodM08n8",
+   "clue": "सिनेमा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 7,
+   "x": "jceSBM3X1BLNlIONx4QEzdfFjoi908nT",
+   "clue": "देवीचा नऊ दिवसांचा उत्सव"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 6,
+   "x": "jceSBM3X/hLNlIsRg57WzdbsjomA08ndRpiJ7A==",
+   "clue": "गणपतराव बेलवलकरांचे नाटक"
+  }
+ ]
+}

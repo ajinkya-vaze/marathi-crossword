@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-03",
+ "title": "माझा महाराष्ट्र ३",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceuBM3J0YjF8B2TzOOSxZNM08nP2tyTEYHMxw==",
+   "clue": "अजिंठा-वेरूळजवळचे शहर; आताचे छत्रपती संभाजीनगर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jceemIjggczRksT+iNDdgYmyT43HlgTNyfSIxPUdk8zCksSg0JfYH9rcnQ==",
+   "clue": "गोदावरीच्या उगमाजवळचे ज्योतिर्लिंग"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jceQmInTgczjDoHXyZTX4FHQl92DnvpRjcX/",
+   "clue": "विटेवर उभा देव"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jceWBM3J9xSB1tE=",
+   "clue": "मराठ्यांचा जुना इतिहासग्रंथ"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 2,
+   "x": "jce/BM3J2BSB1s8PiNDUHc2UmxGDnu9RjcXY",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jce/BM3J04jFzR2TzNiSxZNM08n0",
+   "clue": "रायगड जिल्ह्याचे समुद्रकिनारी मुख्यालय"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "x": "jceUBM3J04jE/4HX2giSxbvQl9ODnvpRjcXE",
+   "clue": "लाकडी खांबावरील महाराष्ट्राचा खेळ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jcetBM3J0YjE/4HX3Q==",
+   "clue": "अभिमान"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jceSmInTHYjF34HW6A==",
+   "clue": "पोटाचा मधला खळगा; बेंबी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 10,
+   "x": "jceSmInTHYjFxIHX1wiSxbg=",
+   "clue": "द्राक्षे आणि कुंभमेळ्यासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcePmInSHYjF0oHW4wiSxYHQl9M=",
+   "clue": "पंढरीचा देव"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jcePmInSHYjFxIHX1giSxZ5M08n0RpiJzA==",
+   "clue": "बाजीप्रभूंच्या लढाईशी जोडलेला किल्ला"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jcevmIjmHYjF5x2TzNo=",
+   "clue": "सोलकढीचे आंबट फळ"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jceUBM3J2YjFzB2TzMaSxKpM08nO2tyTEYHMxQ==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "x": "jceWBM3J2IjFzR2TzNeSxZNM08nP2tyTEYHM6Q==",
+   "clue": "खानदेशातील कवयित्री संत"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 5,
+   "x": "jceDmInSHYjFwh2TzOEOgYmT08jj",
+   "clue": "रायगडाचा कडा उतरून गेलेली आई"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 7,
+   "x": "jceWmInTHYjF7oHW6AiSxZ3Ql9Mf2tyY",
+   "clue": "अटकेपार झेंडा लावणारा पेशवा"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 9,
+   "x": "jceKmInSgczjDoHX/wiSxY4=",
+   "clue": "वारीत अश्वांचे गोल धावणे"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 0,
+   "x": "jcetBM3J1IjFzA==",
+   "clue": "सह्याद्रीतील रानबैल"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 5,
+   "x": "jcevBM3J+xSB1tGTzMo=",
+   "clue": "टाकाऊ घाण"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 3,
+   "x": "jceKmIjsHYjF54HW5ZTWz82UjBGDntvNyOE=",
+   "clue": "विठ्ठलाची पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 7,
+   "x": "jcePBM3J0RSB1sIPiNDfgYmOT43Hng==",
+   "clue": "साधे मराठी जेवण; डाळ आणि भात"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 8,
+   "x": "jceKBM3JxYjE/4HXwJTW31HQl/qDnsdRjcXYgdfh",
+   "clue": "हापूस आंब्यासाठी प्रसिद्ध कोकणातील जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 5,
+   "x": "jcemmIjggcz/ksXNFJTWyc2VtBGDns7NyOyIxccdk8zEksSt",
+   "clue": "गीतेवरील मराठी भाष्य"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-maharashtra-01",
+ "title": "माझा महाराष्ट्र १",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "x": "jceSmInTHYjF3B2TzNKSxKpM0cnW",
+   "clue": "पंजाबपर्यंत भक्ती पोहोचवणारे संत"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceSmInTHYjFxIHX1wiSxbg=",
+   "clue": "द्राक्षे आणि कुंभमेळ्यासाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 8,
+   "x": "jcePBM3J0YjE/4HXz5TW3w==",
+   "clue": "गांधीजींच्या सेवाग्रामचा जिल्हा"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "x": "jcevmIjmHYjF5x2TzNc=",
+   "clue": "समुद्रकिनाऱ्यालगतचा महाराष्ट्राचा प्रदेश"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 4,
+   "x": "jcevmIjmHYjF3R2TzNySxZM=",
+   "clue": "महाबळेश्वरात उगम पावणारी नदी व धरण"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "x": "jcetmIjggczRksXxFJTWxM2UjxGDnspRjcXH",
+   "clue": "पुस्तकांचा संग्रह असलेली जागा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "x": "jceDmInSHYjFwh2TzOEOgYmT0cjj",
+   "clue": "रायगडाचा कडा उतरून गेलेली आई"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 11,
+   "x": "jceQmInTHYjFwB2TzOKSxK0=",
+   "clue": "वारीत संतांच्या पादुका नेणारी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jceRmInTHYjFyoHW7w==",
+   "clue": "सहा बाजूंचे ठिपक्यांचे घन"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jceSmInTHYjF5R2TzN6SxK9M0cnT",
+   "clue": "संत्र्यांसाठी प्रसिद्ध शहर"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jcetBM3JwhSB1ssPiNDWgYiwTY3HkJiI7B2IxcGB1u8=",
+   "clue": "समुद्रकिनारी गणपतीचे देवस्थान"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 9,
+   "x": "jcePmInSHYjF0oHW5ZTWwVHQld8=",
+   "clue": "पंढरपूरचा विठोबा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 9,
+   "x": "jcePmInSHYjF0R2TzOEOgYmA",
+   "clue": "कापड विणणारा"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "x": "jceCmIjqHYjFx4HX1giSxbrQlOCDnsjNyd8UgdbP",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "x": "jceUBM3J2IjFzB2TzMSSxZNM0cnU2t2gjcX3gdfsk8zE",
+   "clue": "आपले राज्य"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jcevBM3J04jE/4HXx5TW31HQlc4=",
+   "clue": "मुंबईजवळचे मोठे रेल्वे जंक्शन"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "x": "jce/BM3JzxSB1tGTzMoOgYmFTY3HnpiI7Q==",
+   "clue": "अंबादेवीचे विदर्भातील शहर"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jce/BM3J1ojE/4HX9wiSxYfQlOCDnshRjcXPgdbfD4jQ2g==",
+   "clue": "शिवरायांचे आठ मंत्र्यांचे मंडळ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 8,
+   "x": "jcePmInTHYjFwh2TzMaSxK0=",
+   "clue": "आदिवासी चित्रशैली"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceQmIjsHYjF0YHW7wiSxZ3QlO0=",
+   "clue": "पुण्याचे; पाट्यांसाठी प्रसिद्ध"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 3,
+   "x": "jceQmIjqHYjFxB2TzMGSxZM=",
+   "clue": "छत्रपतींचे प्रधान"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 6,
+   "x": "jcemmIjqHYjF7oHW6QiSxZ3QlO0=",
+   "clue": "खंडोबाचे देवस्थान"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 0,
+   "x": "jcesmInTHYjF2h2TzNKSxKpM0cnV",
+   "clue": "जळगाव-धुळ्याचा प्रदेश"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jcePmInTHYjFwh2TzOEOgYmA0cjj",
+   "clue": "दरवर्षी पंढरपूरला पायी जाणारा विठ्ठलभक्त"
+  }
+ ]
+}

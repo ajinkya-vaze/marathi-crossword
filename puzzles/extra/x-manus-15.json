@@ -1,0 +1,177 @@
+{
+ "id": "x-manus-15",
+ "title": "माणूस आणि भावना १५",
+ "difficulty": "सोपे",
+ "rows": 11,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 10,
+   "x": "jcevmIjsgcr3D82VoI3GuA==",
+   "clue": "कपाळावर लावायचे लाल"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jcevmIjsgcr3D82VrxGDnsrNyd8=",
+   "clue": "रंग लावण्याचा ब्रश"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "x": "jceUmIjqgcr3D82Vk43GuA==",
+   "clue": "विचार करणारा अवयव"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "x": "jce1BM3J9BKV17LRkOof2tyHEYHK1pOJjw==",
+   "clue": "सोबत नसणे"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcecmIjvHY7R1FHRkdiDnsZRjcXcldeT",
+   "clue": "दूध घालणारा"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 8,
+   "x": "jcedBM3JyRKV17pN1cnT",
+   "clue": "मेंढपाळ समाज"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcePmInSHY7R0FHRkfgf2tyd",
+   "clue": "कापड विणणारा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "x": "jcePmInSHY7Rxc2UuI3Hj5iJ0x2O0cs=",
+   "clue": "भरवसा"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "x": "jceiBM3J2Y7RzQ==",
+   "clue": "गळ्याचा आतला भाग"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 8,
+   "x": "jcetBM3J0Y7Q/s2VgA==",
+   "clue": "अभिमान"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "x": "jceCmInTHY7RylHRkdU=",
+   "clue": "धाडस"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "x": "jceDBM3JyY7Q8lHRkdgf2tyyjcTu",
+   "clue": "चेहऱ्याचे खालचे टोक"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceQBM3JxY7Q/s2VhRGDnu3Nyd8Slded",
+   "clue": "बातम्या लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jcevmInTHY7RwFHRkfGDn/g=",
+   "clue": "चिंता"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 10,
+   "x": "jce8BM3J147RzQ==",
+   "clue": "उमेद"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 10,
+   "x": "jce8BM3J0hKV15U=",
+   "clue": "सुस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 0,
+   "x": "jcePmInTHY7RylHRkfg=",
+   "clue": "बसमधील तिकीट देणारा"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "x": "jcePBM3J/RKV14U=",
+   "clue": "किती जड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceSBM3J2Q==",
+   "clue": "रक्त वाहून नेणारी नलिका"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jcemmIjtHY7RxlHRkcUf2tyVEYHK0ZOIvNXJx9rdoI3F2w==",
+   "clue": "व्हिटॅमिन"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 9,
+   "x": "jceSBM3Jz47Q/s2VhRGDntzNyd8=",
+   "clue": "विनय"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jcevBM3J1BKV17LRkO0=",
+   "clue": "डोक्याचे हाड"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 1,
+   "x": "jcePBM3J9I7Q81HRkd8=",
+   "clue": "न्यायालयात बाजू मांडणारा"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jceemInTHY7R2Q==",
+   "clue": "अंग गरम होणारा आजार; ज्वर"
+  }
+ ]
+}

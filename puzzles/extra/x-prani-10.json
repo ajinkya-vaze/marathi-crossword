@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-10",
+ "title": "प्राणी आणि पक्षी १०",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 10,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 6,
+   "x": "jceQmInPDoHK0c2VjhGDnsjN1Mw=",
+   "clue": "मोराचा पंखांचा फुललेला पसारा"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "x": "jceCmInODoHKzVHRlNiDnsZRkNbYEomJmQ==",
+   "clue": "पैठणचे प्राचीन राजघराणे"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 3,
+   "x": "jcegmInODoHKzVHRlPg=",
+   "clue": "फक्त पावसाचे पाणी पितो असे मानले जाणारे पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jceeBM3Uwh2OzZU=",
+   "clue": "रात्री हसल्यासारखा ओरडणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 9,
+   "x": "jcesmIj3DoHK/FHRlMyDnsY=",
+   "clue": "तिरका चालणारा जलचर"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jcePmInODoHKz1HRlPg=",
+   "clue": "वाद्य वाजवणारा"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcePBM3Uyh2OzYnRlNIf2ty6kNfiEomJiA==",
+   "clue": "विद्यार्थ्यांच्या राहण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceemInPDoHKzVHRlN0=",
+   "clue": "शेतात आढळणारा शिकारीचा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "x": "jceRmIj9ksXciYi2TI3HlJiJz5LF7BXNlaeNxrE=",
+   "clue": "शिवडीला थव्याने येणारा गुलाबी पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "x": "jce/BM3UyoHL5M2VhRGDnso=",
+   "clue": "मधाचा शौकीन केसाळ प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceQmInODoHK2VHRlNiDnsY=",
+   "clue": "कबुतराचे दुसरे नाव"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "x": "jceQmInODoHKxlHRlPEf2tyDkNbf",
+   "clue": "ढिली विजार"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jcePmInODoHK0VHRlN2Dn/o=",
+   "clue": "गायीचे पिल्लू"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 8,
+   "x": "jcetmIj3ksXsFc2VkY3HhA==",
+   "clue": "नाकावर शिंग असलेला जाडजूड प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcetmIj7DoHK/lHRlN8f2ty6kNbfEomJng==",
+   "clue": "पाठीवर घर घेऊन फिरणारी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jcetBM3Ux4HK1w==",
+   "clue": "सह्याद्रीतील रानबैल"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 6,
+   "x": "jceCBM3Uwh2OzYzRlNM=",
+   "clue": "रंग बदलणारा प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 2,
+   "x": "jcecmIj3DoHK3FHRlMODnsZRkNbZjs2T",
+   "clue": "समुद्रातील सर्वात मोठा सस्तन प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 3,
+   "x": "jcePBM3UwYHL6w==",
+   "clue": "सांड; गावात मोकाट फिरणारा बैल"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 5,
+   "x": "jceCmInODoHK2s2Vj43HuATN1NQdjs2d",
+   "clue": "अंगावर काटे असलेला प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 7,
+   "x": "jcelmIj7DoHK2g==",
+   "clue": "पिकांचा नाश करणारे थवे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jcePmInODoHKwVHRlN0=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcecBM3U3YHK11HRlN4=",
+   "clue": "काळा-पांढरा गाणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceKmInODoHKwVHRlMyDn/lRkNb0jsyg0ZT4H9rcnQ==",
+   "clue": "जंगलातील सुळेवाला प्राणी"
+  }
+ ]
+}

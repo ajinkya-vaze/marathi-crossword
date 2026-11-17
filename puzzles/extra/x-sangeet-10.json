@@ -1,0 +1,177 @@
+{
+ "id": "x-sangeet-10",
+ "title": "संगीत आणि चित्रपट १०",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "x": "jceCmIj0HY7D0IXQk03QyfTa3aCTxd6HwdsIzZWe",
+   "clue": "गांधीजींचा वर्ध्याजवळचा आश्रम"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "x": "jceUBM3X2Y7D2xmUiYPQyORGmInegcrZGYXQiQ==",
+   "clue": "लग्नातला खास भात"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 7,
+   "x": "jceDmInNHY7D7BmUiYlMjceRmIjyHY7D1w==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceCBM3X0RKHwd2UiLzQydZGmInXgcvn",
+   "clue": "विद्येची देवता"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 11,
+   "x": "jceIBM3X+Y7C5BmUiZtMjcel",
+   "clue": "छोटा चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 3,
+   "x": "jcegBM3X047C4hmUia3Qyd1GmInG",
+   "clue": "एकोणीसशे बेचाळीसचे आंदोलन"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 2,
+   "x": "jcegmInNHY7D1xmUiaRMjceQBM3X0RKHwdCUiY9MjceSmInN",
+   "clue": "गाडी चालवण्याचा लायसन्स"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 7,
+   "x": "jceUmInNHY7D3IXQkk3Qycfa3a0PgcrNGYXQsg==",
+   "clue": "सत्य घटनांवरील चित्रपट"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceDmInMHY7D1RmUiYTQyd0=",
+   "clue": "पानांचा रंग"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 10,
+   "x": "jceQBM3X/hKHwfAIzZWVjceE",
+   "clue": "चित्रपटाची लिखित कथा"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "x": "jceWmInNHY7D1xmUiabQyONGmInX",
+   "clue": "लहान मुलांचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jceWmInNHY7D3RmUiYHQyONGmInGgcrZGYXQi03QyfY=",
+   "clue": "बासरी वाजवणारा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceCBM3Xz47C5xmUiYhMjcetmIjzHY7DwQ==",
+   "clue": "अनेकांनी मिळून म्हणायचे गाणे"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceUBM3X047C6IXQlNGU0x/a3J0=",
+   "clue": "पावसाचा राग"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 0,
+   "x": "jceUBM3Xxo7C6IXQgtGU7x/a3IkPgcrX",
+   "clue": "चित्रपटातील विश्रांती"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 4,
+   "x": "jceCmInNHY7DwBmUiYnQyeFGmInkHY7DwQ==",
+   "clue": "गायकासोबत वाद्याची साथ"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 8,
+   "x": "jceCmIj7HY7D1YXQk03Qyfw=",
+   "clue": "आर्ची-परशाचा चित्रपट"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 6,
+   "x": "jcetmIjzHY7DwRmUiYHQyd1GmIndgcrZGYXQgk3QycA=",
+   "clue": "गदिमांचे रामायणावरील गीतसंग्रह"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 10,
+   "x": "jceVBM3XzxKHwc0=",
+   "clue": "संध्याकाळचा प्रसिद्ध राग"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceSmInNHY7D+oXRoNGUwh/a3JWTxewbhcHjzZSwEYOe3A==",
+   "clue": "संगीत नाटकातील गाणी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 9,
+   "x": "jcedmIjxHY7DzQ==",
+   "clue": "सूरांची रचना"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 3,
+   "x": "jcetmIjzHY7DwRmUiaTQyd1GmInD",
+   "clue": "गाण्याचे शब्द लिहिणारा"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 5,
+   "x": "jcevmInNHY7DwRmUiZDQyOM=",
+   "clue": "त्वचा; चामडे"
+  },
+  {
+   "dir": "across",
+   "row": 13,
+   "col": 3,
+   "x": "jcevmInNHY7D8BmUiZDQyOM=",
+   "clue": "कोशिंबिरीत घालायची हिरवी फळभाजी"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-gaav-12",
+ "title": "गाव आणि शहर १२",
+ "difficulty": "मध्यम",
+ "rows": 14,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "x": "jceMmIjnHYHSjA==",
+   "clue": "होडीचे वाऱ्याने फुगणारे कापड"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "x": "jce8BM3DwA==",
+   "clue": "गावातील जुनी विहीर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jce8BM3DwR2WiYROjcebmIjgHYHSgdGW0x/a3LGHxd8KzZWC",
+   "clue": "दर आठवड्याला भरणारा बाजार"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 10,
+   "x": "jcetmIjqgcXGzZWMEYOe1lGHxcuWibNOjcegmInZHYHSgk3Sycc=",
+   "clue": "गावाचा कारभार पाहणारी संस्था"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 7,
+   "x": "jce/BM3D9oHToNGWxYOex1GHxdcKzZWcEYOe0A==",
+   "clue": "आग विझवणारे दल"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "x": "jce/BM3D2B2WiZ9OjcecBM3DyR2WiaZOjceK",
+   "clue": "शिर्डीजवळचे जिल्ह्याचे शहर"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "x": "jcetmIjsHYHSmE3SydLa3aCHxc6WiY8=",
+   "clue": "इंधनासाठी वाळवलेले शेण"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jceUBM3D0oHSkw==",
+   "clue": "भाजीचे शेत"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 10,
+   "x": "jcegmInZHYHSuA==",
+   "clue": "गोल फिरणारे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "x": "jceWmInZHYHSsdGX7x/a3IGHxeMKzZWU",
+   "clue": "दंडावरचा दागिना"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "x": "jceQmInZHYHSnQ==",
+   "clue": "वडाभोवतीचा बसण्याचा चौथरा"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 3,
+   "x": "jceQmInZHYHSjk3Syc/a3awbgcXXzZSy",
+   "clue": "पाण्याखाली जाणारी नौका"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 7,
+   "x": "jcetBM3D0YHToNGWy4Of+A==",
+   "clue": "खूप लोक एकत्र"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 0,
+   "x": "jceQmIjqgcXGUdGWy4Of+lGHxdYKzZWR",
+   "clue": "हवा-पाणी खराब होणे"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 0,
+   "x": "jceQmIjqgcXGUdGW2IOexlGHxdk=",
+   "clue": "यात्रा"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceWmInlHYHSi03SydM=",
+   "clue": "जहाजे थांबतात ते ठिकाण"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcecBM3D9IHToNGW2oOex1GHxcI=",
+   "clue": "उत्तरेच्या उलट दिशा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 2,
+   "x": "jcePmInZHYHSjNGX7Q==",
+   "clue": "लहान वस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 2,
+   "x": "jcePmInZHYHSsg==",
+   "clue": "मार्ग"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jceQmInZHYHSjk3SydZGmInHgcXI",
+   "clue": "गावातील पाणी भरण्याची जागा"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 5,
+   "x": "jceQmInZHYHSjNGW0w==",
+   "clue": "आदिवासी वस्ती"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcePBM3D0YHToNGWyx/a3J4=",
+   "clue": "लोकांची ये-जा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 1,
+   "x": "jceQmIjsHYHSsg==",
+   "clue": "उदर"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 1,
+   "x": "jceQmIjsHYHSh03Syfw=",
+   "clue": "हिरवा बोलणारा पक्षी"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "x-prani-13",
+ "title": "प्राणी आणि पक्षी १३",
+ "difficulty": "मध्यम",
+ "rows": 12,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jcerBM3U54HL5M2VrI3GsQTN1Ngdjs2V",
+   "clue": "आठ भुजांचा सागरी प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jce/BM3UyoHL5M2VhhGDnso=",
+   "clue": "मधाचा शौकीन केसाळ प्राणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceemInPDoHK0VHRl9yDn/XN1N2Bytc=",
+   "clue": "समुद्रकिनारी मिळणारी शिंपल्यातील जलचरे"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 8,
+   "x": "jceemInPDoHKzVHRl90=",
+   "clue": "शेतात आढळणारा शिकारीचा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "x": "jcesmIj3DoHK81HRl90=",
+   "clue": "घोडी आणि गाढव यांचे संकर पिल्लू"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "x": "jceQmInODoHK2w==",
+   "clue": "भिंतीवर चालणारा लहान सरपटणारा प्राणी"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "x": "jceQmInODoHK2VHRl9iDnsY=",
+   "clue": "कबुतराचे दुसरे नाव"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "x": "jceXmIjxksXsFc2VphGDntvN1fU=",
+   "clue": "कुत्र्याचे ओरडणे"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 3,
+   "x": "jcegBM3U54HL4lHRl90=",
+   "clue": "चांदणे पिऊन जगतो अशी कल्पना असलेला पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 7,
+   "x": "jceUmIj7DoHK2Q==",
+   "clue": "भारताचा राष्ट्रीय पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "x": "jceUmIj7DoHK2VHRl8eDn/hRkNbZ",
+   "clue": "मोराच्या पिसाऱ्यातील एक पीस"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "x": "jcevBM3U3oHL61HRl8kf2tyd",
+   "clue": "शांततेचे प्रतीक मानला जाणारा पक्षी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 2,
+   "x": "jceeBM3U7R2OzYHRl+8f2tyLkNfh",
+   "clue": "किल्ल्याभोवतीची भिंत"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "x": "jcePmInODoHKwVHRl90=",
+   "clue": "काळ्या तोंडाचे लांब शेपटीचे माकड"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 9,
+   "x": "jcetmIj7DoHK2c2VjBGDnsrN1Mw=",
+   "clue": "सर्वात मोठे कपी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcetmIj7DoHK/lHRl98f2ty6kNbfEomJng==",
+   "clue": "पाठीवर घर घेऊन फिरणारी"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 11,
+   "x": "jceImInODoHK3M2VjQ==",
+   "clue": "लहान तपकिरी जमिनीवर राहणारा पक्षी"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 5,
+   "x": "jceDmInODoHK4FHRl9Uf2tyGkNfgEomJgw==",
+   "clue": "सर्व तिकिटे विकली गेली"
+  },
+  {
+   "dir": "down",
+   "row": 8,
+   "col": 6,
+   "x": "jcezBM3Ux4HK1w==",
+   "clue": "केसांत होणारे लहान कीटक"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 1,
+   "x": "jcezmInyDoHKz82UsxGDnsg=",
+   "clue": "गणपतीचे वाहन"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 1,
+   "x": "jcezmInyDoHK9g==",
+   "clue": "वाळवंटातील जहाज"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 9,
+   "x": "jcetmInODoHKxs2VjBGDnu3N1Mw=",
+   "clue": "गाणारी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 11,
+   "x": "jcevmInODoHK/lHRl8s=",
+   "clue": "ज्यावर लिहितात तो"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 8,
+   "x": "jceIBM3U3Q==",
+   "clue": "गाण्याचा वेग"
+  }
+ ]
+}

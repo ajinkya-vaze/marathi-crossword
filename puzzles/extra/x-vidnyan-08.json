@@ -1,0 +1,177 @@
+{
+ "id": "x-vidnyan-08",
+ "title": "विज्ञान आणि अवकाश ८",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 12,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 10,
+   "x": "jceCmIn0FYTK7h2OiZNEjcev",
+   "clue": "कॉम्प्युटर"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcedmIj7icDemcTvUdCc2A==",
+   "clue": "पृथ्वीचे उत्तर किंवा दक्षिण टोक"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 10,
+   "x": "jcetBM3SzYTL+Q==",
+   "clue": "वेग"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceQBM3S2YTL9IHKgtCc0x/a3JgKicDeBYHKjg==",
+   "clue": "आपल्या भोवतालचा निसर्ग"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "x": "jceQBM3S2YTKxx2OiYVEjceKmIj7icDKBYHKhQ==",
+   "clue": "प्रकाश परत फिरणे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "x": "jcePmInJFYTKzoHLrEzYydZGmInDicHtBYHKidCd4IOe3A==",
+   "clue": "पृथ्वीच्या मध्यातून जाणारी रेषा"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmIn0FYTKz4HLpkzYycRGmIne",
+   "clue": "नवीन शोध घेणे"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 3,
+   "x": "jceCmIn0FYTK7IHLqkzYycdGmInOicHjmcXLUdCc3g==",
+   "clue": "वेबसाइट"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 5,
+   "x": "jcedBM3SwRiO3cWOiL3YydNGmInZicHlBYHKi0zYydXa3a0=",
+   "clue": "धनाची पूजा करणारा दिवाळीचा दिवस"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 9,
+   "x": "jcezmIn0FYTK4x2OiblEjcebmIj2",
+   "clue": "बार ओलांडून उडी"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 1,
+   "x": "jceemInIFYTK0x2OiZ7Yyd1GmIne",
+   "clue": "किती गरम किंवा थंड"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 11,
+   "x": "jce8BM3S24TKxx2OiZo=",
+   "clue": "राग उलगडणारे संथ गायन"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 1,
+   "x": "jceQBM3S2YTKxx2OiZQ=",
+   "clue": "पीठ मळण्याचे मोठे ताट"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 8,
+   "x": "jceWBM3SyITL+R2OiYbYyORGmInc",
+   "clue": "जेवणानंतर खायची सुगंधी"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 8,
+   "x": "jceWBM3S2w==",
+   "clue": "ढकलणे किंवा ओढणे"
+  },
+  {
+   "dir": "down",
+   "row": 9,
+   "col": 10,
+   "x": "jceMmIjxFYTKzB2OiafYyd0=",
+   "clue": "लांब शेंगांचे झाड; ड्रमस्टिक"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jceiBM3SwRiO3coSzZSL",
+   "clue": "किती जागा व्यापली"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jceiBM3S2YTKxx2OiZPYyOQ=",
+   "clue": "शास्त्रीय संगीताची परंपरा"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 5,
+   "x": "jcecBM3S2xiO3ccSzZSK",
+   "clue": "ओली पाय रुतणारी जमीन"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 7,
+   "x": "jcecBM3S/ITL9IHKmtCc0h/a3I4=",
+   "clue": "उत्तरेच्या उलट दिशा"
+  },
+  {
+   "dir": "across",
+   "row": 11,
+   "col": 4,
+   "x": "jceQmIjxFYTKz4HLrQ==",
+   "clue": "सजीवांचे सर्वात लहान एकक"
+  },
+  {
+   "dir": "down",
+   "row": 11,
+   "col": 4,
+   "x": "jceQmIjxFYTKyYHLrw==",
+   "clue": "अनेक बिया असलेले हिरवे फळ"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 3,
+   "x": "jcetmIj3FYTKyYHLrw==",
+   "clue": "सर्वात मोठा ग्रह"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 6,
+   "x": "jceQmIj7icDemcXQUdCczh/a3JiWzdoSmcXBzZW6",
+   "clue": "श्वासात घ्यायचा वायू"
+  }
+ ]
+}

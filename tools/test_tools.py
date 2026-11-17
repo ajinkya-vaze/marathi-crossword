@@ -103,7 +103,7 @@ class OfflineTests(unittest.TestCase):
         sw = (ROOT / "sw.js").read_text(encoding="utf-8")
         shell = set(re.findall(r"^  '([^']+)',$", re.search(r"const SHELL = \[(.*?)\];", sw, re.S).group(1), re.M))
         expected = {str(p.relative_to(ROOT)) for pattern in ("js/*.js", "css/*.css", "icons/*.png") for p in ROOT.glob(pattern)}
-        expected |= {"index.html", "manifest.webmanifest", "puzzles/index.json", "./"}
+        expected |= {"index.html", "manifest.webmanifest", "puzzles/index.json", "puzzles/extra/index.json", "./"}
         self.assertEqual(sorted(expected - shell), [], "missing from SHELL")
         self.assertEqual(sorted(p for p in shell - expected if not (ROOT / p).exists() and p != "./"), [], "SHELL lists files that don't exist")
 

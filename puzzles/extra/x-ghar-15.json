@@ -1,0 +1,177 @@
+{
+ "id": "x-ghar-15",
+ "title": "घर आणि कुटुंब १५",
+ "difficulty": "मध्यम",
+ "rows": 13,
+ "cols": 11,
+ "entries": [
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 9,
+   "x": "jceCmIjlFIHWhw==",
+   "clue": "धान्य पाखडण्याचे बांबूचे साधन"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "x": "jceUmIjmFIHWndGR7x/a3IGHzN8=",
+   "clue": "साखरेत मुरवलेले फळ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 8,
+   "x": "jcevmInZFIHWh03VycI=",
+   "clue": "वस्त्र"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 8,
+   "x": "jcevmInZFIHWjNGQ6h/a3IeHzeYOzZWqjca6",
+   "clue": "आगपेटी"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 6,
+   "x": "jceXmInZFIHWmNGR7x/a3IyHzeY=",
+   "clue": "भाऊ-बहिणी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "x": "jceWmInZFIHWgdGR0w==",
+   "clue": "वडील"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 5,
+   "x": "jceWmInZFIHWgk3Vyfba3aY=",
+   "clue": "पत्नी"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 8,
+   "x": "jceQmIjgFIHWn9GR0w==",
+   "clue": "पाणी पिण्याचे भांडे"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 7,
+   "x": "jcePmInZFIHWstGQ7Q==",
+   "clue": "आमटी वाढण्याचे लहान भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "x": "jcePmInZFIHWjNGR0w==",
+   "clue": "जुने मोठे चौसोपी घर"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "x": "jcevmIjsFIHWhdGR0x/a3IyHzN8=",
+   "clue": "भिंतीतला दिवा ठेवण्याचा खाचा"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "x": "jceSmInZFIHWidGQ6h/a3JiHzN8OzZW9EYOe7Q==",
+   "clue": "आप्तस्वकीय; सगेसोयरे"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 9,
+   "x": "jceUmIjmiMXwUdGRzIOexlGHzNQOzZWGjca3mInIiMXM",
+   "clue": "नवरा-नवरीच्या कपाळावर बांधतात त्या माळा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 1,
+   "x": "jceUmInYFIHWidGQ4IOeyA==",
+   "clue": "सखा"
+  },
+  {
+   "dir": "down",
+   "row": 6,
+   "col": 4,
+   "x": "jcevBM3D3R2Sias=",
+   "clue": "युद्धातील अंगरक्षक पोशाख"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "x": "jceVmInlFIHWidGQ4IOeyFGHzM+SiY9JjceSBM3D3Q==",
+   "clue": "रोबोट"
+  },
+  {
+   "dir": "down",
+   "row": 7,
+   "col": 2,
+   "x": "jceUmInZFIHWsU3VyftGmInX",
+   "clue": "जुन्या घरातील मधली खोली"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 6,
+   "x": "jcePmInZFIHWj03VycXa3JIbiMXHUdGR1Q==",
+   "clue": "जन्मदिवस साजरा करणे"
+  },
+  {
+   "dir": "across",
+   "row": 8,
+   "col": 4,
+   "x": "jcegBM3D9x2Sibk=",
+   "clue": "जमिनीवर अंथरण्याची"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 2,
+   "x": "jceiBM3DyYHXrQ==",
+   "clue": "कपड्याची व्यवस्थित दुमड"
+  },
+  {
+   "dir": "across",
+   "row": 9,
+   "col": 6,
+   "x": "jcevBM3DyYHXrQ==",
+   "clue": "दार बंद करण्याची लोखंडी साखळी"
+  },
+  {
+   "dir": "across",
+   "row": 10,
+   "col": 0,
+   "x": "jcevmIjmFIHWuE3VydM=",
+   "clue": "शिट्टी वाजवणारे भांडे"
+  },
+  {
+   "dir": "down",
+   "row": 10,
+   "col": 0,
+   "x": "jcevmIjmFIHWstGQ7IOe+lGHzM0=",
+   "clue": "परिवार"
+  },
+  {
+   "dir": "across",
+   "row": 12,
+   "col": 0,
+   "x": "jceWBM3D2B2SiZLVyOM=",
+   "clue": "लोणचे ठेवण्याची चिनीमातीची भांडी"
+  }
+ ]
+}
